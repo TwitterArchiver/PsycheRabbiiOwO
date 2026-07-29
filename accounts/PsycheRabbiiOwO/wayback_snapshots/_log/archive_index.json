@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-29T13:47:34",
+  "last_updated": "2026-07-29T13:49:35",
   "html": {
     "https://web.archive.org/web/20250829130516if_/https://twitter.com/PsycheRabbiiOwO/status/1961414849344278589": {
       "status": "done",
@@ -25541,27 +25541,27 @@
       "referenced_by": [
         "20250917045732_twitter_com_PsycheRabbiiOwO_status_1968177479375548849.json"
       ],
-      "last_updated": "2026-07-29T12:59:41",
+      "last_updated": "2026-07-29T13:49:02",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250917045732/https://video.twimg.com/amplify_video/1958039366388822016/vid/avc1/640x360/XOJXPGRz-cjPVwXk.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/1958039366393036800/vid/avc1/1280x720/uvhTSqPn7M7-Y08o.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250917045732_twitter_com_PsycheRabbiiOwO_status_1968177479375548849.json"
       ],
-      "last_updated": "2026-07-29T12:59:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250917045732/https://video.twimg.com/amplify_video/1958039366393036800/vid/avc1/1280x720/uvhTSqPn7M7-Y08o.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1472d8dbe0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T13:49:03",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250917045732/https://video.twimg.com/amplify_video/1958039366393036800/vid/avc1/1280x720/uvhTSqPn7M7-Y08o.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1958039366321795072/vid/avc1/640x352/pC9C1u_mxuR8VyrS.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250917045732_twitter_com_PsycheRabbiiOwO_status_1968177479375548849.json"
       ],
-      "last_updated": "2026-07-29T12:59:56",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250917045732if_/https://video.twimg.com/amplify_video/1958039366321795072/vid/avc1/640x352/pC9C1u_mxuR8VyrS.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1472d280b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T13:49:05",
+      "last_reason": "HTTPError: 403 Client Error: Forbidden for url: https://web.archive.org/web/20251010082442/https://video.twimg.com/amplify_video/1958039366321795072/vid/avc1/640x352/pC9C1u_mxuR8VyrS.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1968261449463271424/pu/vid/avc1/720x1280/HwB6GG4zlJaifYv2.mp4?tag=12": {
       "status": "done",
@@ -25575,9 +25575,9 @@
       "referenced_by": [
         "20251111063113_twitter_com_PsycheRabbiiOwO_status_1988132388803850435.json"
       ],
-      "last_updated": "2026-07-29T13:00:01",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251111063113im_/https://video.twimg.com/ext_tw_video/1988101312026996737/pu/vid/avc1/582x1278/akKHj11bJqCErIvL.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1472d8f470>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T13:49:10",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251111063113im_/https://video.twimg.com/ext_tw_video/1988101312026996737/pu/vid/avc1/582x1278/akKHj11bJqCErIvL.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fae352761e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/G5iufscaEAAMrVq.mp4": {
       "status": "done",
@@ -25591,18 +25591,18 @@
       "referenced_by": [
         "20251123073025_twitter_com_PsycheRabbiiOwO_status_1992495939681210523.json"
       ],
-      "last_updated": "2026-07-29T13:00:05",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251123073025im_/https://video.twimg.com/ext_tw_video/1992473348236824576/pu/vid/avc1/1080x1920/D5ZF8J3zpG5_yQKq.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1472d8e900>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T13:49:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251123073025im_/https://video.twimg.com/ext_tw_video/1992473348236824576/pu/vid/avc1/1080x1920/D5ZF8J3zpG5_yQKq.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fae35214980>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1992651007730536449/vid/avc1/1280x720/-_UkRS6X9KQ15eFW.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251124023708_twitter_com_PsycheRabbiiOwO_status_1992784520991617350.json"
       ],
-      "last_updated": "2026-07-29T13:00:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251124023708im_/https://video.twimg.com/amplify_video/1992651007730536449/vid/avc1/1280x720/-_UkRS6X9KQ15eFW.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1472d29a00>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T13:49:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251124023708im_/https://video.twimg.com/amplify_video/1992651007730536449/vid/avc1/1280x720/-_UkRS6X9KQ15eFW.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fae35214a70>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1991699712249040896/vid/avc1/720x1280/7_Aq3buYCGOEuyt5.mp4?tag=14": {
       "status": "done",
@@ -25654,13 +25654,13 @@
       "last_updated": "2026-07-29T12:59:36"
     },
     "https://video.twimg.com/ext_tw_video/1998067942563676161/pu/vid/avc1/720x838/wPyTWgwsh1zicFL9.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20251208163854_twitter_com_PsycheRabbiiOwO_status_1998069789349335383.json"
       ],
-      "last_updated": "2026-07-29T12:59:41",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251208163854/https://video.twimg.com/ext_tw_video/1998067942563676161/pu/vid/avc1/720x838/wPyTWgwsh1zicFL9.mp4?tag=12",
-      "miss_count": 2
+      "last_updated": "2026-07-29T13:49:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251208163854im_/https://video.twimg.com/ext_tw_video/1998067942563676161/pu/vid/avc1/720x838/wPyTWgwsh1zicFL9.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fae3522c620>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/1933743559724679169/pu/vid/avc1/1280x720/zmXrYBtnHAlgvfV2.mp4?tag=12": {
       "status": "done",
@@ -25804,13 +25804,13 @@
       "last_updated": "2026-07-29T12:59:36"
     },
     "https://video.twimg.com/amplify_video/2034230413703659520/vid/avc1/720x1280/6Po_P9PdW3n5C4AL.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260318114451_twitter_com_PsycheRabbiiOwO_status_2034234572603642157.json"
       ],
-      "last_updated": "2026-07-29T12:59:41",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260318114451/https://video.twimg.com/amplify_video/2034230413703659520/vid/avc1/720x1280/6Po_P9PdW3n5C4AL.mp4",
-      "miss_count": 2
+      "last_updated": "2026-07-29T13:49:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260318114451im_/https://video.twimg.com/amplify_video/2034230413703659520/vid/avc1/720x1280/6Po_P9PdW3n5C4AL.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fae35277260>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2034465890453032960/vid/avc1/720x1280/dje3qQzUwwCG8S8G.mp4": {
       "status": "done",
@@ -25888,9 +25888,9 @@
       "referenced_by": [
         "20260423142510_twitter_com_PsycheRabbiiOwO_status_2047320882113286463.json"
       ],
-      "last_updated": "2026-07-29T13:00:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423142510im_/https://video.twimg.com/tweet_video/HGlkEhBb0AAf1wm.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1472d2a930>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T13:49:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423142510im_/https://video.twimg.com/tweet_video/HGlkEhBb0AAf1wm.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fae35214770>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2047315516365451264/vid/avc1/576x528/Z3gMUOGi3yTyH9sB.mp4?tag=25": {
       "status": "done",
@@ -25991,13 +25991,13 @@
       "last_updated": "2026-07-29T09:24:55"
     },
     "https://video.twimg.com/ext_tw_video/2071431003663745024/pu/vid/avc1/576x1280/1ITtZgLUNzAX66sU.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260629035433_twitter_com_PsycheRabbiiOwO_status_2071442169043591475.json"
       ],
-      "last_updated": "2026-07-29T12:59:41",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260629035433/https://video.twimg.com/ext_tw_video/2071431003663745024/pu/vid/avc1/576x1280/1ITtZgLUNzAX66sU.mp4",
-      "miss_count": 2
+      "last_updated": "2026-07-29T13:49:35",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260629035433im_/https://video.twimg.com/ext_tw_video/2071431003663745024/pu/vid/avc1/576x1280/1ITtZgLUNzAX66sU.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fae352164b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2076697037870182401/vid/avc1/720x1280/TiGK-R2_vRIXzI_k.mp4": {
       "status": "done",
@@ -51267,7 +51267,7 @@
       "miss_count": 2
     },
     "20251208163854_twitter_com_PsycheRabbiiOwO_status_1998069789349335383.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -51278,7 +51278,7 @@
           "https://pbs.twimg.com/profile_images/1996563611385528320/LrKuzEL8_normal.png"
         ]
       },
-      "last_updated": "2026-07-29T13:01:54",
+      "last_updated": "2026-07-29T13:49:22",
       "miss_count": 2
     },
     "20251208171457_twitter_com_PsycheRabbiiOwO_status_1998078860978696250.json": {
@@ -60474,7 +60474,7 @@
       "miss_count": 2
     },
     "20260318114451_twitter_com_PsycheRabbiiOwO_status_2034234572603642157.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -60485,7 +60485,7 @@
           "https://pbs.twimg.com/profile_images/2028475977618300929/fVlcqp7m_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-29T13:02:11",
+      "last_updated": "2026-07-29T13:49:27",
       "miss_count": 2
     },
     "20260318115623_twitter_com_PsycheRabbiiOwO_status_2034237475925958844.json": {
@@ -79419,7 +79419,7 @@
       "last_updated": "2026-07-29T09:27:04"
     },
     "20260629035433_twitter_com_PsycheRabbiiOwO_status_2071442169043591475.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -79430,7 +79430,7 @@
           "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-29T12:59:41",
+      "last_updated": "2026-07-29T13:49:35",
       "miss_count": 1
     },
     "20260629060215_twitter_com_PsycheRabbiiOwO_status_2071474306035708354.json": {
