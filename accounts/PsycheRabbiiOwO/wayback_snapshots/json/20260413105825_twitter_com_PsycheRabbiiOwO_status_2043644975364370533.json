@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043520605216186368"
+      ],
+      "media_source_tweet_id": [
+        "2043520608626225349"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2043644975364370533",
+    "created_at": "2026-04-13T10:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043644975364370533"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 36,
+          "tag": "王洪文迷你比基尼社团"
+        },
+        {
+          "end": 57,
+          "start": 48,
+          "tag": "色人帮都是坏东西"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1251033624222158849",
+          "start": 3,
+          "username": "baozou0121"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tNvAR13Aqn",
+          "end": 81,
+          "expanded_url": "https://x.com/baozou0121/status/2043520608626225349/photo/1",
+          "media_key": "3_2043520605216186368",
+          "start": 58,
+          "url": "https://t.co/tNvAR13Aqn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043644975364370533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043520608626225349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baozou0121: 不能输给右派大哥们，左派也十分SEXY\n#王洪文迷你比基尼社团\n#色人帮都是坏东西 https://t.co/tNvAR13Aqn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2043520605216186368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwLKdUaIAANUUz.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043520605216186368"
+          ],
+          "media_source_tweet_id": [
+            "2043520608626225349"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2043644975364370533",
+        "created_at": "2026-04-13T10:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043644975364370533"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 36,
+              "tag": "王洪文迷你比基尼社团"
+            },
+            {
+              "end": 57,
+              "start": 48,
+              "tag": "色人帮都是坏东西"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1251033624222158849",
+              "start": 3,
+              "username": "baozou0121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNvAR13Aqn",
+              "end": 81,
+              "expanded_url": "https://x.com/baozou0121/status/2043520608626225349/photo/1",
+              "media_key": "3_2043520605216186368",
+              "start": 58,
+              "url": "https://t.co/tNvAR13Aqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043644975364370533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043520608626225349",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baozou0121: 不能输给右派大哥们，左派也十分SEXY\n#王洪文迷你比基尼社团\n#色人帮都是坏东西 https://t.co/tNvAR13Aqn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043520605216186368"
+          ]
+        },
+        "author_id": "1251033624222158849",
+        "conversation_id": "2043520608626225349",
+        "created_at": "2026-04-13T02:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T03:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043520608626225349"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 20,
+              "tag": "王洪文迷你比基尼社团"
+            },
+            {
+              "end": 41,
+              "start": 32,
+              "tag": "色人帮都是坏东西"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNvAR13Aqn",
+              "end": 65,
+              "expanded_url": "https://x.com/baozou0121/status/2043520608626225349/photo/1",
+              "media_key": "3_2043520605216186368",
+              "start": 42,
+              "url": "https://t.co/tNvAR13Aqn"
+            },
+            {
+              "display_url": "x.com/shizen_writing…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/shizen_writing/status/2043162251633582149",
+              "start": 66,
+              "url": "https://t.co/WSNxUGkMxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043520608626225349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 8650,
+          "like_count": 181,
+          "quote_count": 15,
+          "reply_count": 41,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043162251633582149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不能输给右派大哥们，左派也十分SEXY\n#王洪文迷你比基尼社团\n#色人帮都是坏东西 https://t.co/tNvAR13Aqn https://t.co/WSNxUGkMxy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 1256,
+          "like_count": 7893,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 1876
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-17T06:24:04.000Z",
+        "description": "今天也用力踩下油门🩵 #王洪文迷你比基尼社团\n🚫请勿转载🚫请勿在我的评论区发歧视性言论、政治宣传、骚扰、吵架。违反了就给你看排泄癖好小说\n不看私信",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 11,
+                "tag": "王洪文迷你比基尼社团"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1159370376",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1159370376",
+                "start": 0,
+                "url": "https://t.co/2z547YWi9M"
+              }
+            ]
+          }
+        },
+        "id": "1251033624222158849",
+        "location": "🇯🇵",
+        "name": "暴走半島",
+        "pinned_tweet_id": "1731493071790232033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1474259239279665156/KN7ImQ0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23238,
+          "following_count": 459,
+          "like_count": 74160,
+          "listed_count": 50,
+          "media_count": 1434,
+          "tweet_count": 9279
+        },
+        "url": "https://t.co/2z547YWi9M",
+        "username": "baozou0121",
+        "verified": true
+      }
+    ]
+  }
+}

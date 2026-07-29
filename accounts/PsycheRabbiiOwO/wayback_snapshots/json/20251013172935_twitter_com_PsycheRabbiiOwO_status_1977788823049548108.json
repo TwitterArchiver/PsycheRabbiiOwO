@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977788813973102593",
+        "3_1977788813931126784"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1977788823049548108",
+    "created_at": "2025-10-13T17:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T18:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977788823049548108"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kAHLwCICfG",
+          "end": 33,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1977788823049548108/photo/1",
+          "media_key": "3_1977788813973102593",
+          "start": 10,
+          "url": "https://t.co/kAHLwCICfG"
+        },
+        {
+          "display_url": "pic.x.com/kAHLwCICfG",
+          "end": 33,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1977788823049548108/photo/1",
+          "media_key": "3_1977788813931126784",
+          "start": 10,
+          "url": "https://t.co/kAHLwCICfG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977788823049548108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是人类吗？🤯🤯🤯 https://t.co/kAHLwCICfG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977788813973102593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3KEcpGboAEqdx8.jpg",
+        "width": 945
+      },
+      {
+        "height": 1680,
+        "media_key": "3_1977788813931126784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3KEco8bIAAyAIF.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977788813973102593",
+            "3_1977788813931126784"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1977788823049548108",
+        "created_at": "2025-10-13T17:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T18:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977788823049548108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kAHLwCICfG",
+              "end": 33,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1977788823049548108/photo/1",
+              "media_key": "3_1977788813973102593",
+              "start": 10,
+              "url": "https://t.co/kAHLwCICfG"
+            },
+            {
+              "display_url": "pic.x.com/kAHLwCICfG",
+              "end": 33,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1977788823049548108/photo/1",
+              "media_key": "3_1977788813931126784",
+              "start": 10,
+              "url": "https://t.co/kAHLwCICfG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977788823049548108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是人类吗？🤯🤯🤯 https://t.co/kAHLwCICfG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "唉",
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "😇",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 430,
+          "like_count": 460,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 439
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

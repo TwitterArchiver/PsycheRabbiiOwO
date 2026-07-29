@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1994466761601945992",
+    "created_at": "2025-11-28T18:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T19:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994466761601945992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1561626710507810818",
+          "start": 3,
+          "username": "kiri_chan_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994466761601945992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994370794793939325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiri_chan_0: 由于政治问题就迁怒文娱已经很让人无法接受了，一次次把演出叫停让所有人的期待落空，最让人意想不到的是别人还在演出中途就叫停，到底有没有尊重过人、有没有尊重过从各地赶过来的观众和外国艺人？这种纯泄愤式的做法真是让我太恶心了，这段时间收到这么多坏消息…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1994466761601945992",
+        "created_at": "2025-11-28T18:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T19:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994466761601945992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1561626710507810818",
+              "start": 3,
+              "username": "kiri_chan_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994466761601945992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994370794793939325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiri_chan_0: 由于政治问题就迁怒文娱已经很让人无法接受了，一次次把演出叫停让所有人的期待落空，最让人意想不到的是别人还在演出中途就叫停，到底有没有尊重过人、有没有尊重过从各地赶过来的观众和外国艺人？这种纯泄愤式的做法真是让我太恶心了，这段时间收到这么多坏消息…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561626710507810818",
+        "conversation_id": "1994370794793939325",
+        "created_at": "2025-11-28T11:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994370794793939325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994370794793939325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 24511,
+          "like_count": 807,
+          "quote_count": 8,
+          "reply_count": 46,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "由于政治问题就迁怒文娱已经很让人无法接受了，一次次把演出叫停让所有人的期待落空，最让人意想不到的是别人还在演出中途就叫停，到底有没有尊重过人、有没有尊重过从各地赶过来的观众和外国艺人？这种纯泄愤式的做法真是让我太恶心了，这段时间收到这么多坏消息我真的已经到了想生理性呕吐的地步"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/本人很丑别骂我/雷顺直黄蛆，od，反跨（不雷人只雷事，不当面提就好）/这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48ZKhM"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰（🏳️‍⚧️💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 599,
+          "like_count": 1447,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 757
+        },
+        "url": "https://t.co/274M48ZKhM",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-22T08:10:04.000Z",
+        "description": "日本語がまだ不慣れで、失礼があったらごめんなさい🙇",
+        "id": "1561626710507810818",
+        "name": "kiri-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993324839680319488/wOIl3k8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 119,
+          "like_count": 540,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 125
+        },
+        "username": "kiri_chan_0",
+        "verified": false
+      }
+    ]
+  }
+}

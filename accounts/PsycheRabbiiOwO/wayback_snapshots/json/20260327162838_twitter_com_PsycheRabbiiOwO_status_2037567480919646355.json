@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2037567480919646355",
+    "created_at": "2026-03-27T16:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T17:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037567480919646355"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ddaquaforever/…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/ddaquaforever/status/2037514662854693368",
+          "start": 65,
+          "url": "https://t.co/sNZby6tByB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037567480919646355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037514662854693368",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥺我高中那会自己试出来的\n\n难过了就去小卖部，买瓶1.5L的水\n然后使劲灌，直到第一次尿尿\n\n就算不是缺水，尿尿本身也能缓解压力 https://t.co/sNZby6tByB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2037514584559628288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEa0uC1asAAUYN_.png",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2037567480919646355",
+        "created_at": "2026-03-27T16:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T17:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037567480919646355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ddaquaforever/…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/ddaquaforever/status/2037514662854693368",
+              "start": 65,
+              "url": "https://t.co/sNZby6tByB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037567480919646355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037514662854693368",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥺我高中那会自己试出来的\n\n难过了就去小卖部，买瓶1.5L的水\n然后使劲灌，直到第一次尿尿\n\n就算不是缺水，尿尿本身也能缓解压力 https://t.co/sNZby6tByB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037514584559628288"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2037514662854693368",
+        "created_at": "2026-03-27T12:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037514662854693368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AA1NBncuNW",
+              "end": 151,
+              "expanded_url": "https://x.com/DDaquaforever/status/2037514662854693368/photo/1",
+              "media_key": "3_2037514584559628288",
+              "start": 128,
+              "url": "https://t.co/AA1NBncuNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037514662854693368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "说一个奇妙豆知识……\n紧急项目or重大事件，压力特别大、暴躁、焦虑；但却偏偏启动性极差、极难开工\n如果面临这种情况，第一时间先确认自己是不是缺水……或者干脆就直接喝一大杯温水\n有条件的给自己喝出水循环（就是喝了一杯半小时左右就得去上个厕所，尿淡色的程度）\n会发现情况有极大好转，甚至立竿见影，无论情绪还是启动性都是这样\n（而且adhd谱系往往效果奇佳）\n其实往更广泛说，无论什么情绪问题先喝杯水都能有缓解效果来着，只是没这么立竿见影\n反过来说水喝够的人通常情绪也会更稳定，启动性更好\n（再反过来说越焦虑痛苦悲伤处于情绪问题的人往往就会越忽略喝水，甚至长期处于微脱水状态，陷入死循环）\n人类、很神奇吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 7360,
+          "like_count": 151,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "说一个奇妙豆知识……\n紧急项目or重大事件，压力特别大、暴躁、焦虑；但却偏偏启动性极差、极难开工\n如果面临这种情况，第一时间先确认自己是不是缺水……或者干脆就直接喝一大杯温水\n有条件的给自己喝出水循环（就是喝了一杯半小时左右就得去上个厕所，尿淡色的程度） https://t.co/AA1NBncuNW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/8964准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "rabbii_third"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月（🍥•﹃•🍥）8964",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032672138176704512/fwd2tlZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 1111,
+          "like_count": 5976,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 1600
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4107,
+          "following_count": 4585,
+          "like_count": 7781,
+          "listed_count": 12,
+          "media_count": 2733,
+          "tweet_count": 12763
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

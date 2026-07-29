@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1990434762133999896",
+    "created_at": "2025-11-17T17:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T18:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990475683005673871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1982386432573591552",
+          "start": 0,
+          "username": "XynNanaNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990475683005673871",
+    "in_reply_to_user_id": "1982386432573591552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990434762133999896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XynNanaNya 医生：龟头上有蘑菇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_1990433641026211840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59w2cpa0AAeMgJ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1990434762133999896",
+        "created_at": "2025-11-17T17:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T18:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990475683005673871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1982386432573591552",
+              "start": 0,
+              "username": "XynNanaNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990475683005673871",
+        "in_reply_to_user_id": "1982386432573591552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990434762133999896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XynNanaNya 医生：龟头上有蘑菇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990433641026211840"
+          ]
+        },
+        "author_id": "1982386432573591552",
+        "conversation_id": "1990434762133999896",
+        "created_at": "2025-11-17T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990434762133999896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NYGkz4h4QB",
+              "end": 31,
+              "expanded_url": "https://x.com/XynNanaNya/status/1990434762133999896/photo/1",
+              "media_key": "3_1990433641026211840",
+              "start": 8,
+              "url": "https://t.co/NYGkz4h4QB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990434762133999896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是用袜子☺️ https://t.co/NYGkz4h4QB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/165cm 52kg 本人很丑别骂我/这里这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 510,
+          "like_count": 963,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 622
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T09:59:12.000Z",
+        "description": "糖龄52周的小药娘喵 // 持续深柜 // 梦想是大学之前改完证(渺茫) // 可以来找我聊天喵，我很好玩的！//  是小m,是受 // 最烦人的姐姐@DianaAnya0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "DianaAnya0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "baidu.com",
+                "end": 23,
+                "expanded_url": "http://www.baidu.com",
+                "start": 0,
+                "url": "https://t.co/PSF3RltJL2"
+              }
+            ]
+          }
+        },
+        "id": "1982386432573591552",
+        "location": "Liaoning",
+        "name": "小药娘娜娜喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982389329491058688/zpusvaNC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 25,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/PSF3RltJL2",
+        "username": "XynNanaNya",
+        "verified": true
+      }
+    ]
+  }
+}

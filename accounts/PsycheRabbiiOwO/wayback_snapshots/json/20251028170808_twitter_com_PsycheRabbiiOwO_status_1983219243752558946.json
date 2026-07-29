@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1983212255698092515",
+    "created_at": "2025-10-28T17:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T18:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983219243752558946"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983219243752558946",
+    "in_reply_to_user_id": "1768935696646238208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983217187813810413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "像是被关在笼里的鸟儿\n想冲出铁笼往外飞\n索性干脆表演成主人希望的样子\n换取更多的食物和水\n以变得强壮\n\n时机未到\n却急不可耐\n冲破囚笼\n不料折断翅膀\n踉跄爬出窗外\n眼前是一片废墟\n\n本以为有了住所\n回头一看\n是望远镜的镜片反光\n像是在说\n”我们还能看到你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1983212255698092515",
+        "created_at": "2025-10-28T17:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T18:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983219243752558946"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983219243752558946",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983217187813810413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像是被关在笼里的鸟儿\n想冲出铁笼往外飞\n索性干脆表演成主人希望的样子\n换取更多的食物和水\n以变得强壮\n\n时机未到\n却急不可耐\n冲破囚笼\n不料折断翅膀\n踉跄爬出窗外\n眼前是一片废墟\n\n本以为有了住所\n回头一看\n是望远镜的镜片反光\n像是在说\n”我们还能看到你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1983212255698092515",
+        "created_at": "2025-10-28T16:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T17:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983217187813810413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983217187813810413",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983215314306285687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“你多把他带出去玩玩”\n“你们最近有没有聊什么”\n“你们有没有一起打游戏”\n“你知不知道他最近在干嘛”\n\n这是我偷听到的对话\n我和那些亲戚关系的本质\n\n真的很恶心很恶心\n\n唉，我知道父母他们想了解我\n我也跟他们沟通过很多很多了\n作为一个个体能表达的也就这么多\n但是他们还想要更多\n\n那，就是监视和控制了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "明天。",
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🐰凌月月（互关版）",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 440,
+          "like_count": 506,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 499
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

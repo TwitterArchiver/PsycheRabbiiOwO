@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2044735514608320835",
+    "created_at": "2026-04-16T11:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T12:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044746066516729889"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044746066516729889",
+    "in_reply_to_user_id": "1768935696646238208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044735514608320835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得我儿子的问题比你儿子严重多了，可能是单亲家庭的缘故，现在我真的很担心。我在他初中就发现我儿子时不时趁我不在家偷穿我的蕾丝丝袜和性感内衣裤，甚至有时候还穿着女装在家里跳舞。现在我都不知道该怎么办，有时候真的怀疑是不是我这个做爸爸的没有尽到责任。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2044735507993915392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBcHG2a8AAoM8c.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2044735514608320835",
+        "created_at": "2026-04-16T11:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044746066516729889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044746066516729889",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044735514608320835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得我儿子的问题比你儿子严重多了，可能是单亲家庭的缘故，现在我真的很担心。我在他初中就发现我儿子时不时趁我不在家偷穿我的蕾丝丝袜和性感内衣裤，甚至有时候还穿着女装在家里跳舞。现在我都不知道该怎么办，有时候真的怀疑是不是我这个做爸爸的没有尽到责任。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044735507993915392"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2044735514608320835",
+        "created_at": "2026-04-16T11:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044735514608320835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPwvSOYRAB",
+              "end": 43,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2044735514608320835/photo/1",
+              "media_key": "3_2044735507993915392",
+              "start": 20,
+              "url": "https://t.co/uPwvSOYRAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044735514608320835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "科普完发现孩子开始打雌激素了\n😂😂😂😂 https://t.co/uPwvSOYRAB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 1273,
+          "like_count": 8234,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 1935
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

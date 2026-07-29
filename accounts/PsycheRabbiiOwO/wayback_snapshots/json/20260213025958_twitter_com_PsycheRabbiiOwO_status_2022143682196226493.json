@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2021626066704777507",
+    "created_at": "2026-02-13T02:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T03:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022143682196226493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1947618624945983488",
+          "start": 0,
+          "username": "tonghua_me"
+        },
+        {
+          "end": 25,
+          "id": "1986828541930119168",
+          "start": 12,
+          "username": "shigure07288"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20022…",
+          "end": 49,
+          "expanded_url": "http://x.com/i/status/2002244420347789801",
+          "start": 26,
+          "url": "https://t.co/dManC3TC7G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022143682196226493",
+    "in_reply_to_user_id": "1947618624945983488",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002244420347789801",
+        "type": "quoted"
+      },
+      {
+        "id": "2021628817870315653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tonghua_me @shigure07288 https://t.co/dManC3TC7G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1442,
+        "media_key": "3_2002244411862953984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8lmryqaMAAyHRO.jpg",
+        "width": 802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2021626066704777507",
+        "created_at": "2026-02-13T02:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022143682196226493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1947618624945983488",
+              "start": 0,
+              "username": "tonghua_me"
+            },
+            {
+              "end": 25,
+              "id": "1986828541930119168",
+              "start": 12,
+              "username": "shigure07288"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20022…",
+              "end": 49,
+              "expanded_url": "http://x.com/i/status/2002244420347789801",
+              "start": 26,
+              "url": "https://t.co/dManC3TC7G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022143682196226493",
+        "in_reply_to_user_id": "1947618624945983488",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002244420347789801",
+            "type": "quoted"
+          },
+          {
+            "id": "2021628817870315653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tonghua_me @shigure07288 https://t.co/dManC3TC7G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002244411862953984"
+          ]
+        },
+        "author_id": "1947618624945983488",
+        "conversation_id": "2002244420347789801",
+        "created_at": "2025-12-20T05:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T06:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002244420347789801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JrUyR7qC4a",
+              "end": 30,
+              "expanded_url": "https://x.com/tonghua_me/status/2002244420347789801/photo/1",
+              "media_key": "3_2002244411862953984",
+              "start": 7,
+              "url": "https://t.co/JrUyR7qC4a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002244420347789801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1171,
+          "like_count": 14,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真不是男娘 https://t.co/JrUyR7qC4a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947618624945983488",
+        "conversation_id": "2021626066704777507",
+        "created_at": "2026-02-11T16:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T17:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021628817870315653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986828541930119168",
+              "start": 0,
+              "username": "shigure07288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021628817870315653",
+        "in_reply_to_user_id": "1986828541930119168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13350,
+          "like_count": 11,
+          "quote_count": 10,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021626066704777507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigure07288 你们这些白左真是一丘之貉 lgbt 卖淫合法 od娱乐药物自由  妄图站在道德至高地\n现实是你不仅没有站在道德至高地 甚至唯心的认为自己绝对正确  以后大家想起共产党 只会想起“那是个支持lgbt才能拿几张选票的废物党 支持吸毒 让家人去卖淫的”你们就是罪魁祸首"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 936,
+          "like_count": 3774,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 1308
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T11:24:11.000Z",
+        "description": "左派 托洛茨基主义者 支持托洛茨基的党内民主与半平台化 不是男娘 是猛男。反建制 反极端目田 反分离主义 反极端民族 理中客 不支持lgbt",
+        "id": "1947618624945983488",
+        "location": "距离你114514km",
+        "name": "童话",
+        "pinned_tweet_id": "2021628817870315653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010981148667838464/Rd34cbb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 97,
+          "like_count": 205,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 1394
+        },
+        "username": "tonghua_me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“于是我们高呼道：革命死了，革命万岁！”\n📕🌈|INTP-A|毛主义|左翼共产主义|民主社会主义|左翼民粹主义|反资本主义|平权主义|反激进女权|友跨",
+        "id": "1986828541930119168",
+        "name": "時雨☭🚩🏴‍☠️🇵🇸🇺🇦🇻🇪🏳️‍🌈",
+        "pinned_tweet_id": "2004470065887117362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872933650059266/LBQYDyhU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 511,
+          "like_count": 1738,
+          "listed_count": 6,
+          "media_count": 198,
+          "tweet_count": 2396
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

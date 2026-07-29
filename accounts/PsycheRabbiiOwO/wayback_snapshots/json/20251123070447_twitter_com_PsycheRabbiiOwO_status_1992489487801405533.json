@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1992439496646992073",
+    "created_at": "2025-11-23T07:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T08:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992489487801405533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "sprLumi"
+        },
+        {
+          "end": 17,
+          "id": "613074635",
+          "start": 9,
+          "username": "iTZQing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992489487801405533",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992445161960567009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sprLumi @iTZQing 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1992439496646992073",
+        "created_at": "2025-11-23T07:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T08:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992489487801405533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "sprLumi"
+            },
+            {
+              "end": 17,
+              "id": "613074635",
+              "start": 9,
+              "username": "iTZQing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992489487801405533",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992445161960567009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sprLumi @iTZQing 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "1992439496646992073",
+        "created_at": "2025-11-23T04:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992445161960567009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "613074635",
+              "start": 0,
+              "username": "iTZQing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992445161960567009",
+        "in_reply_to_user_id": "613074635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2481,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992442539878838380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iTZQing 毕竟被我按在讲台上操过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/165cm 52kg 本人很丑别骂我/这里这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 529,
+          "like_count": 1145,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 658
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "◇ 𝐴𝑙𝑙 𝑀𝑦 𝐿𝑖𝑓𝑒 ◇ @HobartR6 @_FurryFur_ ◇ 泰补180包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "HobartR6"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🌃",
+        "name": "𝙨𝙥𝙧𝙇𝙪𝙢𝙞💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992462935785136128/2DCOadzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3226,
+          "following_count": 897,
+          "like_count": 1186,
+          "listed_count": 5,
+          "media_count": 39,
+          "tweet_count": 473
+        },
+        "username": "sprLumi",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-20T02:58:20.000Z",
+        "description": "Amamiya Mafuyu, aka {\"Alexei\"}. 5′31″/114lb, 🚪67CNY. 是毛胚房&笨蛋。🎈INFP-T. 🎀Mahō Shōjo. 💙💛Slava. 🍛Curry. 樂晴比我还笨！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gravatar.com/itzqing",
+                "end": 23,
+                "expanded_url": "https://gravatar.com/itzqing",
+                "start": 0,
+                "url": "https://t.co/VFMpbDV4j0"
+              }
+            ]
+          }
+        },
+        "id": "613074635",
+        "location": "ﾄｺﾖﾉｸﾆ",
+        "name": "雨宮 真冬💝",
+        "pinned_tweet_id": "1864699964825456644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988307083893288960/ksvvEx3z_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2522,
+          "following_count": 1098,
+          "like_count": 29124,
+          "listed_count": 13,
+          "media_count": 1806,
+          "tweet_count": 29071
+        },
+        "url": "https://t.co/VFMpbDV4j0",
+        "username": "iTZQing",
+        "verified": false
+      }
+    ]
+  }
+}

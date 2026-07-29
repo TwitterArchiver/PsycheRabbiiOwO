@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2080530441510273470",
+    "created_at": "2026-07-24T17:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080708854221037888"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080708854221037888",
+    "in_reply_to_user_id": "1768935696646238208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080530441510273470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "焯你妈看黄男滚行不行 滞纳🐷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1143,
+        "media_key": "3_2080530433436184576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-HZ_VacAA7nd4.jpg",
+        "width": 939
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2080530441510273470",
+        "created_at": "2026-07-24T17:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080708854221037888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080708854221037888",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080530441510273470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "焯你妈看黄男滚行不行 滞纳🐷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080530433436184576"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2080530441510273470",
+        "created_at": "2026-07-24T05:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080530441510273470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQ5SzjHD7n",
+              "end": 55,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2080530441510273470/photo/1",
+              "media_key": "3_2080530433436184576",
+              "start": 32,
+              "url": "https://t.co/FQ5SzjHD7n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080530441510273470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1156,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有个小群，目前人很少也很冷\n有没有人加小团体玩玩的，眼熟的会过 https://t.co/FQ5SzjHD7n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 1741,
+          "like_count": 20800,
+          "listed_count": 2,
+          "media_count": 344,
+          "tweet_count": 3120
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

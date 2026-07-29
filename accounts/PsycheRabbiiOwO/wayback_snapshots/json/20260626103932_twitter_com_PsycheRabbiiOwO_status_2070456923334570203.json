@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2070455253435326692",
+    "created_at": "2026-06-26T10:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070456923334570203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1035602916378402816",
+          "start": 0,
+          "username": "youlingshijiu"
+        },
+        {
+          "end": 25,
+          "id": "1995266194576961536",
+          "start": 15,
+          "username": "skyseafor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070456923334570203",
+    "in_reply_to_user_id": "1035602916378402816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070456355886936434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youlingshijiu @skyseafor 对呀浙江不是考两次么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2070455253435326692",
+        "created_at": "2026-06-26T10:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070456923334570203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1035602916378402816",
+              "start": 0,
+              "username": "youlingshijiu"
+            },
+            {
+              "end": 25,
+              "id": "1995266194576961536",
+              "start": 15,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070456923334570203",
+        "in_reply_to_user_id": "1035602916378402816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070456355886936434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingshijiu @skyseafor 对呀浙江不是考两次么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1035602916378402816",
+        "conversation_id": "2070455253435326692",
+        "created_at": "2026-06-26T10:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070456355886936434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070456355886936434",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070455253435326692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 那首考的还作数吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 1592,
+          "like_count": 18134,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 2740
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-31T18:59:10.000Z",
+        "description": "日常水帖 ｜05 IC本科｜没钱没项目｜喜欢做莫名其妙的研究｜蓝v会回fo漏了可以评论或者私信都会回的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "uling19.com",
+                "end": 23,
+                "expanded_url": "https://uling19.com",
+                "start": 0,
+                "url": "https://t.co/yDY2Jb2Sjv"
+              }
+            ]
+          }
+        },
+        "id": "1035602916378402816",
+        "location": "有点远",
+        "name": "優伶拾酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489142940333191171/mg3Gp21l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 205,
+          "like_count": 1200,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 2309
+        },
+        "url": "https://t.co/yDY2Jb2Sjv",
+        "username": "youlingshijiu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 198,
+          "like_count": 797,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 543
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

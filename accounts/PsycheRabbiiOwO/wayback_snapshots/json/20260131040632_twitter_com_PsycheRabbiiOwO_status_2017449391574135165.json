@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2017165743755026800",
+    "created_at": "2026-01-31T04:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T05:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017449391574135165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1791459216852750336",
+          "start": 0,
+          "username": "DKBR20041004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017449391574135165",
+    "in_reply_to_user_id": "1791459216852750336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017165743755026800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DKBR20041004 跨女也是女"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2017165730983383040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5pi4BbEAA1v4f.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1487,
+        "media_key": "3_2017165730954018816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5pi36bAAAsaIW.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2017165743755026800",
+        "created_at": "2026-01-31T04:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T05:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017449391574135165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1791459216852750336",
+              "start": 0,
+              "username": "DKBR20041004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017449391574135165",
+        "in_reply_to_user_id": "1791459216852750336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017165743755026800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DKBR20041004 跨女也是女"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017165730983383040",
+            "3_2017165730954018816"
+          ]
+        },
+        "author_id": "1791459216852750336",
+        "conversation_id": "2017165743755026800",
+        "created_at": "2026-01-30T09:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017165743755026800"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "幽默中医",
+              "probability": 0.3301,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E94qyvqIoD",
+              "end": 28,
+              "expanded_url": "https://x.com/DKBR20041004/status/2017165743755026800/photo/1",
+              "media_key": "3_2017165730983383040",
+              "start": 5,
+              "url": "https://t.co/E94qyvqIoD"
+            },
+            {
+              "display_url": "pic.x.com/E94qyvqIoD",
+              "end": 28,
+              "expanded_url": "https://x.com/DKBR20041004/status/2017165743755026800/photo/1",
+              "media_key": "3_2017165730954018816",
+              "start": 5,
+              "url": "https://t.co/E94qyvqIoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017165743755026800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 69996,
+          "like_count": 665,
+          "quote_count": 7,
+          "reply_count": 25,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "幽默中医 https://t.co/E94qyvqIoD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "含🍥做题蛆/长相普通别骂我参考亮点里的照片/备用机@rabbii_third不知道会发些什么呢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 874,
+          "like_count": 3395,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1210
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T13:22:29.000Z",
+        "description": "04年破壳｜不定期更新个人vlog～｜风格多变｜心理超级健康的enfp🤘🤘｜一个认真生活阳光快乐的mtf💅｜喜欢就多点点关注吧💕💕 ｜有问题私信我哦｜有自己的学业事业｜祝你天天开心🥳恋人@xiaoyu_520qvq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 93,
+                "username": "xiaoyu_520qvq"
+              }
+            ]
+          }
+        },
+        "id": "1791459216852750336",
+        "location": "喵星",
+        "name": "哈宝音🏳️‍⚧️",
+        "pinned_tweet_id": "1907705977643925713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868474887217790976/_S-HciPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28367,
+          "following_count": 25,
+          "like_count": 466,
+          "listed_count": 111,
+          "media_count": 174,
+          "tweet_count": 450
+        },
+        "username": "DKBR20041004",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2045422314091901267",
+    "created_at": "2026-04-18T08:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T09:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045422314091901267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2044319134326964224",
+          "start": 3,
+          "username": "XldFxA"
+        },
+        {
+          "end": 32,
+          "id": "1971006655430262784",
+          "start": 17,
+          "username": "FxxkApexLegend"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045422314091901267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045361173110079823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XldFxA: 孩子们我的@fxxkapexlegend 复活了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2045422314091901267",
+        "created_at": "2026-04-18T08:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045422314091901267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2044319134326964224",
+              "start": 3,
+              "username": "XldFxA"
+            },
+            {
+              "end": 32,
+              "id": "1971006655430262784",
+              "start": 17,
+              "username": "FxxkApexLegend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045422314091901267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045361173110079823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XldFxA: 孩子们我的@fxxkapexlegend 复活了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044319134326964224",
+        "conversation_id": "2045361173110079823",
+        "created_at": "2026-04-18T04:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045361173110079823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1971006655430262784",
+              "start": 5,
+              "username": "FxxkApexLegend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045361173110079823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们我的@fxxkapexlegend 复活了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 1282,
+          "like_count": 8457,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 1963
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-15T07:37:25.000Z",
+        "description": "可以叫我伊利亚，更为熟知的名字是翎。\n08 年生人 hrt 2024.4.20\n逃避路径依赖。比较纠结于今天晚上吃什么。\n生理男心理男\n联系方式在小号@XldMtX 欢迎扩列Orz\n对象：@juhao0721 \n转生前账号：@TheSolipsism @FxxkApexLegend @XldMtX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "XldMtX"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "juhao0721"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "TheSolipsism"
+              },
+              {
+                "end": 141,
+                "start": 126,
+                "username": "FxxkApexLegend"
+              },
+              {
+                "end": 149,
+                "start": 142,
+                "username": "XldMtX"
+              }
+            ]
+          }
+        },
+        "id": "2044319134326964224",
+        "location": "kovaak",
+        "name": "ilya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044319211884032000/COXjezdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 121,
+          "like_count": 635,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 138
+        },
+        "username": "XldFxA",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "卧槽我账号解封了孩子们你们想我了吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEbyHV"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "🇲🇴",
+        "name": "🍁🍥翎🍥🍁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045361053450788864/jZx0WFPf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2862,
+          "following_count": 392,
+          "like_count": 7416,
+          "listed_count": 11,
+          "media_count": 598,
+          "tweet_count": 5560
+        },
+        "url": "https://t.co/BKhBrEbyHV",
+        "username": "FxxkApexLegend",
+        "verified": true
+      }
+    ]
+  }
+}

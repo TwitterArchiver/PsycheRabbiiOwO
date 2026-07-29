@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2072570962034483700",
+    "created_at": "2026-07-02T07:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T08:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072580831122784331"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072580831122784331",
+    "in_reply_to_user_id": "1768935696646238208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072570962034483700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "👀完了突然觉得有点可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1768,
+        "media_key": "3_2072570953377423361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNATRfaoAEFKkE.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2072570962034483700",
+        "created_at": "2026-07-02T07:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072580831122784331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072580831122784331",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072570962034483700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "👀完了突然觉得有点可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072570953377423361"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2072570962034483700",
+        "created_at": "2026-07-02T06:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072570962034483700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MXVIRazzRp",
+              "end": 162,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2072570962034483700/photo/1",
+              "media_key": "3_2072570953377423361",
+              "start": 139,
+              "url": "https://t.co/MXVIRazzRp"
+            },
+            {
+              "display_url": "x.com/i8zfl7/status/…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/i8zfl7/status/2072297517472166345",
+              "start": 163,
+              "url": "https://t.co/hV8vlc7O9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072570962034483700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072297517472166345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎呦我去了，刚注册这个号，第一天想认识个不一样的世界来着，结果看到一堆人头像不知道什么东西，背后面有一个不知道什么国家的旗，什么国家旗有粉色。然后这些人又说什么补什么盐，精神状态堪忧。这都是些什么东西啊，还有几个发一大堆药片说再见的，吓人的很。看来是发现了个什么不得了的圈子。 https://t.co/MXVIRazzRp https://t.co/hV8vlc7O9v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 1614,
+          "like_count": 18529,
+          "listed_count": 3,
+          "media_count": 301,
+          "tweet_count": 2808
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

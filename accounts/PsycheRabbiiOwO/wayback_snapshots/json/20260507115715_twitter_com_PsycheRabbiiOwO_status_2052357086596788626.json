@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052012655989370880"
+      ],
+      "media_source_tweet_id": [
+        "2052012663044235627"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2052357086596788626",
+    "created_at": "2026-05-07T11:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052357086596788626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597257668313260033",
+          "start": 3,
+          "username": "Minokakay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s02Mfxu4ug",
+          "end": 67,
+          "expanded_url": "https://x.com/Minokakay/status/2052012663044235627/photo/1",
+          "media_key": "3_2052012655989370880",
+          "start": 44,
+          "url": "https://t.co/s02Mfxu4ug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052357086596788626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052012663044235627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minokakay: 空中浩劫S27E04内容已被演员透露\n是MU5735事故 https://t.co/s02Mfxu4ug"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1370,
+        "media_key": "3_2052012655989370880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHo2o3raMAAV6qI.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052012655989370880"
+          ],
+          "media_source_tweet_id": [
+            "2052012663044235627"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2052357086596788626",
+        "created_at": "2026-05-07T11:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052357086596788626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597257668313260033",
+              "start": 3,
+              "username": "Minokakay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s02Mfxu4ug",
+              "end": 67,
+              "expanded_url": "https://x.com/Minokakay/status/2052012663044235627/photo/1",
+              "media_key": "3_2052012655989370880",
+              "start": 44,
+              "url": "https://t.co/s02Mfxu4ug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052357086596788626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052012663044235627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Minokakay: 空中浩劫S27E04内容已被演员透露\n是MU5735事故 https://t.co/s02Mfxu4ug"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052012655989370880"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2052012663044235627",
+        "created_at": "2026-05-06T13:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052012663044235627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s02Mfxu4ug",
+              "end": 52,
+              "expanded_url": "https://x.com/Minokakay/status/2052012663044235627/photo/1",
+              "media_key": "3_2052012655989370880",
+              "start": 29,
+              "url": "https://t.co/s02Mfxu4ug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052012663044235627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 160424,
+          "like_count": 646,
+          "quote_count": 0,
+          "reply_count": 58,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "空中浩劫S27E04内容已被演员透露\n是MU5735事故 https://t.co/s02Mfxu4ug"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 1452,
+          "like_count": 12633,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 2332
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "发着光的半平米，胡乱哼唱的旋律，\n但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 78,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 55,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14426,
+          "following_count": 1055,
+          "like_count": 44002,
+          "listed_count": 52,
+          "media_count": 1809,
+          "tweet_count": 26062
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

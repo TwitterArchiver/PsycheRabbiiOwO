@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1964674431965675907",
+    "created_at": "2025-09-07T15:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T16:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964712158509646254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1824818634809806848",
+          "start": 0,
+          "username": "hsgmxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964712158509646254",
+    "in_reply_to_user_id": "1824818634809806848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964674431965675907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsgmxz 看看是从哪里来的反胃感，如果胃里来的就多喝牛奶或者水，如果脑子里来的就忍忍，时间长适应就好了。我第一次吃西酞普兰都吐呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1964674431965675907",
+        "created_at": "2025-09-07T15:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T16:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964712158509646254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1824818634809806848",
+              "start": 0,
+              "username": "hsgmxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964712158509646254",
+        "in_reply_to_user_id": "1824818634809806848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964674431965675907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsgmxz 看看是从哪里来的反胃感，如果胃里来的就多喝牛奶或者水，如果脑子里来的就忍忍，时间长适应就好了。我第一次吃西酞普兰都吐呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824818634809806848",
+        "conversation_id": "1964674431965675907",
+        "created_at": "2025-09-07T12:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T13:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964674431965675907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsgmxz/status/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/hsgmxz/status/1964614681672429656",
+              "start": 9,
+              "url": "https://t.co/Etj7DOyOmK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964674431965675907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964614681672429656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么吃了这么想吐 https://t.co/Etj7DOyOmK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/🍥2025.09.06/MTX/可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 386,
+          "like_count": 316,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 315
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T14:40:51.000Z",
+        "description": "「この世には息もできない人が沢山いるんですよ。」mtf🏳️‍⚧️|含糖2025.7.26|初音ミク大好き。🥰|欢迎贴贴|同类互fo|2011.1.24|intp-t",
+        "id": "1824818634809806848",
+        "location": "誰もいないセカイ",
+        "name": "萌新 honoka🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1961932350256005418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956290303792660480/uak33Kmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 854,
+          "like_count": 2216,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 411
+        },
+        "username": "hsgmxz",
+        "verified": false
+      }
+    ]
+  }
+}

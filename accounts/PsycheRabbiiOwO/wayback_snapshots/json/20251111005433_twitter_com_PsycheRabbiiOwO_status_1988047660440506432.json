@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1988047660440506432",
+    "created_at": "2025-11-11T00:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T01:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988047660440506432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sujitgund/stat…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/sujitgund/status/1987554619481039093",
+          "start": 37,
+          "url": "https://t.co/y6blR2rFg8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988047660440506432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987554619481039093",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我英语进步神速是在精卫里读美国历代总统人物志\n\n哎我草精卫怎么会有这玩意 https://t.co/y6blR2rFg8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987554616557666305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5U2ZKubgAEev88.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1988047660440506432",
+        "created_at": "2025-11-11T00:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T01:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988047660440506432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sujitgund/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/sujitgund/status/1987554619481039093",
+              "start": 37,
+              "url": "https://t.co/y6blR2rFg8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988047660440506432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987554619481039093",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我英语进步神速是在精卫里读美国历代总统人物志\n\n哎我草精卫怎么会有这玩意 https://t.co/y6blR2rFg8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987554616557666305"
+          ]
+        },
+        "author_id": "964534819664289792",
+        "conversation_id": "1987554619481039093",
+        "created_at": "2025-11-09T16:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T17:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987554619481039093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eGOWhv73ZP",
+              "end": 180,
+              "expanded_url": "https://x.com/SujitGund/status/1987554619481039093/photo/1",
+              "media_key": "3_1987554616557666305",
+              "start": 157,
+              "url": "https://t.co/eGOWhv73ZP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987554619481039093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 90861,
+          "like_count": 501,
+          "quote_count": 19,
+          "reply_count": 174,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "我真的感觉国内的英语教育很失败，因为该教的不教，不该教的一个比一个多。我直到今年才在多邻国上学会年份的读法，课本竟然连这个都不教这是最逆天的。课本天天教The Silk Road(丝绸之路) Dragon Boat Festival (端午节) 这种逆天东西，我就想问这种东西在实际的英语交流中有用吗？有何意义！ https://t.co/eGOWhv73ZP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/165cm 52kg 本人很丑别骂我/主页添加了提问箱哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 476,
+          "like_count": 682,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 548
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-16T16:19:56.000Z",
+        "description": "你好，我使用绪山真寻的头像，并不代表我是跨性别者，我再次澄清这一事实，谢谢。Hello, I use the anime avatar of Oyama Mahiro. This does not mean I am a transgender person. Thank you.",
+        "id": "964534819664289792",
+        "location": "Tokyo-to, Japan",
+        "name": "寻明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987472276946907136/bZs2YJIK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 165,
+          "like_count": 13990,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 5290
+        },
+        "username": "SujitGund",
+        "verified": false
+      }
+    ]
+  }
+}

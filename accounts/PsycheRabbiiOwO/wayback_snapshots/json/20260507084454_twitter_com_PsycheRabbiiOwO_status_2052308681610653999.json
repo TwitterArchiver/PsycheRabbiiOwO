@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2052061901413048474",
+    "created_at": "2026-05-07T08:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052308681610653999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1108737084301307904",
+          "start": 0,
+          "username": "EntropyF73"
+        },
+        {
+          "end": 22,
+          "id": "1150753335881826305",
+          "start": 12,
+          "username": "acacia038"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052308681610653999",
+    "in_reply_to_user_id": "1108737084301307904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052061901413048474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EntropyF73 @acacia038 中国社会竞争这么激烈，从小不严格，以后怎么面对高考、职场？西方那套快乐教育培养出来的孩子，很多人长大后抗压能力差、啃老。小时候管得严的孩子，长大后更自律、成就更高。很多成功人士（科学家、企业家）都感谢父母的严格要求。宠坏了的孩子才真正可怜，一事无成还怪父母。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052061894416990215",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpja7HXAAcpvBS.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2052061901413048474",
+        "created_at": "2026-05-07T08:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052308681610653999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1108737084301307904",
+              "start": 0,
+              "username": "EntropyF73"
+            },
+            {
+              "end": 22,
+              "id": "1150753335881826305",
+              "start": 12,
+              "username": "acacia038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052308681610653999",
+        "in_reply_to_user_id": "1108737084301307904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052061901413048474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EntropyF73 @acacia038 中国社会竞争这么激烈，从小不严格，以后怎么面对高考、职场？西方那套快乐教育培养出来的孩子，很多人长大后抗压能力差、啃老。小时候管得严的孩子，长大后更自律、成就更高。很多成功人士（科学家、企业家）都感谢父母的严格要求。宠坏了的孩子才真正可怜，一事无成还怪父母。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052061894416990215"
+          ]
+        },
+        "author_id": "1108737084301307904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2052061901413048474",
+        "created_at": "2026-05-06T16:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052061901413048474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oOhsXPglc3",
+              "end": 72,
+              "expanded_url": "https://x.com/EntropyF73/status/2052061901413048474/photo/1",
+              "media_key": "3_2052061894416990215",
+              "start": 49,
+              "url": "https://t.co/oOhsXPglc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052061901413048474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 22571,
+          "like_count": 735,
+          "quote_count": 9,
+          "reply_count": 11,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "没别的，就是很想转发这句话\n“这么小的孩子在你身边活的战战兢兢的，你很得意吗？”\n送给自己的母父 https://t.co/oOhsXPglc3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 1451,
+          "like_count": 12583,
+          "listed_count": 2,
+          "media_count": 260,
+          "tweet_count": 2328
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-21T14:28:15.000Z",
+        "description": "🏳️‍🌈+🖤🩶🤍💜 Indie VTuber 个人势 | enby INFJ-A 中文 & EN｜Weibo & Bilibili: 熵x殇Entropy (GB based) cptsd自救 | Support Me⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/entropyf73",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/entropyf73",
+                "start": 0,
+                "url": "https://t.co/aSj9f0QHM2"
+              }
+            ]
+          }
+        },
+        "id": "1108737084301307904",
+        "location": "East, England",
+        "name": "Entropy 📎💙",
+        "pinned_tweet_id": "1548475185132552193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546099766416871426/3J0rGG_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 1071,
+          "like_count": 21609,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1642
+        },
+        "url": "https://t.co/aSj9f0QHM2",
+        "username": "EntropyF73",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-15T13:05:50.000Z",
+        "description": "原来是suzu\n随缘上号…\n愿你前世 来世 今生幸福",
+        "id": "1150753335881826305",
+        "name": "Charlotte F.",
+        "pinned_tweet_id": "2016084177138155670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046258494253273088/2leeLfOB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 270,
+          "like_count": 2548,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1243
+        },
+        "username": "acacia038",
+        "verified": false
+      }
+    ]
+  }
+}

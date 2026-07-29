@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1962210686278484174",
+    "created_at": "2025-09-01T00:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T01:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962305741714559284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1804063529345126400",
+          "start": 0,
+          "username": "pirapira2112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962305741714559284",
+    "in_reply_to_user_id": "1804063529345126400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962304312107061253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pirapira2112 原始分就是量表选出来的分数，标准分就是这个分数放在人群里是什么水平，并且换算成百分制。公式是T=50+10（X-Y）/SD X表示被试者在某量表上所得的原始分数，Y表示被试所在样本组原始分数的平均数，SD表示样本组原始分数的标准差"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3650,
+        "media_key": "3_1962304205315780609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzuBRysaMAEw--X.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1962210686278484174",
+        "created_at": "2025-09-01T00:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T01:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962305741714559284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804063529345126400",
+              "start": 0,
+              "username": "pirapira2112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962305741714559284",
+        "in_reply_to_user_id": "1804063529345126400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962304312107061253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pirapira2112 原始分就是量表选出来的分数，标准分就是这个分数放在人群里是什么水平，并且换算成百分制。公式是T=50+10（X-Y）/SD X表示被试者在某量表上所得的原始分数，Y表示被试所在样本组原始分数的平均数，SD表示样本组原始分数的标准差"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962304205315780609"
+          ]
+        },
+        "author_id": "1804063529345126400",
+        "conversation_id": "1962210686278484174",
+        "created_at": "2025-08-31T23:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T00:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962304312107061253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XcreTJ75tk",
+              "end": 57,
+              "expanded_url": "https://x.com/pirapira2112/status/1962304312107061253/photo/1",
+              "media_key": "3_1962304205315780609",
+              "start": 34,
+              "url": "https://t.co/XcreTJ75tk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962304312107061253",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962210686278484174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 什么是原始分数值和标准分数值() https://t.co/XcreTJ75tk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/生理男心理（不确定）/可能是泛性恋？/有对象了已经🥰@pirapira2112/目前无糖/联系方式私信，欢迎骚扰！！！/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "小兔兔凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 366,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 294
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T08:07:29.000Z",
+        "description": "找到对象了，一本满足()\n@PsycheRabbiiOwO\n兔子的足弓好涩\n兔子的手真好摸\n兔子的脸好白嫩\n兔子耳朵好可爱\n兔子的腿也好长\n想每天都抱着兔子睡觉捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "PsycheRabbiiOwO"
+              }
+            ]
+          }
+        },
+        "id": "1804063529345126400",
+        "name": "电系道馆の镇管神兽()",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896460806444769280/Xrtkkx3o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 379,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 39
+        },
+        "username": "pirapira2112",
+        "verified": false
+      }
+    ]
+  }
+}

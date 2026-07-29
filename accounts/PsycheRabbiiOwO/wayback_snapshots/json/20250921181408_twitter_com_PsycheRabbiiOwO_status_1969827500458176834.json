@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1969827500458176834",
+    "created_at": "2025-09-21T18:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T19:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969827500458176834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963118330707050496",
+          "start": 3,
+          "username": "mtnyan123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969827500458176834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969665078409773144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mtnyan123: 高考作弊被撵出来了，幸好穿了情趣内衣，在考场外面站了一小时街赚得盆满钵满，比上大学有意义多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1969827500458176834",
+        "created_at": "2025-09-21T18:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T19:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969827500458176834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963118330707050496",
+              "start": 3,
+              "username": "mtnyan123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969827500458176834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969665078409773144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mtnyan123: 高考作弊被撵出来了，幸好穿了情趣内衣，在考场外面站了一小时街赚得盆满钵满，比上大学有意义多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963118330707050496",
+        "conversation_id": "1969665078409773144",
+        "created_at": "2025-09-21T07:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T08:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969665078409773144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969665078409773144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10170,
+          "like_count": 191,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "高考作弊被撵出来了，幸好穿了情趣内衣，在考场外面站了一小时街赚得盆满钵满，比上大学有意义多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/含糖男娘2025.09.06//可能是泛性恋？/有对象了已经🥰@pirapira2112/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 422,
+          "like_count": 404,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 403
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T05:54:31.000Z",
+        "description": "MtX🍥 / 无证含糖｜泛性恋 / 社恐 / 缺爱b / 主页背景图是本猫",
+        "id": "1963118330707050496",
+        "location": "亚硝酸钠共和国",
+        "name": "乌冬面🍥🐱（大号被盗",
+        "pinned_tweet_id": "1968452745377063222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968449968529920000/tt2tmkg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 117,
+          "like_count": 340,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 74
+        },
+        "username": "mtnyan123",
+        "verified": false
+      }
+    ]
+  }
+}

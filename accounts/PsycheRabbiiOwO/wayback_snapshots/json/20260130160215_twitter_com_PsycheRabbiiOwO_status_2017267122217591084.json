@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2017267122217591084",
+    "created_at": "2026-01-30T16:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T17:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017267122217591084"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/psycherabbiiow…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/psycherabbiiowo/status/2017263321511276584",
+          "start": 26,
+          "url": "https://t.co/kREjWbDQcZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017267122217591084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017263321511276584",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呜呜呜真的给我玩哭了\n\n代入感太强有点难受。。。。 https://t.co/kREjWbDQcZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2017263302406270976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_7CSR5bcAAVuW5.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2017267122217591084",
+        "created_at": "2026-01-30T16:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T17:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017267122217591084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/psycherabbiiowo/status/2017263321511276584",
+              "start": 26,
+              "url": "https://t.co/kREjWbDQcZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017267122217591084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017263321511276584",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜呜呜真的给我玩哭了\n\n代入感太强有点难受。。。。 https://t.co/kREjWbDQcZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017263302406270976"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017263321511276584",
+        "created_at": "2026-01-30T15:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017263321511276584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wzba3vTxrq",
+              "end": 108,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2017263321511276584/photo/1",
+              "media_key": "3_2017263302406270976",
+              "start": 85,
+              "url": "https://t.co/Wzba3vTxrq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017263321511276584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个游戏。。。。。。\n\n虽然我不是90后，但其实跟我的学生时代很像，怀念。。。。\n\n高中也有这样一对女生，好羡慕。。。。\n可惜被因为谈恋爱开除了，不知道她们现在怎么样了 https://t.co/Wzba3vTxrq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "含🍥做题蛆/长相普通别骂我参考亮点里的照片/备用机@rabbii_third不知道会发些什么呢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 871,
+          "like_count": 3392,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1207
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

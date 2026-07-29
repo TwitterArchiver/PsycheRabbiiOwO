@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2026388003460120730",
+    "created_at": "2026-02-24T20:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T21:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026388003460120730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1552918719440924672",
+          "start": 3,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026388003460120730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026241667087630782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itsCatRoll: 如果你了解N55的过去，你就会知道N55不是一个喜欢暴力和违法的人，N55彬彬有礼，有颗金子般的心，经常能让别人开怀大笑，N55是个好药娘，好精神病人，好小姑娘，我无法想象会发生这种事，N55只是被吓坏了，这一切本不该如此，后面忘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2026388003460120730",
+        "created_at": "2026-02-24T20:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T21:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026388003460120730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552918719440924672",
+              "start": 3,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026388003460120730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026241667087630782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itsCatRoll: 如果你了解N55的过去，你就会知道N55不是一个喜欢暴力和违法的人，N55彬彬有礼，有颗金子般的心，经常能让别人开怀大笑，N55是个好药娘，好精神病人，好小姑娘，我无法想象会发生这种事，N55只是被吓坏了，这一切本不该如此，后面忘了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2026241667087630782",
+        "created_at": "2026-02-24T10:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026241667087630782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/n552aan552aa/s…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/n552aan552aa/status/2025886023688049023",
+              "start": 117,
+              "url": "https://t.co/XBmypcB9Vk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026241667087630782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 21583,
+          "like_count": 171,
+          "quote_count": 7,
+          "reply_count": 28,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025886023688049023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你了解N55的过去，你就会知道N55不是一个喜欢暴力和违法的人，N55彬彬有礼，有颗金子般的心，经常能让别人开怀大笑，N55是个好药娘，好精神病人，好小姑娘，我无法想象会发生这种事，N55只是被吓坏了，这一切本不该如此，后面忘了 https://t.co/XBmypcB9Vk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月（♡´∀`♡)🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025891245403594752/7m_aCDuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 984,
+          "like_count": 4545,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 1395
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "⚠️ cylinder misfire",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/x00000b",
+                "end": 23,
+                "expanded_url": "https://t.me/x00000b",
+                "start": 0,
+                "url": "https://t.co/mRz7zqinvM"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "成都",
+        "name": "猫卷 @CatRoll",
+        "pinned_tweet_id": "2025485352354640337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019893963415851008/GaYGREEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3343,
+          "following_count": 836,
+          "like_count": 2499,
+          "listed_count": 7,
+          "media_count": 33,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/mRz7zqinvM",
+        "username": "itsCatRoll",
+        "verified": false
+      }
+    ]
+  }
+}

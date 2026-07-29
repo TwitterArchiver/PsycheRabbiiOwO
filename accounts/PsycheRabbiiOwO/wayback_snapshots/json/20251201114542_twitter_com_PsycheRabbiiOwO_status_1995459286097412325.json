@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1995030229694484716",
+    "created_at": "2025-12-01T11:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T12:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995459286097412325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1822130523059490816",
+          "start": 0,
+          "username": "Girl_in_HuaXi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995459286097412325",
+    "in_reply_to_user_id": "1822130523059490816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995030229694484716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Girl_in_HuaXi 互"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43520,
+        "height": 1280,
+        "media_key": "7_1995030166842871816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1995030166842871816/pu/img/gGJFiJDFAgL7VgtY.jpg",
+        "public_metrics": {
+          "view_count": 302
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995030166842871816/pu/vid/avc1/320x568/gHc0ivzhzd2YhRk7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995030166842871816/pu/vid/avc1/480x852/Ag9c4JejFyS2phBh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995030166842871816/pu/vid/avc1/720x1280/N2K7m2ZhdAIAvIWG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1995030166842871816/pu/pl/0CNDxfy2dusIyFKm.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1995030229694484716",
+        "created_at": "2025-12-01T11:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T12:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995459286097412325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1822130523059490816",
+              "start": 0,
+              "username": "Girl_in_HuaXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995459286097412325",
+        "in_reply_to_user_id": "1822130523059490816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995030229694484716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Girl_in_HuaXi 互"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1995030166842871816"
+          ]
+        },
+        "author_id": "1822130523059490816",
+        "conversation_id": "1995030229694484716",
+        "created_at": "2025-11-30T07:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T08:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995030229694484716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3PgRulE6x",
+              "end": 64,
+              "expanded_url": "https://x.com/Girl_in_HuaXi/status/1995030229694484716/video/1",
+              "media_key": "7_1995030166842871816",
+              "start": 41,
+              "url": "https://t.co/G3PgRulE6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995030229694484716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 769,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国网友用高市早苗四个字画搞事早苗，精华是亡日，寥寥几笔，写尽中华文化的博大精深 https://t.co/G3PgRulE6x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/本人长相普通别骂我参考亮点里的照片/雷点不多只有顺直黄蛆，od，反跨（不雷人只雷事不要跳脸就好我很少b人只会不理你）/这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48ZKhM"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰（🏳️‍⚧️💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 626,
+          "like_count": 1587,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 798
+        },
+        "url": "https://t.co/274M48ZKhM",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-10T04:39:22.000Z",
+        "description": "爱生活、爱分享的女孩，欢迎互 fo～",
+        "id": "1822130523059490816",
+        "location": "Hong Kong",
+        "name": "姜是姜子牙的姜",
+        "pinned_tweet_id": "1994231691804581949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825469312129273856/VCJMMvTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7696,
+          "following_count": 4721,
+          "like_count": 39031,
+          "listed_count": 39,
+          "media_count": 2169,
+          "tweet_count": 11904
+        },
+        "username": "Girl_in_HuaXi",
+        "verified": false
+      }
+    ]
+  }
+}

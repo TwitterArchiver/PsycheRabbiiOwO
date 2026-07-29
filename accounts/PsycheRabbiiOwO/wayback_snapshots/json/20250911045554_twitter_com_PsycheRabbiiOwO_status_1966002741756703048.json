@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1966002741756703048",
+    "created_at": "2025-09-11T04:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T05:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966002741756703048"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1966002741756703048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们涨粉我一点都不嫉妒\n🤓🤓🤓🤓\n多涨点好啊，涨到万fo\n\n这样我就说有好多推特万fo关注了我\n😆😆😆😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1966002741756703048",
+        "created_at": "2025-09-11T04:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T05:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966002741756703048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966002741756703048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们涨粉我一点都不嫉妒\n🤓🤓🤓🤓\n多涨点好啊，涨到万fo\n\n这样我就说有好多推特万fo关注了我\n😆😆😆😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/🍥2025.09.06/MTX/可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 405,
+          "like_count": 341,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 343
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

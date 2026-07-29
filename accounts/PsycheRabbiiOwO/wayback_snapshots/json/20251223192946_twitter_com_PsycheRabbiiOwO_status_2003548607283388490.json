@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2002042288806252986",
+    "created_at": "2025-12-23T19:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T20:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003548607283388490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1882494092007133184",
+          "start": 0,
+          "username": "lianjiabaxi2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003548607283388490",
+    "in_reply_to_user_id": "1882494092007133184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003518194129207588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianjiabaxi2333 好哦，抓到就随便你rua（装傻😜🤪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2002042288806252986",
+        "created_at": "2025-12-23T19:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T20:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003548607283388490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1882494092007133184",
+              "start": 0,
+              "username": "lianjiabaxi2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003548607283388490",
+        "in_reply_to_user_id": "1882494092007133184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003518194129207588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianjiabaxi2333 好哦，抓到就随便你rua（装傻😜🤪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882494092007133184",
+        "conversation_id": "2002042288806252986",
+        "created_at": "2025-12-23T17:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T18:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003518194129207588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003518194129207588",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002042288806252986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 可爱，想……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）含🍥做题蛆/长相普通别骂我参考亮点里的照片/只混生物圈岩石圈大气圈水圈/链接是提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ （💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 756,
+          "like_count": 2501,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1021
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T18:22:35.000Z",
+        "description": "俄日英配信中，是寄生在14岁小男孩身体里的恶魔，宿主175 60kg，生日0427 扣扣3516002215",
+        "id": "1882494092007133184",
+        "location": "杜王町",
+        "name": "廉价的万事屋",
+        "pinned_tweet_id": "2001155223642103848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001563311247364098/krIPq3Sl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 411,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 375
+        },
+        "username": "lianjiabaxi2333",
+        "verified": false
+      }
+    ]
+  }
+}

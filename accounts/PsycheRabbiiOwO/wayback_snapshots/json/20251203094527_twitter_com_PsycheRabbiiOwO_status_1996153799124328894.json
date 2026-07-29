@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1995708219033866491",
+    "created_at": "2025-12-03T09:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T10:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996153799124328894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868163970051211264",
+          "start": 0,
+          "username": "XianoYue86365"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996153799124328894",
+    "in_reply_to_user_id": "1868163970051211264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995708219033866491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XianoYue86365 随身携带录音设备，万一有不测要反击"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1995707923243433986",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ItyFBbgAIzIU7.jpg",
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1995708219033866491",
+        "created_at": "2025-12-03T09:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996153799124328894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868163970051211264",
+              "start": 0,
+              "username": "XianoYue86365"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996153799124328894",
+        "in_reply_to_user_id": "1868163970051211264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995708219033866491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XianoYue86365 随身携带录音设备，万一有不测要反击"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995707923243433986"
+          ]
+        },
+        "author_id": "1868163970051211264",
+        "conversation_id": "1995708219033866491",
+        "created_at": "2025-12-02T04:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T05:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995708219033866491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2LEmOF3GmI",
+              "end": 76,
+              "expanded_url": "https://x.com/XianoYue86365/status/1995708219033866491/photo/1",
+              "media_key": "3_1995707923243433986",
+              "start": 53,
+              "url": "https://t.co/2LEmOF3GmI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995708219033866491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 19804,
+          "like_count": 87,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "昨天请假没去 没想到在早上升旗仪式的时候给我全校通报批评了 老师说不整改就等着被学校退学或者拿不到毕业证 https://t.co/2LEmOF3GmI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/本人长相普通别骂我参考亮点里的照片/雷点不多只有顺直黄蛆，od，反跨（不雷人只雷事不要跳脸就好我很少b人只会不理你）/这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48ZKhM"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰（🏳️‍⚧️💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 644,
+          "like_count": 1662,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 819
+        },
+        "url": "https://t.co/274M48ZKhM",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-15T05:21:46.000Z",
+        "description": "09︱170㎝ 65㎏︱🏳‍⚧无证含糖 hrt2024.12.17︱容貌焦虑症qwq︱4i︱是弱受喵uwu︱新来的多多关照喵ovo︱喜欢涩涩（同类是最棒哒 欢迎互fo～︱鱼脑（笨︱弱受︱小号@Suochengtuan ︱最好的姐姐～@kill27012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Suochengtuan"
+              },
+              {
+                "end": 126,
+                "start": 116,
+                "username": "kill27012"
+              }
+            ]
+          }
+        },
+        "id": "1868163970051211264",
+        "location": "福建",
+        "name": "羽秋Yuki🏳‍⚧🍥",
+        "pinned_tweet_id": "1958032887762080208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905918810701365250/reTZSqWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 813,
+          "like_count": 3252,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 441
+        },
+        "username": "XianoYue86365",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022102879440711682"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2022102886394867722",
+    "created_at": "2026-02-13T00:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T01:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022102886394867722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PvCzKYhbmR",
+          "end": 141,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2022102886394867722/photo/1",
+          "media_key": "3_2022102879440711682",
+          "start": 118,
+          "url": "https://t.co/PvCzKYhbmR"
+        },
+        {
+          "display_url": "x.com/PsycheRabbiiOw…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/PsycheRabbiiOwO/status/2022101089148109217",
+          "start": 142,
+          "url": "https://t.co/8EqRHAcOkR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022102886394867722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022101089148109217",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "昨天要去登雪山，她给每个人买防寒用具\n分发的时候，爸妈递给我的是男士的，就顺手拿了\n然后她大叫：“哎呀，多买了一套，女式的”\n\n当时没注意，然后刚刚跟我说。。。。。。。\n\n留子懂得多我知道，就是这个情商有点。。。太高了。。。。吓人☹️ https://t.co/PvCzKYhbmR https://t.co/8EqRHAcOkR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 459,
+        "media_key": "3_2022102879440711682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_z2vRbsAIM9Hm.jpg",
+        "width": 563
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022102879440711682"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2022102886394867722",
+        "created_at": "2026-02-13T00:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T01:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022102886394867722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PvCzKYhbmR",
+              "end": 141,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2022102886394867722/photo/1",
+              "media_key": "3_2022102879440711682",
+              "start": 118,
+              "url": "https://t.co/PvCzKYhbmR"
+            },
+            {
+              "display_url": "x.com/PsycheRabbiiOw…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/PsycheRabbiiOwO/status/2022101089148109217",
+              "start": 142,
+              "url": "https://t.co/8EqRHAcOkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022102886394867722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022101089148109217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天要去登雪山，她给每个人买防寒用具\n分发的时候，爸妈递给我的是男士的，就顺手拿了\n然后她大叫：“哎呀，多买了一套，女式的”\n\n当时没注意，然后刚刚跟我说。。。。。。。\n\n留子懂得多我知道，就是这个情商有点。。。太高了。。。。吓人☹️ https://t.co/PvCzKYhbmR https://t.co/8EqRHAcOkR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2022101089148109217",
+        "created_at": "2026-02-13T00:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T01:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022101089148109217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022101089148109217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像我姐看出来什么了。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 934,
+          "like_count": 3769,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 1307
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

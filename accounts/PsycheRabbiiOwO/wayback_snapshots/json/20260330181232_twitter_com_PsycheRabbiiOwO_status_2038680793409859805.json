@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2038680793409859805",
+    "created_at": "2026-03-30T18:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T19:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038680793409859805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cheese_ghostfo…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/cheese_ghostfox/status/2038676104526102629",
+          "start": 63,
+          "url": "https://t.co/vQmSvtaiJr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038680793409859805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038676104526102629",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样\n\n对我用♂称呼，我会以平常心对待\n对我用♀称呼，我会很开心\n\n但是，开口前后不同\n比如先♀后♂，那我就要炸毛哈气了 https://t.co/vQmSvtaiJr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2038680793409859805",
+        "created_at": "2026-03-30T18:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T19:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038680793409859805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cheese_ghostfo…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/cheese_ghostfox/status/2038676104526102629",
+              "start": 63,
+              "url": "https://t.co/vQmSvtaiJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038680793409859805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038676104526102629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样\n\n对我用♂称呼，我会以平常心对待\n对我用♀称呼，我会很开心\n\n但是，开口前后不同\n比如先♀后♂，那我就要炸毛哈气了 https://t.co/vQmSvtaiJr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2038537577846997358",
+        "created_at": "2026-03-30T17:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038676104526102629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "ZX65535plus1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038676104526102629",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "狐其实有一点这种倾向...\n主要是因为感觉自己不够pass，硬rle害怕被骂(((\n所以用「先打硬件地基」，足够到达pass临界点再做「社会身份转变」这样的方法\n而且男娘其实是个挺好用的幌子，狐有不少不懂这些的朋友，ta们问到狐为什么要这样的话，和他们讲跨性别什么的需要长篇大论，也不一定会被理解\n但是直接讲男娘，这些人马上就能get到，并且不会把狐看做是怪物什么的..."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038537577846997358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZX65535plus1 狐其实有一点这种倾向...\n主要是因为感觉自己不够pass，硬rle害怕被骂(((\n所以用「先打硬件地基」，足够到达pass临界点再做「社会身份转变」这样的方法\n而且男娘其实是个挺好用的幌子，狐有不少不懂这些的朋友，ta们问到狐为什么要这样的话，和他们讲跨性别什么的需要长篇大论，也不一定会被理解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/8964准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "rabbii_third"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月（🍥•﹃•🍥）8964",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032672138176704512/fwd2tlZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 1125,
+          "like_count": 6228,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 1631
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171,
+          "following_count": 1431,
+          "like_count": 15235,
+          "listed_count": 4,
+          "media_count": 517,
+          "tweet_count": 4737
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

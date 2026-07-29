@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1974117158927180213",
+    "created_at": "2025-10-22T19:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T20:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981073190916149528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1874045985023840256",
+          "start": 0,
+          "username": "zilu21202"
+        },
+        {
+          "end": 21,
+          "id": "1897193121760550912",
+          "start": 11,
+          "username": "zhen96225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981073190916149528",
+    "in_reply_to_user_id": "1874045985023840256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974117158927180213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zilu21202 @zhen96225 梦乡？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1974117142443196416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2V5FOxWAAAPOjz.jpg",
+        "width": 576
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1974117142451687424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2V5FOzXkAABSTy.jpg",
+        "width": 576
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1974117142476840960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2V5FO5XYAAbIOq.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1974117158927180213",
+        "created_at": "2025-10-22T19:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T20:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981073190916149528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1874045985023840256",
+              "start": 0,
+              "username": "zilu21202"
+            },
+            {
+              "end": 21,
+              "id": "1897193121760550912",
+              "start": 11,
+              "username": "zhen96225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981073190916149528",
+        "in_reply_to_user_id": "1874045985023840256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974117158927180213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zilu21202 @zhen96225 梦乡？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974117142443196416",
+            "3_1974117142451687424",
+            "3_1974117142476840960"
+          ]
+        },
+        "author_id": "1874045985023840256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974117158927180213",
+        "created_at": "2025-10-03T14:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T15:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974117158927180213"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 10,
+              "start": 4,
+              "tag": "可爱男孩子"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "0s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qsy4QRJEK4",
+              "end": 46,
+              "expanded_url": "https://x.com/zilu21202/status/1974117158927180213/photo/1",
+              "media_key": "3_1974117142443196416",
+              "start": 23,
+              "url": "https://t.co/Qsy4QRJEK4"
+            },
+            {
+              "display_url": "pic.x.com/Qsy4QRJEK4",
+              "end": 46,
+              "expanded_url": "https://x.com/zilu21202/status/1974117158927180213/photo/1",
+              "media_key": "3_1974117142451687424",
+              "start": 23,
+              "url": "https://t.co/Qsy4QRJEK4"
+            },
+            {
+              "display_url": "pic.x.com/Qsy4QRJEK4",
+              "end": 46,
+              "expanded_url": "https://x.com/zilu21202/status/1974117158927180213/photo/1",
+              "media_key": "3_1974117142476840960",
+              "start": 23,
+              "url": "https://t.co/Qsy4QRJEK4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974117158927180213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2670,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #可爱男孩子 #0s \n卡芙卡这一块 https://t.co/Qsy4QRJEK4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "明天。",
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🐰凌月月（互关版）",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 440,
+          "like_count": 493,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 471
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T10:52:47.000Z",
+        "description": "杭州大学生，175cm54kg，🚪20¥，不🈷️，礼貌点😋",
+        "id": "1874045985023840256",
+        "location": "Hangzhou",
+        "name": "林路是这样哒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928662485638225920/TA2Q3l9j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 20,
+          "like_count": 143,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 7
+        },
+        "username": "zilu21202",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T07:51:11.000Z",
+        "description": "177  54，现位于浙江，06无米大学牲，喜欢穿女装，不含🍬/轻度雌堕，有点社恐，只和南梁贴贴。",
+        "id": "1897193121760550912",
+        "name": "真酱~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897193261057597440/fauzNWux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 238,
+          "like_count": 3855,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 238
+        },
+        "username": "zhen96225",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2038903359583965548",
+    "created_at": "2026-03-31T08:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T09:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038903359583965548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/psycherabbiiow…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/psycherabbiiowo/status/2038676395019342333",
+          "start": 19,
+          "url": "https://t.co/vR6Qh8dvQD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038903359583965548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038676395019342333",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开在ASD康复中心边上么，有点意思🤔 https://t.co/vR6Qh8dvQD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1870,
+        "media_key": "3_2038676388333703168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErVX7KbUAA586f.jpg",
+        "width": 1157
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2038903359583965548",
+        "created_at": "2026-03-31T08:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038903359583965548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/psycherabbiiowo/status/2038676395019342333",
+              "start": 19,
+              "url": "https://t.co/vR6Qh8dvQD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038903359583965548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038676395019342333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开在ASD康复中心边上么，有点意思🤔 https://t.co/vR6Qh8dvQD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038676388333703168"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2038676395019342333",
+        "created_at": "2026-03-30T17:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038676395019342333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NJd26qbRw8",
+              "end": 59,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2038676395019342333/photo/1",
+              "media_key": "3_2038676388333703168",
+              "start": 36,
+              "url": "https://t.co/NJd26qbRw8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038676395019342333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 873,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别现身日？\n正好有出行计划😋\n实地去探访一下某些机构捏👊🏻👊🏻👊🏻 https://t.co/NJd26qbRw8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/8964准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "rabbii_third"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月（🍥•﹃•🍥）8964",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032672138176704512/fwd2tlZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 1125,
+          "like_count": 6236,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 1635
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

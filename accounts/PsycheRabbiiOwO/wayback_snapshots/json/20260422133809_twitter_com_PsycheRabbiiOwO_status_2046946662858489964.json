@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046946652473421824"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2046946662858489964",
+    "created_at": "2026-04-22T13:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T14:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046946662858489964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p0SgSTlzKN",
+          "end": 34,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2046946662858489964/photo/1",
+          "media_key": "3_2046946652473421824",
+          "start": 11,
+          "url": "https://t.co/p0SgSTlzKN"
+        },
+        {
+          "display_url": "x.com/psycherabbiiow…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/psycherabbiiowo/status/2046934267817861530",
+          "start": 35,
+          "url": "https://t.co/FtX4yEHe7p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046946662858489964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046934267817861530",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "emmm我错了。。。 https://t.co/p0SgSTlzKN https://t.co/FtX4yEHe7p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2135,
+        "media_key": "3_2046946652473421824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGg3Ip7acAAB3XO.jpg",
+        "width": 1697
+      },
+      {
+        "height": 290,
+        "media_key": "3_2046934251871031296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgr22FaUAAgnuP.jpg",
+        "width": 314
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046946652473421824"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2046946662858489964",
+        "created_at": "2026-04-22T13:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046946662858489964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p0SgSTlzKN",
+              "end": 34,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2046946662858489964/photo/1",
+              "media_key": "3_2046946652473421824",
+              "start": 11,
+              "url": "https://t.co/p0SgSTlzKN"
+            },
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/psycherabbiiowo/status/2046934267817861530",
+              "start": 35,
+              "url": "https://t.co/FtX4yEHe7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046946662858489964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046934267817861530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "emmm我错了。。。 https://t.co/p0SgSTlzKN https://t.co/FtX4yEHe7p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046934251871031296"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2046934267817861530",
+        "created_at": "2026-04-22T12:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046934267817861530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/drgyQo9m6v",
+              "end": 39,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2046934267817861530/photo/1",
+              "media_key": "3_2046934251871031296",
+              "start": 16,
+              "url": "https://t.co/drgyQo9m6v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046934267817861530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一年前拼尽全力卖萌不如现在一根 https://t.co/drgyQo9m6v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 1321,
+          "like_count": 9253,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 2052
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

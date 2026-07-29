@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2060620320168718836",
+    "created_at": "2026-05-30T08:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060639719692832906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899705473882030080",
+          "start": 0,
+          "username": "xiaomajiaXMJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060639719692832906",
+    "in_reply_to_user_id": "1899705473882030080",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060627409440018657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomajiaXMJ 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2060620320168718836",
+        "created_at": "2026-05-30T08:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060639719692832906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899705473882030080",
+              "start": 0,
+              "username": "xiaomajiaXMJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060639719692832906",
+        "in_reply_to_user_id": "1899705473882030080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060627409440018657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomajiaXMJ 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899705473882030080",
+        "conversation_id": "2060620320168718836",
+        "created_at": "2026-05-30T07:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060627409440018657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060627409440018657",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060620320168718836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO piu~☺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 1489,
+          "like_count": 14880,
+          "listed_count": 3,
+          "media_count": 285,
+          "tweet_count": 2497
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T06:16:17.000Z",
+        "description": "Mtf，可爱的女孩子。历史政治经济投资爱好者，也喜欢唱歌、做饭~ 军团战争玩家    精神障碍，找对象",
+        "id": "1899705473882030080",
+        "location": "常州",
+        "name": "中暑之小马甲",
+        "pinned_tweet_id": "2053785496904732914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047924901156376576/nEXBVKHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 36,
+          "like_count": 651,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 337
+        },
+        "username": "xiaomajiaXMJ",
+        "verified": false
+      }
+    ]
+  }
+}

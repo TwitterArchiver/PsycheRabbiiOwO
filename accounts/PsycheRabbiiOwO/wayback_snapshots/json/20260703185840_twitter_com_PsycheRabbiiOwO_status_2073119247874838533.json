@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073048116560007170"
+      ],
+      "media_source_tweet_id": [
+        "2073048119957389633"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073119247874838533",
+    "created_at": "2026-07-03T18:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T19:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073119247874838533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1824688188750712832",
+          "start": 3,
+          "username": "N0HopeForUs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uGZLrHdMHA",
+          "end": 49,
+          "expanded_url": "https://x.com/N0HopeForUs/status/2073048119957389633/photo/1",
+          "media_key": "3_2073048116560007170",
+          "start": 26,
+          "url": "https://t.co/uGZLrHdMHA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073119247874838533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073048119957389633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N0HopeForUs: 笑的我好难受。。 https://t.co/uGZLrHdMHA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073048116560007170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTyR03aEAIIn_q.jpg",
+        "width": 885
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073048116560007170"
+          ],
+          "media_source_tweet_id": [
+            "2073048119957389633"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073119247874838533",
+        "created_at": "2026-07-03T18:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073119247874838533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1824688188750712832",
+              "start": 3,
+              "username": "N0HopeForUs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uGZLrHdMHA",
+              "end": 49,
+              "expanded_url": "https://x.com/N0HopeForUs/status/2073048119957389633/photo/1",
+              "media_key": "3_2073048116560007170",
+              "start": 26,
+              "url": "https://t.co/uGZLrHdMHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073119247874838533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073048119957389633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N0HopeForUs: 笑的我好难受。。 https://t.co/uGZLrHdMHA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073048116560007170"
+          ]
+        },
+        "author_id": "1824688188750712832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073048119957389633",
+        "created_at": "2026-07-03T14:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073048119957389633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uGZLrHdMHA",
+              "end": 32,
+              "expanded_url": "https://x.com/N0HopeForUs/status/2073048119957389633/photo/1",
+              "media_key": "3_2073048116560007170",
+              "start": 9,
+              "url": "https://t.co/uGZLrHdMHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073048119957389633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1140,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "笑的我好难受。。 https://t.co/uGZLrHdMHA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 1624,
+          "like_count": 18689,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 2828
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-17T06:02:43.000Z",
+        "description": "米泽茜激推\n你知道我们在谈论什么🎙️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org",
+                "end": 23,
+                "expanded_url": "http://marxists.org",
+                "start": 0,
+                "url": "https://t.co/yy1yNHpcRH"
+              }
+            ]
+          }
+        },
+        "id": "1824688188750712832",
+        "location": "海南特别行政区 曾母暗沙",
+        "name": "耄耋赫尔墨斯",
+        "pinned_tweet_id": "2071549888526197011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071551325457022976/i5p_Jt8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1605,
+          "like_count": 46126,
+          "listed_count": 3,
+          "media_count": 691,
+          "tweet_count": 14614
+        },
+        "url": "https://t.co/yy1yNHpcRH",
+        "username": "N0HopeForUs",
+        "verified": false
+      }
+    ]
+  }
+}

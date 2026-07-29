@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962553302622806017",
+        "3_1962553302593515520"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1962553310550073665",
+    "created_at": "2025-09-01T16:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T17:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962553310550073665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ryh9LW3aSg",
+          "end": 90,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1962553310550073665/photo/1",
+          "media_key": "3_1962553302622806017",
+          "start": 67,
+          "url": "https://t.co/ryh9LW3aSg"
+        },
+        {
+          "display_url": "pic.x.com/ryh9LW3aSg",
+          "end": 90,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1962553310550073665/photo/1",
+          "media_key": "3_1962553302593515520",
+          "start": 67,
+          "url": "https://t.co/ryh9LW3aSg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962553310550073665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个做得太好了吧\n\n记得当年\n还是暗杀教室给我种下了当男娘的种子\n小时候的我，就是潮田渚那样的男生\n潜意识里，我就想成为他后来的样子 https://t.co/ryh9LW3aSg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962553302622806017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzxj1KeaIAE4NTQ.jpg",
+        "width": 1152
+      },
+      {
+        "height": 703,
+        "media_key": "3_1962553302593515520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzxj1KXbMAA8nYa.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962553302622806017",
+            "3_1962553302593515520"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1962553310550073665",
+        "created_at": "2025-09-01T16:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T17:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962553310550073665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ryh9LW3aSg",
+              "end": 90,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1962553310550073665/photo/1",
+              "media_key": "3_1962553302622806017",
+              "start": 67,
+              "url": "https://t.co/ryh9LW3aSg"
+            },
+            {
+              "display_url": "pic.x.com/ryh9LW3aSg",
+              "end": 90,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1962553310550073665/photo/1",
+              "media_key": "3_1962553302593515520",
+              "start": 67,
+              "url": "https://t.co/ryh9LW3aSg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962553310550073665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个做得太好了吧\n\n记得当年\n还是暗杀教室给我种下了当男娘的种子\n小时候的我，就是潮田渚那样的男生\n潜意识里，我就想成为他后来的样子 https://t.co/ryh9LW3aSg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/生理男心理（不确定）/可能是泛性恋？/有对象了已经🥰@pirapira2112/目前无糖/联系方式私信，欢迎骚扰！！！/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "小兔兔凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 367,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 296
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

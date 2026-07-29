@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2046837485691637902",
+    "created_at": "2026-04-22T09:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T10:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046890557914619909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2044319134326964224",
+          "start": 0,
+          "username": "XldFxA"
+        },
+        {
+          "end": 15,
+          "id": "1807107145756008448",
+          "start": 8,
+          "username": "XldMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046890557914619909",
+    "in_reply_to_user_id": "2044319134326964224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046837485691637902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XldFxA @XldMtX 卧槽  长发目标get🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1710,
+        "media_key": "3_2046837467144507392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfT1O4b0AAgCqk.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2046837485691637902",
+        "created_at": "2026-04-22T09:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046890557914619909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2044319134326964224",
+              "start": 0,
+              "username": "XldFxA"
+            },
+            {
+              "end": 15,
+              "id": "1807107145756008448",
+              "start": 8,
+              "username": "XldMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046890557914619909",
+        "in_reply_to_user_id": "2044319134326964224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046837485691637902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XldFxA @XldMtX 卧槽  长发目标get🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046837467144507392"
+          ]
+        },
+        "author_id": "2044319134326964224",
+        "conversation_id": "2046837485691637902",
+        "created_at": "2026-04-22T06:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046837485691637902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibnooibpK7",
+              "end": 39,
+              "expanded_url": "https://x.com/XldFxA/status/2046837485691637902/photo/1",
+              "media_key": "3_2046837467144507392",
+              "start": 16,
+              "url": "https://t.co/ibnooibpK7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046837485691637902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 130,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "原来直板夹真的可以把头发拉直。 https://t.co/ibnooibpK7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 1319,
+          "like_count": 9191,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 2043
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-15T07:37:25.000Z",
+        "description": "西南梦游山tv之翎早上因为熬夜而半梦半醒的起来上早八看见 x大号@xldmtx又被封了无助的爬起打开apex被顶猎一脚踢死想打六目标发现才 8w分被自己区的满地都是无助的爬回床上结果镜子照出巨人般的骨架不禁悲从中来打开前摄被长发男蛆一样的外观丑晕奇异搞笑的盖上被子割完手接着等死又被家长发现割手一顿批判顿觉这辈子有了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 32,
+                "username": "xldmtx"
+              }
+            ]
+          }
+        },
+        "id": "2044319134326964224",
+        "location": "棍母所栖之处",
+        "name": "🍁🍥iLYA🍥🍁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044319211884032000/COXjezdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 177,
+          "like_count": 1726,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 459
+        },
+        "username": "XldFxA",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "银行业一样一样有有有也会有h'y'hui't'y'r's'c'd\n主账号：@XldFxA\n对象@juhao0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 37,
+                "username": "XldFxA"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+k6R8ZoB6cPMyN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+k6R8ZoB6cPMyN2M1",
+                "start": 0,
+                "url": "https://t.co/3iPzLTBTRw"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "Kovaak",
+        "name": "🍁🍥翎🍥🍁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042113258090528768/f1mH6fZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6929,
+          "following_count": 849,
+          "like_count": 45450,
+          "listed_count": 11,
+          "media_count": 3435,
+          "tweet_count": 28216
+        },
+        "url": "https://t.co/3iPzLTBTRw",
+        "username": "XldMtX",
+        "verified": true
+      }
+    ]
+  }
+}

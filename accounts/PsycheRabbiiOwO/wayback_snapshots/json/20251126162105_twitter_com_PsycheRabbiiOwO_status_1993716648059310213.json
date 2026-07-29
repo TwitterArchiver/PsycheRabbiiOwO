@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1993716648059310213",
+    "created_at": "2025-11-26T16:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T17:20:32.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993716511161393489",
+      "1993716648059310213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/psycherabbiiow…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/psycherabbiiowo/status/1993348033053180190",
+          "start": 137,
+          "url": "https://t.co/mJ8yTfYomk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993716648059310213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993348033053180190",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就是觉得，现在的状态更像“男娘”，去看看人家的姿势啊穿搭啊什么的，\n\n发这个贴，是当时认为被拒原因是“不够男娘”，有点难过\n\n我知道头发再长一点会更pass了啦，现在这个朵拉发型真的好丑🥺\n\n评论我都点赞了哦真的很感谢你们😭😭\n\n打光，发型，姿势，眼镜，😭😭😭会改的会改的 https://t.co/mJ8yTfYomk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1357,
+        "media_key": "3_1993348023427252227",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6nLd1IbwAMtql0.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1993716511161393489",
+        "created_at": "2025-11-26T16:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T17:20:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993716511161393489",
+          "1993716648059310213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/psycherabbiiowo/status/1993348033053180190",
+              "start": 128,
+              "url": "https://t.co/mJ8yTfYomk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993716511161393489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993348033053180190",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是觉得，现在的状态更像“男娘”，去看看人家的姿势啊穿搭啊什么的，\n\n发这个贴，是当时认为被拒原因是“不够男娘”，有点难过\n\n我知道头发再长一点会更pass了啦，现在这个朵拉发型真的好丑🥺\n\n评论我都点赞了哦\n\n打光，发型，姿势，眼镜，😭😭😭会改的会改的 https://t.co/mJ8yTfYomk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1993716648059310213",
+        "created_at": "2025-11-26T16:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T17:20:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993716511161393489",
+          "1993716648059310213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/psycherabbiiowo/status/1993348033053180190",
+              "start": 137,
+              "url": "https://t.co/mJ8yTfYomk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993716648059310213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993348033053180190",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是觉得，现在的状态更像“男娘”，去看看人家的姿势啊穿搭啊什么的，\n\n发这个贴，是当时认为被拒原因是“不够男娘”，有点难过\n\n我知道头发再长一点会更pass了啦，现在这个朵拉发型真的好丑🥺\n\n评论我都点赞了哦真的很感谢你们😭😭\n\n打光，发型，姿势，眼镜，😭😭😭会改的会改的 https://t.co/mJ8yTfYomk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993348023427252227"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1993348033053180190",
+        "created_at": "2025-11-25T15:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993348033053180190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXNcUMUGK2",
+              "end": 95,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1993348033053180190/photo/1",
+              "media_key": "3_1993348023427252227",
+              "start": 72,
+              "url": "https://t.co/nXNcUMUGK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993348033053180190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 20868,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 55,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加男娘群被拒\n这是照片\n\n想潜水学学变好看的办法，还有拍照技巧\n唉算了\n\n我永远不是男娘，我只是我\n再也不去加什么群了\n反正那些群也没人会搭理 https://t.co/nXNcUMUGK2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/165cm 52kg 本人很丑别骂我/这里这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰（🏳️‍⚧️💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 581,
+          "like_count": 1357,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 724
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

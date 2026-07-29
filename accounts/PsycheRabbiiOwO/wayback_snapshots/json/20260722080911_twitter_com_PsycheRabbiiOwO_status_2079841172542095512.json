@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2079822679763493322",
+    "created_at": "2026-07-22T08:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079841172542095512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1654288451444027392",
+          "start": 0,
+          "username": "LoutsWang96751"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079841172542095512",
+    "in_reply_to_user_id": "1654288451444027392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079839696155500777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoutsWang96751 术的话，先切🥚吧，全套可能要暴富才行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2079822679763493322",
+        "created_at": "2026-07-22T08:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079841172542095512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1654288451444027392",
+              "start": 0,
+              "username": "LoutsWang96751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079841172542095512",
+        "in_reply_to_user_id": "1654288451444027392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079839696155500777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoutsWang96751 术的话，先切🥚吧，全套可能要暴富才行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654288451444027392",
+        "conversation_id": "2079822679763493322",
+        "created_at": "2026-07-22T08:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079839696155500777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079839696155500777",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079822679763493322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO ?不术了是吧3000砍到1000生活1000消费?0!药?放消费里面!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 1726,
+          "like_count": 20548,
+          "listed_count": 2,
+          "media_count": 342,
+          "tweet_count": 3090
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-05T00:54:54.000Z",
+        "description": "",
+        "id": "1654288451444027392",
+        "name": "louts wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654288526568214528/gciyoPuY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 19,
+          "like_count": 1508,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1857
+        },
+        "url": "",
+        "username": "LoutsWang96751",
+        "verified": false
+      }
+    ]
+  }
+}

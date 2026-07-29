@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2018783406134583591",
+    "created_at": "2026-02-04T10:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T11:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018997484740395137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2005261732751802368",
+          "start": 0,
+          "username": "HappyHejsDay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018997484740395137",
+    "in_reply_to_user_id": "2005261732751802368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018783406134583591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappyHejsDay 姐姐属于超好看🥹🥹🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2018783406134583591",
+        "created_at": "2026-02-04T10:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T11:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018997484740395137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2005261732751802368",
+              "start": 0,
+              "username": "HappyHejsDay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018997484740395137",
+        "in_reply_to_user_id": "2005261732751802368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018783406134583591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappyHejsDay 姐姐属于超好看🥹🥹🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005261732751802368",
+        "conversation_id": "2018783406134583591",
+        "created_at": "2026-02-03T20:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T21:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018783406134583591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3966815780c/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/3966815780c/status/2018444954889253347",
+              "start": 15,
+              "url": "https://t.co/tBVhIMzD1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018783406134583591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 864,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018444954889253347",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也这么好看的话那该多好啊😭 https://t.co/tBVhIMzD1f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 904,
+          "like_count": 3477,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1233
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T12:57:17.000Z",
+        "description": "低脂國奻｜衰老阿姨｜中獎滿天星｜Queer｜amab｜🇭🇰🇹🇼🇨🇳🇲🇴｜弱智香港大學生｜大灣區爬蟲｜失敗交易員｜見習碼農｜某司神秘研發人員｜健全逼｜好人｜同类互fo｜前世@franciswwwww｜寵物@Fe_ions｜寶寶們@MoriSaSaaa @SuzukiHnnn @PaulDrizzyvlni",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 109,
+                "start": 101,
+                "username": "Fe_ions"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "MoriSaSaaa"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "SuzukiHnnn"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "PaulDrizzyvlni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/franciswwwww",
+                "end": 23,
+                "expanded_url": "https://ngl.link/franciswwwww",
+                "start": 0,
+                "url": "https://t.co/XuuvUtwymh"
+              }
+            ]
+          }
+        },
+        "id": "2005261732751802368",
+        "location": "In your heart",
+        "name": "𝕙𝕖𝕛😉二號機（假期版",
+        "pinned_tweet_id": "2015422685984248135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012708787048652800/hgC2ksJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 790,
+          "like_count": 3383,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1971
+        },
+        "url": "https://t.co/XuuvUtwymh",
+        "username": "HappyHejsDay",
+        "verified": false
+      }
+    ]
+  }
+}

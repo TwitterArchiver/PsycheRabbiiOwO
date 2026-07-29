@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2064528422853111889",
+    "created_at": "2026-06-10T05:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064578314598256675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1680180818210357249",
+          "start": 0,
+          "username": "huizhao914539"
+        },
+        {
+          "end": 31,
+          "id": "1759787246587379712",
+          "start": 15,
+          "username": "RainEngine2024m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064578314598256675",
+    "in_reply_to_user_id": "1680180818210357249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064548696893845642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huizhao914539 @RainEngine2024m 习是男畜吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2064528422853111889",
+        "created_at": "2026-06-10T05:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064578314598256675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1680180818210357249",
+              "start": 0,
+              "username": "huizhao914539"
+            },
+            {
+              "end": 31,
+              "id": "1759787246587379712",
+              "start": 15,
+              "username": "RainEngine2024m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064578314598256675",
+        "in_reply_to_user_id": "1680180818210357249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064548696893845642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huizhao914539 @RainEngine2024m 习是男畜吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680180818210357249",
+        "conversation_id": "2064528422853111889",
+        "created_at": "2026-06-10T03:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064548696893845642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1759787246587379712",
+              "start": 0,
+              "username": "RainEngine2024m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064548696893845642",
+        "in_reply_to_user_id": "1759787246587379712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064528422853111889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024m 吃完父母啃姐妹的男畜又出来丢人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 1531,
+          "like_count": 16647,
+          "listed_count": 3,
+          "media_count": 290,
+          "tweet_count": 2612
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T11:41:50.000Z",
+        "description": "",
+        "id": "1680180818210357249",
+        "name": "退休青年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869566525314838528/QAmF9GnP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 445,
+          "like_count": 1378,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 1488
+        },
+        "username": "huizhao914539",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "互 foDM | 数码  | mi |\n雨擎@RainEngine2024（公关顾问和产品高级体验官）|\n二代目@RainEngine2024s（生活号）| 感谢@acnekot 送的Premium |\n分配公平、文化包容、社会平等、舆论开放，这就 是社会主义 | 商务：kernelwang2009@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "RainEngine2024"
+              },
+              {
+                "end": 72,
+                "start": 56,
+                "username": "RainEngine2024s"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "username": "acnekot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.com",
+                "end": 23,
+                "expanded_url": "http://mi.com",
+                "start": 0,
+                "url": "https://t.co/8NnopKeAgF"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "National Gallery Singapore🇸🇬",
+        "name": "高坂穗奈雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063923048898768896/VHFTkbhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1785,
+          "following_count": 1590,
+          "like_count": 3947,
+          "listed_count": 13,
+          "media_count": 688,
+          "tweet_count": 2402
+        },
+        "url": "https://t.co/8NnopKeAgF",
+        "username": "RainEngine2024m",
+        "verified": true
+      }
+    ]
+  }
+}

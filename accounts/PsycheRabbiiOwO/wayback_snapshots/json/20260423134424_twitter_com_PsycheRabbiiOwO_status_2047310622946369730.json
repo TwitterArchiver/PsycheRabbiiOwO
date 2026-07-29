@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2046933677943447768",
+    "created_at": "2026-04-23T13:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047310622946369730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1940055088392982528",
+          "start": 0,
+          "username": "Kkkokoro366054"
+        },
+        {
+          "end": 25,
+          "id": "1541248951843663873",
+          "start": 16,
+          "username": "Anermoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047310622946369730",
+    "in_reply_to_user_id": "1940055088392982528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047298106518286642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kkkokoro366054 @Anermoka 🤔其实往致死量o的，和酒桌上拼酒量的，都更像是自残倾向吧.....快感是有，但是到那个量了，快感和痛感哪个大还真不好说。。\n\n还有种可能就是，群体身份认同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2046933677943447768",
+        "created_at": "2026-04-23T13:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047310622946369730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1940055088392982528",
+              "start": 0,
+              "username": "Kkkokoro366054"
+            },
+            {
+              "end": 25,
+              "id": "1541248951843663873",
+              "start": 16,
+              "username": "Anermoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047310622946369730",
+        "in_reply_to_user_id": "1940055088392982528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047298106518286642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kkkokoro366054 @Anermoka 🤔其实往致死量o的，和酒桌上拼酒量的，都更像是自残倾向吧.....快感是有，但是到那个量了，快感和痛感哪个大还真不好说。。\n\n还有种可能就是，群体身份认同"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940055088392982528",
+        "conversation_id": "2046933677943447768",
+        "created_at": "2026-04-23T12:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047298106518286642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            },
+            {
+              "end": 26,
+              "id": "1541248951843663873",
+              "start": 17,
+              "username": "Anermoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047298106518286642",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047090569642688922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO @Anermoka 其实感觉现在也是。本质上都是为了追求精神快感而去使用物质。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 1330,
+          "like_count": 9495,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 2071
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-01T14:29:21.000Z",
+        "description": "转生🍎，可以叫我苹果\n墙内cn见ID号，不要扒我qwq\n06/od/自残/双相/睡眠障碍/生理心理认同女/双性恋\n/互fo/欢迎相同的不同的宝宝来和我玩\n我不吸毒也不贩卖任何东西\n᧔ෆ᧓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%BB%A2%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%BB%A2%E7%94%9F%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB",
+                "start": 0,
+                "url": "https://t.co/D3c9rYfsFk"
+              }
+            ]
+          }
+        },
+        "id": "1940055088392982528",
+        "name": "ᶻz ₍^_ ̫ _^₎",
+        "pinned_tweet_id": "2044479790258987461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044473730177572865/feN5YyYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 25,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/D3c9rYfsFk",
+        "username": "Kkkokoro366054",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T02:36:10.000Z",
+        "description": "只是恰好路过这个世界",
+        "id": "1541248951843663873",
+        "location": "驻马店",
+        "name": "而已",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931245645597380608/xHAWTaMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 209,
+          "like_count": 16166,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 542
+        },
+        "username": "Anermoka",
+        "verified": false
+      }
+    ]
+  }
+}

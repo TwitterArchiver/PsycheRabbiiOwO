@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2068803812161393136",
+    "created_at": "2026-06-22T10:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069004910260318552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1221562724829691905",
+          "start": 0,
+          "username": "gozZoazYckXOXcW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/xiey57828/stat…",
+          "end": 52,
+          "expanded_url": "https://x.com/xiey57828/status/2067959167315230961?s=46",
+          "start": 29,
+          "url": "https://t.co/ZIJsnuQlvi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069004910260318552",
+    "in_reply_to_user_id": "1221562724829691905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067959167315230961",
+        "type": "quoted"
+      },
+      {
+        "id": "2069001149785772419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gozZoazYckXOXcW 因为这个，很多人应激了\nhttps://t.co/ZIJsnuQlvi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_2067959159325065217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLd5h2WAAErQ92.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2068803812161393136",
+        "created_at": "2026-06-22T10:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069004910260318552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1221562724829691905",
+              "start": 0,
+              "username": "gozZoazYckXOXcW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xiey57828/stat…",
+              "end": 52,
+              "expanded_url": "https://x.com/xiey57828/status/2067959167315230961?s=46",
+              "start": 29,
+              "url": "https://t.co/ZIJsnuQlvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069004910260318552",
+        "in_reply_to_user_id": "1221562724829691905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067959167315230961",
+            "type": "quoted"
+          },
+          {
+            "id": "2069001149785772419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gozZoazYckXOXcW 因为这个，很多人应激了\nhttps://t.co/ZIJsnuQlvi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067959159325065217"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2067959167315230961",
+        "created_at": "2026-06-19T13:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067959167315230961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gp286F2yFi",
+              "end": 23,
+              "expanded_url": "https://x.com/xiey57828/status/2067959167315230961/photo/1",
+              "media_key": "3_2067959159325065217",
+              "start": 0,
+              "url": "https://t.co/Gp286F2yFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067959167315230961",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 43377,
+          "like_count": 82,
+          "quote_count": 12,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Gp286F2yFi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1221562724829691905",
+        "conversation_id": "2068803812161393136",
+        "created_at": "2026-06-22T10:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069001149785772419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069001149785772419",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068803812161393136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 怎么又开始这个问题了 四年能在x看n次讨论这个问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 1587,
+          "like_count": 17670,
+          "listed_count": 3,
+          "media_count": 286,
+          "tweet_count": 2701
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-26T22:37:11.000Z",
+        "description": "Amab  |公开频道：https://t.co/o7u3PzZ637 |联系方式:https://t.co/GnRL4ruaVX |点赞不代表赞同观点 |Μαsтоdоn：@yongyiwang |Βsκу：@yongyiwang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "yongyiwang"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "yongyiwang"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/bakayong",
+                "end": 35,
+                "expanded_url": "https://t.me/bakayong",
+                "start": 12,
+                "url": "https://t.co/o7u3PzZ637"
+              },
+              {
+                "display_url": "t.me/Yongyi_dm_bot",
+                "end": 65,
+                "expanded_url": "http://t.me/Yongyi_dm_bot",
+                "start": 42,
+                "url": "https://t.co/GnRL4ruaVX"
+              }
+            ]
+          }
+        },
+        "id": "1221562724829691905",
+        "name": "永仪#咸鱼版",
+        "pinned_tweet_id": "1534197498281328640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862179978751684609/NWGhr4LD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26408,
+          "following_count": 3032,
+          "like_count": 32252,
+          "listed_count": 31,
+          "media_count": 784,
+          "tweet_count": 15587
+        },
+        "url": "",
+        "username": "gozZoazYckXOXcW",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂出生2004的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺缺爱b，渴望被爱…\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 476,
+          "like_count": 9300,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 3550
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

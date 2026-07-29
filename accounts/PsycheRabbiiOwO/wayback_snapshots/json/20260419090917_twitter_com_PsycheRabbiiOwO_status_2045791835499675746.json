@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2045687804869709864",
+    "created_at": "2026-04-19T09:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T10:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045791835499675746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1664056708925382656",
+          "start": 0,
+          "username": "a3155971996"
+        },
+        {
+          "end": 24,
+          "id": "1756909109788753920",
+          "start": 13,
+          "username": "__fanqie__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045791835499675746",
+    "in_reply_to_user_id": "1664056708925382656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045729316923916411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a3155971996 @__fanqie__ 不是，那是克隆啊，跟这个没关系\n\n克隆：体细胞细胞核植入去核卵细胞，诱导形成胚胎\n\n上面提到的：体细胞诱导成多能干细胞，分化成生殖细胞，走正常的受精流程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2045687804869709864",
+        "created_at": "2026-04-19T09:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045791835499675746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1664056708925382656",
+              "start": 0,
+              "username": "a3155971996"
+            },
+            {
+              "end": 24,
+              "id": "1756909109788753920",
+              "start": 13,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045791835499675746",
+        "in_reply_to_user_id": "1664056708925382656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045729316923916411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a3155971996 @__fanqie__ 不是，那是克隆啊，跟这个没关系\n\n克隆：体细胞细胞核植入去核卵细胞，诱导形成胚胎\n\n上面提到的：体细胞诱导成多能干细胞，分化成生殖细胞，走正常的受精流程"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664056708925382656",
+        "conversation_id": "2045687804869709864",
+        "created_at": "2026-04-19T05:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045729316923916411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            },
+            {
+              "end": 28,
+              "id": "1756909109788753920",
+              "start": 17,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045729316923916411",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045717797796516250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO @__fanqie__ 小白鼠那个，20年，57代已经宣布失败了出生率只有6％"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 1305,
+          "like_count": 8734,
+          "listed_count": 2,
+          "media_count": 238,
+          "tweet_count": 1991
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-31T23:50:45.000Z",
+        "description": "",
+        "id": "1664056708925382656",
+        "name": "无名之师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664057615201206273/AKONZL-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 204,
+          "like_count": 230,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 1388
+        },
+        "username": "a3155971996",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/侵权私信删除\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2045499488916381709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4745,
+          "following_count": 2970,
+          "like_count": 1504,
+          "listed_count": 6,
+          "media_count": 968,
+          "tweet_count": 8790
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

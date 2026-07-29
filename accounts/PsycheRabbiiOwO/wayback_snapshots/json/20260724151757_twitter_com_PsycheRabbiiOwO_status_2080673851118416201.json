@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2080533242508366081",
+    "created_at": "2026-07-24T15:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080673851118416201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3318278592",
+          "start": 0,
+          "username": "BigglesworthX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080673851118416201",
+    "in_reply_to_user_id": "3318278592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080533242508366081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigglesworthX 刚去照下镜子，你害我今晚睡不着了🤬🤬🤬🤬🤬🤬🤬\n\n我要有你这么好看就好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2080533239907938305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-J9WQa8AE-2Ei.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2080533239907938304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-J9WQa8AA-KZu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2080533242508366081",
+        "created_at": "2026-07-24T15:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080673851118416201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3318278592",
+              "start": 0,
+              "username": "BigglesworthX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080673851118416201",
+        "in_reply_to_user_id": "3318278592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080533242508366081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigglesworthX 刚去照下镜子，你害我今晚睡不着了🤬🤬🤬🤬🤬🤬🤬\n\n我要有你这么好看就好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080533239907938305",
+            "3_2080533239907938304"
+          ]
+        },
+        "author_id": "3318278592",
+        "conversation_id": "2080533242508366081",
+        "created_at": "2026-07-24T05:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080533242508366081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XtvR5dx39R",
+              "end": 44,
+              "expanded_url": "https://x.com/BigglesworthX/status/2080533242508366081/photo/1",
+              "media_key": "3_2080533239907938305",
+              "start": 21,
+              "url": "https://t.co/XtvR5dx39R"
+            },
+            {
+              "display_url": "pic.x.com/XtvR5dx39R",
+              "end": 44,
+              "expanded_url": "https://x.com/BigglesworthX/status/2080533242508366081/photo/1",
+              "media_key": "3_2080533239907938304",
+              "start": 21,
+              "url": "https://t.co/XtvR5dx39R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080533242508366081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1532,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眉毛剃成这个b样 刘海撩起来就一张大妈脸 https://t.co/XtvR5dx39R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 1741,
+          "like_count": 20798,
+          "listed_count": 2,
+          "media_count": 344,
+          "tweet_count": 3118
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-18T04:24:26.000Z",
+        "description": "Unfriendly neighborhood spider | Banned in 106 Chinese transgender chat group for posting spider pictures.",
+        "id": "3318278592",
+        "location": "San Francisco",
+        "name": "Hoggicosa bisexsual",
+        "pinned_tweet_id": "2038488362190020638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929429379127574528/USN-Qd2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2091,
+          "following_count": 953,
+          "like_count": 3332,
+          "listed_count": 4,
+          "media_count": 1512,
+          "tweet_count": 7626
+        },
+        "url": "",
+        "username": "BigglesworthX",
+        "verified": true
+      }
+    ]
+  }
+}

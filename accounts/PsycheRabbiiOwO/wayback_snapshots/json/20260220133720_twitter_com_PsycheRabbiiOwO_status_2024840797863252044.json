@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2024747364062548059",
+    "created_at": "2026-02-20T13:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T14:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024840797863252044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        },
+        {
+          "end": 27,
+          "id": "1682687182375636992",
+          "start": 11,
+          "username": "Cavaradossi1008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024840797863252044",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024761952820724065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama @Cavaradossi1008 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2024747364062548059",
+        "created_at": "2026-02-20T13:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024840797863252044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            },
+            {
+              "end": 27,
+              "id": "1682687182375636992",
+              "start": 11,
+              "username": "Cavaradossi1008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024840797863252044",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024761952820724065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama @Cavaradossi1008 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2024747364062548059",
+        "created_at": "2026-02-20T08:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T09:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024761952820724065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682687182375636992",
+              "start": 0,
+              "username": "Cavaradossi1008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024761952820724065",
+        "in_reply_to_user_id": "1682687182375636992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024747364062548059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cavaradossi1008 都是做题区，有什么好比的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 971,
+          "like_count": 4202,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1359
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student | ADHDer |Developer of @HRTtracker |  User | 🐱 Lover | Friends 🥰: @Huang_Yut1ng @fukui_p26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "fukui_p26"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mahiro.uk",
+                "end": 23,
+                "expanded_url": "https://mahiro.uk/",
+                "start": 0,
+                "url": "https://t.co/PpgQBsPRn6"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "🍀🍥Smirnova🍥🍀",
+        "pinned_tweet_id": "2024485030097981609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015097909088567296/r014MYfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 678,
+          "like_count": 3213,
+          "listed_count": 1,
+          "media_count": 398,
+          "tweet_count": 2331
+        },
+        "url": "https://t.co/PpgQBsPRn6",
+        "username": "smiroyama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-22T09:41:26.000Z",
+        "description": "நமசிவாய🔱sanatani🇮🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MajheMaherPand…",
+                "end": 23,
+                "expanded_url": "https://t.me/MajheMaherPandhari",
+                "start": 0,
+                "url": "https://t.co/bNqhFL3SPZ"
+              }
+            ]
+          }
+        },
+        "id": "1682687182375636992",
+        "location": "巴德里纳特,德瓦尔卡,普里,和拉梅斯瓦拉姆",
+        "name": "🇮🇳",
+        "pinned_tweet_id": "2007562246478827570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012458291763216385/t9Lxu0fj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 1431,
+          "like_count": 164088,
+          "listed_count": 9,
+          "media_count": 1234,
+          "tweet_count": 16712
+        },
+        "url": "https://t.co/bNqhFL3SPZ",
+        "username": "Cavaradossi1008",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2040332338937352420",
+    "created_at": "2026-04-04T09:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T10:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040364634503512201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040364634503512201",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040332338937352420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop 关注云鸠喵，关注云鸠谢谢喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4751,
+        "height": 2346,
+        "media_key": "13_2040332233823981568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040332233823981568/img/sr2pXsp41ymzslNT.jpg",
+        "public_metrics": {
+          "view_count": 607
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040332233823981568/pl/yC8XIHzjXFzYfNPN.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040332233823981568/vid/avc1/720x1278/0aN1INqbs3WzysqO.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040332233823981568/vid/avc1/1320x2346/t4oQzWb89EvDdLeo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040332233823981568/vid/avc1/480x852/2i_Q0yZ6l8skzWI6.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040332233823981568/vid/avc1/320x568/P9ksTTkTdDhVE9xQ.mp4"
+          }
+        ],
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2040332338937352420",
+        "created_at": "2026-04-04T09:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040364634503512201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040364634503512201",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040332338937352420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 关注云鸠喵，关注云鸠谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040332233823981568"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2040332338937352420",
+        "created_at": "2026-04-04T07:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040332338937352420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iz1617h36T",
+              "end": 36,
+              "expanded_url": "https://x.com/Cldeop/status/2040332338937352420/video/1",
+              "media_key": "13_2040332233823981568",
+              "start": 13,
+              "url": "https://t.co/Iz1617h36T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040332338937352420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2655,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "云鸠_Offical？！ https://t.co/Iz1617h36T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 1184,
+          "like_count": 6715,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 1723
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2035514809815638174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102228,
+          "following_count": 754,
+          "like_count": 35892,
+          "listed_count": 290,
+          "media_count": 17306,
+          "tweet_count": 24883
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

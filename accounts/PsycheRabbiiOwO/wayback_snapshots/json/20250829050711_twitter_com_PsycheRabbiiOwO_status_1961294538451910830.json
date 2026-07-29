@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961294530101325824"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1961294538451910830",
+    "created_at": "2025-08-29T05:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T06:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961294538451910830"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vQCCR3YrRK",
+          "end": 50,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1961294538451910830/photo/1",
+          "media_key": "3_1961294530101325824",
+          "start": 27,
+          "url": "https://t.co/vQCCR3YrRK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961294538451910830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "实测\n所有玩具都不如这玩意\n\n当然，最好的还得是对象 https://t.co/vQCCR3YrRK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1558,
+        "media_key": "3_1961294530101325824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzfq-9abMAA_OYg.jpg",
+        "width": 1292
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961294530101325824"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1961294538451910830",
+        "created_at": "2025-08-29T05:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T06:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961294538451910830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQCCR3YrRK",
+              "end": 50,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1961294538451910830/photo/1",
+              "media_key": "3_1961294530101325824",
+              "start": 27,
+              "url": "https://t.co/vQCCR3YrRK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961294538451910830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实测\n所有玩具都不如这玩意\n\n当然，最好的还得是对象 https://t.co/vQCCR3YrRK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/生理男心理（不确定）/可能是泛性恋？/有对象了已经/目前无糖/聊得来可以面基哦/联系方式私信，欢迎骚扰！！！/主页转发抽象贴子，不代表本人看法捏",
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "一只冻冻兔",
+        "pinned_tweet_id": "1961232825291841547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 343,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 274
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

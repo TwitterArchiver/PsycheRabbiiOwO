@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952403845319184384"
+      ],
+      "media_source_tweet_id": [
+        "1952403903074693522"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1967479575455436924",
+    "created_at": "2025-09-15T06:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T07:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967479575455436924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1673503141499908096",
+          "start": 3,
+          "username": "SpiritG49651"
+        },
+        {
+          "end": 28,
+          "id": "1639816523190763521",
+          "start": 18,
+          "username": "ggdxfulan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lc3xOmtWyc",
+          "end": 52,
+          "expanded_url": "https://x.com/SpiritG49651/status/1952403903074693522/photo/1",
+          "media_key": "3_1952403845319184384",
+          "start": 29,
+          "url": "https://t.co/lc3xOmtWyc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967479575455436924",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952403903074693522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SpiritG49651: @ggdxfulan https://t.co/lc3xOmtWyc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1952403845319184384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxhU8_pbUAA6ikl.jpg",
+        "width": 1328
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952403845319184384"
+          ],
+          "media_source_tweet_id": [
+            "1952403903074693522"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1967479575455436924",
+        "created_at": "2025-09-15T06:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T07:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967479575455436924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1673503141499908096",
+              "start": 3,
+              "username": "SpiritG49651"
+            },
+            {
+              "end": 28,
+              "id": "1639816523190763521",
+              "start": 18,
+              "username": "ggdxfulan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lc3xOmtWyc",
+              "end": 52,
+              "expanded_url": "https://x.com/SpiritG49651/status/1952403903074693522/photo/1",
+              "media_key": "3_1952403845319184384",
+              "start": 29,
+              "url": "https://t.co/lc3xOmtWyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967479575455436924",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952403903074693522",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SpiritG49651: @ggdxfulan https://t.co/lc3xOmtWyc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952403845319184384"
+          ]
+        },
+        "author_id": "1673503141499908096",
+        "conversation_id": "1952204575374803207",
+        "created_at": "2025-08-04T16:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T17:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952403903074693522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lc3xOmtWyc",
+              "end": 34,
+              "expanded_url": "https://x.com/SpiritG49651/status/1952403903074693522/photo/1",
+              "media_key": "3_1952403845319184384",
+              "start": 11,
+              "url": "https://t.co/lc3xOmtWyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952403903074693522",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952204575374803207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan https://t.co/lc3xOmtWyc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/含糖男娘🍥2025.09.06//可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 414,
+          "like_count": 369,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 370
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T01:27:32.000Z",
+        "description": "",
+        "id": "1673503141499908096",
+        "name": "spirit golden",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673503297523818496/HOKTrgMQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 304,
+          "like_count": 13029,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 305
+        },
+        "username": "SpiritG49651",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "MtX药娘只1不0永不翻车、持MtF证(莫名其妙开出来的)、抖s、ENFP，男同攻、姐T的组合体，喜欢草人",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐🍥—药圈潘宏",
+        "pinned_tweet_id": "1956173228302589992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929849322272968704/hQan_chB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10864,
+          "following_count": 447,
+          "like_count": 26392,
+          "listed_count": 19,
+          "media_count": 2897,
+          "tweet_count": 9883
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

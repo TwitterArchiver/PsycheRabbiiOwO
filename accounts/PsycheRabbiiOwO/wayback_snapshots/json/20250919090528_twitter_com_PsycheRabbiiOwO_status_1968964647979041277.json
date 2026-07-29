@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968959706111905792"
+      ],
+      "media_source_tweet_id": [
+        "1968959732460216691"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1968964647979041277",
+    "created_at": "2025-09-19T09:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T10:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968964647979041277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1922900250211254273",
+          "start": 3,
+          "username": "kylooong"
+        },
+        {
+          "end": 24,
+          "id": "1619713631645728768",
+          "start": 14,
+          "username": "time_devb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YxGVE601A7",
+          "end": 55,
+          "expanded_url": "https://x.com/kylooong/status/1968959732460216691/photo/1",
+          "media_key": "3_1968959706111905792",
+          "start": 32,
+          "url": "https://t.co/YxGVE601A7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968964647979041277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968959732460216691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kylooong: @time_devb 竟然不是小米 https://t.co/YxGVE601A7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 110,
+        "media_key": "3_1968959706111905792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Mma7PbkAAG_mc.jpg",
+        "width": 238
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968959706111905792"
+          ],
+          "media_source_tweet_id": [
+            "1968959732460216691"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1968964647979041277",
+        "created_at": "2025-09-19T09:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T10:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968964647979041277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1922900250211254273",
+              "start": 3,
+              "username": "kylooong"
+            },
+            {
+              "end": 24,
+              "id": "1619713631645728768",
+              "start": 14,
+              "username": "time_devb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YxGVE601A7",
+              "end": 55,
+              "expanded_url": "https://x.com/kylooong/status/1968959732460216691/photo/1",
+              "media_key": "3_1968959706111905792",
+              "start": 32,
+              "url": "https://t.co/YxGVE601A7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968964647979041277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968959732460216691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kylooong: @time_devb 竟然不是小米 https://t.co/YxGVE601A7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968959706111905792"
+          ]
+        },
+        "author_id": "1922900250211254273",
+        "conversation_id": "1968941587951407518",
+        "created_at": "2025-09-19T08:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T09:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968959732460216691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1619713631645728768",
+              "start": 0,
+              "username": "time_devb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YxGVE601A7",
+              "end": 41,
+              "expanded_url": "https://x.com/kylooong/status/1968959732460216691/photo/1",
+              "media_key": "3_1968959706111905792",
+              "start": 18,
+              "url": "https://t.co/YxGVE601A7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968959732460216691",
+        "in_reply_to_user_id": "1619713631645728768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968941587951407518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@time_devb 竟然不是小米 https://t.co/YxGVE601A7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/含糖男娘🍥2025.09.06//可能是泛性恋？/有对象了已经🥰@pirapira2112/🚪18/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 420,
+          "like_count": 388,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 390
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T06:22:11.000Z",
+        "description": "一只迟钝的呆龙/ furry暂时还没装/ 🌈/ 比较随和，欢迎扩列聊天/ Cybersecurity/ 最近在玩helldivers /表推垃圾桶碎碎念 /看到毛毛基本都会关注",
+        "id": "1922900250211254273",
+        "location": "Beijing",
+        "name": "凯凯凯凯龙",
+        "pinned_tweet_id": "1960378905791262894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959907459776335873/DUzQwQM9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 247,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 265
+        },
+        "username": "kylooong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T15:07:03.000Z",
+        "description": "17y🏳️‍🌈 26Fall |天文|飞友|业余无线电| @nothxplzleaveme",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 29,
+                "username": "nothxplzleaveme"
+              }
+            ]
+          }
+        },
+        "id": "1619713631645728768",
+        "location": "Shanghai, China",
+        "name": "亦竹 / BH4GZJ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854012394667655179/8wR00F7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4396,
+          "following_count": 2776,
+          "like_count": 24816,
+          "listed_count": 7,
+          "media_count": 326,
+          "tweet_count": 3181
+        },
+        "username": "time_devb",
+        "verified": true
+      }
+    ]
+  }
+}

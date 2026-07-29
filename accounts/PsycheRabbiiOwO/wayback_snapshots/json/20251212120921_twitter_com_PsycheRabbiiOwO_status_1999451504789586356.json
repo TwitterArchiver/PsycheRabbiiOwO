@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1999451504789586356",
+    "created_at": "2025-12-12T12:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T13:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999451504789586356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xianzhong_1953…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/xianzhong_1953/status/1999318527241834766",
+          "start": 81,
+          "url": "https://t.co/jLddjoypUN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999451504789586356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999318527241834766",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我超还真是\n\n当时主任疯狂给我加药\n同组的年轻医生看不下去了\n偷偷跟我说\n“有些价值观层面的东西你撒撒谎得了，隔壁那床的小伙子攻击她党员身份，你看看他什么下场” https://t.co/jLddjoypUN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1999451504789586356",
+        "created_at": "2025-12-12T12:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T13:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999451504789586356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xianzhong_1953…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/xianzhong_1953/status/1999318527241834766",
+              "start": 81,
+              "url": "https://t.co/jLddjoypUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999451504789586356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999318527241834766",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我超还真是\n\n当时主任疯狂给我加药\n同组的年轻医生看不下去了\n偷偷跟我说\n“有些价值观层面的东西你撒撒谎得了，隔壁那床的小伙子攻击她党员身份，你看看他什么下场” https://t.co/jLddjoypUN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "912623216899715072",
+        "conversation_id": "1999318527241834766",
+        "created_at": "2025-12-12T03:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T04:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999318527241834766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999318527241834766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 115079,
+          "like_count": 814,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "发一个墙内看病小技巧：\n在墙内看病治疗时，如果挂号的医生同为主任医师或副主任医师，一定不要选党员。一个非党员的主任医师或副主任医师，一般是那种很负责、很有钻研精神的人，而且这类人通常不钻营。\n\n不一定完全准确，但准确率超过90%。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/本人长相普通别骂我参考亮点里的照片/只混生物圈岩石圈大气圈水圈/这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰（🏳️‍⚧️💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 711,
+          "like_count": 2138,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 933
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "唯一账号，年过七旬的小孩子。不是著名支黑哦，但是不妨碍俺盼献忠。\n\n曾经的浙江苗族人。\n\n已拉黑1亿条蛆 ，不在乎再多拉黑千八百条海内外各类蛆虫 。🕷学资深专家。诅咒回复俺推特的粉蛆、战螂们死一户口本。\n体制内外的阶级对立和阶级矛盾才是墙内最大问题！",
+        "id": "912623216899715072",
+        "location": "Hawaii, USA",
+        "name": "红袍猫后Penny",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974500216377163776/cCRJ74YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105497,
+          "following_count": 802,
+          "like_count": 242535,
+          "listed_count": 344,
+          "media_count": 22811,
+          "tweet_count": 44276
+        },
+        "username": "Xianzhong_1953",
+        "verified": false
+      }
+    ]
+  }
+}

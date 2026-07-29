@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047981037846941696"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2047981044465533310",
+    "created_at": "2026-04-25T10:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T11:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047981044465533310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T1VhKOsdTR",
+          "end": 39,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2047981044465533310/photo/1",
+          "media_key": "3_2047981037846941696",
+          "start": 16,
+          "url": "https://t.co/T1VhKOsdTR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047981044465533310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "119条bot追着杀\n太恐怖了 https://t.co/T1VhKOsdTR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1133,
+        "media_key": "3_2047981037846941696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvj5zuaUAA8V62.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047981037846941696"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2047981044465533310",
+        "created_at": "2026-04-25T10:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047981044465533310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T1VhKOsdTR",
+              "end": 39,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2047981044465533310/photo/1",
+              "media_key": "3_2047981037846941696",
+              "start": 16,
+              "url": "https://t.co/T1VhKOsdTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047981044465533310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "119条bot追着杀\n太恐怖了 https://t.co/T1VhKOsdTR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/我喜欢你你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 1353,
+          "like_count": 10138,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 2148
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

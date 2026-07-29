@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2068933076936425549",
+    "created_at": "2026-06-22T05:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T06:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068933076936425549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1552918719440924672",
+          "start": 3,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068933076936425549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068911835366224197",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @itsCatRoll: 非常感谢你们的支持呀，非常感谢你们对猫卷的支持与信任，感谢你们🙏。 原材料是印雌 以后都会给大家写清楚 介意请勿下单 大雌枭叫了十几年了 不存在欺诈等行为都是大家的支持给了猫卷热搜的流量 本来就是小本生意 也没有故意存在欺诈宣传 太对不起大家了🌹…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2068933076936425549",
+        "created_at": "2026-06-22T05:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068933076936425549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552918719440924672",
+              "start": 3,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068933076936425549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068911835366224197",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @itsCatRoll: 非常感谢你们的支持呀，非常感谢你们对猫卷的支持与信任，感谢你们🙏。 原材料是印雌 以后都会给大家写清楚 介意请勿下单 大雌枭叫了十几年了 不存在欺诈等行为都是大家的支持给了猫卷热搜的流量 本来就是小本生意 也没有故意存在欺诈宣传 太对不起大家了🌹…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2068911835366224197",
+        "created_at": "2026-06-22T04:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068911835366224197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yorei_puewwoc/…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/yorei_puewwoc/status/2068875393290080518",
+              "start": 144,
+              "url": "https://t.co/IPRSgIDsQH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068911835366224197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 705,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068875393290080518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "非常感谢你们的支持呀，非常感谢你们对猫卷的支持与信任，感谢你们🙏。 原材料是印雌 以后都会给大家写清楚 介意请勿下单 大雌枭叫了十几年了 不存在欺诈等行为都是大家的支持给了猫卷热搜的流量 本来就是小本生意 也没有故意存在欺诈宣传 太对不起大家了🌹🙏\n耽误了大家的宝贵时间万分抱歉🙏🙏🤝🌹 https://t.co/IPRSgIDsQH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 1587,
+          "like_count": 17647,
+          "listed_count": 3,
+          "media_count": 285,
+          "tweet_count": 2697
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "（即将退休的）糖商🍥\n基本是除了团购以外能找到的最低价\n\n永久锁推账号@LTSxn0z\n\n💌@hobartr6\n妹妹@leetfs1\n笨蛋肥鸟姐姐@hoshi_asuka0089\n大猫@_furryfur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "LTSxn0z"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "hobartr6"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "username": "leetfs1"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "_furryfur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linker2k",
+                "end": 23,
+                "expanded_url": "http://t.me/linker2k",
+                "start": 0,
+                "url": "https://t.co/9ukBrb4ybC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺 ➡️",
+        "name": "猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067930460949458944/WcXdOVaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4097,
+          "following_count": 842,
+          "like_count": 4220,
+          "listed_count": 9,
+          "media_count": 100,
+          "tweet_count": 708
+        },
+        "url": "https://t.co/9ukBrb4ybC",
+        "username": "itsCatRoll",
+        "verified": false
+      }
+    ]
+  }
+}

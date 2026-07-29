@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2065106509110169927",
+    "created_at": "2026-06-11T16:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T17:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065106509110169927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2044319134326964224",
+          "start": 3,
+          "username": "znwov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065106509110169927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065022393127760279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @znwov: 最傻逼的传统就是这个，一群疯批巴不得所有中国人全都一个模子抠出来的，全都寸头碳水四眼崽做题蛆进化到早上九点到公司晚上九点下班一周工作六天的上班族，然后金光闪闪诞下一子。一点额外的消费都不要有，统一统到生活每一个细节每一个思想里，思想罪cos一下1984我看…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2065106509110169927",
+        "created_at": "2026-06-11T16:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065106509110169927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2044319134326964224",
+              "start": 3,
+              "username": "znwov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065106509110169927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065022393127760279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @znwov: 最傻逼的传统就是这个，一群疯批巴不得所有中国人全都一个模子抠出来的，全都寸头碳水四眼崽做题蛆进化到早上九点到公司晚上九点下班一周工作六天的上班族，然后金光闪闪诞下一子。一点额外的消费都不要有，统一统到生活每一个细节每一个思想里，思想罪cos一下1984我看…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044319134326964224",
+        "conversation_id": "2065022393127760279",
+        "created_at": "2026-06-11T10:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065022393127760279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jacque1inewong…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/jacque1inewong/status/2064927127196373039",
+              "start": 137,
+              "url": "https://t.co/wGEEaKuN2U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065022393127760279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3672,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064927127196373039",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最傻逼的传统就是这个，一群疯批巴不得所有中国人全都一个模子抠出来的，全都寸头碳水四眼崽做题蛆进化到早上九点到公司晚上九点下班一周工作六天的上班族，然后金光闪闪诞下一子。一点额外的消费都不要有，统一统到生活每一个细节每一个思想里，思想罪cos一下1984我看都并非天方夜谭。 https://t.co/wGEEaKuN2U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 1548,
+          "like_count": 16904,
+          "listed_count": 3,
+          "media_count": 296,
+          "tweet_count": 2642
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-15T07:37:25.000Z",
+        "description": "RETURN0506\nhrt2024.4.20\n音游&Apex Legends\n小号@XldMtX\n♥️@juhao0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 42,
+                "username": "XldMtX"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "2044319134326964224",
+        "name": "翎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044319211884032000/COXjezdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 391,
+          "like_count": 11512,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 2346
+        },
+        "username": "znwov",
+        "verified": false
+      }
+    ]
+  }
+}

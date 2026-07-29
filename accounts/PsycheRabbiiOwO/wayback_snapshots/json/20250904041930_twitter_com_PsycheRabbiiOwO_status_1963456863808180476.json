@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963456856569122818"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1963456863808180476",
+    "created_at": "2025-09-04T04:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T05:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963456863808180476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4j7eb5gKhc",
+          "end": 23,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1963456863808180476/photo/1",
+          "media_key": "3_1963456856569122818",
+          "start": 0,
+          "url": "https://t.co/4j7eb5gKhc"
+        },
+        {
+          "display_url": "x.com/mjsaiociao/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/mjsaiociao/status/1962856752275493051",
+          "start": 24,
+          "url": "https://t.co/B9lMvqQjSk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963456863808180476",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962856752275493051",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/4j7eb5gKhc https://t.co/B9lMvqQjSk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1750,
+        "media_key": "3_1963456856569122818",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz-Zm7ObkAIfRcJ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963456856569122818"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1963456863808180476",
+        "created_at": "2025-09-04T04:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T05:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963456863808180476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4j7eb5gKhc",
+              "end": 23,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1963456863808180476/photo/1",
+              "media_key": "3_1963456856569122818",
+              "start": 0,
+              "url": "https://t.co/4j7eb5gKhc"
+            },
+            {
+              "display_url": "x.com/mjsaiociao/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/mjsaiociao/status/1962856752275493051",
+              "start": 24,
+              "url": "https://t.co/B9lMvqQjSk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963456863808180476",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962856752275493051",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/4j7eb5gKhc https://t.co/B9lMvqQjSk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1120956001824305152",
+        "conversation_id": "1962811905225170968",
+        "created_at": "2025-09-02T12:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T13:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962856752275493051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962856752275493051",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6721,
+          "like_count": 282,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962811905225170968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 背后还有庄子给他撑腰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/生理男心理（不确定）/可能是泛性恋？/有对象了已经🥰@pirapira2112/目前无糖/联系方式私信，欢迎骚扰！！！/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 375,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 305
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-24T07:41:51.000Z",
+        "description": "Life is short, do it now",
+        "id": "1120956001824305152",
+        "name": "Maken",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1242726513612443649/wbrIVY7W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 345,
+          "like_count": 3172,
+          "listed_count": 7,
+          "media_count": 16,
+          "tweet_count": 408
+        },
+        "username": "mjsaiociao",
+        "verified": false
+      }
+    ]
+  }
+}

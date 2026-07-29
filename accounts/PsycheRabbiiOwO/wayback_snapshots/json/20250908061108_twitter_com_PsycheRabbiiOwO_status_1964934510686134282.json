@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964934475286020096"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1964934510686134282",
+    "created_at": "2025-09-08T06:11:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T07:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964934510686134282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q3r1Hrzolp",
+          "end": 23,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1964934510686134282/photo/1",
+          "media_key": "3_1964934475286020096",
+          "start": 0,
+          "url": "https://t.co/Q3r1Hrzolp"
+        },
+        {
+          "display_url": "x.com/shiro75707721/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/shiro75707721/status/1964903452225782147",
+          "start": 24,
+          "url": "https://t.co/E1wjPf39Md"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964934510686134282",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964903452225782147",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/Q3r1Hrzolp https://t.co/E1wjPf39Md"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2040,
+        "media_key": "3_1964934475286020096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0TZfp5XgAADUKH.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964934475286020096"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1964934510686134282",
+        "created_at": "2025-09-08T06:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T07:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964934510686134282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3r1Hrzolp",
+              "end": 23,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1964934510686134282/photo/1",
+              "media_key": "3_1964934475286020096",
+              "start": 0,
+              "url": "https://t.co/Q3r1Hrzolp"
+            },
+            {
+              "display_url": "x.com/shiro75707721/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/shiro75707721/status/1964903452225782147",
+              "start": 24,
+              "url": "https://t.co/E1wjPf39Md"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964934510686134282",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964903452225782147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Q3r1Hrzolp https://t.co/E1wjPf39Md"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1348198562874621955",
+        "conversation_id": "1964878069120016735",
+        "created_at": "2025-09-08T04:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T05:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964903452225782147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964903452225782147",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6393,
+          "like_count": 123,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964878069120016735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 下墓友人帳電子版"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/🍥2025.09.06/MTX/可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 386,
+          "like_count": 317,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 319
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-10T09:22:51.000Z",
+        "description": "你的能力，你的外型，都將為我所有                  \n因天罰而變黃的左眼，可使用瞬步",
+        "id": "1348198562874621955",
+        "name": "Shiro喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665586496005611520/ysU_rvAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 109,
+          "like_count": 17202,
+          "listed_count": 1,
+          "media_count": 747,
+          "tweet_count": 1506
+        },
+        "username": "Shiro75707721",
+        "verified": false
+      }
+    ]
+  }
+}

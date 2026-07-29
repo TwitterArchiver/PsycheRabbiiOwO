@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2066977807742451932",
+    "created_at": "2026-06-17T00:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067043800443416830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1497860307653251072",
+          "start": 0,
+          "username": "chengyiga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067043800443416830",
+    "in_reply_to_user_id": "1497860307653251072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066977807742451932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chengyiga 👀这是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 834,
+        "media_key": "3_2066977801736273920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9hW_8bwAAZVjq.jpg",
+        "width": 853
+      },
+      {
+        "height": 960,
+        "media_key": "3_2066977801732005888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9hW_7aoAA1Zev.jpg",
+        "width": 725
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2066977807742451932",
+        "created_at": "2026-06-17T00:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067043800443416830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1497860307653251072",
+              "start": 0,
+              "username": "chengyiga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067043800443416830",
+        "in_reply_to_user_id": "1497860307653251072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066977807742451932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengyiga 👀这是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066977801736273920",
+            "3_2066977801732005888"
+          ]
+        },
+        "author_id": "1497860307653251072",
+        "conversation_id": "2066977807742451932",
+        "created_at": "2026-06-16T20:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T21:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066977807742451932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5hUTkLpRFX",
+              "end": 40,
+              "expanded_url": "https://x.com/chengyiga/status/2066977807742451932/photo/1",
+              "media_key": "3_2066977801736273920",
+              "start": 17,
+              "url": "https://t.co/5hUTkLpRFX"
+            },
+            {
+              "display_url": "pic.x.com/5hUTkLpRFX",
+              "end": 40,
+              "expanded_url": "https://x.com/chengyiga/status/2066977807742451932/photo/1",
+              "media_key": "3_2066977801732005888",
+              "start": 17,
+              "url": "https://t.co/5hUTkLpRFX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066977807742451932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每月一针，感觉雌波动越来越平缓了 https://t.co/5hUTkLpRFX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 1576,
+          "like_count": 17309,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 2682
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-27T09:05:22.000Z",
+        "description": "奈昔❤️喵❤️曦月妹妹@Xiyue527sakura❤️最好的主人&姐姐洛米@chanyfgh❤️最喜欢贴贴筱琦@Xqqq0724❤️收留了汐颜妹妹@ChishioMoe❤️最可爱的玲绪@LX0505m❤️๑会一直陪着大家~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "Xiyue527sakura"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "chanyfgh"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Xqqq0724"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "ChishioMoe"
+              },
+              {
+                "end": 101,
+                "start": 93,
+                "username": "LX0505m"
+              }
+            ]
+          }
+        },
+        "id": "1497860307653251072",
+        "name": "沈奈昔（哀悼逝者版）",
+        "pinned_tweet_id": "1630921497257848834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593263084654579712/PjNt-IHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5365,
+          "following_count": 528,
+          "like_count": 25426,
+          "listed_count": 12,
+          "media_count": 1750,
+          "tweet_count": 9330
+        },
+        "username": "chengyiga",
+        "verified": false
+      }
+    ]
+  }
+}

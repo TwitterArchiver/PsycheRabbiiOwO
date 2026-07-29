@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2023515428295958528"
+      ],
+      "media_source_tweet_id": [
+        "2023515490107486633"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2023750833163383038",
+    "created_at": "2026-02-17T13:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T14:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023750833163383038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1620792340897054720",
+          "start": 3,
+          "username": "Orange007Orange"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GAiGog6W2L",
+          "end": 57,
+          "expanded_url": "https://x.com/Orange007Orange/status/2023515490107486633/video/1",
+          "media_key": "13_2023515428295958528",
+          "start": 34,
+          "url": "https://t.co/GAiGog6W2L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023750833163383038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023515490107486633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Orange007Orange: 他说最近生意不好 降价卖 https://t.co/GAiGog6W2L"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2023750833163383038].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2023750833163383038",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2023750833163383038"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6933,
+        "height": 1148,
+        "media_key": "13_2023515428295958528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023515428295958528/img/PFis2A6No79G104T.jpg",
+        "public_metrics": {
+          "view_count": 412
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023515428295958528/vid/avc1/320x510/iw9K5L3cPyAQrBbU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023515428295958528/vid/avc1/480x764/YWjalvobGUsp7SUX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023515428295958528/vid/avc1/720x1148/Q0Z9yse3HszbVW3B.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023515428295958528/pl/tfWwvaKrpRGRz9Hi.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023515428295958528"
+          ]
+        },
+        "author_id": "1620792340897054720",
+        "conversation_id": "2023515490107486633",
+        "created_at": "2026-02-16T21:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T22:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023515490107486633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GAiGog6W2L",
+              "end": 36,
+              "expanded_url": "https://x.com/Orange007Orange/status/2023515490107486633/video/1",
+              "media_key": "13_2023515428295958528",
+              "start": 13,
+              "url": "https://t.co/GAiGog6W2L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023515490107486633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1747,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "他说最近生意不好 降价卖 https://t.co/GAiGog6W2L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 946,
+          "like_count": 3885,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 1324
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T14:33:23.000Z",
+        "description": "请问你今天要来一个🍊吗｜无性别或者性别是🍊｜精神状态二极管｜⚠️鉴证魔怔b滚贴脸飞老冯｜随便发发、我的账我是王｜偶有r17内容｜陌生人私信不常看",
+        "id": "1620792340897054720",
+        "name": "melatonin🍊",
+        "pinned_tweet_id": "1935274813045571758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013776652401012736/ZaGBqDqN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1973,
+          "following_count": 730,
+          "like_count": 56278,
+          "listed_count": 6,
+          "media_count": 673,
+          "tweet_count": 21706
+        },
+        "username": "Orange007Orange",
+        "verified": false
+      }
+    ]
+  }
+}

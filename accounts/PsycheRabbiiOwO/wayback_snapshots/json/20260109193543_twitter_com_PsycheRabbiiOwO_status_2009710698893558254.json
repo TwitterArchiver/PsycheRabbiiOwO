@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2009710698893558254",
+    "created_at": "2026-01-09T19:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T20:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009710698893558254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/psycherabbiiow…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/psycherabbiiowo/status/2008078174144561466",
+          "start": 106,
+          "url": "https://t.co/iCIIs7tWbG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009710698893558254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008078174144561466",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我爸也开始问我是不是有什么事瞒着了☹️\n\n我就说一是为了好看，这个他也认可\n二是筛选交往的人：\n如果仅以外表笃定我是怪人从而疏远，那就是对方思维保守，离我远点还可以省下我识人的精力\n\n至少表面上他是信了吧。。。 https://t.co/iCIIs7tWbG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2008078167949590528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G94gdFnaQAAlkuf.jpg",
+        "width": 1095
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2009710698893558254",
+        "created_at": "2026-01-09T19:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T20:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009710698893558254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/psycherabbiiowo/status/2008078174144561466",
+              "start": 106,
+              "url": "https://t.co/iCIIs7tWbG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009710698893558254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008078174144561466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爸也开始问我是不是有什么事瞒着了☹️\n\n我就说一是为了好看，这个他也认可\n二是筛选交往的人：\n如果仅以外表笃定我是怪人从而疏远，那就是对方思维保守，离我远点还可以省下我识人的精力\n\n至少表面上他是信了吧。。。 https://t.co/iCIIs7tWbG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008078167949590528"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2008078174144561466",
+        "created_at": "2026-01-05T07:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T08:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008078174144561466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gPPip3rWQ6",
+              "end": 78,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2008078174144561466/photo/1",
+              "media_key": "3_2008078167949590528",
+              "start": 55,
+              "url": "https://t.co/gPPip3rWQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008078174144561466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被我妈套话，快炸柜了。。。。\n本来想瞒一辈子的，至少，别那么早吧。。。。\n\n唉............... https://t.co/gPPip3rWQ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）含🍥做题蛆/长相普通别骂我参考亮点里的照片/只混生物圈岩石圈大气圈水圈/链接是提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲（💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 799,
+          "like_count": 2940,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1111
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

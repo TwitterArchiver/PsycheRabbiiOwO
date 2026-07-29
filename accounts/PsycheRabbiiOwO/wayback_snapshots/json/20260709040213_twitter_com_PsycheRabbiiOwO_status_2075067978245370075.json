@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2075067978245370075",
+    "created_at": "2026-07-09T04:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075067978245370075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4821710621",
+          "start": 3,
+          "username": "30mmMK103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075067978245370075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075042822827471122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @30mmMK103: 翻到了头几次女装的照片。尴尬得脚趾抠地，怎么能那么丑🤢当时的我怎么敢穿出门的啊😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2075067978245370075",
+        "created_at": "2026-07-09T04:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075067978245370075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4821710621",
+              "start": 3,
+              "username": "30mmMK103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075067978245370075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075042822827471122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @30mmMK103: 翻到了头几次女装的照片。尴尬得脚趾抠地，怎么能那么丑🤢当时的我怎么敢穿出门的啊😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4821710621",
+        "conversation_id": "2075042822827471122",
+        "created_at": "2026-07-09T02:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075042822827471122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075042822827471122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "翻到了头几次女装的照片。尴尬得脚趾抠地，怎么能那么丑🤢当时的我怎么敢穿出门的啊😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 1648,
+          "like_count": 19590,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 2902
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-17T18:08:30.000Z",
+        "description": "只是一只玳瑁猫",
+        "id": "4821710621",
+        "location": "哥谭市",
+        "name": "momo",
+        "pinned_tweet_id": "2067804415797739724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066349111616630784/x8zmIOwc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 143,
+          "like_count": 1742,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "30mmMK103",
+        "verified": false
+      }
+    ]
+  }
+}

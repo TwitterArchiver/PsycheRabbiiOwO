@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024718412166160384"
+      ],
+      "media_source_tweet_id": [
+        "2024718424283508820"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2024765021012848903",
+    "created_at": "2026-02-20T08:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T09:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024765021012848903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FXTI2LchSP",
+          "end": 104,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2024718424283508820/photo/1",
+          "media_key": "3_2024718412166160384",
+          "start": 81,
+          "url": "https://t.co/FXTI2LchSP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024765021012848903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024718424283508820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: BYD上次走访调查曝光这所机构从里面救人\n盒子直接被他们住校警察拿警务通开出来威胁我了😁😁😁\n大手子\n这次还能上春晚? https://t.co/FXTI2LchSP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024765021012848903].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024765021012848903",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024765021012848903"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024718412166160384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBk-qx9bYAAsmhT.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024718412166160384"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2024718424283508820",
+        "created_at": "2026-02-20T05:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T06:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024718424283508820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FXTI2LchSP",
+              "end": 83,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2024718424283508820/photo/1",
+              "media_key": "3_2024718412166160384",
+              "start": 60,
+              "url": "https://t.co/FXTI2LchSP"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2024716277764542683",
+              "start": 84,
+              "url": "https://t.co/RiFsSEO5T3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024718424283508820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1558,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024716277764542683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "BYD上次走访调查曝光这所机构从里面救人\n盒子直接被他们住校警察拿警务通开出来威胁我了😁😁😁\n大手子\n这次还能上春晚? https://t.co/FXTI2LchSP https://t.co/RiFsSEO5T3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 965,
+          "like_count": 4149,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1356
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3101,
+          "following_count": 1878,
+          "like_count": 1687,
+          "listed_count": 12,
+          "media_count": 343,
+          "tweet_count": 2198
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

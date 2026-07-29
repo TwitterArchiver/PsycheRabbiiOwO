@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2040361495763222794",
+    "created_at": "2026-04-04T09:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T10:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040361495763222794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cyberkanjousen…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/cyberkanjousen/status/2040284483132514613",
+          "start": 66,
+          "url": "https://t.co/y1ZMMBmu5w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040361495763222794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040284483132514613",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们班考得好可以优先自选座位，我直接坐到最后排角落靠窗\n\n孤立？那我自己玩咯\n趴桌上装睡，小说漫画手机耳机，窗帘一盖谁孤立都不好使 https://t.co/y1ZMMBmu5w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2040361495763222794",
+        "created_at": "2026-04-04T09:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040361495763222794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2040284483132514613",
+              "start": 66,
+              "url": "https://t.co/y1ZMMBmu5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040361495763222794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040284483132514613",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们班考得好可以优先自选座位，我直接坐到最后排角落靠窗\n\n孤立？那我自己玩咯\n趴桌上装睡，小说漫画手机耳机，窗帘一盖谁孤立都不好使 https://t.co/y1ZMMBmu5w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2040284483132514613",
+        "created_at": "2026-04-04T04:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040284483132514613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_weatherclear/…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/_weatherclear/status/2039764872276344854",
+              "start": 141,
+              "url": "https://t.co/L99Jo4qUsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040284483132514613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "「只要考得高就不会被欺负」？\n環状線高二的时候，有一位同学在期中考试考的分数比上一次高了特别多，一部分同学看她不顺眼，造谣说她的成绩是作弊获得的，「不然怎么可能比上次高那么多？」，还给她起绰号「科技姐」，这个绰号一直叫到高中毕业。\n实际上，她是在上次考试发高烧，所以上次才没考好。\n那位同学在高二上下学期的成绩都很好，大概能考个 985 ，但是大概是长期受到谣言困扰的缘故，到高三以后成绩就不断下滑，高考只考上了一个双非高校。\n这就是中国高中。\n（说来内疚，環状線高二的时候也是这一言语霸凌的参与者，现在想来環状線当时太*中国文明用语*畜生了，没良心的狗东西）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3148,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039764872276344854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「只要考得高就不会被欺负」？\n環状線高二的时候，有一位同学在期中考试考的分数比上一次高了特别多，一部分同学看她不顺眼，造谣说她的成绩是作弊获得的，「不然怎么可能比上次高那么多？」，还给她起绰号「科技姐」，这个绰号一直叫到高中毕业。\n实际上，她是在上次考试发高烧，所以上次才没考好。 https://t.co/L99Jo4qUsj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 1184,
+          "like_count": 6709,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 1721
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 366,
+          "like_count": 10336,
+          "listed_count": 3,
+          "media_count": 737,
+          "tweet_count": 3794
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

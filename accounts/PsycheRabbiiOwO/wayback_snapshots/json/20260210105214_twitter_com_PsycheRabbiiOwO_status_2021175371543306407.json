@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2021175371543306407",
+    "created_at": "2026-02-10T10:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T11:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021175371543306407"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021175371543306407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这下该感谢限流了\n\n表姐说做她跨境贸易，\n人家有自己的自媒体账号引流\n我瞄到有x，ig和小红书了。。。。\n\n小红书的通讯录权限倒是关掉了，就是不知道x会不会被她刷到。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2021175371543306407",
+        "created_at": "2026-02-10T10:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T11:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021175371543306407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021175371543306407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这下该感谢限流了\n\n表姐说做她跨境贸易，\n人家有自己的自媒体账号引流\n我瞄到有x，ig和小红书了。。。。\n\n小红书的通讯录权限倒是关掉了，就是不知道x会不会被她刷到。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 927,
+          "like_count": 3697,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1291
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

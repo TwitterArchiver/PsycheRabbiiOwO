@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1988631974433390649",
+    "created_at": "2025-11-12T16:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988641345188368582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1908768325850849280",
+          "start": 0,
+          "username": "KafuAKa0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988641345188368582",
+    "in_reply_to_user_id": "1908768325850849280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988631974433390649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KafuAKa0 是的是的，图一乐就好哩 ☺️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1179,
+        "media_key": "3_1988631967823544320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5kKPQ8bwAAPZdT.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1387,
+        "media_key": "3_1988631967856988160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5kKPREaEAAdVI2.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1988631974433390649",
+        "created_at": "2025-11-12T16:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988641345188368582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1908768325850849280",
+              "start": 0,
+              "username": "KafuAKa0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988641345188368582",
+        "in_reply_to_user_id": "1908768325850849280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988631974433390649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KafuAKa0 是的是的，图一乐就好哩 ☺️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988631967823544320",
+            "3_1988631967856988160"
+          ]
+        },
+        "author_id": "1908768325850849280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988631974433390649",
+        "created_at": "2025-11-12T15:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T16:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988631974433390649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 38,
+              "expanded_url": "https://x.com/psycherabbiiowo/status/1988574675203719234?s=12",
+              "start": 15,
+              "url": "https://t.co/ALvuoXxsp2"
+            },
+            {
+              "display_url": "pic.x.com/UdKz2tJowI",
+              "end": 62,
+              "expanded_url": "https://x.com/KafuAKa0/status/1988631974433390649/photo/1",
+              "media_key": "3_1988631967823544320",
+              "start": 39,
+              "url": "https://t.co/UdKz2tJowI"
+            },
+            {
+              "display_url": "pic.x.com/UdKz2tJowI",
+              "end": 62,
+              "expanded_url": "https://x.com/KafuAKa0/status/1988631974433390649/photo/1",
+              "media_key": "3_1988631967856988160",
+              "start": 39,
+              "url": "https://t.co/UdKz2tJowI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988631974433390649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988574675203719234",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊..？这应该不准吧..？\n\nhttps://t.co/ALvuoXxsp2 https://t.co/UdKz2tJowI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/165cm 52kg 本人很丑别骂我/这里这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 484,
+          "like_count": 772,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 581
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T06:26:56.000Z",
+        "description": "自介在置顶呢/hrt:25.10.07/高三牲😭/MtF🏳️‍⚧️/坐标西安/1.75m+50kg/寻找同类互fo( ・∇・)/想扩列 欢迎来找我聊天喵～",
+        "id": "1908768325850849280",
+        "name": "KAfu小咔ですわ～🏳️‍⚧️",
+        "pinned_tweet_id": "1986453204021002675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975762968421015559/fGJHeoaS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 113,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 93
+        },
+        "username": "KafuAKa0",
+        "verified": false
+      }
+    ]
+  }
+}

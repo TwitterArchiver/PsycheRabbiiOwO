@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078339669801201664",
+        "3_2078339669494992896"
+      ],
+      "media_source_tweet_id": [
+        "2078339682736488615",
+        "2078339682736488615"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2078339801938612710",
+    "created_at": "2026-07-18T04:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078339801938612710"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 26,
+          "tag": "lhr探店"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945848714058203136",
+          "start": 3,
+          "username": "LnaRoaH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QqR4pxFf9h",
+          "end": 56,
+          "expanded_url": "https://x.com/LnaRoaH/status/2078339682736488615/photo/1",
+          "media_key": "3_2078339669801201664",
+          "start": 33,
+          "url": "https://t.co/QqR4pxFf9h"
+        },
+        {
+          "display_url": "pic.x.com/QqR4pxFf9h",
+          "end": 56,
+          "expanded_url": "https://x.com/LnaRoaH/status/2078339682736488615/photo/1",
+          "media_key": "3_2078339669494992896",
+          "start": 33,
+          "url": "https://t.co/QqR4pxFf9h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078339801938612710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078339682736488615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LnaRoaH: 成都老子号，非遗龍抄手\n\n#lhr探店 https://t.co/QqR4pxFf9h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2078339669801201664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNe-6w0acAANIvx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078339669494992896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNe-6vraEAAlEYJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078339669801201664",
+            "3_2078339669494992896"
+          ]
+        },
+        "author_id": "1945848714058203136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078339682736488615",
+        "created_at": "2026-07-18T04:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078339682736488615"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "lhr探店"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QqR4pxFf9h",
+              "end": 43,
+              "expanded_url": "https://x.com/LnaRoaH/status/2078339682736488615/photo/1",
+              "media_key": "3_2078339669801201664",
+              "start": 20,
+              "url": "https://t.co/QqR4pxFf9h"
+            },
+            {
+              "display_url": "pic.x.com/QqR4pxFf9h",
+              "end": 43,
+              "expanded_url": "https://x.com/LnaRoaH/status/2078339682736488615/photo/1",
+              "media_key": "3_2078339669494992896",
+              "start": 20,
+              "url": "https://t.co/QqR4pxFf9h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078339682736488615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "成都老子号，非遗龍抄手\n\n#lhr探店 https://t.co/QqR4pxFf9h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078339669801201664",
+            "3_2078339669494992896"
+          ],
+          "media_source_tweet_id": [
+            "2078339682736488615",
+            "2078339682736488615"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078339801938612710",
+        "created_at": "2026-07-18T04:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078339801938612710"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "lhr探店"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945848714058203136",
+              "start": 3,
+              "username": "LnaRoaH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QqR4pxFf9h",
+              "end": 56,
+              "expanded_url": "https://x.com/LnaRoaH/status/2078339682736488615/photo/1",
+              "media_key": "3_2078339669801201664",
+              "start": 33,
+              "url": "https://t.co/QqR4pxFf9h"
+            },
+            {
+              "display_url": "pic.x.com/QqR4pxFf9h",
+              "end": 56,
+              "expanded_url": "https://x.com/LnaRoaH/status/2078339682736488615/photo/1",
+              "media_key": "3_2078339669494992896",
+              "start": 33,
+              "url": "https://t.co/QqR4pxFf9h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078339801938612710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078339682736488615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LnaRoaH: 成都老子号，非遗龍抄手\n\n#lhr探店 https://t.co/QqR4pxFf9h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 1679,
+          "like_count": 20042,
+          "listed_count": 3,
+          "media_count": 330,
+          "tweet_count": 3000
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-17T14:11:19.000Z",
+        "description": "你好啊～我是lhr 攝影｜HIFI｜畫畫｜羽毛球｜游泳｜化學 ｜推推空間｜交易員｜坐標待定天津市和苏州市 #lhr的攝影集 #lhr探店 調戲鏈接🔗https://t.co/QZ0qizQuEq",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "lhr的攝影集"
+              },
+              {
+                "end": 68,
+                "start": 62,
+                "tag": "lhr探店"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lnaroah",
+                "end": 97,
+                "expanded_url": "https://ngl.link/lnaroah",
+                "start": 74,
+                "url": "https://t.co/QZ0qizQuEq"
+              }
+            ]
+          }
+        },
+        "id": "1945848714058203136",
+        "location": "距你1.5km",
+        "name": "lhr～",
+        "pinned_tweet_id": "2057390797981352401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980434750884966400/-y_6Pczc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 128,
+          "like_count": 1109,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 463
+        },
+        "url": "",
+        "username": "LnaRoaH",
+        "verified": true
+      }
+    ]
+  }
+}

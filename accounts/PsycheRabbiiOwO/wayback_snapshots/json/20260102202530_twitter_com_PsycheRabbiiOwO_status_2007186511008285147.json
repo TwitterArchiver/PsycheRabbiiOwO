@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2007186511008285147",
+    "created_at": "2026-01-02T20:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T21:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007186511008285147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1598639824118124544",
+          "start": 3,
+          "username": "ShiroiTree_idol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007186511008285147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007008179302125756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShiroiTree_idol: 其实我是顺男，吃雌激素只是我抑郁了自残的手段"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2007186511008285147",
+        "created_at": "2026-01-02T20:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T21:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007186511008285147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1598639824118124544",
+              "start": 3,
+              "username": "ShiroiTree_idol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007186511008285147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007008179302125756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShiroiTree_idol: 其实我是顺男，吃雌激素只是我抑郁了自残的手段"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598639824118124544",
+        "conversation_id": "2007008179302125756",
+        "created_at": "2026-01-02T08:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T09:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007008179302125756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007008179302125756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5019,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我是顺男，吃雌激素只是我抑郁了自残的手段"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）含🍥做题蛆/长相普通别骂我参考亮点里的照片/只混生物圈岩石圈大气圈水圈/链接是提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲（💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 794,
+          "like_count": 2820,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1083
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T11:27:10.000Z",
+        "description": "she ❤️@NaiveTomcat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "NaiveTomcat"
+              }
+            ]
+          }
+        },
+        "id": "1598639824118124544",
+        "location": "世界树",
+        "name": "フリーレン",
+        "pinned_tweet_id": "1949502981940113850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772226181120819200/3--rSoW0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3002,
+          "following_count": 562,
+          "like_count": 19235,
+          "listed_count": 5,
+          "media_count": 353,
+          "tweet_count": 12491
+        },
+        "username": "ShiroiTree_idol",
+        "verified": false
+      }
+    ]
+  }
+}

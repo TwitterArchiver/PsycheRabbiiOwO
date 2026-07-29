@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2039560319916220592",
+    "created_at": "2026-04-02T19:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T20:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039786743801778280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 18,
+          "id": "1758508742780567552",
+          "start": 6,
+          "username": "qianxunchan"
+        },
+        {
+          "end": 33,
+          "id": "1928687976281944068",
+          "start": 19,
+          "username": "juhuhiulzy448"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039786743801778280",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039767693419487698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @qianxunchan @juhuhiulzy448 强调14岁，何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2039560319916220592",
+        "created_at": "2026-04-02T19:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T20:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039786743801778280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 18,
+              "id": "1758508742780567552",
+              "start": 6,
+              "username": "qianxunchan"
+            },
+            {
+              "end": 33,
+              "id": "1928687976281944068",
+              "start": 19,
+              "username": "juhuhiulzy448"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039786743801778280",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039767693419487698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @qianxunchan @juhuhiulzy448 强调14岁，何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2039560319916220592",
+        "created_at": "2026-04-02T18:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T19:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039767693419487698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            },
+            {
+              "end": 27,
+              "id": "1928687976281944068",
+              "start": 13,
+              "username": "juhuhiulzy448"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039767693419487698",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039767576159699130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan @juhuhiulzy448 他2026年3月3日就满14岁了，现在已经14岁。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/8964",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 1147,
+          "like_count": 6382,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 1660
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8534528,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6613,
+          "media_count": 8762839,
+          "tweet_count": 121017130
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2038638571494772837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 827,
+          "like_count": 844,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 691
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T05:40:34.000Z",
+        "description": "初中生，轻度抑郁，是 pepoyo 的粉丝。\n想含又不敢含糖（?），无性恋。\n极度反共，和我一样的可互fo。\n全力支持同性恋及跨性别社群，反对的和习猪头一样没fm。\n可能会因为前面的原因不定时锁推。\n另外，超时空辉夜姬牛逼。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lzy-u4q",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@lzy-u4q",
+                "start": 0,
+                "url": "https://t.co/P8uFgSTZce"
+              }
+            ]
+          }
+        },
+        "id": "1928687976281944068",
+        "location": "仮想空間＜ツクヨミ＞",
+        "name": "pepoyoPPY（互fo）",
+        "pinned_tweet_id": "2039560319916220592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035290073415942144/2OkA9uTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 435,
+          "like_count": 9594,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1440
+        },
+        "url": "https://t.co/P8uFgSTZce",
+        "username": "juhuhiulzy448",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1981810895438459279",
+    "created_at": "2025-10-24T19:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T20:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981812145462685843"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1981812145462685843",
+    "in_reply_to_user_id": "1768935696646238208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981810895438459279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "翻出了他们的照片\n想起了做过多少蠢事啊\n\n和初恋因为一片面包吵架\n和第二任处了两天分手\n\n差点拆散一对青梅竹马，\n因为和他们俩搞暧昧....\n\n我欠他们一句道歉，也欠自己\n\n看着照片里的我\n看着镜子里的我\n这两个真的是同一个人吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1981810895438459279",
+        "created_at": "2025-10-24T19:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T20:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981812145462685843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981812145462685843",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981810895438459279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "翻出了他们的照片\n想起了做过多少蠢事啊\n\n和初恋因为一片面包吵架\n和第二任处了两天分手\n\n差点拆散一对青梅竹马，\n因为和他们俩搞暧昧....\n\n我欠他们一句道歉，也欠自己\n\n看着照片里的我\n看着镜子里的我\n这两个真的是同一个人吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1981810895438459279",
+        "created_at": "2025-10-24T19:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T20:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981810895438459279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981810895438459279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哭了好久\n\n木馨还是小涵，原来都有对应\n\n十年前玩过的那款gal原来一直在默默影响\n\n高中那几年在干嘛呢。。。。\n好像，哪一条正常的线都没走上\n最接近的是狂战士线吧\n得了分数失去一切\n\n重温\n我怀念当初的时光\n后悔当时的选择\n\n更难受的是\n十年前对未来的憧憬\n对朋友和恋爱的想象\n全部...全部...全部."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "明天。",
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🐰凌月月（互关版）",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 441,
+          "like_count": 496,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 478
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

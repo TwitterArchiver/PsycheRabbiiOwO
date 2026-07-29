@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2020412368791249020",
+    "created_at": "2026-02-08T12:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T13:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020475054773956691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1996563547007176704",
+          "start": 0,
+          "username": "gu_niu666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020475054773956691",
+    "in_reply_to_user_id": "1996563547007176704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020412368791249020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu_niu666 我和你谁好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2020412368791249020",
+        "created_at": "2026-02-08T12:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020475054773956691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1996563547007176704",
+              "start": 0,
+              "username": "gu_niu666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020475054773956691",
+        "in_reply_to_user_id": "1996563547007176704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020412368791249020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu_niu666 我和你谁好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996563547007176704",
+        "conversation_id": "2020412368791249020",
+        "created_at": "2026-02-08T08:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T09:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020412368791249020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020412368791249020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝，不要再用手挡着你的脸了，因为你的手也很难看，更不要用口罩，因为你的眼睛也很难看，用特效挡脸更是没有必要，因为你的穿搭也很难看。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 924,
+          "like_count": 3624,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1273
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T12:53:53.000Z",
+        "description": "三退 ：退圈 退药 退跨🫡\n 人格在立希和头模零之间来回切换\n🚫禁止未工作者🈚稳定资金来源者购买任何   🍥🍬💉\n 反lgbt/跨人乐子/重开药桶饭\n 理想是世界没有跨\n 安卓跨人 安卓救人 安卓共情力\n 纯乐子人 如果你对我认真，你就输了 \n 如果你对我感到破防 那祝你以后学会笑一笑就好",
+        "id": "1996563547007176704",
+        "location": "木桶星",
+        "name": "米（🏳️‍🌈🏳️‍⚧🍥心宿二和参宿四🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡💯互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018938146436894720/pmXDOh3W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 204,
+          "like_count": 2277,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1635
+        },
+        "username": "gu_niu666",
+        "verified": false
+      }
+    ]
+  }
+}

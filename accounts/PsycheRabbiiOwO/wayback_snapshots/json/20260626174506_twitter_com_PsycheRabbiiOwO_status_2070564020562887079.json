@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2070561765142978784",
+    "created_at": "2026-06-26T17:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T18:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070564020562887079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1311608169269923841",
+          "start": 0,
+          "username": "g60Yts1kvzO4g8q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070564020562887079",
+    "in_reply_to_user_id": "1311608169269923841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070561765142978784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@g60Yts1kvzO4g8q 现在主播变成画中的样子啦ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 677,
+        "media_key": "3_2070561562474250240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwcxVDbAAAew6R.png",
+        "width": 492
+      },
+      {
+        "height": 631,
+        "media_key": "3_2070561593969213440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwczKYaAAADIQx.png",
+        "width": 480
+      },
+      {
+        "height": 683,
+        "media_key": "3_2070561705961349120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwc5rlaYAARCYz.png",
+        "width": 486
+      },
+      {
+        "height": 687,
+        "media_key": "3_2070561705944600576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwc5rha0AAWnao.png",
+        "width": 496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2070561765142978784",
+        "created_at": "2026-06-26T17:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070564020562887079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1311608169269923841",
+              "start": 0,
+              "username": "g60Yts1kvzO4g8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070564020562887079",
+        "in_reply_to_user_id": "1311608169269923841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070561765142978784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@g60Yts1kvzO4g8q 现在主播变成画中的样子啦ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070561562474250240",
+            "3_2070561593969213440",
+            "3_2070561705961349120",
+            "3_2070561705944600576"
+          ]
+        },
+        "author_id": "1311608169269923841",
+        "conversation_id": "2070561765142978784",
+        "created_at": "2026-06-26T17:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070561765142978784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uutvKTk9Zo",
+              "end": 169,
+              "expanded_url": "https://x.com/g60Yts1kvzO4g8q/status/2070561765142978784/photo/1",
+              "media_key": "3_2070561562474250240",
+              "start": 146,
+              "url": "https://t.co/uutvKTk9Zo"
+            },
+            {
+              "display_url": "pic.x.com/uutvKTk9Zo",
+              "end": 169,
+              "expanded_url": "https://x.com/g60Yts1kvzO4g8q/status/2070561765142978784/photo/1",
+              "media_key": "3_2070561593969213440",
+              "start": 146,
+              "url": "https://t.co/uutvKTk9Zo"
+            },
+            {
+              "display_url": "pic.x.com/uutvKTk9Zo",
+              "end": 169,
+              "expanded_url": "https://x.com/g60Yts1kvzO4g8q/status/2070561765142978784/photo/1",
+              "media_key": "3_2070561705961349120",
+              "start": 146,
+              "url": "https://t.co/uutvKTk9Zo"
+            },
+            {
+              "display_url": "pic.x.com/uutvKTk9Zo",
+              "end": 169,
+              "expanded_url": "https://x.com/g60Yts1kvzO4g8q/status/2070561765142978784/photo/1",
+              "media_key": "3_2070561705944600576",
+              "start": 146,
+              "url": "https://t.co/uutvKTk9Zo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070561765142978784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "翻出来了高三时画的画了（） \np1的画风是我最喜欢的 后面一直很想尝试这种【简单但是很可爱】的画风 画各种小孩子 真的好治愈啊 好长一段时间都好喜欢这个笑容 每次压力大的时候就会拿出来看一看 很多同学也都喜欢这一张 当时快毕业的时候不少同学画了p1风格的画像 这一点确实怀恋啊(๑•ᴗ•๑) https://t.co/uutvKTk9Zo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 1593,
+          "like_count": 18168,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 2742
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-01T10:05:45.000Z",
+        "description": "怜悯我此生的不幸 不紧要 约到明年来生~",
+        "id": "1311608169269923841",
+        "location": "Taiwan",
+        "name": "素桐桐桐",
+        "pinned_tweet_id": "2046500844645048431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050591608375300096/rN9OcqFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1834,
+          "following_count": 524,
+          "like_count": 268,
+          "listed_count": 5,
+          "media_count": 71,
+          "tweet_count": 744
+        },
+        "url": "",
+        "username": "g60Yts1kvzO4g8q",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2028335688295555304",
+    "created_at": "2026-03-02T05:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028335688295555304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jrq08231/statu…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/jrq08231/status/2028320614625517896",
+          "start": 27,
+          "url": "https://t.co/eEywcfkHS8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028335688295555304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028320614625517896",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其他人可以这么说\ntyw的话。。。。谁压迫谁啊。。。 https://t.co/eEywcfkHS8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2028335688295555304",
+        "created_at": "2026-03-02T05:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028335688295555304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jrq08231/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/jrq08231/status/2028320614625517896",
+              "start": 27,
+              "url": "https://t.co/eEywcfkHS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028335688295555304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028320614625517896",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其他人可以这么说\ntyw的话。。。。谁压迫谁啊。。。 https://t.co/eEywcfkHS8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1396011616001413123",
+        "conversation_id": "2028312704600162322",
+        "created_at": "2026-03-02T04:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T05:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028320614625517896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1889695481938448384",
+              "start": 0,
+              "username": "PnKoZCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028320614625517896",
+        "in_reply_to_user_id": "1889695481938448384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 282,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028318786387116097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PnKoZCN 孩子的家长才是罪魁祸首。如果没有对孩子的过度压迫，孩子怎么会走绝路呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月（♡´∀`♡)🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025891245403594752/7m_aCDuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 1016,
+          "like_count": 4858,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 1439
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-22T07:54:54.000Z",
+        "description": "90后，经常上推，先心病患者，净高194。双性恋。",
+        "id": "1396011616001413123",
+        "location": "China",
+        "name": "子豪的小资生活",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1396011833543118848/aFM8Ch6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 6622,
+          "like_count": 34608,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 8841
+        },
+        "username": "JRQ08231",
+        "verified": false
+      }
+    ]
+  }
+}

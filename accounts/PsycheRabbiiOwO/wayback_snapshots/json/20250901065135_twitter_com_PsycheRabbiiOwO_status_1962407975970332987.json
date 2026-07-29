@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1962407975970332987",
+    "created_at": "2025-09-01T06:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T07:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962407975970332987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1808604308163940352",
+          "start": 3,
+          "username": "cici20120712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962407975970332987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962253017560072376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cici20120712: 暴论，男娘前面射出来永远没有后面高潮舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1962407975970332987",
+        "created_at": "2025-09-01T06:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T07:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962407975970332987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1808604308163940352",
+              "start": 3,
+              "username": "cici20120712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962407975970332987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962253017560072376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cici20120712: 暴论，男娘前面射出来永远没有后面高潮舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808604308163940352",
+        "conversation_id": "1962253017560072376",
+        "created_at": "2025-08-31T20:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T21:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962253017560072376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962253017560072376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 15398,
+          "like_count": 194,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "暴论，男娘前面射出来永远没有后面高潮舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/生理男心理（不确定）/可能是泛性恋？/有对象了已经🥰@pirapira2112/目前无糖/联系方式私信，欢迎骚扰！！！/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "小兔兔凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 367,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 295
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T20:50:59.000Z",
+        "description": "绝赞复活赛中\n门槛68喵",
+        "id": "1808604308163940352",
+        "name": "魔法少女凛瓷瓷",
+        "pinned_tweet_id": "1874320620915392925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68992,
+          "following_count": 85,
+          "like_count": 683,
+          "listed_count": 171,
+          "media_count": 556,
+          "tweet_count": 984
+        },
+        "username": "cici20120712",
+        "verified": false
+      }
+    ]
+  }
+}

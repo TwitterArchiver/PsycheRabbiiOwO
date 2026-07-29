@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1967935823648788764",
+    "created_at": "2025-09-16T12:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T13:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967935823648788764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1909553877739085825",
+          "start": 3,
+          "username": "TOKYO8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967935823648788764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967921321482093025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TOKYO8964: 我想看看你的脚底，并不是单纯想看你的脚，只是想感受到你曾经走过的路，了解到你的经历，感受你的内心世界和思想历程，所以我能看看你的脚底吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1967935823648788764",
+        "created_at": "2025-09-16T12:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T13:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967935823648788764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1909553877739085825",
+              "start": 3,
+              "username": "TOKYO8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967935823648788764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967921321482093025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TOKYO8964: 我想看看你的脚底，并不是单纯想看你的脚，只是想感受到你曾经走过的路，了解到你的经历，感受你的内心世界和思想历程，所以我能看看你的脚底吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909553877739085825",
+        "conversation_id": "1967921321482093025",
+        "created_at": "2025-09-16T11:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T12:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967921321482093025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967921321482093025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 463,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想看看你的脚底，并不是单纯想看你的脚，只是想感受到你曾经走过的路，了解到你的经历，感受你的内心世界和思想历程，所以我能看看你的脚底吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/含糖男娘🍥2025.09.06//可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 416,
+          "like_count": 371,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 373
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "🇯🇵坐标東京｜🏳️‍⚧️07伪娘｜🌊自由民主｜🏳️‍🌈友跨友同｜🍯包蜜｜🍀雏草姬｜舞萌痴｜轻度键政｜纯搞抽象乐子人 日本語勉强中 喜欢看番玩galgame和打各种音游二游 欢迎友好交流 极端魔怔人会b 时不时更新奇异搞笑幽默抽象TV和女装照 取向女男的勿扰@heshan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 128,
+                "username": "heshan8964"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "東京",
+        "name": "抽象イェーガー🇯🇵🏳️‍⚧️",
+        "pinned_tweet_id": "1964948325301670082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960310976596889600/7GPALHar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7604,
+          "following_count": 685,
+          "like_count": 836,
+          "listed_count": 31,
+          "media_count": 494,
+          "tweet_count": 877
+        },
+        "username": "TOKYO8964",
+        "verified": true
+      }
+    ]
+  }
+}

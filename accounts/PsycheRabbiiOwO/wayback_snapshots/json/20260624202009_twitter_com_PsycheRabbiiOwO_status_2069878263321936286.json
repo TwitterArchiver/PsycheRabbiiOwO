@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2069871686435180731",
+    "created_at": "2026-06-24T20:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T21:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069878263321936286"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069878263321936286",
+    "in_reply_to_user_id": "1768935696646238208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069871686435180731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "马上要来的赛博朋克第二季和攻壳机动队，还有之前的心理测量者剧场版，简直就是另一个极端啊。\n\n（啊，写到这才想起来，原来心测剧场版已经是三年前了吗，原来已经是十三年前的番了吗）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2069871677463482368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmpUvHaUAAWgbX.jpg",
+        "width": 1080
+      },
+      {
+        "height": 720,
+        "media_key": "3_2069871677501263872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmpUvQa0AA-NeR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 720,
+        "media_key": "3_2069871677400633344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmpUu4bUAA1tCZ.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_2069871677388050432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmpUu1bUAA9JAX.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2069871686435180731",
+        "created_at": "2026-06-24T20:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T21:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069878263321936286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069878263321936286",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069871686435180731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马上要来的赛博朋克第二季和攻壳机动队，还有之前的心理测量者剧场版，简直就是另一个极端啊。\n\n（啊，写到这才想起来，原来心测剧场版已经是三年前了吗，原来已经是十三年前的番了吗）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069871677463482368",
+            "3_2069871677501263872",
+            "3_2069871677400633344",
+            "3_2069871677388050432"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2069871686435180731",
+        "created_at": "2026-06-24T19:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069871686435180731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ny2m7S7ga",
+              "end": 145,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2069871686435180731/photo/1",
+              "media_key": "3_2069871677463482368",
+              "start": 122,
+              "url": "https://t.co/8ny2m7S7ga"
+            },
+            {
+              "display_url": "pic.x.com/8ny2m7S7ga",
+              "end": 145,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2069871686435180731/photo/1",
+              "media_key": "3_2069871677501263872",
+              "start": 122,
+              "url": "https://t.co/8ny2m7S7ga"
+            },
+            {
+              "display_url": "pic.x.com/8ny2m7S7ga",
+              "end": 145,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2069871686435180731/photo/1",
+              "media_key": "3_2069871677400633344",
+              "start": 122,
+              "url": "https://t.co/8ny2m7S7ga"
+            },
+            {
+              "display_url": "pic.x.com/8ny2m7S7ga",
+              "end": 145,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2069871686435180731/photo/1",
+              "media_key": "3_2069871677388050432",
+              "start": 122,
+              "url": "https://t.co/8ny2m7S7ga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069871686435180731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "补了石纪元，真是感慨呢\n\n前几季，千空在一片原始世界，复活同伴，尝试生存，解决分歧，到这里还能说是热血漫。\n最后一季就是童话了，全世界的人团结起来，用最原始的科技把人类再一次送上月球\n\n现实里的，却是矛盾仇恨不断，美好的未来好像只在过去存在。\n\n“地球村”，这个词就是这部作品最深的表达。弹幕里在吐槽剧情多么不合逻辑，又或者科技进展太快不合现实等等。\n其实我们是真的有过这个憧憬，“只要我们一起发展工程和科技，就能。。。”\n\n或许这是只属于零零年代的终极幻想吧\n（配图：记忆里的我们，和想象中的未来）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "补了石纪元，真是感慨呢\n\n前几季，千空在一片原始世界，复活同伴，尝试生存，解决分歧，到这里还能说是热血漫。\n最后一季就是童话了，全世界的人团结起来，用最原始的科技把人类再一次送上月球\n\n现实里的，却是矛盾仇恨不断，美好的未来好像只在过去存在。 https://t.co/8ny2m7S7ga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 1587,
+          "like_count": 17845,
+          "listed_count": 3,
+          "media_count": 288,
+          "tweet_count": 2717
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

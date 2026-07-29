@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1968177479375548849",
+    "created_at": "2025-09-17T04:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T05:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968177479375548849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/realcolidora3/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/realcolidora3/status/1958039778319827216",
+          "start": 5,
+          "url": "https://t.co/IMdRbd52hL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968177479375548849",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958039778319827216",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诗人握持 https://t.co/IMdRbd52hL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 139480,
+        "height": 360,
+        "media_key": "13_1958039366388822016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1958039366388822016/img/2Lhvp4UMQYy2SO84.jpg",
+        "public_metrics": {
+          "view_count": 37106
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958039366388822016/vid/avc1/480x270/zuAEvHXFm0FWiPjw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958039366388822016/vid/avc1/640x360/XOJXPGRz-cjPVwXk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1958039366388822016/pl/BM7Y9F64LjNK2-np.m3u8?v=aca"
+          }
+        ],
+        "width": 640
+      },
+      {
+        "duration_ms": 147100,
+        "height": 720,
+        "media_key": "13_1958039366393036800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1958039366393036800/img/3vH43pwRaBAi0od3.jpg",
+        "public_metrics": {
+          "view_count": 543
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958039366393036800/vid/avc1/480x270/992-J6-GgKzqszUa.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958039366393036800/vid/avc1/640x360/X89HO-rkOCvbUhgD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958039366393036800/vid/avc1/1280x720/uvhTSqPn7M7-Y08o.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1958039366393036800/pl/W7nAvfM6_64dQk7W.m3u8?v=e92"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 168100,
+        "height": 352,
+        "media_key": "13_1958039366321795072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1958039366321795072/img/n7rAJmPr9VkglXpb.jpg",
+        "public_metrics": {
+          "view_count": 730
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958039366321795072/vid/avc1/490x270/Nkw2sWko3_uBiCIZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958039366321795072/vid/avc1/640x352/pC9C1u_mxuR8VyrS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1958039366321795072/pl/qifYlOd6wVgn-58M.m3u8?v=762"
+          }
+        ],
+        "width": 640
+      },
+      {
+        "height": 679,
+        "media_key": "3_1958039366326009856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyxabfYXwAAlATN.jpg",
+        "width": 509
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1968177479375548849",
+        "created_at": "2025-09-17T04:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T05:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968177479375548849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realcolidora3/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/realcolidora3/status/1958039778319827216",
+              "start": 5,
+              "url": "https://t.co/IMdRbd52hL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968177479375548849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958039778319827216",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诗人握持 https://t.co/IMdRbd52hL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1958039366388822016",
+            "13_1958039366393036800",
+            "13_1958039366321795072",
+            "3_1958039366326009856"
+          ]
+        },
+        "author_id": "1624795006828421122",
+        "conversation_id": "1958039778319827216",
+        "created_at": "2025-08-20T05:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T06:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958039778319827216"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 137,
+              "tag": "青蒿琥脂"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/siDSVHjo66",
+              "end": 170,
+              "expanded_url": "https://x.com/RealColidora3/status/1958039778319827216/video/1",
+              "media_key": "13_1958039366388822016",
+              "start": 147,
+              "url": "https://t.co/siDSVHjo66"
+            },
+            {
+              "display_url": "pic.x.com/siDSVHjo66",
+              "end": 170,
+              "expanded_url": "https://x.com/RealColidora3/status/1958039778319827216/video/1",
+              "media_key": "13_1958039366393036800",
+              "start": 147,
+              "url": "https://t.co/siDSVHjo66"
+            },
+            {
+              "display_url": "pic.x.com/siDSVHjo66",
+              "end": 170,
+              "expanded_url": "https://x.com/RealColidora3/status/1958039778319827216/video/1",
+              "media_key": "13_1958039366321795072",
+              "start": 147,
+              "url": "https://t.co/siDSVHjo66"
+            },
+            {
+              "display_url": "pic.x.com/siDSVHjo66",
+              "end": 170,
+              "expanded_url": "https://x.com/RealColidora3/status/1958039778319827216/video/1",
+              "media_key": "3_1958039366326009856",
+              "start": 147,
+              "url": "https://t.co/siDSVHjo66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958039778319827216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 203186,
+          "like_count": 25,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "🚨一针疫苗里的40万亿mRNA, 科兴疫苗60万亿mRNA刺突蛋白会堵塞人的血管, 肺部, 脑部, 肝部等等, 导致的结果就是: 心肌炎, 心肌梗塞, 脑梗, 脑血管梗死等等症状, 并且永远消除不了‼️\n\n🔥新冠疫苗大爆发, 大屠杀\n‼️能解新冠病毒, 新冠疫苗的解药就是 #青蒿琥脂 (片) https://t.co/siDSVHjo66"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/含糖男娘🍥2025.09.06//可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 417,
+          "like_count": 376,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 382
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-12T15:38:28.000Z",
+        "description": "中共不代表中国人、 中共不代表中国",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nfscofficial.com",
+                "end": 23,
+                "expanded_url": "http://nfscofficial.com",
+                "start": 0,
+                "url": "https://t.co/kTgqXSPFkj"
+              }
+            ]
+          }
+        },
+        "id": "1624795006828421122",
+        "location": "新中国联邦",
+        "name": "诗和远方",
+        "pinned_tweet_id": "1816284938544570448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719721353882791936/FTZABcpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15876,
+          "following_count": 364,
+          "like_count": 42562,
+          "listed_count": 69,
+          "media_count": 43359,
+          "tweet_count": 138774
+        },
+        "url": "https://t.co/kTgqXSPFkj",
+        "username": "RealColidora3",
+        "verified": true
+      }
+    ]
+  }
+}

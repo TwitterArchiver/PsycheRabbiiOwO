@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2042897599515246831",
+    "created_at": "2026-04-11T09:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042897599515246831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thomaskong9663…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/thomaskong96638/status/2042546024678592907",
+          "start": 11,
+          "url": "https://t.co/9CZZLgvMFy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042897599515246831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042546024678592907",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哪个德\n德意志帝国么 https://t.co/9CZZLgvMFy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 710,
+        "media_key": "3_2042546020584927232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiUyKpaMAAV6By.jpg",
+        "width": 951
+      },
+      {
+        "height": 1423,
+        "media_key": "3_2042546020563980293",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiUyKkakAUioR8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2042897599515246831",
+        "created_at": "2026-04-11T09:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042897599515246831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thomaskong9663…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/thomaskong96638/status/2042546024678592907",
+              "start": 11,
+              "url": "https://t.co/9CZZLgvMFy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042897599515246831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042546024678592907",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哪个德\n德意志帝国么 https://t.co/9CZZLgvMFy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042546020584927232",
+            "3_2042546020563980293"
+          ]
+        },
+        "author_id": "1789179729695891456",
+        "conversation_id": "2042546024678592907",
+        "created_at": "2026-04-10T10:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042546024678592907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Ubbsb60Mj",
+              "end": 107,
+              "expanded_url": "https://x.com/Thomaskong96638/status/2042546024678592907/photo/1",
+              "media_key": "3_2042546020584927232",
+              "start": 84,
+              "url": "https://t.co/2Ubbsb60Mj"
+            },
+            {
+              "display_url": "pic.x.com/2Ubbsb60Mj",
+              "end": 107,
+              "expanded_url": "https://x.com/Thomaskong96638/status/2042546024678592907/photo/1",
+              "media_key": "3_2042546020563980293",
+              "start": 84,
+              "url": "https://t.co/2Ubbsb60Mj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042546024678592907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 125970,
+          "like_count": 414,
+          "quote_count": 15,
+          "reply_count": 206,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "近日，中央电视台，中央人民广播电台，凤凰卫视评论员项立刚发文称：\n＂一个国家要成为和谐、幸福的国家，这个国家应该以德治国，而不是依法治国。”\n也许，二次文革真的要来了 https://t.co/2Ubbsb60Mj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 1247,
+          "like_count": 7649,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 1838
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-11T06:24:49.000Z",
+        "description": "已摆烂躺平，日常碎碎念～😌 图片来源于网络，如有侵权请联系删除",
+        "id": "1789179729695891456",
+        "location": "New Zealand",
+        "name": "Thomas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015568670223966208/ombfyiDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8485,
+          "following_count": 1738,
+          "like_count": 9493,
+          "listed_count": 20,
+          "media_count": 471,
+          "tweet_count": 5322
+        },
+        "username": "Thomaskong96638",
+        "verified": true
+      }
+    ]
+  }
+}

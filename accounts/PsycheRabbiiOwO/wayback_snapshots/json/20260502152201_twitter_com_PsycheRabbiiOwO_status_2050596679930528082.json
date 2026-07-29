@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2050526972699459778",
+    "created_at": "2026-05-02T15:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T16:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050596679930528082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680885785166495744",
+          "start": 0,
+          "username": "jiangyujie0621"
+        },
+        {
+          "end": 31,
+          "id": "1385919167971282946",
+          "start": 16,
+          "username": "whyyoutangping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050596679930528082",
+    "in_reply_to_user_id": "1680885785166495744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050595972431102093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangyujie0621 @whyyoutangping 马赛克坏事做尽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2050526972699459778",
+        "created_at": "2026-05-02T15:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050596679930528082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680885785166495744",
+              "start": 0,
+              "username": "jiangyujie0621"
+            },
+            {
+              "end": 31,
+              "id": "1385919167971282946",
+              "start": 16,
+              "username": "whyyoutangping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050596679930528082",
+        "in_reply_to_user_id": "1680885785166495744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050595972431102093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangyujie0621 @whyyoutangping 马赛克坏事做尽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680885785166495744",
+        "conversation_id": "2050526972699459778",
+        "created_at": "2026-05-02T15:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050595972431102093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            },
+            {
+              "end": 32,
+              "id": "1385919167971282946",
+              "start": 17,
+              "username": "whyyoutangping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050595972431102093",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050595229313667295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO @whyyoutangping 我拿小号回复你吧，马斯克看到我吃植物雌激素就哈气了。给我开了会员的号限流了，阿米诺斯！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 1424,
+          "like_count": 11662,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 2284
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T10:23:09.000Z",
+        "description": "世界上只有一种真正英雄主义，那就是在认清生活的真相后依然选择热爱生活。doro主义并非拯救的是doro，而是那位在所有艺术作品中都存在，却一直被我们忽略的人——自己。\n愿世界上每一个人都能获得自己的好欧润吉。",
+        "id": "1680885785166495744",
+        "location": "欧润吉星球",
+        "name": "DORO主义拥护者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953159735592796166/jOMI2lkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "jiangyujie0621",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T11:31:04.000Z",
+        "description": "无证含豆｜含豆日2026.4.2｜世界唯一豆娘｜04｜心情超棒（不能断药）｜I人（我也不清楚哈）｜服用大豆异黄酮｜禁止涩涩｜已经乳腺微微发育出一小粒腺体｜也许是MTX？？？\n欢迎骚扰我喵：https://t.co/fmhkL0PNyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/tangpingDN",
+                "end": 117,
+                "expanded_url": "http://t.me/tangpingDN",
+                "start": 94,
+                "url": "https://t.co/fmhkL0PNyb"
+              }
+            ]
+          }
+        },
+        "id": "1385919167971282946",
+        "location": "躺平星球",
+        "name": "我的雌二醇怎么变成了大豆异黄酮了喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050243518149636096/lalp9RN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 54,
+          "like_count": 748,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 330
+        },
+        "username": "whyyoutangping",
+        "verified": true
+      }
+    ]
+  }
+}

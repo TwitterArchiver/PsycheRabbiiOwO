@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2079940262277890551",
+    "created_at": "2026-07-22T18:22:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T19:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079995434848944503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2035665785541308416",
+          "start": 0,
+          "username": "MR39ovo"
+        },
+        {
+          "end": 20,
+          "id": "1510447851507261445",
+          "start": 9,
+          "username": "LanziiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079995434848944503",
+    "in_reply_to_user_id": "2035665785541308416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079967953957859660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@MR39ovo @LanziiLove 戴套"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2079940262277890551",
+        "created_at": "2026-07-22T18:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T19:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079995434848944503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2035665785541308416",
+              "start": 0,
+              "username": "MR39ovo"
+            },
+            {
+              "end": 20,
+              "id": "1510447851507261445",
+              "start": 9,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079995434848944503",
+        "in_reply_to_user_id": "2035665785541308416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079967953957859660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@MR39ovo @LanziiLove 戴套"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035665785541308416",
+        "conversation_id": "2079940262277890551",
+        "created_at": "2026-07-22T16:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079967953957859660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079967953957859660",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079940262277890551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 话说术后做完要怎么清洁里面，不清洁的话会一股味吧，毕竟只是有个形没有顺女的菌群结构更何况顺女也会得阴道炎😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 1731,
+          "like_count": 20617,
+          "listed_count": 2,
+          "media_count": 342,
+          "tweet_count": 3098
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T10:32:16.000Z",
+        "description": "不死族，不玉玉不自残不od，随缘更新xx空间，有人评论会很开心，喜欢的东西是键盘和睡大觉，努力克服社交恐惧中，欢迎和我做朋友，接键盘代组",
+        "id": "2035665785541308416",
+        "name": "MrovO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062779413406838784/ONQsyn-q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 49,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "MR39ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年2月SRS｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 121,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 98,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29003,
+          "following_count": 1597,
+          "like_count": 3566,
+          "listed_count": 82,
+          "media_count": 498,
+          "tweet_count": 3192
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}

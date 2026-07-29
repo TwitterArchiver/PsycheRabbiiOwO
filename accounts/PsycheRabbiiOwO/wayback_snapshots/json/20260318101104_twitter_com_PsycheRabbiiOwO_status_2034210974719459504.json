@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2034210974719459504",
+    "created_at": "2026-03-18T10:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T11:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034210974719459504"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034210974719459504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "整理相册，发现那些照片跟记忆对不上：\n\n它们明显亮很多，而记忆里的，蒙上了一层灰蒙蒙的滤镜。\n\n抑郁的阴影罩在那些美好的事物上，让那时的快乐减弱了好多。只是觉得有点可惜，不过现在看看，也应该能把这部分补回来。\n\n一张张地归类照片，从最近到很久很久以前。我看到自己和那些在意的人，和在意我的人，一个个分别，我珍视的东西也丢掉不少，感觉那种无力感回来了。\n\n突然下雨了，很冷。一眨眼，泪被挤出来几滴。慌忙拿卫生纸擦了擦，模糊的视野清晰了不少，只是惊讶地发现，相册的照片颜色变掉了。抬头看看周围，也变掉了。哦，原来是那层滤镜也回来了。\n\n春天确实是抑郁高发的季节。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "整理相册，发现那些照片跟记忆对不上：\n\n它们明显亮很多，而记忆里的，蒙上了一层灰蒙蒙的滤镜。\n\n抑郁的阴影罩在那些美好的事物上，让那时的快乐减弱了好多。只是觉得有点可惜，不过现在看看，也应该能把这部分补回来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2034210974719459504",
+        "created_at": "2026-03-18T10:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T11:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034210974719459504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034210974719459504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "整理相册，发现那些照片跟记忆对不上：\n\n它们明显亮很多，而记忆里的，蒙上了一层灰蒙蒙的滤镜。\n\n抑郁的阴影罩在那些美好的事物上，让那时的快乐减弱了好多。只是觉得有点可惜，不过现在看看，也应该能把这部分补回来。\n\n一张张地归类照片，从最近到很久很久以前。我看到自己和那些在意的人，和在意我的人，一个个分别，我珍视的东西也丢掉不少，感觉那种无力感回来了。\n\n突然下雨了，很冷。一眨眼，泪被挤出来几滴。慌忙拿卫生纸擦了擦，模糊的视野清晰了不少，只是惊讶地发现，相册的照片颜色变掉了。抬头看看周围，也变掉了。哦，原来是那层滤镜也回来了。\n\n春天确实是抑郁高发的季节。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "整理相册，发现那些照片跟记忆对不上：\n\n它们明显亮很多，而记忆里的，蒙上了一层灰蒙蒙的滤镜。\n\n抑郁的阴影罩在那些美好的事物上，让那时的快乐减弱了好多。只是觉得有点可惜，不过现在看看，也应该能把这部分补回来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/8964准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "rabbii_third"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8wsaf9dfras6fdsgr4.com",
+                "end": 23,
+                "expanded_url": "http://8wsaf9dfras6fdsgr4.com",
+                "start": 0,
+                "url": "https://t.co/HHpVvSPYOB"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月（🍥•﹃•🍥）8964",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032672138176704512/fwd2tlZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 1060,
+          "like_count": 5498,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 1536
+        },
+        "url": "https://t.co/HHpVvSPYOB",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

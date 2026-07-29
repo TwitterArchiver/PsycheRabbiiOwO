@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1960346451206414564",
+    "created_at": "2025-09-11T05:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T06:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966014707191492814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1724367733863944192",
+          "start": 0,
+          "username": "shaohong_s32578"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966014707191492814",
+    "in_reply_to_user_id": "1724367733863944192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960346451206414564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaohong_s32578 跟天赋党爆了😡😡😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1960346438598291456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSMsxVacAAHNh8.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1960346451206414564",
+        "created_at": "2025-09-11T05:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T06:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966014707191492814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1724367733863944192",
+              "start": 0,
+              "username": "shaohong_s32578"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966014707191492814",
+        "in_reply_to_user_id": "1724367733863944192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960346451206414564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaohong_s32578 跟天赋党爆了😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960346438598291456"
+          ]
+        },
+        "author_id": "1724367733863944192",
+        "conversation_id": "1960346451206414564",
+        "created_at": "2025-08-26T14:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T15:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960346451206414564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kmRWik6gUJ",
+              "end": 55,
+              "expanded_url": "https://x.com/shaohong_s32578/status/1960346451206414564/photo/1",
+              "media_key": "3_1960346438598291456",
+              "start": 32,
+              "url": "https://t.co/kmRWik6gUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960346451206414564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1203,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安（绝对没有炫耀新剪的超级无敌可爱美丽漂亮帅气动人的新发型） https://t.co/kmRWik6gUJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/🍥2025.09.06/MTX/可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 406,
+          "like_count": 341,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 344
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T10:04:50.000Z",
+        "description": "09/MTF/2025.7.2/互fo 对象@zong_gu42511",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "zong_gu42511"
+              }
+            ]
+          }
+        },
+        "id": "1724367733863944192",
+        "name": "sunlin🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954536205401595904/tZ4uCaAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 190,
+          "like_count": 1542,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 110
+        },
+        "username": "shaohong_s32578",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075110064562798592"
+      ],
+      "media_source_tweet_id": [
+        "2075132850085798208"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2075150652486173021",
+    "created_at": "2026-07-09T09:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075150652486173021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1557846379736666113",
+          "start": 3,
+          "username": "Meguminsama2009"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1F3HyHva5H",
+          "end": 55,
+          "expanded_url": "https://x.com/Meguminsama2009/status/2075132850085798208/photo/1",
+          "media_key": "3_2075110064562798592",
+          "start": 32,
+          "url": "https://t.co/1F3HyHva5H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075150652486173021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075132850085798208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meguminsama2009: 齁哦哦我再也不敢了😭 https://t.co/1F3HyHva5H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1546,
+        "media_key": "3_2075110064562798592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxFm_wagAAJc--.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075110064562798592"
+          ],
+          "media_source_tweet_id": [
+            "2075132850085798208"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2075150652486173021",
+        "created_at": "2026-07-09T09:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075150652486173021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1557846379736666113",
+              "start": 3,
+              "username": "Meguminsama2009"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1F3HyHva5H",
+              "end": 55,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2075132850085798208/photo/1",
+              "media_key": "3_2075110064562798592",
+              "start": 32,
+              "url": "https://t.co/1F3HyHva5H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075150652486173021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075132850085798208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meguminsama2009: 齁哦哦我再也不敢了😭 https://t.co/1F3HyHva5H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075110064562798592"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2075132850085798208",
+        "created_at": "2026-07-09T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075132850085798208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1F3HyHva5H",
+              "end": 34,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2075132850085798208/photo/1",
+              "media_key": "3_2075110064562798592",
+              "start": 11,
+              "url": "https://t.co/1F3HyHva5H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075132850085798208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1413,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "齁哦哦我再也不敢了😭 https://t.co/1F3HyHva5H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 1647,
+          "like_count": 19613,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 2903
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠\n小号：@meguminsuki2009",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "meguminsuki2009"
+              }
+            ]
+          }
+        },
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2067940468667580679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 1960,
+          "like_count": 3395,
+          "listed_count": 2,
+          "media_count": 722,
+          "tweet_count": 7735
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

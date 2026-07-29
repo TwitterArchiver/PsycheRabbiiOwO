@@ -1,0 +1,554 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966414455434256385"
+      ],
+      "media_source_tweet_id": [
+        "1966414463500014001"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1205545188828991488",
+          "name": "Hideo Kojima"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1205545188828991488",
+          "name": "Hideo Kojima"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1288169348553564160",
+          "name": "Game industry professionals"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "136",
+          "name": "Video Game Personality "
+        },
+        "entity": {
+          "id": "1205545188828991488",
+          "name": "Hideo Kojima"
+        }
+      }
+    ],
+    "conversation_id": "1966853145776320908",
+    "created_at": "2025-09-13T13:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T14:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966853145776320908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1571556754978377728",
+          "start": 3,
+          "username": "xjp32698837"
+        },
+        {
+          "end": 30,
+          "id": "116942168",
+          "start": 17,
+          "username": "Kojima_Hideo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X7hWg3Bedr",
+          "end": 59,
+          "expanded_url": "https://x.com/xjp32698837/status/1966414463500014001/photo/1",
+          "media_key": "3_1966414455434256385",
+          "start": 36,
+          "url": "https://t.co/X7hWg3Bedr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966853145776320908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966414463500014001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xjp32698837: @Kojima_Hideo 来上班了 https://t.co/X7hWg3Bedr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1966414455434256385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0obh1laIAEsS4v.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966414455434256385"
+          ],
+          "media_source_tweet_id": [
+            "1966414463500014001"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1205545188828991488",
+              "name": "Hideo Kojima"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1205545188828991488",
+              "name": "Hideo Kojima"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288169348553564160",
+              "name": "Game industry professionals"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "136",
+              "name": "Video Game Personality "
+            },
+            "entity": {
+              "id": "1205545188828991488",
+              "name": "Hideo Kojima"
+            }
+          }
+        ],
+        "conversation_id": "1966853145776320908",
+        "created_at": "2025-09-13T13:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T14:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966853145776320908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1571556754978377728",
+              "start": 3,
+              "username": "xjp32698837"
+            },
+            {
+              "end": 30,
+              "id": "116942168",
+              "start": 17,
+              "username": "Kojima_Hideo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X7hWg3Bedr",
+              "end": 59,
+              "expanded_url": "https://x.com/xjp32698837/status/1966414463500014001/photo/1",
+              "media_key": "3_1966414455434256385",
+              "start": 36,
+              "url": "https://t.co/X7hWg3Bedr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966853145776320908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966414463500014001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xjp32698837: @Kojima_Hideo 来上班了 https://t.co/X7hWg3Bedr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966414455434256385"
+          ]
+        },
+        "author_id": "1571556754978377728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1205545188828991488",
+              "name": "Hideo Kojima"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1205545188828991488",
+              "name": "Hideo Kojima"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288169348553564160",
+              "name": "Game industry professionals"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "136",
+              "name": "Video Game Personality "
+            },
+            "entity": {
+              "id": "1205545188828991488",
+              "name": "Hideo Kojima"
+            }
+          }
+        ],
+        "conversation_id": "1966336647110488183",
+        "created_at": "2025-09-12T08:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T09:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966414463500014001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "116942168",
+              "start": 0,
+              "username": "Kojima_Hideo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X7hWg3Bedr",
+              "end": 42,
+              "expanded_url": "https://x.com/xjp32698837/status/1966414463500014001/photo/1",
+              "media_key": "3_1966414455434256385",
+              "start": 19,
+              "url": "https://t.co/X7hWg3Bedr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966414463500014001",
+        "in_reply_to_user_id": "116942168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7787,
+          "like_count": 362,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966336647110488183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kojima_Hideo 来上班了 https://t.co/X7hWg3Bedr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/🍥2025.09.06/MTX/可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 410,
+          "like_count": 354,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 353
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-18T17:48:31.000Z",
+        "description": "神蛆差不多得了，这个屠支那个大佐的，加起来有毛主席屠的亿分之一吗？还不是炒作狗😁",
+        "id": "1571556754978377728",
+        "location": "北京",
+        "name": "xjp",
+        "pinned_tweet_id": "1918724287990775936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786432464258486272/AlAZrS9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 46,
+          "like_count": 15596,
+          "listed_count": 5,
+          "media_count": 655,
+          "tweet_count": 4934
+        },
+        "username": "xjp32698837",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-24T01:57:02.000Z",
+        "description": "ゲームデザイナー：僕の体の70%は映画でできている",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kojimaproductions.jp",
+                "end": 23,
+                "expanded_url": "http://www.kojimaproductions.jp/",
+                "start": 0,
+                "url": "https://t.co/tDvDYZtiTo"
+              }
+            ]
+          }
+        },
+        "id": "116942168",
+        "location": "故郷は地球",
+        "name": "小島秀夫",
+        "pinned_tweet_id": "1938846192907034658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932235823925391360/EiPYxGdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494893,
+          "following_count": 2055,
+          "like_count": 5744,
+          "listed_count": 9429,
+          "media_count": 31408,
+          "tweet_count": 197337
+        },
+        "url": "https://t.co/tDvDYZtiTo",
+        "username": "Kojima_Hideo",
+        "verified": true
+      }
+    ]
+  }
+}

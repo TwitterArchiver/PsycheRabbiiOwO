@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1968046816995446855",
+    "created_at": "2025-09-16T20:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T21:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968046816995446855"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/codyhunk/statu…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/codyhunk/status/1967771884315177443",
+          "start": 47,
+          "url": "https://t.co/o2vJItPkMP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968046816995446855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967771884315177443",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "高三就坐这的，爽死\n那高一高二坐哪？\n当然是墙角\n\n在太大的空间生活学习工作\n真的没有安全感 https://t.co/o2vJItPkMP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1967771873376342016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G07uF9eaEAAM0Q4.jpg",
+        "width": 786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1968046816995446855",
+        "created_at": "2025-09-16T20:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T21:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968046816995446855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/codyhunk/statu…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/codyhunk/status/1967771884315177443",
+              "start": 47,
+              "url": "https://t.co/o2vJItPkMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968046816995446855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967771884315177443",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高三就坐这的，爽死\n那高一高二坐哪？\n当然是墙角\n\n在太大的空间生活学习工作\n真的没有安全感 https://t.co/o2vJItPkMP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967771873376342016"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "1967771884315177443",
+        "created_at": "2025-09-16T02:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T03:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967771884315177443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KqcQzeDVFH",
+              "end": 23,
+              "expanded_url": "https://x.com/codyhunk/status/1967771884315177443/photo/1",
+              "media_key": "3_1967771873376342016",
+              "start": 0,
+              "url": "https://t.co/KqcQzeDVFH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967771884315177443",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 11396,
+          "like_count": 196,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KqcQzeDVFH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/含糖男娘🍥2025.09.06//可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 417,
+          "like_count": 371,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 377
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "大家好叫我半藏就好，很喜欢和大家成为朋友，平时分享梗图。没啥雷点，爱打游戏不红温，互fo记得在顶置留言",
+        "id": "1911628907842818049",
+        "location": "距你0.2km",
+        "name": "岛田半藏",
+        "pinned_tweet_id": "1947464239570161956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952336396066377728/lizJCy-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9756,
+          "following_count": 1721,
+          "like_count": 4969,
+          "listed_count": 22,
+          "media_count": 3976,
+          "tweet_count": 4272
+        },
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

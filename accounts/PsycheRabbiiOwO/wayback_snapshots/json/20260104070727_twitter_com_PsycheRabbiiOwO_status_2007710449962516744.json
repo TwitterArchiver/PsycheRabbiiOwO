@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2007406106403057789",
+    "created_at": "2026-01-04T07:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T08:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007710449962516744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1778248194423701504",
+          "start": 0,
+          "username": "bysjw555"
+        },
+        {
+          "end": 22,
+          "id": "1103821331588571136",
+          "start": 10,
+          "username": "recatorseky"
+        },
+        {
+          "end": 39,
+          "id": "1261051528061861888",
+          "start": 23,
+          "username": "vru8JvwdzpO909i"
+        },
+        {
+          "end": 52,
+          "id": "1395031782014205953",
+          "start": 40,
+          "username": "komacyan_zZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007710449962516744",
+    "in_reply_to_user_id": "1778248194423701504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007710213273731166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bysjw555 @recatorseky @vru8JvwdzpO909i @komacyan_zZ 已严肃block🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2007406106403057789",
+        "created_at": "2026-01-04T07:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T08:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007710449962516744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1778248194423701504",
+              "start": 0,
+              "username": "bysjw555"
+            },
+            {
+              "end": 22,
+              "id": "1103821331588571136",
+              "start": 10,
+              "username": "recatorseky"
+            },
+            {
+              "end": 39,
+              "id": "1261051528061861888",
+              "start": 23,
+              "username": "vru8JvwdzpO909i"
+            },
+            {
+              "end": 52,
+              "id": "1395031782014205953",
+              "start": 40,
+              "username": "komacyan_zZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007710449962516744",
+        "in_reply_to_user_id": "1778248194423701504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007710213273731166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bysjw555 @recatorseky @vru8JvwdzpO909i @komacyan_zZ 已严肃block🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778248194423701504",
+        "conversation_id": "2007406106403057789",
+        "created_at": "2026-01-04T07:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T08:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007710213273731166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103821331588571136",
+              "start": 0,
+              "username": "recatorseky"
+            },
+            {
+              "end": 29,
+              "id": "1261051528061861888",
+              "start": 13,
+              "username": "vru8JvwdzpO909i"
+            },
+            {
+              "end": 42,
+              "id": "1395031782014205953",
+              "start": 30,
+              "username": "komacyan_zZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007710213273731166",
+        "in_reply_to_user_id": "1103821331588571136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007709608467747126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@recatorseky @vru8JvwdzpO909i @komacyan_zZ 😅我是该说你没脑子呢还是该说你看不懂中文呢，真让晶哥逮了问话又不叫了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）含🍥做题蛆/长相普通别骂我参考亮点里的照片/只混生物圈岩石圈大气圈水圈/链接是提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲（💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 794,
+          "like_count": 2869,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1089
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T02:26:50.000Z",
+        "description": "",
+        "id": "1778248194423701504",
+        "name": "kinnnnnnsou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976898574769438724/_1Ldlx8w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 518,
+          "like_count": 5314,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 736
+        },
+        "username": "bysjw555",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T00:54:48.000Z",
+        "description": "/中文/Eng/FF14 / R6S/（全甲格斗）buhurt/cosplay/Gundam UC/ 恋人@AOHITOM1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "AOHITOM1"
+              }
+            ]
+          }
+        },
+        "id": "1103821331588571136",
+        "location": "RE",
+        "name": "REC470R",
+        "pinned_tweet_id": "1984171567253967185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973030013831364608/nOg1CYWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 82,
+          "like_count": 23199,
+          "listed_count": 1,
+          "media_count": 497,
+          "tweet_count": 3012
+        },
+        "username": "recatorseky",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-14T21:51:38.000Z",
+        "description": "累了，随缘营业吧，看缘分🇮🇹",
+        "id": "1261051528061861888",
+        "name": "色即是空 我就是空",
+        "pinned_tweet_id": "1607343017882533888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1327997823741284353/KdS22KIm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 218,
+          "like_count": 5527,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 982
+        },
+        "username": "vru8JvwdzpO909i",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T15:01:25.000Z",
+        "description": "躁うつ病 / JLPT-N2 / 日常垢 / 絵垢 / フォロバをご希望の方はDMお願いします ❤️@MoeQike",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "MoeQike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kona.icu",
+                "end": 23,
+                "expanded_url": "https://kona.icu",
+                "start": 0,
+                "url": "https://t.co/71HeCHYqFm"
+              }
+            ]
+          }
+        },
+        "id": "1395031782014205953",
+        "location": "キミのとなり",
+        "name": "小鞠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999378139898875904/xoF2Xocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2861,
+          "following_count": 765,
+          "like_count": 13400,
+          "listed_count": 10,
+          "media_count": 1466,
+          "tweet_count": 6624
+        },
+        "url": "https://t.co/71HeCHYqFm",
+        "username": "komacyan_zZ",
+        "verified": false
+      }
+    ]
+  }
+}

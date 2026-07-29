@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2063226615539356106",
+    "created_at": "2026-06-06T13:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063251550722838867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2000383206445719552",
+          "start": 0,
+          "username": "PRC_Arba"
+        },
+        {
+          "end": 25,
+          "id": "1918274202580467713",
+          "start": 10,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 39,
+          "id": "1809845899851624451",
+          "start": 26,
+          "username": "hironakaiori"
+        },
+        {
+          "end": 49,
+          "id": "1811384610749874176",
+          "start": 40,
+          "username": "wgddking"
+        },
+        {
+          "end": 66,
+          "id": "1870336533342932992",
+          "start": 50,
+          "username": "Asahina_Shikure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063251550722838867",
+    "in_reply_to_user_id": "2000383206445719552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063231471176098257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PRC_Arba @CyberKanjousen @hironakaiori @wgddking @Asahina_Shikure 国家政务平台"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2063226615539356106",
+        "created_at": "2026-06-06T13:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063251550722838867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2000383206445719552",
+              "start": 0,
+              "username": "PRC_Arba"
+            },
+            {
+              "end": 25,
+              "id": "1918274202580467713",
+              "start": 10,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 39,
+              "id": "1809845899851624451",
+              "start": 26,
+              "username": "hironakaiori"
+            },
+            {
+              "end": 49,
+              "id": "1811384610749874176",
+              "start": 40,
+              "username": "wgddking"
+            },
+            {
+              "end": 66,
+              "id": "1870336533342932992",
+              "start": 50,
+              "username": "Asahina_Shikure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063251550722838867",
+        "in_reply_to_user_id": "2000383206445719552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063231471176098257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PRC_Arba @CyberKanjousen @hironakaiori @wgddking @Asahina_Shikure 国家政务平台"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000383206445719552",
+        "conversation_id": "2063226615539356106",
+        "created_at": "2026-06-06T12:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063231471176098257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 29,
+              "id": "1809845899851624451",
+              "start": 16,
+              "username": "hironakaiori"
+            },
+            {
+              "end": 39,
+              "id": "1811384610749874176",
+              "start": 30,
+              "username": "wgddking"
+            },
+            {
+              "end": 56,
+              "id": "1870336533342932992",
+              "start": 40,
+              "username": "Asahina_Shikure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063231471176098257",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063226615539356106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @hironakaiori @wgddking @Asahina_Shikure 这是什么软件？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 1512,
+          "like_count": 15988,
+          "listed_count": 3,
+          "media_count": 288,
+          "tweet_count": 2568
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T01:51:45.000Z",
+        "description": "PRC🇨🇳|前期本土自由派中期网左|目前为左翼建制派|左翼民族主义|毛粉|亲欧反美|反独促统、一国一制|对本土自由派/毛左友好|理性拥护习近平|不拉黑屏蔽任何人\n台湾朋友：@whitelate0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 86,
+                "username": "whitelate0001"
+              }
+            ]
+          }
+        },
+        "id": "2000383206445719552",
+        "location": "THE PEOPLE'S REPUBLIC OF CHINA",
+        "name": "Arba🇨🇳",
+        "pinned_tweet_id": "2006763449796407599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050950185015296001/squunr_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 145,
+          "like_count": 2462,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 1260
+        },
+        "username": "PRC_Arba",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5019,
+          "following_count": 870,
+          "like_count": 24581,
+          "listed_count": 10,
+          "media_count": 1339,
+          "tweet_count": 7418
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-07T07:04:44.000Z",
+        "description": "https://t.co/lFZOrt3Lue\n社会自由主义｜全性别平权｜务实左｜性解放｜反毒反赌反废死｜MtF 但还没开始 HRT 这一块\n中日韩友谊万岁\n中日韓友誼萬歲\n中日韓友好万歳\n한중일 우호 만세\n中文（普通话）｜吳語（太湖片上海小片/蘇嘉湖小片）｜ENGLISH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/hironaka-iori",
+                "end": 23,
+                "expanded_url": "https://github.com/hironaka-iori",
+                "start": 0,
+                "url": "https://t.co/lFZOrt3Lue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hironakaiori.site",
+                "end": 23,
+                "expanded_url": "http://hironakaiori.site",
+                "start": 0,
+                "url": "https://t.co/xZ9GnmqZPf"
+              }
+            ]
+          }
+        },
+        "id": "1809845899851624451",
+        "location": "花咲川女子学園",
+        "name": "広中依緒璃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051342606807031808/B26uQG3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 1951,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 577
+        },
+        "url": "https://t.co/xZ9GnmqZPf",
+        "username": "hironakaiori",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T12:58:52.000Z",
+        "description": "声明\n本人绝对支持中国特色社会主义\n本人绝对无条件支持中国共产党的领导\n本人绝对敬爱伟大的总书记习近平主席\n本人绝对坚持邓公的十个如果 支持改革开放\n本人绝对无条件支持中国共产党的任何决策\n绝对支持一个中国原则，坚决维护主权、安全、领土完整、国家统一。\n__所有键证内容均已删除__\n（求警哥别抓我😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/CHVCxAFPQr"
+              }
+            ]
+          }
+        },
+        "id": "1811384610749874176",
+        "location": "Hitachi-shi, Ibaraki",
+        "name": "wgdd（温指导）",
+        "pinned_tweet_id": "2061023590150254815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046320430001377280/xPc4v9yE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 88,
+          "like_count": 822,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 2495
+        },
+        "url": "https://t.co/CHVCxAFPQr",
+        "username": "wgddking",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-21T05:12:44.000Z",
+        "description": "换号中，新号@AsahinaShikure 欢迎大家关注！/Junior High Sec 3 student/Age 14/MtF🏳️‍⚧️/Radical transgenderism/Project Sekai世界计划/Langs:🇺🇸🇹🇼🇯🇵🇫🇷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "AsahinaShikure"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://www.gov-urg.net",
+                "start": 0,
+                "url": "https://t.co/hX5y0S4sur"
+              }
+            ]
+          }
+        },
+        "id": "1870336533342932992",
+        "location": "Central Region, Singapore🇸🇬",
+        "name": "Asahina Shikure 朝比奈丶志暮🏳️‍⚧️",
+        "pinned_tweet_id": "2060963335781159056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057840599999639552/7hAGSJcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 696,
+          "like_count": 3110,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 610
+        },
+        "url": "https://t.co/hX5y0S4sur",
+        "username": "Asahina_Shikure",
+        "verified": true
+      }
+    ]
+  }
+}

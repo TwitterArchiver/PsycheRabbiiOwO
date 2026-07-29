@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077004772100784128",
+        "3_2077004772138491904"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2077004794242408512",
+    "created_at": "2026-07-14T12:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077004794242408512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MG22qzObYq",
+          "end": 36,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2077004794242408512/photo/1",
+          "media_key": "3_2077004772100784128",
+          "start": 13,
+          "url": "https://t.co/MG22qzObYq"
+        },
+        {
+          "display_url": "pic.x.com/MG22qzObYq",
+          "end": 36,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2077004794242408512/photo/1",
+          "media_key": "3_2077004772138491904",
+          "start": 13,
+          "url": "https://t.co/MG22qzObYq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077004794242408512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "它和它🥱\n\nta和ta🍥 https://t.co/MG22qzObYq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2077004772100784128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMA1fXbwAAr7Iu.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2077004772138491904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMA1fgbIAASVLf.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077004772100784128",
+            "3_2077004772138491904"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2077004794242408512",
+        "created_at": "2026-07-14T12:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077004794242408512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MG22qzObYq",
+              "end": 36,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2077004794242408512/photo/1",
+              "media_key": "3_2077004772100784128",
+              "start": 13,
+              "url": "https://t.co/MG22qzObYq"
+            },
+            {
+              "display_url": "pic.x.com/MG22qzObYq",
+              "end": 36,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2077004794242408512/photo/1",
+              "media_key": "3_2077004772138491904",
+              "start": 13,
+              "url": "https://t.co/MG22qzObYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077004794242408512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "它和它🥱\n\nta和ta🍥 https://t.co/MG22qzObYq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 1664,
+          "like_count": 19919,
+          "listed_count": 3,
+          "media_count": 318,
+          "tweet_count": 2956
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

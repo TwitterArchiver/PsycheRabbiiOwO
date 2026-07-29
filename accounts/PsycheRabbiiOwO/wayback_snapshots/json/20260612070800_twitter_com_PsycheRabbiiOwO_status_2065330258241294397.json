@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065043975753572352"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2065330258241294397",
+    "created_at": "2026-06-12T07:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T08:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065330258241294397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uHZg3iPt3d",
+          "end": 42,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2065330258241294397/photo/1",
+          "media_key": "3_2065043975753572352",
+          "start": 19,
+          "url": "https://t.co/uHZg3iPt3d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065330258241294397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚睡醒，这发型？？？\n怎么一股拉子味 https://t.co/uHZg3iPt3d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065043975753572352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiCjgxaIAACYdu.jpg",
+        "width": 1025
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065043975753572352"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2065330258241294397",
+        "created_at": "2026-06-12T07:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065330258241294397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHZg3iPt3d",
+              "end": 42,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2065330258241294397/photo/1",
+              "media_key": "3_2065043975753572352",
+              "start": 19,
+              "url": "https://t.co/uHZg3iPt3d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065330258241294397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚睡醒，这发型？？？\n怎么一股拉子味 https://t.co/uHZg3iPt3d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 1551,
+          "like_count": 16976,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 2649
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2016257367319707713",
+    "created_at": "2026-01-27T21:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T22:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016257367319707713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/satanhotdog/st…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/satanhotdog/status/2016052913869873324",
+          "start": 42,
+          "url": "https://t.co/PpaITWs9wp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016257367319707713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016052913869873324",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在的人离了ai就不会说话了吗\n又或者，这根本不是人\n\n这种入机发言看到一个b一个 https://t.co/PpaITWs9wp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2016257367319707713",
+        "created_at": "2026-01-27T21:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T22:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016257367319707713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/satanhotdog/st…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/satanhotdog/status/2016052913869873324",
+              "start": 42,
+              "url": "https://t.co/PpaITWs9wp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016257367319707713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016052913869873324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在的人离了ai就不会说话了吗\n又或者，这根本不是人\n\n这种入机发言看到一个b一个 https://t.co/PpaITWs9wp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1144235953",
+        "conversation_id": "2015995302722121869",
+        "created_at": "2026-01-27T07:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T08:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016052913869873324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016052913869873324",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "別再罵了，這其實是房地產商送給業主的「智力測驗」。\n\n這堵牆之所以能懸浮，是因為它已經看透了這個世界的虛偽，決定從底層邏輯開始與大地斷絕往來。\n\n這不是工程疏失，這是在提醒你：只要你跑得夠快，重力就追不上你。這牆在教我們一種新的人格修養「懸浮式生存」，管它下面基層怎麼崩塌，只要上面有人拉著（指鋼筋），我們就能繼續優雅地裝逼。\n\n所以說，大家別擔心樓會塌，只要你不住進去，這就是藝術；如果你住進去了，這就是命。呸，這鬼房子連鬼都不住。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1526,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015995302722121869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 別再罵了，這其實是房地產商送給業主的「智力測驗」。\n\n這堵牆之所以能懸浮，是因為它已經看透了這個世界的虛偽，決定從底層邏輯開始與大地斷絕往來。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "含🍥做题蛆/长相普通别骂我参考亮点里的照片/备用机@rabbii_third不知道会发些什么呢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 869,
+          "like_count": 3416,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1201
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-03T04:56:12.000Z",
+        "description": "隨性發文，互關隨緣。\n\n這裡主要分享：\n💰 幣圈動態\n🇯🇵 日本旅遊\n📚 漫畫與輕小說\n😜 喇賽文\n📖 偶爾會掉落年少輕狂的假文青散文。\n\n​🚫 詐騙/約砲別來，已婚。",
+        "id": "1144235953",
+        "location": "Taichung City, Taiwan",
+        "name": "SATANHOTDOG​ 地獄門口賣熱狗的貓",
+        "pinned_tweet_id": "2015049461257703556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983046094826450944/ovBfDDTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 1145,
+          "like_count": 12142,
+          "listed_count": 0,
+          "media_count": 857,
+          "tweet_count": 10145
+        },
+        "username": "satanhotdog",
+        "verified": true
+      }
+    ]
+  }
+}

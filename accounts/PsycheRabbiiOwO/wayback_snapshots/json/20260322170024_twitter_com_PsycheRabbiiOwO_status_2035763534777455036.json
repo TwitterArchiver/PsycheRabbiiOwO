@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2035763534777455036",
+    "created_at": "2026-03-22T17:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T18:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035763534777455036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yb4928/status/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/yb4928/status/2035595785828802844",
+          "start": 23,
+          "url": "https://t.co/2xkQR1IXfw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035763534777455036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035595785828802844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我心里有点不太舒服☹️\n\n凭什么。。。。。。 https://t.co/2xkQR1IXfw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14000,
+        "height": 1280,
+        "media_key": "13_2035595297557188608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035595297557188608/img/BOcs1rXlOBJKZxkt.jpg",
+        "public_metrics": {
+          "view_count": 1245
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035595297557188608/vid/avc1/320x568/0xPTOPVhVb9diiba.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035595297557188608/vid/avc1/480x852/5H5gwTXzqia_OG6J.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035595297557188608/vid/avc1/720x1280/GIlxKCbSeMYuXtLX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035595297557188608/pl/foMhxnTb4f0o0h_y.m3u8?v=c08"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2035763534777455036",
+        "created_at": "2026-03-22T17:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T18:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035763534777455036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yb4928/status/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/yb4928/status/2035595785828802844",
+              "start": 23,
+              "url": "https://t.co/2xkQR1IXfw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035763534777455036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035595785828802844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我心里有点不太舒服☹️\n\n凭什么。。。。。。 https://t.co/2xkQR1IXfw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035595297557188608"
+          ]
+        },
+        "author_id": "1844765088722694144",
+        "conversation_id": "2035595785828802844",
+        "created_at": "2026-03-22T05:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035595785828802844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Pju3imjfC",
+              "end": 34,
+              "expanded_url": "https://x.com/yb4928/status/2035595785828802844/video/1",
+              "media_key": "13_2035595297557188608",
+              "start": 11,
+              "url": "https://t.co/8Pju3imjfC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035595785828802844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4443,
+          "like_count": 122,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢肉肉的男孩子吗？ https://t.co/8Pju3imjfC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/8964准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "rabbii_third"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月（🍥•﹃•🍥）8964",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032672138176704512/fwd2tlZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 1088,
+          "like_count": 5703,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 1566
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-11T15:40:54.000Z",
+        "description": "",
+        "id": "1844765088722694144",
+        "name": "羊膑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031660388593672192/cVUUB4V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 9,
+          "like_count": 58,
+          "listed_count": 4,
+          "media_count": 9,
+          "tweet_count": 12
+        },
+        "username": "yb4928",
+        "verified": false
+      }
+    ]
+  }
+}

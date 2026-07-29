@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2020186421592813887",
+    "created_at": "2026-02-07T17:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T18:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020186421592813887"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hsn8086/status/2020139692667129989",
+          "start": 8,
+          "url": "https://t.co/NWtl2SwJSg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020186421592813887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020139692667129989",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下次试试😋😋😋 https://t.co/NWtl2SwJSg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 707,
+        "media_key": "3_2020139684270338048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAj6VvWacAAq9hX.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2020186421592813887",
+        "created_at": "2026-02-07T17:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T18:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020186421592813887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hsn8086/status/2020139692667129989",
+              "start": 8,
+              "url": "https://t.co/NWtl2SwJSg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020186421592813887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020139692667129989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下次试试😋😋😋 https://t.co/NWtl2SwJSg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020139684270338048"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2020139692667129989",
+        "created_at": "2026-02-07T14:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T15:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020139692667129989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSsdfCMIOB",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2020139692667129989/photo/1",
+              "media_key": "3_2020139684270338048",
+              "start": 0,
+              "url": "https://t.co/RSsdfCMIOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020139692667129989",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 19079,
+          "like_count": 192,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RSsdfCMIOB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 917,
+          "like_count": 3590,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1257
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116345,
+          "following_count": 1044,
+          "like_count": 51506,
+          "listed_count": 270,
+          "media_count": 19046,
+          "tweet_count": 29020
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

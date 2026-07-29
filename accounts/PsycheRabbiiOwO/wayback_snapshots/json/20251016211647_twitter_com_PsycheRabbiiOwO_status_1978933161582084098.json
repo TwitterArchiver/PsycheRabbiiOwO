@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1978933161582084098",
+    "created_at": "2025-10-16T21:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T22:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978933161582084098"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1978933161582084098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看完了黑镜s1\n\n理解不知道对不对\n\np1，媒体毁了一个首相的尊严\np2，娱乐化的社会人也不再为人\np3，一切都有痕迹，怀疑必然成真\n\n我猜，这部片子就是在探讨，网络社会，社交媒体，如何改变人性，摧毁人性\n\n黑镜，什么镜子是黑色的？\n是关闭的屏幕。镜子外才是真正的自己。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1978933161582084098",
+        "created_at": "2025-10-16T21:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T22:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978933161582084098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978933161582084098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看完了黑镜s1\n\n理解不知道对不对\n\np1，媒体毁了一个首相的尊严\np2，娱乐化的社会人也不再为人\np3，一切都有痕迹，怀疑必然成真\n\n我猜，这部片子就是在探讨，网络社会，社交媒体，如何改变人性，摧毁人性\n\n黑镜，什么镜子是黑色的？\n是关闭的屏幕。镜子外才是真正的自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "明天。",
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🐰凌月月（互关版）",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 434,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 459
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

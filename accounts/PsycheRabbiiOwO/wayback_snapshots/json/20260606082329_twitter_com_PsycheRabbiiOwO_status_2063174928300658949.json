@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2063123889002344705",
+    "created_at": "2026-06-06T08:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T09:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063174928300658949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2002960318998491136",
+          "start": 0,
+          "username": "vokleer"
+        },
+        {
+          "end": 22,
+          "id": "1679381806913560578",
+          "start": 9,
+          "username": "kurazawanaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063174928300658949",
+    "in_reply_to_user_id": "2002960318998491136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063124481883992531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vokleer @kurazawanaki 二氧化氮是工业硝酸原材料，一氧化氮是笑气主要成分。。。。\n\n所以我选择买成品至少不违法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2063123889002344705",
+        "created_at": "2026-06-06T08:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063174928300658949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2002960318998491136",
+              "start": 0,
+              "username": "vokleer"
+            },
+            {
+              "end": 22,
+              "id": "1679381806913560578",
+              "start": 9,
+              "username": "kurazawanaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063174928300658949",
+        "in_reply_to_user_id": "2002960318998491136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063124481883992531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vokleer @kurazawanaki 二氧化氮是工业硝酸原材料，一氧化氮是笑气主要成分。。。。\n\n所以我选择买成品至少不违法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002960318998491136",
+        "conversation_id": "2063123889002344705",
+        "created_at": "2026-06-06T05:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063124481883992531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1679381806913560578",
+              "start": 0,
+              "username": "kurazawanaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063124481883992531",
+        "in_reply_to_user_id": "1679381806913560578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063123889002344705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurazawanaki 有点想自己合成吃掉了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 1510,
+          "like_count": 15917,
+          "listed_count": 3,
+          "media_count": 288,
+          "tweet_count": 2568
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T04:32:22.000Z",
+        "description": "2006/10/02 坐标成都喵/小证2026.3.5/完全家长党/大证准备中（家长已同意）/看到我的话求求互fo喵",
+        "id": "2002960318998491136",
+        "name": "知言🍥（互fo喵）",
+        "pinned_tweet_id": "2052568366506729780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005331844280303616/0y2BfQK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 707,
+          "like_count": 2889,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 148
+        },
+        "username": "vokleer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T06:47:07.000Z",
+        "description": "只是一个普通的女⃫孩⃫子⃫.🏳️‍⚧️",
+        "id": "1679381806913560578",
+        "name": "Anemoly",
+        "pinned_tweet_id": "2056329506856796287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054398857346207744/mxos-SBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 1233,
+          "like_count": 16629,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 105
+        },
+        "username": "kurazawanaki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1994821436595388477",
+    "created_at": "2025-11-30T06:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T07:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995022677300371776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1812467019855613952",
+          "start": 0,
+          "username": "zpZ1010707"
+        },
+        {
+          "end": 27,
+          "id": "1865419581206208512",
+          "start": 12,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995022677300371776",
+    "in_reply_to_user_id": "1812467019855613952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "1.你生活在日本吗🤣👉🏻自己墙内的事不关心，关心“日本评论区”？\n2.不存在“日本评论区”🤣👉🏻，正常的互联网可没有墙，您这么厉害，怎么不引用一下这个推，去“日本评论区”反思一下？难道要把所有语言都发一遍才能入您的法眼？\n3.就这种现象本身，难道你认为正确了？你不就是是想说，别人大街上拉屎你也要拉。告诉你，二战时德国日本也这种氛围，别人有军国主义遗留，墙国也有？也变成这样，难道不值得警惕？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994934708137070907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zpZ1010707 @DDzhanshou5150 1.你生活在日本吗🤣👉🏻自己墙内的事不关心，关心“日本评论区”？\n2.不存在“日本评论区”🤣👉🏻，正常的互联网可没有墙，您这么厉害，怎么不引用一下这个推，去“日本评论区”反思一下？难道要把所有语言都发一遍才能入您的法眼？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1994821436595388477",
+        "created_at": "2025-11-30T06:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995022677300371776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1812467019855613952",
+              "start": 0,
+              "username": "zpZ1010707"
+            },
+            {
+              "end": 27,
+              "id": "1865419581206208512",
+              "start": 12,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995022677300371776",
+        "in_reply_to_user_id": "1812467019855613952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "1.你生活在日本吗🤣👉🏻自己墙内的事不关心，关心“日本评论区”？\n2.不存在“日本评论区”🤣👉🏻，正常的互联网可没有墙，您这么厉害，怎么不引用一下这个推，去“日本评论区”反思一下？难道要把所有语言都发一遍才能入您的法眼？\n3.就这种现象本身，难道你认为正确了？你不就是是想说，别人大街上拉屎你也要拉。告诉你，二战时德国日本也这种氛围，别人有军国主义遗留，墙国也有？也变成这样，难道不值得警惕？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994934708137070907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zpZ1010707 @DDzhanshou5150 1.你生活在日本吗🤣👉🏻自己墙内的事不关心，关心“日本评论区”？\n2.不存在“日本评论区”🤣👉🏻，正常的互联网可没有墙，您这么厉害，怎么不引用一下这个推，去“日本评论区”反思一下？难道要把所有语言都发一遍才能入您的法眼？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812467019855613952",
+        "conversation_id": "1994821436595388477",
+        "created_at": "2025-11-30T01:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T02:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994934708137070907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994934708137070907",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 409,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994821436595388477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 😅又反思上了，人家上网就图个乐，只有你当真。中国有大灾大难的时候日本评论区也是这样哈哈哈的，怎么没见你出来发日文版反思文？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/本人长相普通别骂我参考亮点里的照片/雷点不多只有顺直黄蛆，od，反跨（不雷人只雷事不要跳脸就好我很少b人只会不理你）/这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48ZKhM"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰（🏳️‍⚧️💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 615,
+          "like_count": 1504,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 773
+        },
+        "url": "https://t.co/274M48ZKhM",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T12:40:01.000Z",
+        "description": "SDE, lives in Beijing & Hiroshima,  Anti-imperialism.\nHope for World Peace.",
+        "id": "1812467019855613952",
+        "name": "zp Z",
+        "pinned_tweet_id": "1955494586538938472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845482591656484864/Anh2YrZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 161,
+          "like_count": 11728,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 711
+        },
+        "username": "zpZ1010707",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9639,
+          "following_count": 7853,
+          "like_count": 27548,
+          "listed_count": 24,
+          "media_count": 6616,
+          "tweet_count": 41859
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

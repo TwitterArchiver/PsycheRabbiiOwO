@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1982529727178084770",
+    "created_at": "2025-10-27T15:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T16:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982829661983064538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "LumiCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982829661983064538",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982529727178084770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumiCatRoll 充原神了😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 919,
+        "media_key": "3_1982528512528375808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4NbLaJWYAArJow.jpg",
+        "width": 1264
+      },
+      {
+        "height": 1346,
+        "media_key": "3_1982528984081444864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Nbm20XMAA4aVB.jpg",
+        "width": 654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1982529727178084770",
+        "created_at": "2025-10-27T15:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T16:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982829661983064538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "LumiCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982829661983064538",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982529727178084770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumiCatRoll 充原神了😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982528512528375808",
+            "3_1982528984081444864"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "1982529727178084770",
+        "created_at": "2025-10-26T19:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T20:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982529727178084770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4nbL1wo4O0",
+              "end": 180,
+              "expanded_url": "https://x.com/LumiCatRoll/status/1982529727178084770/photo/1",
+              "media_key": "3_1982528512528375808",
+              "start": 157,
+              "url": "https://t.co/4nbL1wo4O0"
+            },
+            {
+              "display_url": "pic.x.com/4nbL1wo4O0",
+              "end": 180,
+              "expanded_url": "https://x.com/LumiCatRoll/status/1982529727178084770/photo/1",
+              "media_key": "3_1982528984081444864",
+              "start": 157,
+              "url": "https://t.co/4nbL1wo4O0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982529727178084770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 39445,
+          "like_count": 160,
+          "quote_count": 9,
+          "reply_count": 60,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "《少年池鱼的烦恼》（Die Leiden des jungen Chiyu）是一部让吴相泽在中推几乎一夜成名的小说，于2025年秋天面世\nP2：池鱼惊人的消费能力，十个月支出十万元。你们这群上班穷蛆心疼她的话问问自己一个月工资有一万吗\n注：投资理财、信用还款、退款入账、他人代付、本人资金互转，均不计入收入和支出 https://t.co/4nbL1wo4O0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "明天。",
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🐰凌月月（互关版）",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 440,
+          "like_count": 501,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 490
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "诉求：@Chiyuyu520 唯一解决方式是自己联系羽毛归还19535元 联系猫卷归还555元。| 长居新加坡, PhD @NTUsg, 休学度假中 | 拥有tu5jp4但一周修一次车的法系车主 | HRT药物请私信 日雌380泰补190诺80 包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "Chiyuyu520"
+              },
+              {
+                "end": 67,
+                "start": 61,
+                "username": "NTUsg"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "Lumi & 猫卷 Co. (日雌泰补诺",
+        "pinned_tweet_id": "1982121107500175769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981599824827838464/S98pBSrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2012,
+          "following_count": 774,
+          "like_count": 608,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1683
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

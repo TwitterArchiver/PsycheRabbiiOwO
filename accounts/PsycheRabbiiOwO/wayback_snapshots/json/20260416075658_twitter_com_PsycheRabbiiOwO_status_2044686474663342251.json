@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044686469290463232"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2044664421990158604",
+    "created_at": "2026-04-16T07:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T08:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044686474663342251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1103830967163117568",
+          "start": 0,
+          "username": "anblk984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0dV5DyAqml",
+          "end": 40,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2044686474663342251/photo/1",
+          "media_key": "3_2044686469290463232",
+          "start": 17,
+          "url": "https://t.co/0dV5DyAqml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044686474663342251",
+    "in_reply_to_user_id": "1103830967163117568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044664421990158604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anblk984 不是，啊？！ https://t.co/0dV5DyAqml"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1957,
+        "media_key": "3_2044686469290463232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAvgrcbEAAMQVn.jpg",
+        "width": 1179
+      },
+      {
+        "height": 255,
+        "media_key": "3_2044664419830095872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAbdOzaYAA7bhj.jpg",
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044686469290463232"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2044664421990158604",
+        "created_at": "2026-04-16T07:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044686474663342251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103830967163117568",
+              "start": 0,
+              "username": "anblk984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0dV5DyAqml",
+              "end": 40,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2044686474663342251/photo/1",
+              "media_key": "3_2044686469290463232",
+              "start": 17,
+              "url": "https://t.co/0dV5DyAqml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044686474663342251",
+        "in_reply_to_user_id": "1103830967163117568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044664421990158604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anblk984 不是，啊？！ https://t.co/0dV5DyAqml"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044664419830095872"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2044664421990158604",
+        "created_at": "2026-04-16T06:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044664421990158604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bw6YNPVoAK",
+              "end": 33,
+              "expanded_url": "https://x.com/anblk984/status/2044664421990158604/photo/1",
+              "media_key": "3_2044664419830095872",
+              "start": 10,
+              "url": "https://t.co/bw6YNPVoAK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044664421990158604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3245,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给你带硬通货来了😁 https://t.co/bw6YNPVoAK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 1270,
+          "like_count": 8175,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 1928
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2042904752271593620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11539,
+          "following_count": 978,
+          "like_count": 112572,
+          "listed_count": 59,
+          "media_count": 2492,
+          "tweet_count": 27604
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

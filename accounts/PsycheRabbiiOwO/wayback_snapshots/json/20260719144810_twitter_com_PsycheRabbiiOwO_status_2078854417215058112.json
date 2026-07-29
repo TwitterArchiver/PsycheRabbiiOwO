@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2078427917777027272",
+    "created_at": "2026-07-19T14:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078854417215058112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1586555703732289536",
+          "start": 0,
+          "username": "lan2984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078854417215058112",
+    "in_reply_to_user_id": "1586555703732289536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078853321834803224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lan2984 呜呜好可惜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2078427917777027272",
+        "created_at": "2026-07-19T14:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078854417215058112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1586555703732289536",
+              "start": 0,
+              "username": "lan2984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078854417215058112",
+        "in_reply_to_user_id": "1586555703732289536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078853321834803224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan2984 呜呜好可惜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586555703732289536",
+        "conversation_id": "2078427917777027272",
+        "created_at": "2026-07-19T14:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078853321834803224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078853321834803224",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078427917777027272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 我明天去qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 1697,
+          "like_count": 20250,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 3057
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-30T03:09:17.000Z",
+        "description": "初三185cm72kg\n 吉林延边 热爱MC、航拍、IT  工蜂一位~\n2026/5/17       好姐妹 情侣 @DrKiChan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "DrKiChan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lan2984.xyz",
+                "end": 23,
+                "expanded_url": "http://www.lan2984.xyz",
+                "start": 0,
+                "url": "https://t.co/EQtvi75HCo"
+              }
+            ]
+          }
+        },
+        "id": "1586555703732289536",
+        "name": "lan2984🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058908165673295872/jQs1jHG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 177,
+          "like_count": 762,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/EQtvi75HCo",
+        "username": "lan2984",
+        "verified": true
+      }
+    ]
+  }
+}

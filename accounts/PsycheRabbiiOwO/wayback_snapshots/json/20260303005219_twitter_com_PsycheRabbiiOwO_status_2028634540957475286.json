@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2028634540957475286",
+    "created_at": "2026-03-03T00:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T01:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028634540957475286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/suppermax999/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/suppermax999/status/2028607320792678450",
+          "start": 8,
+          "url": "https://t.co/trdvQivuvM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028634540957475286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028607320792678450",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "时尚单品地雷系 https://t.co/trdvQivuvM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2028634540957475286",
+        "created_at": "2026-03-03T00:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T01:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028634540957475286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suppermax999/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/suppermax999/status/2028607320792678450",
+              "start": 8,
+              "url": "https://t.co/trdvQivuvM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028634540957475286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028607320792678450",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "时尚单品地雷系 https://t.co/trdvQivuvM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623648254524280834",
+        "conversation_id": "2028320808880476415",
+        "created_at": "2026-03-02T23:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T00:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028607320792678450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916543476231208960",
+              "start": 0,
+              "username": "fayoubaike001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028607320792678450",
+        "in_reply_to_user_id": "1916543476231208960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028320808880476415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike001 很难绷了，现实中认识两个真见面过的地雷妹，一个她爹是政协委员，一个每月生活费2w，我寻思我要是有这么多生活费我双相都能治好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月（♡´∀`♡)🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025891245403594752/7m_aCDuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 1026,
+          "like_count": 4954,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 1449
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-09T11:41:36.000Z",
+        "description": "牛子皇帝打赢复活赛了。",
+        "id": "1623648254524280834",
+        "location": "牛子皇帝是真正的曼",
+        "name": "牛子皇帝",
+        "pinned_tweet_id": "1870410540344131940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859507230003118080/QsYZcmNB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 11,
+          "like_count": 4541,
+          "listed_count": 3,
+          "media_count": 455,
+          "tweet_count": 1202
+        },
+        "username": "SupperMax999",
+        "verified": false
+      }
+    ]
+  }
+}

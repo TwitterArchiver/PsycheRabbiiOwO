@@ -1,0 +1,138 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1997184065582387625",
+    "created_at": "2025-12-06T05:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T06:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997184065582387625"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1997184065582387625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我想起来\n高中的上地理课的时候画画\n画了好多自创的拟人设定\n\n质子中字拟人，穿三原色组成的裙子手拉手，周围飞着一颗小精灵，那是电子\n\n薛定谔的猫，猫耳连帽外套，一个实体一个灵魂手拉手对望，两人之间是概率波\n\n坠入土星的卡西尼，燃烧到全裸双手合十放在胸前发出电波，面露微笑却一滴热泪滑落，仿佛告别。。。\n\n还有很多练习用的临摹，初音啊02啊\n\n可惜地理书爸妈送人了。。（想骂人）\n\n随着意识体的离去和融合\n现在都不会画画了，好想复刻记忆中的那些画面啊。。。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想起来\n高中的上地理课的时候画画\n画了好多自创的拟人设定\n\n质子中字拟人，穿三原色组成的裙子手拉手，周围飞着一颗小精灵，那是电子\n\n薛定谔的猫，猫耳连帽外套，一个实体一个灵魂手拉手对望，两人之间是概率波"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1997184065582387625",
+        "created_at": "2025-12-06T05:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T06:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997184065582387625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997184065582387625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我想起来\n高中的上地理课的时候画画\n画了好多自创的拟人设定\n\n质子中字拟人，穿三原色组成的裙子手拉手，周围飞着一颗小精灵，那是电子\n\n薛定谔的猫，猫耳连帽外套，一个实体一个灵魂手拉手对望，两人之间是概率波\n\n坠入土星的卡西尼，燃烧到全裸双手合十放在胸前发出电波，面露微笑却一滴热泪滑落，仿佛告别。。。\n\n还有很多练习用的临摹，初音啊02啊\n\n可惜地理书爸妈送人了。。（想骂人）\n\n随着意识体的离去和融合\n现在都不会画画了，好想复刻记忆中的那些画面啊。。。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想起来\n高中的上地理课的时候画画\n画了好多自创的拟人设定\n\n质子中字拟人，穿三原色组成的裙子手拉手，周围飞着一颗小精灵，那是电子\n\n薛定谔的猫，猫耳连帽外套，一个实体一个灵魂手拉手对望，两人之间是概率波"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/本人长相普通别骂我参考亮点里的照片/雷点不多只有顺直黄蛆，od，反跨（不雷人只雷事不要跳脸就好我很少b人只会不理你）/这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48ZKhM"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰（🏳️‍⚧️💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 668,
+          "like_count": 1849,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 866
+        },
+        "url": "https://t.co/274M48ZKhM",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

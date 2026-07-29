@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2049621686069391466",
+    "created_at": "2026-04-29T22:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T23:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049621686069391466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1701484460250890240",
+          "start": 3,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049621686069391466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049474951753928854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SonogamiRinneTS: 美国二象性：\n\n在国内某些人嘴里，\n\n平时美国人都是瘾君子，是大胖子；可一旦讨论跨性别群体，美国人就瞬间全都变成阳刚硬汉了；\n\n平时美国医疗价格巨贵，分分钟掏空家底；可一旦讨论跨性别群体，美国瞬间就实现免费医疗了；…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2049621686069391466",
+        "created_at": "2026-04-29T22:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T23:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049621686069391466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1701484460250890240",
+              "start": 3,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049621686069391466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049474951753928854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SonogamiRinneTS: 美国二象性：\n\n在国内某些人嘴里，\n\n平时美国人都是瘾君子，是大胖子；可一旦讨论跨性别群体，美国人就瞬间全都变成阳刚硬汉了；\n\n平时美国医疗价格巨贵，分分钟掏空家底；可一旦讨论跨性别群体，美国瞬间就实现免费医疗了；…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "2049474951753928854",
+        "created_at": "2026-04-29T13:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049474951753928854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049474951753928854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "美国二象性：\n\n在国内某些人嘴里，\n\n平时美国人都是瘾君子，是大胖子；可一旦讨论跨性别群体，美国人就瞬间全都变成阳刚硬汉了；\n\n平时美国医疗价格巨贵，分分钟掏空家底；可一旦讨论跨性别群体，美国瞬间就实现免费医疗了；\n\n平时美国总统是战争贩子，是霸权推手；可一旦讨论跨性别群体，美国总统瞬间就变成人民公仆了；\n\n这说明什么，说明是因为跨性别群体的存在，才使得“美扒皮”变成了“美大善人”；说明跨性别的存在是推动人类社会进步的重要力量🤓"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5929,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "美国二象性：\n\n在国内某些人嘴里，\n\n平时美国人都是瘾君子，是大胖子；可一旦讨论跨性别群体，美国人就瞬间全都变成阳刚硬汉了；\n\n平时美国医疗价格巨贵，分分钟掏空家底；可一旦讨论跨性别群体，美国瞬间就实现免费医疗了；"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 1399,
+          "like_count": 11142,
+          "listed_count": 2,
+          "media_count": 260,
+          "tweet_count": 2235
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4259,
+          "following_count": 3286,
+          "like_count": 1246,
+          "listed_count": 15,
+          "media_count": 235,
+          "tweet_count": 1602
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

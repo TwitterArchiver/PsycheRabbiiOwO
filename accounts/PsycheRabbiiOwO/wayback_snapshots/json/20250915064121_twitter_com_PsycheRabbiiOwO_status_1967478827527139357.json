@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1967478827527139357",
+    "created_at": "2025-09-15T06:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T07:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967478827527139357"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/s0cmqlnsqhatuf…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/s0cmqlnsqhatufa/status/1923808753968873526",
+          "start": 10,
+          "url": "https://t.co/NigCWx74T6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967478827527139357",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923808753968873526",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了\n😆😆😆😆 https://t.co/NigCWx74T6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1967478827527139357",
+        "created_at": "2025-09-15T06:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T07:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967478827527139357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/s0cmqlnsqhatuf…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/s0cmqlnsqhatufa/status/1923808753968873526",
+              "start": 10,
+              "url": "https://t.co/NigCWx74T6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967478827527139357",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923808753968873526",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了\n😆😆😆😆 https://t.co/NigCWx74T6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413159413464985603",
+        "conversation_id": "1923808753968873526",
+        "created_at": "2025-05-17T18:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T19:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923808753968873526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923808753968873526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 821,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他们所谓的独立，开民智\n，不过是叫你去当美国的狗。\n但中国不是这么样的，\n天行健，君子自强不息，\n做人，做国独立自主，\n建设中华民族伟大复兴，\n这他妈的才叫独立自主。\n创新，发展，建设，协作，\n互助，团结，爱国，敬业\n这他妈才叫开民智。\n他们所谓“帮助”，\n连为人民服务都说不出来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/含糖男娘🍥2025.09.06//可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 414,
+          "like_count": 369,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 369
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:34:08.000Z",
+        "description": "实践是检验真理的唯一标准",
+        "id": "1413159413464985603",
+        "name": "烽火连舟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874111018605088768/PYZF7WFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 320,
+          "like_count": 73,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 816
+        },
+        "username": "s0CmqlNSQHaTUFa",
+        "verified": false
+      }
+    ]
+  }
+}

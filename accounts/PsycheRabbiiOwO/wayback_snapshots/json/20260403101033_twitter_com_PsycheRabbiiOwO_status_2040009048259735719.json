@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2039991821573763291",
+    "created_at": "2026-04-03T10:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T11:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040009048259735719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472111867036594179",
+          "start": 0,
+          "username": "SeimoDev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040009048259735719",
+    "in_reply_to_user_id": "1472111867036594179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039991821573763291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeimoDev 吓哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2039991821573763291",
+        "created_at": "2026-04-03T10:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T11:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040009048259735719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472111867036594179",
+              "start": 0,
+              "username": "SeimoDev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040009048259735719",
+        "in_reply_to_user_id": "1472111867036594179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039991821573763291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeimoDev 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472111867036594179",
+        "conversation_id": "2039991821573763291",
+        "created_at": "2026-04-03T09:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039991821573763291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linguisticzhan…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/linguisticzhang/status/2039578051189854703",
+              "start": 27,
+              "url": "https://t.co/u2t7jjw6NQ"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2039991821573763291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为确保咱们可以同频交流，希望以下的词你至少理解5个：\n\n网左、网右、皇汉、满遗、粉红、神友、果粉、走资派、安那其、封建、老保、LGBTQ+、平权、黄皮犹太人、苦力怕、黄皮纳粹、俄粉、乌粉、团结人、白眼狼、台独分子、既得利益者、资本家、流氓无产者、造反派、建制派、“放假了”、托派、苏痴、德棍、支黑、精日分子、白左、黄脖子、民粹主义、50万、自由派、民主派、复仇主义、公知、精德、少民孙子、米孝子、米黑、虐猫蛆、猫孝子、无孩爱猫、修正主义、两面派、墙头草、隐藏在群众队伍里的坏人、超雄、唐氏、酷狗、素食主义者、纯肉食主义者、自学中医、军国主义、主体主义、集体主义、伊斯兰教原教旨主义、锡安主义、逊尼派穆斯林、什叶派穆斯林、天主教、东正教、新教、道友、佛贼、旧喇嘛、大地主、唯心主义、唯物主义、苏式体系拥护者、霸权主义、失败主义、投降主义、虚无主义、恐怖主义、世俗主义、神权主义、君权主义、赛博生命、民粹左翼、正统毛派、白右、伊斯兰无政府主义、国际主义、寡头资本主义、孤立主义、封闭主义、分裂主义、少民、巴西牛排、女权主义、大汉族主义、大日耳曼主义、大东亚共荣圈支持者、英雄主义、人民史观、巴粉、以粉、泰粉、柬粉、精罗、精萝、伊斯兰教世俗化支持者、基督徒、犹太教逆世俗化支持者、东正教逆世俗化支持者、基督教逆世俗化支持者、天主教逆世俗化支持者、犬儒主义、共产主义、无政府军国主义、资本无政府主义、封建共产主义、民族布尔什维克主义、社会民主主义、民族无政府主义、进步主义、停滞主义、社会民族主义、民族民主主义、三民主义、新三民主义、计划经济支持者、市场经济支持者、政教合一支持者、贪玩蓝月、藏独、满洲国复国主义、地域歧视、种族歧视、民族歧视、阶级歧视、收入歧视、性别歧视、肤色歧视、文化歧视、职业歧视、清粉、明粉、元粉、宋粉、唐粉、隋粉、晋粉、汉粉、秦粉、周粉、商粉、夏粉、虞朝存在论支持者、母系社会支持者、西方伪史论支持者、东方伪史论支持者、武士道主义、武士道马克思主义、正统马克思主义、殖民主义、门罗主义、走狗、哈布斯堡复国主义、新罗马帝国支持者、乌托邦主义、幻想主义、实践主义、实用主义、堂吉诃德效仿者、慕洋、非军事化主义、战争贩子、焦虑贩子、帝国主义、奴隶主义、绿毛龟、汉奸、二简字拥护者、繁體字擁護者、存在主义、现实主义、浪漫主义、逍遥派、精蒙、内蒙独立分子、精赵、资本布尔什维克主义、封建奴隶主义、中立主义、汉族原罪论支持者、满族原罪论支持者、蒙古族原罪论支持者、伊斯兰原罪论支持者、犹太人原罪论支持者、日本原罪论支持者、精美、黄皮俄罗斯人、恨国党、爱国猴、丁克家庭支持者、不婚主义、处男处女至上主义、精不列颠、精英阶级、造谣公司传话筒、逆流、邪风、小爬虫、帮凶、法西斯、保皇党、血统纯洁论支持者、绥靖分子、法西斯共产主义、法西斯资本主义、法西斯君主制支持者、白人优越论支持者、民社、脱产学生、小资产阶级、教条主义、工团主义"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039578051189854703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为确保咱们可以同频交流，希望以下的词你至少理解5个： https://t.co/u2t7jjw6NQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 1162,
+          "like_count": 6553,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 1686
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-18T07:50:10.000Z",
+        "description": "BI6PCR丨音游壬丨Web3丨Co-Founder of HNUBA丨Cooking @workworkorg丨SparkLab丨EnvX丨 Android Dev丨简中丨繁中丨English丨21歲丨大三丨https://t.co/Pikc5r4ELF丨友跨顺男丨面基Bot丨本人言论不构成任何投资建议",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "workworkorg"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/seimoSFW",
+                "end": 128,
+                "expanded_url": "https://t.me/seimoSFW",
+                "start": 105,
+                "url": "https://t.co/Pikc5r4ELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seimo.cn",
+                "end": 23,
+                "expanded_url": "https://seimo.cn",
+                "start": 0,
+                "url": "https://t.co/aegqvv8Y3G"
+              }
+            ]
+          }
+        },
+        "id": "1472111867036594179",
+        "location": "Earth",
+        "name": "Seimo（全🌏🉑✈️）",
+        "pinned_tweet_id": "1675708739998056449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020150811016466433/xhLLotxZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 690,
+          "like_count": 8479,
+          "listed_count": 4,
+          "media_count": 1237,
+          "tweet_count": 5213
+        },
+        "url": "https://t.co/aegqvv8Y3G",
+        "username": "SeimoDev",
+        "verified": true
+      }
+    ]
+  }
+}

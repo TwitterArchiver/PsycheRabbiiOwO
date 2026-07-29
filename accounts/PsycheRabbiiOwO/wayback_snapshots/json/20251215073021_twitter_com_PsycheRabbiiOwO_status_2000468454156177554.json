@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000216392180838400"
+      ],
+      "media_source_tweet_id": [
+        "2000216399638372694"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2000468454156177554",
+    "created_at": "2025-12-15T07:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T08:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000468454156177554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1286241253621817344",
+          "start": 3,
+          "username": "ACldJP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C0Kf7dAPYm",
+          "end": 92,
+          "expanded_url": "https://x.com/ACldJP/status/2000216399638372694/photo/1",
+          "media_key": "3_2000216392180838400",
+          "start": 69,
+          "url": "https://t.co/C0Kf7dAPYm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000468454156177554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000216399638372694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ACldJP: 看见桌上有带孔的配料罐子，以为是辣椒粉，潇洒一颠，掉出来3根牙签插在我馄饨上。。。关键是隔壁桌还看到了 一直在笑 https://t.co/C0Kf7dAPYm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1034,
+        "media_key": "3_2000216392180838400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8IyNgnaMAATguP.jpg",
+        "width": 1127
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000216392180838400"
+          ],
+          "media_source_tweet_id": [
+            "2000216399638372694"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2000468454156177554",
+        "created_at": "2025-12-15T07:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000468454156177554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1286241253621817344",
+              "start": 3,
+              "username": "ACldJP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C0Kf7dAPYm",
+              "end": 92,
+              "expanded_url": "https://x.com/ACldJP/status/2000216399638372694/photo/1",
+              "media_key": "3_2000216392180838400",
+              "start": 69,
+              "url": "https://t.co/C0Kf7dAPYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000468454156177554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000216399638372694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ACldJP: 看见桌上有带孔的配料罐子，以为是辣椒粉，潇洒一颠，掉出来3根牙签插在我馄饨上。。。关键是隔壁桌还看到了 一直在笑 https://t.co/C0Kf7dAPYm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000216392180838400"
+          ]
+        },
+        "author_id": "1286241253621817344",
+        "conversation_id": "2000216399638372694",
+        "created_at": "2025-12-14T14:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T15:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000216399638372694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C0Kf7dAPYm",
+              "end": 80,
+              "expanded_url": "https://x.com/ACldJP/status/2000216399638372694/photo/1",
+              "media_key": "3_2000216392180838400",
+              "start": 57,
+              "url": "https://t.co/C0Kf7dAPYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000216399638372694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 28796,
+          "like_count": 503,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "看见桌上有带孔的配料罐子，以为是辣椒粉，潇洒一颠，掉出来3根牙签插在我馄饨上。。。关键是隔壁桌还看到了 一直在笑 https://t.co/C0Kf7dAPYm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）含🍥/长相普通别骂我参考亮点里的照片/只混生物圈岩石圈大气圈水圈/链接是提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ （💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 721,
+          "like_count": 2232,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 952
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "音游人｜运营兼策划「初心者」\n云鸠の生活推\n本命号@Cldeop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 25,
+                "username": "Cldeop"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "location": "鹊巢（鸠占）",
+        "name": "九鸟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 268,
+          "like_count": 2087,
+          "listed_count": 4,
+          "media_count": 257,
+          "tweet_count": 860
+        },
+        "username": "ACldJP",
+        "verified": true
+      }
+    ]
+  }
+}

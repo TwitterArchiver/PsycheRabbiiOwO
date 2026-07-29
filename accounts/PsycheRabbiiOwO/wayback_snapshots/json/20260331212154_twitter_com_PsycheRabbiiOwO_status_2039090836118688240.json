@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2039090836118688240",
+    "created_at": "2026-03-31T21:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T22:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039090836118688240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1851254945984741376",
+          "start": 3,
+          "username": "LastExeX01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039090836118688240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039004538049593598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LastExeX01: 跨性别现身日能光速封掉一批qq群和账号，说明一个问题：在现如今的中国，社会高度原子化且大部分信息媒介都在政府干预的范围内，不适合去发展公开性的组织，甚至是互助组织同类抱团取暖都要挨铁拳。\n中国政府对社会的总体控制力，宏观来看会变弱，但技术手段这个…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2039090836118688240",
+        "created_at": "2026-03-31T21:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T22:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039090836118688240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1851254945984741376",
+              "start": 3,
+              "username": "LastExeX01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039090836118688240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039004538049593598",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LastExeX01: 跨性别现身日能光速封掉一批qq群和账号，说明一个问题：在现如今的中国，社会高度原子化且大部分信息媒介都在政府干预的范围内，不适合去发展公开性的组织，甚至是互助组织同类抱团取暖都要挨铁拳。\n中国政府对社会的总体控制力，宏观来看会变弱，但技术手段这个…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851254945984741376",
+        "conversation_id": "2039004538049593598",
+        "created_at": "2026-03-31T15:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039004538049593598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039004538049593598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1167,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别现身日能光速封掉一批qq群和账号，说明一个问题：在现如今的中国，社会高度原子化且大部分信息媒介都在政府干预的范围内，不适合去发展公开性的组织，甚至是互助组织同类抱团取暖都要挨铁拳。\n中国政府对社会的总体控制力，宏观来看会变弱，但技术手段这个“乘项”的作用被严重低估了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/8964准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "rabbii_third"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月（🍥•﹃•🍥）8964",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032672138176704512/fwd2tlZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 1130,
+          "like_count": 6268,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 1648
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-29T13:29:13.000Z",
+        "description": "│🏳️‍⚧️MtX│🇺🇳🇪🇺🇺🇦🇵🇸│现代化、进步主义和理性│认同“自由的专制主义”│请坚定不移的拥护胡春华路线",
+        "id": "1851254945984741376",
+        "location": "家住北京中南海",
+        "name": "我早就不是建制派了",
+        "pinned_tweet_id": "2026603673581965394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951149350907944964/a9pbadi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 331,
+          "like_count": 18021,
+          "listed_count": 5,
+          "media_count": 1045,
+          "tweet_count": 8198
+        },
+        "username": "LastExeX01",
+        "verified": false
+      }
+    ]
+  }
+}

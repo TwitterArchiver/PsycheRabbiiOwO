@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025987621718282240",
+        "3_2025987621726613504"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025987643822186842",
+    "created_at": "2026-02-23T17:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T18:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025987643822186842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q9zpbo2V1u",
+          "end": 29,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2025987643822186842/photo/1",
+          "media_key": "3_2025987621718282240",
+          "start": 6,
+          "url": "https://t.co/Q9zpbo2V1u"
+        },
+        {
+          "display_url": "pic.x.com/Q9zpbo2V1u",
+          "end": 29,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2025987643822186842/photo/1",
+          "media_key": "3_2025987621726613504",
+          "start": 6,
+          "url": "https://t.co/Q9zpbo2V1u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025987643822186842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "您买过的店 https://t.co/Q9zpbo2V1u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2025987621718282240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB3BAf_bUAALOVI.jpg",
+        "width": 360
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2025987621726613504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB3BAgBacAA0hc6.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025987621718282240",
+            "3_2025987621726613504"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025987643822186842",
+        "created_at": "2026-02-23T17:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T18:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025987643822186842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q9zpbo2V1u",
+              "end": 29,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2025987643822186842/photo/1",
+              "media_key": "3_2025987621718282240",
+              "start": 6,
+              "url": "https://t.co/Q9zpbo2V1u"
+            },
+            {
+              "display_url": "pic.x.com/Q9zpbo2V1u",
+              "end": 29,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2025987643822186842/photo/1",
+              "media_key": "3_2025987621726613504",
+              "start": 6,
+              "url": "https://t.co/Q9zpbo2V1u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025987643822186842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "您买过的店 https://t.co/Q9zpbo2V1u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025891245403594752/7m_aCDuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 980,
+          "like_count": 4441,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 1388
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

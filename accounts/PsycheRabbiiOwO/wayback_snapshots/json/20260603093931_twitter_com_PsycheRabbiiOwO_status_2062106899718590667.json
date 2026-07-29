@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2062106899718590667",
+    "created_at": "2026-06-03T09:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T10:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062106899718590667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553625577730428929",
+          "start": 3,
+          "username": "cyrs0519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062106899718590667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061264258743312496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cyrs0519: 因为如果化妆了以后才变得好看，那人们夸赞的究竟是我的容貌，还是那张由脂粉凝结而成的面具呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2062106899718590667",
+        "created_at": "2026-06-03T09:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062106899718590667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553625577730428929",
+              "start": 3,
+              "username": "cyrs0519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062106899718590667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061264258743312496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cyrs0519: 因为如果化妆了以后才变得好看，那人们夸赞的究竟是我的容貌，还是那张由脂粉凝结而成的面具呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553625577730428929",
+        "conversation_id": "2061264258743312496",
+        "created_at": "2026-06-01T01:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061264258743312496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shixixiya0/sta…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/shixixiya0/status/2060937405679718594",
+              "start": 45,
+              "url": "https://t.co/CYGVu81Dzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061264258743312496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060937405679718594",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为如果化妆了以后才变得好看，那人们夸赞的究竟是我的容貌，还是那张由脂粉凝结而成的面具呢 https://t.co/CYGVu81Dzk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 1493,
+          "like_count": 15414,
+          "listed_count": 3,
+          "media_count": 285,
+          "tweet_count": 2522
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-31T06:16:29.000Z",
+        "description": "含糖三年，性别未知，是只野猫（？🚪88",
+        "id": "1553625577730428929",
+        "location": "北京",
+        "name": "漫天星白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056432007501279233/g-19ZLiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3242,
+          "following_count": 274,
+          "like_count": 8788,
+          "listed_count": 21,
+          "media_count": 881,
+          "tweet_count": 5075
+        },
+        "username": "cyrs0519",
+        "verified": false
+      }
+    ]
+  }
+}

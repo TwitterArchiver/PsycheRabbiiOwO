@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2026742890148597923",
+    "created_at": "2026-02-25T19:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T20:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026742890148597923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1236478963368841216",
+          "start": 3,
+          "username": "function_louis"
+        },
+        {
+          "end": 34,
+          "id": "1999007250829230080",
+          "start": 20,
+          "username": "DDaquaforever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026742890148597923",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026711335753625696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @function_louis: @DDaquaforever NVDA的意思是牛大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2026742890148597923",
+        "created_at": "2026-02-25T19:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T20:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026742890148597923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1236478963368841216",
+              "start": 3,
+              "username": "function_louis"
+            },
+            {
+              "end": 34,
+              "id": "1999007250829230080",
+              "start": 20,
+              "username": "DDaquaforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026742890148597923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026711335753625696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @function_louis: @DDaquaforever NVDA的意思是牛大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236478963368841216",
+        "conversation_id": "2026709280683073836",
+        "created_at": "2026-02-25T17:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T18:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026711335753625696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999007250829230080",
+              "start": 0,
+              "username": "DDaquaforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026711335753625696",
+        "in_reply_to_user_id": "1999007250829230080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026709280683073836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDaquaforever NVDA的意思是牛大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月（♡´∀`♡)🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025891245403594752/7m_aCDuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 990,
+          "like_count": 4601,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 1408
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-08T02:28:59.000Z",
+        "description": "统计，金融，爱睡觉 (小渔村流浪中)",
+        "id": "1236478963368841216",
+        "location": "渔村特别行政区",
+        "name": "好困",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876998760154435584/EbpWydco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 795,
+          "like_count": 9291,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1577
+        },
+        "username": "function_louis",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "不想多说什么了 可爱的YOYO：@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 3498,
+          "like_count": 5186,
+          "listed_count": 9,
+          "media_count": 1947,
+          "tweet_count": 8638
+        },
+        "username": "DDaquaforever",
+        "verified": false
+      }
+    ]
+  }
+}

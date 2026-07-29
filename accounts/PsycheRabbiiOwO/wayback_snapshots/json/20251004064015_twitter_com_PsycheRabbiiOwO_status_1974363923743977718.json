@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974363907625267202",
+        "3_1974363907637837824",
+        "3_1974363907625201664"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1974363923743977718",
+    "created_at": "2025-10-04T06:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T07:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974363923743977718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0neDYDGRVO",
+          "end": 157,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1974363923743977718/photo/1",
+          "media_key": "3_1974363907625267202",
+          "start": 134,
+          "url": "https://t.co/0neDYDGRVO"
+        },
+        {
+          "display_url": "pic.x.com/0neDYDGRVO",
+          "end": 157,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1974363923743977718/photo/1",
+          "media_key": "3_1974363907637837824",
+          "start": 134,
+          "url": "https://t.co/0neDYDGRVO"
+        },
+        {
+          "display_url": "pic.x.com/0neDYDGRVO",
+          "end": 157,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1974363923743977718/photo/1",
+          "media_key": "3_1974363907625201664",
+          "start": 134,
+          "url": "https://t.co/0neDYDGRVO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974363923743977718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以后再也不会去漫展这种地方了\n有一种熟悉、喜欢、热爱 ，但无法融入的疏离感，\n\n六花是我很喜欢的角色，\n也是小时候第一次的cos\n\n找别人集邮也是对象拉着我去的\n确实哦\n长得丑不说还ooc，\n拍了那么多照片也不会p图\n\n一天的最后，呆毛断了，\n我对幻想乡的追寻也断了 https://t.co/0neDYDGRVO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974363907625267202",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ZZg2tbMAI2RcJ.jpg",
+        "width": 1145
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974363907637837824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ZZg2wbAAAlCgR.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1721,
+        "media_key": "3_1974363907625201664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ZZg2taMAAvWej.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974363907625267202",
+            "3_1974363907637837824",
+            "3_1974363907625201664"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1974363923743977718",
+        "created_at": "2025-10-04T06:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T07:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974363923743977718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0neDYDGRVO",
+              "end": 157,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1974363923743977718/photo/1",
+              "media_key": "3_1974363907625267202",
+              "start": 134,
+              "url": "https://t.co/0neDYDGRVO"
+            },
+            {
+              "display_url": "pic.x.com/0neDYDGRVO",
+              "end": 157,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1974363923743977718/photo/1",
+              "media_key": "3_1974363907637837824",
+              "start": 134,
+              "url": "https://t.co/0neDYDGRVO"
+            },
+            {
+              "display_url": "pic.x.com/0neDYDGRVO",
+              "end": 157,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1974363923743977718/photo/1",
+              "media_key": "3_1974363907625201664",
+              "start": 134,
+              "url": "https://t.co/0neDYDGRVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974363923743977718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以后再也不会去漫展这种地方了\n有一种熟悉、喜欢、热爱 ，但无法融入的疏离感，\n\n六花是我很喜欢的角色，\n也是小时候第一次的cos\n\n找别人集邮也是对象拉着我去的\n确实哦\n长得丑不说还ooc，\n拍了那么多照片也不会p图\n\n一天的最后，呆毛断了，\n我对幻想乡的追寻也断了 https://t.co/0neDYDGRVO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/含糖男娘2025.09.06//可能是泛性恋？/有对象了已经🥰@pirapira2112/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 430,
+          "like_count": 440,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 420
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

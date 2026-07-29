@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021369902360297475"
+      ],
+      "media_source_tweet_id": [
+        "2021369925567393840"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2044365558108533236",
+    "created_at": "2026-04-15T10:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T11:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044365558108533236"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 30,
+          "tag": "niji7"
+        },
+        {
+          "end": 49,
+          "start": 37,
+          "tag": "nijijourney"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1644565370995638279",
+          "start": 3,
+          "username": "5beneono"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dkqGUW9lpi",
+          "end": 73,
+          "expanded_url": "https://x.com/5beneono/status/2021369925567393840/photo/1",
+          "media_key": "3_2021369902360297475",
+          "start": 50,
+          "url": "https://t.co/dkqGUW9lpi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044365558108533236",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021369925567393840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5beneono: 🪼AIillustration\n#niji7 #nijijourney https://t.co/dkqGUW9lpi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2624,
+        "media_key": "3_2021369902360297475",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA1ZN23aAAM3DP_.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021369902360297475"
+          ],
+          "media_source_tweet_id": [
+            "2021369925567393840"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2044365558108533236",
+        "created_at": "2026-04-15T10:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044365558108533236"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "niji7"
+            },
+            {
+              "end": 49,
+              "start": 37,
+              "tag": "nijijourney"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644565370995638279",
+              "start": 3,
+              "username": "5beneono"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dkqGUW9lpi",
+              "end": 73,
+              "expanded_url": "https://x.com/5beneono/status/2021369925567393840/photo/1",
+              "media_key": "3_2021369902360297475",
+              "start": 50,
+              "url": "https://t.co/dkqGUW9lpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044365558108533236",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021369925567393840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5beneono: 🪼AIillustration\n#niji7 #nijijourney https://t.co/dkqGUW9lpi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021369902360297475"
+          ]
+        },
+        "author_id": "1644565370995638279",
+        "conversation_id": "2021369925567393840",
+        "created_at": "2026-02-10T23:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T00:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021369925567393840"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "niji7"
+            },
+            {
+              "end": 35,
+              "start": 23,
+              "tag": "nijijourney"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dkqGUW9lpi",
+              "end": 59,
+              "expanded_url": "https://x.com/5beneono/status/2021369925567393840/photo/1",
+              "media_key": "3_2021369902360297475",
+              "start": 36,
+              "url": "https://t.co/dkqGUW9lpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021369925567393840",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 5474,
+          "like_count": 282,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "🪼AIillustration\n#niji7 #nijijourney https://t.co/dkqGUW9lpi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 1271,
+          "like_count": 8121,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 1913
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-08T04:59:48.000Z",
+        "description": "AIillustration￤AI×身体性×個性￤ロボ￤これまでの記事: https://t.co/hd6jLQfovx￤お題募集: https://t.co/3AMDulvcWJ ￤ 連絡先:5beneono@gmail.com ￤ 岩手県在住",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/5beneono",
+                "end": 60,
+                "expanded_url": "https://note.com/5beneono",
+                "start": 37,
+                "url": "https://t.co/hd6jLQfovx"
+              },
+              {
+                "display_url": "odaibako.net/u/5beneono",
+                "end": 90,
+                "expanded_url": "https://odaibako.net/u/5beneono",
+                "start": 67,
+                "url": "https://t.co/3AMDulvcWJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "5beneono.github.io/blog/",
+                "end": 23,
+                "expanded_url": "https://5beneono.github.io/blog/",
+                "start": 0,
+                "url": "https://t.co/onkEGgCTnP"
+              }
+            ]
+          }
+        },
+        "id": "1644565370995638279",
+        "name": "ねおのらしい│Neono",
+        "pinned_tweet_id": "2038035090677317998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644565731600916481/NZkD0dqd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2643,
+          "following_count": 154,
+          "like_count": 18455,
+          "listed_count": 27,
+          "media_count": 557,
+          "tweet_count": 1977
+        },
+        "url": "https://t.co/onkEGgCTnP",
+        "username": "5beneono",
+        "verified": true
+      }
+    ]
+  }
+}

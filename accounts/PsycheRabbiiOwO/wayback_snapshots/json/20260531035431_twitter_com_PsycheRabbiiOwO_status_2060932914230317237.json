@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060930846094446592"
+      ],
+      "media_source_tweet_id": [
+        "2060930852440465829"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2060932914230317237",
+    "created_at": "2026-05-31T03:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T04:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060932914230317237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9JN4qH76CI",
+          "end": 58,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2060930852440465829/photo/1",
+          "media_key": "3_2060930846094446592",
+          "start": 35,
+          "url": "https://t.co/9JN4qH76CI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060932914230317237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060930852440465829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 三年 E 班章学峰老师您好： https://t.co/9JN4qH76CI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 174,
+        "media_key": "3_2060930846094446592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnlr2wa0AA94FA.jpg",
+        "width": 392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060930846094446592"
+          ],
+          "media_source_tweet_id": [
+            "2060930852440465829"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2060932914230317237",
+        "created_at": "2026-05-31T03:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060932914230317237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9JN4qH76CI",
+              "end": 58,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2060930852440465829/photo/1",
+              "media_key": "3_2060930846094446592",
+              "start": 35,
+              "url": "https://t.co/9JN4qH76CI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060932914230317237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060930852440465829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 三年 E 班章学峰老师您好： https://t.co/9JN4qH76CI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060930846094446592"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2060930852440465829",
+        "created_at": "2026-05-31T03:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060930852440465829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9JN4qH76CI",
+              "end": 38,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2060930852440465829/photo/1",
+              "media_key": "3_2060930846094446592",
+              "start": 15,
+              "url": "https://t.co/9JN4qH76CI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060930852440465829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "三年 E 班章学峰老师您好： https://t.co/9JN4qH76CI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 1491,
+          "like_count": 15014,
+          "listed_count": 3,
+          "media_count": 285,
+          "tweet_count": 2507
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4532,
+          "following_count": 870,
+          "like_count": 23487,
+          "listed_count": 11,
+          "media_count": 1247,
+          "tweet_count": 6980
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

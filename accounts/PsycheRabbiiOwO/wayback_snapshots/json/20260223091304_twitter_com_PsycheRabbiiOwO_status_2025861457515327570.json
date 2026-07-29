@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2023143052358111279",
+    "created_at": "2026-02-23T09:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T10:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025861457515327570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1533490507204423680",
+          "start": 0,
+          "username": "Gicrain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025861457515327570",
+    "in_reply_to_user_id": "1533490507204423680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023143052358111279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gicrain 真的挺嫉妒男娘圈子的，他们都好漂亮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2023143052358111279",
+        "created_at": "2026-02-23T09:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T10:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025861457515327570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1533490507204423680",
+              "start": 0,
+              "username": "Gicrain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025861457515327570",
+        "in_reply_to_user_id": "1533490507204423680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023143052358111279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gicrain 真的挺嫉妒男娘圈子的，他们都好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533490507204423680",
+        "conversation_id": "2023143052358111279",
+        "created_at": "2026-02-15T21:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T22:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023143052358111279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023143052358111279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "男娘和药娘我每天主页都会刷到，只能说这两个圈子区别挺大的。\n\n男娘圈子不强调自己是跨性别，但是这些人一个比一个漂亮，很多人不漏点都让人分不清是男是女的那种。\n\n药娘圈子喜欢把跨性别旗帜挂在名字上，你点进主页就会发现要么是把药物当成精神信仰的，要么是喜欢在网络上搞政治话题的，反正看不到任何女性化内容。\n\n这两者的区别就是，男娘很像女生，但你不知道对方到底是跨性别还是穿女装玩玩。\n\n药娘喜欢强调自己是跨性别，但是这些人要么喜欢讨论军事要么讨论政治，一点都不像女生，你也不知道这些人到底是不是跨性别。\n\n怡萱在跨性别圈子这么多年也是很懵，因为有的男娘就是纯粹的女装玩玩，根本不是跨性别，没有做女生的打算，但不知道为什么这些人这么漂亮。\n\n还有的药娘，喜欢天天强调自己是跨性别，按理来说，这种人应该很像女生才对，毕竟男跨女肯定是想做女生才选择走跨性别这条路，但是你点进主页会发现，要么是军事内容，要么是政治内容，反正就是一点女感没有，完全不像女生。\n\n这就是目前两个圈子的现状，你沉迷一个漂亮男娘很久，想找个男娘做自己女朋友，暗恋大半年最后鼓起勇气加了好友发现人家根本不是跨性别，只是女装玩玩而已。\n\n后来你进入药娘圈子，发现人人都挂着跨性别旗帜，你以为这里就能找到你喜欢的人，结果点进药娘圈子却发现这里跟网络第三次世界大战一样，天天都是各种政治内容军事内容，一点像女生的点都没有。\n\n所以，那种长得漂亮像女生的跨性别到底哪里才能找"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 18216,
+          "like_count": 85,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "男娘和药娘我每天主页都会刷到，只能说这两个圈子区别挺大的。\n\n男娘圈子不强调自己是跨性别，但是这些人一个比一个漂亮，很多人不漏点都让人分不清是男是女的那种。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 979,
+          "like_count": 4381,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1380
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T16:47:01.000Z",
+        "description": "暂时停更，夏天太热，冬天太冷，他🐴的自己累死累活更新没赚到钱全被人盗走骗的盆满钵满",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/communities/1701917464140152891",
+                "start": 0,
+                "url": "https://t.co/BhbMhVmJ2J"
+              }
+            ]
+          }
+        },
+        "id": "1533490507204423680",
+        "name": "奶一口怡萱酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018809146637008896/EJgkVcV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93357,
+          "following_count": 78,
+          "like_count": 237,
+          "listed_count": 696,
+          "media_count": 426,
+          "tweet_count": 3530
+        },
+        "url": "https://t.co/BhbMhVmJ2J",
+        "username": "Gicrain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965391366256738304",
+        "3_1965391320316608515"
+      ],
+      "media_source_tweet_id": [
+        "1965433766207242551",
+        "1965433766207242551"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1965497693628961002",
+    "created_at": "2025-09-09T19:29:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T20:29:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965497693628961002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h5QZZKVH6j",
+          "end": 112,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1965433766207242551/photo/1",
+          "media_key": "3_1965391366256738304",
+          "start": 89,
+          "url": "https://t.co/h5QZZKVH6j"
+        },
+        {
+          "display_url": "pic.x.com/h5QZZKVH6j",
+          "end": 112,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1965433766207242551/photo/1",
+          "media_key": "3_1965391320316608515",
+          "start": 89,
+          "url": "https://t.co/h5QZZKVH6j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965497693628961002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965433766207242551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 9月8日，浙江杭州。中国美术学院良渚校区粪管脱节掉下来了，屎尿喷到楼下教室学生头顶，保研生的电脑全被泡坏了。温馨提示：切勿在吃饭时打开。 https://t.co/h5QZZKVH6j"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1965497693628961002].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1965497693628961002",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1965497693628961002"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1965391366256738304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Z5CNZaQAA2h-v.jpg",
+        "width": 958
+      },
+      {
+        "height": 778,
+        "media_key": "3_1965391320316608515",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Z4_iQbgAMdxM1.png",
+        "width": 424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965391366256738304",
+            "3_1965391320316608515"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1965433766207242551",
+        "created_at": "2025-09-09T15:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T16:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965433766207242551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h5QZZKVH6j",
+              "end": 92,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1965433766207242551/photo/1",
+              "media_key": "3_1965391366256738304",
+              "start": 69,
+              "url": "https://t.co/h5QZZKVH6j"
+            },
+            {
+              "display_url": "pic.x.com/h5QZZKVH6j",
+              "end": 92,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1965433766207242551/photo/1",
+              "media_key": "3_1965391320316608515",
+              "start": 69,
+              "url": "https://t.co/h5QZZKVH6j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965433766207242551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 138091,
+          "like_count": 584,
+          "quote_count": 13,
+          "reply_count": 113,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "9月8日，浙江杭州。中国美术学院良渚校区粪管脱节掉下来了，屎尿喷到楼下教室学生头顶，保研生的电脑全被泡坏了。温馨提示：切勿在吃饭时打开。 https://t.co/h5QZZKVH6j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/🍥2025.09.06/MTX/可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 392,
+          "like_count": 330,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 327
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1961459295813312811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099704,
+          "following_count": 985,
+          "like_count": 8056,
+          "listed_count": 8326,
+          "media_count": 34610,
+          "tweet_count": 41389
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

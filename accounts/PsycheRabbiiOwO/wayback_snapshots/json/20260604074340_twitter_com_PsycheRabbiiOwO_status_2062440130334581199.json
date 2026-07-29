@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2062440130334581199",
+    "created_at": "2026-06-04T07:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T08:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062440130334581199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1759598042704207872",
+          "start": 3,
+          "username": "Oyama_Tsuimei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062440130334581199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062387411267813838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oyama_Tsuimei: 这是我给高三考生的一点建议:\n1. 今天距离高考还有3天，高考考完一定不要去对答案，尽情享受假期。\n2.天气炎热的话注意避暑，可自带风油精、冰袋降温。\n3.疯狂暗示自己，一定可以考出理想的成绩。\n4.狂欢聚会什么的，考后再计划也来得及。\n5…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2062440130334581199",
+        "created_at": "2026-06-04T07:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062440130334581199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1759598042704207872",
+              "start": 3,
+              "username": "Oyama_Tsuimei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062440130334581199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062387411267813838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oyama_Tsuimei: 这是我给高三考生的一点建议:\n1. 今天距离高考还有3天，高考考完一定不要去对答案，尽情享受假期。\n2.天气炎热的话注意避暑，可自带风油精、冰袋降温。\n3.疯狂暗示自己，一定可以考出理想的成绩。\n4.狂欢聚会什么的，考后再计划也来得及。\n5…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759598042704207872",
+        "conversation_id": "2062387411267813838",
+        "created_at": "2026-06-04T04:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062387411267813838"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062387411267813838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这是我给高三考生的一点建议:\n1. 今天距离高考还有3天，高考考完一定不要去对答案，尽情享受假期。\n2.天气炎热的话注意避暑，可自带风油精、冰袋降温。\n3.疯狂暗示自己，一定可以考出理想的成绩。\n4.狂欢聚会什么的，考后再计划也来得及。\n5.星星之火，可以燎原，相信你我皆是黑马。\n6.期望的分数不要太高，不要眼高手低，做好困难准备。\n7.四点那会考数学特别容易饿，中午一定要吃饱。\n8.微信里经常有人发所谓标准答案，不要轻信。\n9. 我不会的题别人也不会，不要慌张。\n10.五点左右考完可以去散散步，不要着急回家吃饭\n11.十点半是最合适的上床时间。\n\n不是高考生的只需要看每条第一个字就好了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我给高三考生的一点建议:\n1. 今天距离高考还有3天，高考考完一定不要去对答案，尽情享受假期。\n2.天气炎热的话注意避暑，可自带风油精、冰袋降温。\n3.疯狂暗示自己，一定可以考出理想的成绩。\n4.狂欢聚会什么的，考后再计划也来得及。\n5.星星之火，可以燎原，相信你我皆是黑马。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 1494,
+          "like_count": 15518,
+          "listed_count": 3,
+          "media_count": 285,
+          "tweet_count": 2531
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T15:17:38.000Z",
+        "description": "有象斯有对 对必反其为 有反斯有仇 仇必和而解\n也许不是人类\n没有米线，不吃压力\n可以叫我坠明",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsu1me1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsu1me1",
+                "start": 0,
+                "url": "https://t.co/AghfCSrRUi"
+              }
+            ]
+          }
+        },
+        "id": "1759598042704207872",
+        "location": "旅行者的苍白之心",
+        "name": "Tsu1me1,the Leviathan",
+        "pinned_tweet_id": "2037089987309818231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060998769022582784/d9D3naC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 1289,
+          "like_count": 1138,
+          "listed_count": 2,
+          "media_count": 318,
+          "tweet_count": 3953
+        },
+        "url": "https://t.co/AghfCSrRUi",
+        "username": "Oyama_Tsuimei",
+        "verified": true
+      }
+    ]
+  }
+}

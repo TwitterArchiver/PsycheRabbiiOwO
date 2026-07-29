@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073845931016175616"
+      ],
+      "media_source_tweet_id": [
+        "2074027063728599354"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2074036858766639269",
+    "created_at": "2026-07-06T07:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074036858766639269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1390652924481527810",
+          "start": 3,
+          "username": "zqtlovekris99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NUGw4qQyHS",
+          "end": 55,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2074027063728599354/photo/1",
+          "media_key": "3_2073845931016175616",
+          "start": 32,
+          "url": "https://t.co/NUGw4qQyHS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074036858766639269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074027063728599354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zqtlovekris99: 😭AI是懂怎么让人破防的 https://t.co/NUGw4qQyHS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 838,
+        "media_key": "3_2073845931016175616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfH4vUbwAAPT6n.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073845931016175616"
+          ],
+          "media_source_tweet_id": [
+            "2074027063728599354"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2074036858766639269",
+        "created_at": "2026-07-06T07:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074036858766639269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1390652924481527810",
+              "start": 3,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NUGw4qQyHS",
+              "end": 55,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2074027063728599354/photo/1",
+              "media_key": "3_2073845931016175616",
+              "start": 32,
+              "url": "https://t.co/NUGw4qQyHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074036858766639269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074027063728599354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zqtlovekris99: 😭AI是懂怎么让人破防的 https://t.co/NUGw4qQyHS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073845931016175616"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2074027063728599354",
+        "created_at": "2026-07-06T07:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074027063728599354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NUGw4qQyHS",
+              "end": 36,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2074027063728599354/photo/1",
+              "media_key": "3_2073845931016175616",
+              "start": 13,
+              "url": "https://t.co/NUGw4qQyHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074027063728599354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "😭AI是懂怎么让人破防的 https://t.co/NUGw4qQyHS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 1636,
+          "like_count": 18985,
+          "listed_count": 3,
+          "media_count": 310,
+          "tweet_count": 2866
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13616,
+          "following_count": 1738,
+          "like_count": 26425,
+          "listed_count": 16,
+          "media_count": 5564,
+          "tweet_count": 29252
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

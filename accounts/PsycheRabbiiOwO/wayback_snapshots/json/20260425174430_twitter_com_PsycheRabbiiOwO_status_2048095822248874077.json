@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048047532887121920"
+      ],
+      "media_source_tweet_id": [
+        "2048047541166727402"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2048095822248874077",
+    "created_at": "2026-04-25T17:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048095822248874077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1741063508102627328",
+          "start": 3,
+          "username": "kitty068_ly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nUfAguwTUG",
+          "end": 46,
+          "expanded_url": "https://x.com/kitty068_ly/status/2048047541166727402/photo/1",
+          "media_key": "3_2048047532887121920",
+          "start": 23,
+          "url": "https://t.co/nUfAguwTUG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048095822248874077",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048047541166727402",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kitty068_ly: 激女倒油中 https://t.co/nUfAguwTUG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2048047532887121920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwgYVDaIAArkcC.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048047532887121920"
+          ],
+          "media_source_tweet_id": [
+            "2048047541166727402"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2048095822248874077",
+        "created_at": "2026-04-25T17:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048095822248874077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1741063508102627328",
+              "start": 3,
+              "username": "kitty068_ly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nUfAguwTUG",
+              "end": 46,
+              "expanded_url": "https://x.com/kitty068_ly/status/2048047541166727402/photo/1",
+              "media_key": "3_2048047532887121920",
+              "start": 23,
+              "url": "https://t.co/nUfAguwTUG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048095822248874077",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048047541166727402",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kitty068_ly: 激女倒油中 https://t.co/nUfAguwTUG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048047532887121920"
+          ]
+        },
+        "author_id": "1741063508102627328",
+        "conversation_id": "2048047541166727402",
+        "created_at": "2026-04-25T14:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048047541166727402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nUfAguwTUG",
+              "end": 29,
+              "expanded_url": "https://x.com/kitty068_ly/status/2048047541166727402/photo/1",
+              "media_key": "3_2048047532887121920",
+              "start": 6,
+              "url": "https://t.co/nUfAguwTUG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048047541166727402",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3731,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "激女倒油中 https://t.co/nUfAguwTUG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/我喜欢你你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 1364,
+          "like_count": 10356,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 2170
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "只想随便说些想说的话和喜欢我或者认同我的人交流懒得说服或者赢过任何人请大家保持文明呦/经常失踪想念我的话欢迎私联/一个lgbtqia\n任何求偶意愿的私信和评论@dngyng169770781都会看所以克制一点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 79,
+                "username": "dngyng169770781"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "South Park",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019851159041949696/qYHRz2xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 464,
+          "like_count": 5020,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 3352
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      }
+    ]
+  }
+}

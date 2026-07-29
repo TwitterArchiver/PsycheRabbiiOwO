@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2004776027529380222",
+    "created_at": "2025-12-27T04:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T05:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004776027529380222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1900063663299420160",
+          "start": 3,
+          "username": "AkiraKurayami1"
+        },
+        {
+          "end": 36,
+          "id": "1625624682329243648",
+          "start": 20,
+          "username": "tobeymaguire987"
+        },
+        {
+          "end": 51,
+          "id": "1502372057627209731",
+          "start": 37,
+          "username": "THE_REALJABBA"
+        },
+        {
+          "end": 64,
+          "id": "1935342271484018690",
+          "start": 52,
+          "username": "sanrinifem1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004776027529380222",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004489989418303921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AkiraKurayami1: @tobeymaguire987 @THE_REALJABBA @sanrinifem1 Please educate yourself before you try to say sum stupid shit"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2004776027529380222",
+        "created_at": "2025-12-27T04:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T05:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004776027529380222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1900063663299420160",
+              "start": 3,
+              "username": "AkiraKurayami1"
+            },
+            {
+              "end": 36,
+              "id": "1625624682329243648",
+              "start": 20,
+              "username": "tobeymaguire987"
+            },
+            {
+              "end": 51,
+              "id": "1502372057627209731",
+              "start": 37,
+              "username": "THE_REALJABBA"
+            },
+            {
+              "end": 64,
+              "id": "1935342271484018690",
+              "start": 52,
+              "username": "sanrinifem1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004776027529380222",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004489989418303921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AkiraKurayami1: @tobeymaguire987 @THE_REALJABBA @sanrinifem1 Please educate yourself before you try to say sum stupid shit"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900063663299420160",
+        "conversation_id": "2004221664851382666",
+        "created_at": "2025-12-26T09:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T10:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004489989418303921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1625624682329243648",
+              "start": 0,
+              "username": "tobeymaguire987"
+            },
+            {
+              "end": 31,
+              "id": "1502372057627209731",
+              "start": 17,
+              "username": "THE_REALJABBA"
+            },
+            {
+              "end": 44,
+              "id": "1935342271484018690",
+              "start": 32,
+              "username": "sanrinifem1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004489989418303921",
+        "in_reply_to_user_id": "1625624682329243648",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004343380571046036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tobeymaguire987 @THE_REALJABBA @sanrinifem1 Please educate yourself before you try to say sum stupid shit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）含🍥做题蛆/长相普通别骂我参考亮点里的照片/只混生物圈岩石圈大气圈水圈/链接是提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ （💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 760,
+          "like_count": 2540,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1042
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T05:57:43.000Z",
+        "description": "Your Favorite Bisexual Adult Genki Femboy, I Enjoy Neptunia, Bleach, Ninjago, and Wuwa. favorite characters are: Neptune, Rukia, Jay, Buling. Content Creator",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.twitch.tv/akirakurayami1…",
+                "end": 23,
+                "expanded_url": "https://m.twitch.tv/akirakurayami1/home?tt_content=channel&tt_medium=mobile_web_share",
+                "start": 0,
+                "url": "https://t.co/eXb808nLHA"
+              }
+            ]
+          }
+        },
+        "id": "1900063663299420160",
+        "name": "Akira",
+        "pinned_tweet_id": "1994903340367462483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991768073603346432/i3KL9vYw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 764,
+          "like_count": 1797,
+          "listed_count": 3,
+          "media_count": 406,
+          "tweet_count": 5310
+        },
+        "url": "https://t.co/eXb808nLHA",
+        "username": "AkiraKurayami1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T22:35:18.000Z",
+        "description": "soaps comic books etc totally didn’t smash Sienna",
+        "id": "1625624682329243648",
+        "location": "Los Angeles, CA Hostpital",
+        "name": "Noah Newman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995716772998062080/GIMoDzy__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 339,
+          "like_count": 2073,
+          "listed_count": 0,
+          "media_count": 1608,
+          "tweet_count": 3736
+        },
+        "username": "tobeymaguire987",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-11T19:53:20.000Z",
+        "description": "…",
+        "id": "1502372057627209731",
+        "name": "Jake",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1502372120466239495/QaHvojop_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 48,
+          "like_count": 46,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 282
+        },
+        "username": "THE_REALJABBA",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T14:22:30.000Z",
+        "description": "oli me llamo sanrini soy un femboy medio boludito me gustan las gomitas de tiburón y soy pansexual/tengo novio y es @caramelitoruso y lo amo con todo mi corazón",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "caramelitoruso"
+              }
+            ]
+          }
+        },
+        "id": "1935342271484018690",
+        "location": "argentina femboyland",
+        "name": "sanrini",
+        "pinned_tweet_id": "1951697309898608866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003895801643196416/0V-grzlb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11004,
+          "following_count": 87,
+          "like_count": 27050,
+          "listed_count": 11,
+          "media_count": 406,
+          "tweet_count": 2746
+        },
+        "username": "sanrinifem1",
+        "verified": false
+      }
+    ]
+  }
+}

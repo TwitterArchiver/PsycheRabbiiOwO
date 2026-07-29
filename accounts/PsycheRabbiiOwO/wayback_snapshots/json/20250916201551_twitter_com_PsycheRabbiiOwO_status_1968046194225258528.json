@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968046185391984640"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1968046194225258528",
+    "created_at": "2025-09-16T20:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T21:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968046194225258528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1wWte5thwg",
+          "end": 107,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1968046194225258528/photo/1",
+          "media_key": "3_1968046185391984640",
+          "start": 84,
+          "url": "https://t.co/1wWte5thwg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968046194225258528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好多年一直以来\n我发现我的内心言语\n这个声音跟我真正的声音不一样\n无论是我说话时直接听到的\n还是录下来听到的\n\n很像一个阳光少女。。。。\n\n那我本音怎么跟个阴暗b一样 https://t.co/1wWte5thwg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_1968046185391984640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0_nlBXaEAAqIcL.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968046185391984640"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1968046194225258528",
+        "created_at": "2025-09-16T20:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T21:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968046194225258528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1wWte5thwg",
+              "end": 107,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1968046194225258528/photo/1",
+              "media_key": "3_1968046185391984640",
+              "start": 84,
+              "url": "https://t.co/1wWte5thwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968046194225258528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好多年一直以来\n我发现我的内心言语\n这个声音跟我真正的声音不一样\n无论是我说话时直接听到的\n还是录下来听到的\n\n很像一个阳光少女。。。。\n\n那我本音怎么跟个阴暗b一样 https://t.co/1wWte5thwg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/含糖男娘🍥2025.09.06//可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 417,
+          "like_count": 371,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 376
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

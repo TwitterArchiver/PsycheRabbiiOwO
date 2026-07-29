@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999170965620817920",
+        "3_1999170965625012224"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1999170980057686426",
+    "created_at": "2025-12-11T17:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T18:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999170980057686426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kP78mB7tZ0",
+          "end": 69,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1999170980057686426/photo/1",
+          "media_key": "3_1999170965620817920",
+          "start": 46,
+          "url": "https://t.co/kP78mB7tZ0"
+        },
+        {
+          "display_url": "pic.x.com/kP78mB7tZ0",
+          "end": 69,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1999170980057686426/photo/1",
+          "media_key": "3_1999170965625012224",
+          "start": 46,
+          "url": "https://t.co/kP78mB7tZ0"
+        },
+        {
+          "display_url": "x.com/tadventurousou…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/tadventurousoul/status/1999012631097847857",
+          "start": 70,
+          "url": "https://t.co/NLZLC9w6aW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999170980057686426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999012631097847857",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是？？？？\ndeepseek你计算就计算，猜我意图干嘛？？？？？？？\n我超这太tm可怕了 https://t.co/kP78mB7tZ0 https://t.co/NLZLC9w6aW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999170965620817920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G757ZrMagAAhfy4.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999170965625012224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G757ZrNagAAquBU.jpg",
+        "width": 944
+      },
+      {
+        "duration_ms": 29233,
+        "height": 720,
+        "media_key": "7_1933743559724679169",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1933743559724679169/pu/img/skB3iL0n4s3Z_W3b.jpg",
+        "public_metrics": {
+          "view_count": 1102114
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933743559724679169/pu/vid/avc1/480x270/k6Cb3kj0kvtuoDB0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933743559724679169/pu/vid/avc1/640x360/oNp5ReueYyw4CXdN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933743559724679169/pu/vid/avc1/1280x720/zmXrYBtnHAlgvfV2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1933743559724679169/pu/pl/8E9CpV5IsXCBhvGO.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999170965620817920",
+            "3_1999170965625012224"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1999170980057686426",
+        "created_at": "2025-12-11T17:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T18:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999170980057686426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kP78mB7tZ0",
+              "end": 69,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1999170980057686426/photo/1",
+              "media_key": "3_1999170965620817920",
+              "start": 46,
+              "url": "https://t.co/kP78mB7tZ0"
+            },
+            {
+              "display_url": "pic.x.com/kP78mB7tZ0",
+              "end": 69,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1999170980057686426/photo/1",
+              "media_key": "3_1999170965625012224",
+              "start": 46,
+              "url": "https://t.co/kP78mB7tZ0"
+            },
+            {
+              "display_url": "x.com/tadventurousou…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/tadventurousoul/status/1999012631097847857",
+              "start": 70,
+              "url": "https://t.co/NLZLC9w6aW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999170980057686426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999012631097847857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是？？？？\ndeepseek你计算就计算，猜我意图干嘛？？？？？？？\n我超这太tm可怕了 https://t.co/kP78mB7tZ0 https://t.co/NLZLC9w6aW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1933743559724679169"
+          ],
+          "media_source_tweet_id": [
+            "1933743598706569333"
+          ]
+        },
+        "author_id": "1444304648823705607",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1999012631097847857",
+        "created_at": "2025-12-11T07:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T08:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999012631097847857"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Kim Jong Un",
+              "probability": 0.9868,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 47,
+              "normalized_text": "Korea",
+              "probability": 0.8141,
+              "start": 43,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c1Pk3jHGyY",
+              "end": 197,
+              "expanded_url": "https://x.com/fopminui/status/1933743598706569333/video/1",
+              "media_key": "7_1933743559724679169",
+              "start": 174,
+              "url": "https://t.co/c1Pk3jHGyY"
+            },
+            {
+              "display_url": "x.com/TAdventurousou…",
+              "end": 221,
+              "expanded_url": "https://twitter.com/TAdventurousoul/status/1998979917548265598",
+              "start": 198,
+              "url": "https://t.co/Q5Bx2qRDUy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999012631097847857",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 297,
+          "impression_count": 1108250,
+          "like_count": 3603,
+          "quote_count": 83,
+          "reply_count": 261,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998979917548265598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Kim Jong Un's party, the Workers' Party of Korea, won the latest election with 99.91% votes. This is a slight decrease from the 100% votes they had in the previous election.\nhttps://t.co/c1Pk3jHGyY https://t.co/Q5Bx2qRDUy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/本人长相普通别骂我参考亮点里的照片/只混生物圈岩石圈大气圈水圈/这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰（🏳️‍⚧️💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 707,
+          "like_count": 2091,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-02T14:14:15.000Z",
+        "description": "Away from Toxic Society 🍁\n\nComedy videos ,Tips & Tricks videos,Prank videos , intresting video etc ...",
+        "id": "1444304648823705607",
+        "location": "Mars",
+        "name": "The Adventurous Soul",
+        "pinned_tweet_id": "1955287473438790035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945353894122471424/GK-Aah20_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281812,
+          "following_count": 420,
+          "like_count": 16583,
+          "listed_count": 589,
+          "media_count": 10273,
+          "tweet_count": 19000
+        },
+        "username": "TAdventurousoul",
+        "verified": true
+      }
+    ]
+  }
+}

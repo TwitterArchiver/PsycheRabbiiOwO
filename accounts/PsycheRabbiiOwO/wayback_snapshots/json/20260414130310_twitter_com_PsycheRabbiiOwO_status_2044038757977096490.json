@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2044038757977096490",
+    "created_at": "2026-04-14T13:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044038757977096490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bsxiaoyu1102/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/bsxiaoyu1102/status/2043425242627047852",
+          "start": 19,
+          "url": "https://t.co/SYG6vms4Ma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044038757977096490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043425242627047852",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "假装m被调去学别人，然后再不会当s了 https://t.co/SYG6vms4Ma"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2044038757977096490",
+        "created_at": "2026-04-14T13:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044038757977096490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bsxiaoyu1102/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/bsxiaoyu1102/status/2043425242627047852",
+              "start": 19,
+              "url": "https://t.co/SYG6vms4Ma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044038757977096490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043425242627047852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "假装m被调去学别人，然后再不会当s了 https://t.co/SYG6vms4Ma"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043414622699442176",
+        "conversation_id": "2043348353401119066",
+        "created_at": "2026-04-12T20:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T21:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043425242627047852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1507375433368719366",
+              "start": 0,
+              "username": "Ggg34169790wa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043425242627047852",
+        "in_reply_to_user_id": "1507375433368719366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1105,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043348353401119066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ggg34169790wa 假装m被调去学别人的 然后再当s不就会了🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 1260,
+          "like_count": 7967,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 1904
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-12T19:43:45.000Z",
+        "description": "",
+        "id": "2043414622699442176",
+        "name": "没钱买低温蜡烛用热熔胶被骂超雄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043416224546324480/HuF_4QcX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "BsXiaoyu1102",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2026738373034139892",
+    "created_at": "2026-02-25T19:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T20:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026738373034139892"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nameiccc/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/nameiccc/status/2026332438985888219",
+          "start": 3,
+          "url": "https://t.co/sBnu09ggsf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026738373034139892",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026332438985888219",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🙂🙃 https://t.co/sBnu09ggsf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2026738373034139892",
+        "created_at": "2026-02-25T19:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T20:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026738373034139892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nameiccc/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/nameiccc/status/2026332438985888219",
+              "start": 3,
+              "url": "https://t.co/sBnu09ggsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026738373034139892",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026332438985888219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🙂🙃 https://t.co/sBnu09ggsf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749798935357767680",
+        "conversation_id": "2026332438985888219",
+        "created_at": "2026-02-24T16:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026332438985888219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026332438985888219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 153776,
+          "like_count": 1587,
+          "quote_count": 33,
+          "reply_count": 111,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "你可以用自慰顶替性生活 但什么都顶替不了拥抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月（♡´∀`♡)🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025891245403594752/7m_aCDuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 990,
+          "like_count": 4596,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 1405
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T14:19:18.000Z",
+        "description": "日常，碎碎念..",
+        "id": "1749798935357767680",
+        "location": "🚪52",
+        "name": "海克斯科技",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884611841625890816/fNfl7BWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66972,
+          "following_count": 18,
+          "like_count": 731,
+          "listed_count": 137,
+          "media_count": 287,
+          "tweet_count": 460
+        },
+        "username": "Nameiccc",
+        "verified": false
+      }
+    ]
+  }
+}

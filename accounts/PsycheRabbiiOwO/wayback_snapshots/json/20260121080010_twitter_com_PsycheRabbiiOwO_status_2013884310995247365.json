@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2013662456695136324",
+    "created_at": "2026-01-21T08:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T09:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013884310995247365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2012814047973163008",
+          "start": 0,
+          "username": "reika229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013884310995247365",
+    "in_reply_to_user_id": "2012814047973163008",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013867162880921983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reika229 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2013662456695136324",
+        "created_at": "2026-01-21T08:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T09:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013884310995247365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012814047973163008",
+              "start": 0,
+              "username": "reika229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013884310995247365",
+        "in_reply_to_user_id": "2012814047973163008",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013867162880921983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reika229 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012814047973163008",
+        "conversation_id": "2013662456695136324",
+        "created_at": "2026-01-21T06:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T07:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013867162880921983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013867162880921983",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013662456695136324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 药娘头可爱❗️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "含🍥做题蛆/长相普通别骂我参考亮点里的照片/备用机@rabbii_third不知道会发些什么呢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 839,
+          "like_count": 3215,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1171
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T09:08:49.000Z",
+        "description": "🏳️‍⚧️ / 猫耳 / 白丝 / 小裙子 / 🇺🇸 / ⚠️键政警告",
+        "id": "2012814047973163008",
+        "name": "望月玲香🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012838270799884289/XnLeku1F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 143,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 101
+        },
+        "username": "reika229",
+        "verified": false
+      }
+    ]
+  }
+}

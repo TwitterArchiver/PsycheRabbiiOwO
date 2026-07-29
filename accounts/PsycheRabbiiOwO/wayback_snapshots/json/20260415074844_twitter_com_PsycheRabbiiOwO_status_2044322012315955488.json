@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2044322012315955488",
+    "created_at": "2026-04-15T07:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T08:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044322012315955488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1462419807173677059",
+          "start": 3,
+          "username": "Jane_S_Eye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044322012315955488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013539331114160546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jane_S_Eye: 我们变性人太伟大了，只用了全世界百分之0点几的人口，就让一个世界头号超级大国的7000万傻逼靠“加州学校早上男孩下午放学被变女孩这种”、连一只聪明点的章鱼都能分辨的谣言，选出了一个当代混世魔王在全世界头上拉屎。\n😅这下雌激素改变世界命运、哦，当初…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2044322012315955488",
+        "created_at": "2026-04-15T07:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044322012315955488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1462419807173677059",
+              "start": 3,
+              "username": "Jane_S_Eye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044322012315955488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013539331114160546",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jane_S_Eye: 我们变性人太伟大了，只用了全世界百分之0点几的人口，就让一个世界头号超级大国的7000万傻逼靠“加州学校早上男孩下午放学被变女孩这种”、连一只聪明点的章鱼都能分辨的谣言，选出了一个当代混世魔王在全世界头上拉屎。\n😅这下雌激素改变世界命运、哦，当初…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462419807173677059",
+        "conversation_id": "2013539331114160546",
+        "created_at": "2026-01-20T09:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T10:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013539331114160546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013539331114160546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 65992,
+          "like_count": 932,
+          "quote_count": 9,
+          "reply_count": 32,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "我们变性人太伟大了，只用了全世界百分之0点几的人口，就让一个世界头号超级大国的7000万傻逼靠“加州学校早上男孩下午放学被变女孩这种”、连一只聪明点的章鱼都能分辨的谣言，选出了一个当代混世魔王在全世界头上拉屎。\n😅这下雌激素改变世界命运、哦，当初信这个华川、墨川有多少已经被ice好好招待了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 1268,
+          "like_count": 8077,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 1908
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "she/her but Not a whore.",
+        "id": "1462419807173677059",
+        "name": "Muriel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029156960873136132/u-emapK9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10882,
+          "following_count": 3128,
+          "like_count": 12848,
+          "listed_count": 19,
+          "media_count": 464,
+          "tweet_count": 8220
+        },
+        "username": "Jane_S_Eye",
+        "verified": false
+      }
+    ]
+  }
+}

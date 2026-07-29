@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026407545741672448"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2026407552192491979",
+    "created_at": "2026-02-24T21:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T22:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026407552192491979"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KLNCfwbG8m",
+          "end": 53,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2026407552192491979/photo/1",
+          "media_key": "3_2026407545741672448",
+          "start": 30,
+          "url": "https://t.co/KLNCfwbG8m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026407552192491979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😇😇😇我要学画画。。。\n\n用AI改头像什么的累死了。。。。 https://t.co/KLNCfwbG8m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_2026407545741672448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB8-7S4agAAD1uW.jpg",
+        "width": 1360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026407545741672448"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2026407552192491979",
+        "created_at": "2026-02-24T21:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T22:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026407552192491979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KLNCfwbG8m",
+              "end": 53,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2026407552192491979/photo/1",
+              "media_key": "3_2026407545741672448",
+              "start": 30,
+              "url": "https://t.co/KLNCfwbG8m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026407552192491979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😇😇😇我要学画画。。。\n\n用AI改头像什么的累死了。。。。 https://t.co/KLNCfwbG8m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月（♡´∀`♡)🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025891245403594752/7m_aCDuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 985,
+          "like_count": 4558,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 1399
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

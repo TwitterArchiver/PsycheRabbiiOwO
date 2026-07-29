@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1992439496646992073",
+    "created_at": "2025-11-23T09:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T10:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992531451867430927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "596665043",
+          "start": 0,
+          "username": "ENOMOTOYUUIC"
+        },
+        {
+          "end": 22,
+          "id": "1552918719440924672",
+          "start": 14,
+          "username": "sprLumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992531451867430927",
+    "in_reply_to_user_id": "596665043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992515608530108570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ENOMOTOYUUIC @sprLumi 不是，那我美区id为什么也这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1992439496646992073",
+        "created_at": "2025-11-23T09:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T10:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992531451867430927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "596665043",
+              "start": 0,
+              "username": "ENOMOTOYUUIC"
+            },
+            {
+              "end": 22,
+              "id": "1552918719440924672",
+              "start": 14,
+              "username": "sprLumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992531451867430927",
+        "in_reply_to_user_id": "596665043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992515608530108570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ENOMOTOYUUIC @sprLumi 不是，那我美区id为什么也这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "596665043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "1992439496646992073",
+        "created_at": "2025-11-23T08:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T09:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992515608530108570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "sprLumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992515608530108570",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992439496646992073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sprLumi 其次是，就算在連結地顯示的是中國以外國家的App Store，也可能會存在中國人購入海外Apple ID而裝載X的可能性且不低。所以單純通過此介面無法完全判斷某個帳戶是否正在「翻牆」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/165cm 52kg 本人很丑别骂我/这里这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 533,
+          "like_count": 1151,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 663
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-01T17:56:02.000Z",
+        "description": "時流を泳ぐ 海鳥たちは 惨い摂理を囁くばかり いつか千切れる絆見たさに 高く 高く 高く",
+        "id": "596665043",
+        "location": "Nishinomiya-shi, Hyogo",
+        "name": "YUUIC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966706614280564736/BDM-fy9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 300,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1817
+        },
+        "username": "ENOMOTOYUUIC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "◇ 𝐴𝑙𝑙 𝑀𝑦 𝐿𝑖𝑓𝑒 ◇ @HobartR6 @_FurryFur_ ◇ 泰补180包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "HobartR6"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🌃",
+        "name": "𝙨𝙥𝙧𝙇𝙪𝙢𝙞💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992462935785136128/2DCOadzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3234,
+          "following_count": 897,
+          "like_count": 1186,
+          "listed_count": 5,
+          "media_count": 39,
+          "tweet_count": 475
+        },
+        "username": "sprLumi",
+        "verified": true
+      }
+    ]
+  }
+}

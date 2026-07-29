@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039939548709625856"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2039939554057265152",
+    "created_at": "2026-04-03T05:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T06:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039939554057265152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lCPFGuEM9W",
+          "end": 46,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2039939554057265152/photo/1",
+          "media_key": "3_2039939548709625856",
+          "start": 23,
+          "url": "https://t.co/lCPFGuEM9W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039939554057265152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这tm诗人啊😱\n“会让所有人免费获得麻风病” https://t.co/lCPFGuEM9W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 524,
+        "media_key": "3_2039939548709625856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE9SNiQboAAf998.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039939548709625856"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2039939554057265152",
+        "created_at": "2026-04-03T05:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T06:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039939554057265152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lCPFGuEM9W",
+              "end": 46,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2039939554057265152/photo/1",
+              "media_key": "3_2039939548709625856",
+              "start": 23,
+              "url": "https://t.co/lCPFGuEM9W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039939554057265152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这tm诗人啊😱\n“会让所有人免费获得麻风病” https://t.co/lCPFGuEM9W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 1157,
+          "like_count": 6461,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 1672
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

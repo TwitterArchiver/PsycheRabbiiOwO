@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2048397180785033667",
+    "created_at": "2026-04-26T13:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048397180785033667"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/strawbunimilk/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/strawbunimilk/status/2048046742675804640",
+          "start": 5,
+          "url": "https://t.co/cAQbLQWs5A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048397180785033667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048046742675804640",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁和我谈 https://t.co/cAQbLQWs5A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1274,
+        "media_key": "3_2048046667593895937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwfl9lbUAE_9F6.jpg",
+        "width": 1238
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2048397180785033667",
+        "created_at": "2026-04-26T13:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048397180785033667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/strawbunimilk/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/strawbunimilk/status/2048046742675804640",
+              "start": 5,
+              "url": "https://t.co/cAQbLQWs5A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048397180785033667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048046742675804640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁和我谈 https://t.co/cAQbLQWs5A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048046667593895937"
+          ]
+        },
+        "author_id": "4693533145",
+        "conversation_id": "2048046742675804640",
+        "created_at": "2026-04-25T14:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048046742675804640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tu1N1hYSLt",
+              "end": 23,
+              "expanded_url": "https://x.com/strawbunimilk/status/2048046742675804640/photo/1",
+              "media_key": "3_2048046667593895937",
+              "start": 0,
+              "url": "https://t.co/tu1N1hYSLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048046742675804640",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7860,
+          "impression_count": 510256,
+          "like_count": 75518,
+          "quote_count": 244,
+          "reply_count": 106,
+          "retweet_count": 10071
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tu1N1hYSLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/我喜欢你你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 1377,
+          "like_count": 10583,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 2184
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-02T03:18:39.000Z",
+        "description": "🖍️ i like to draw things 🎨 they ⋰ he ⋰ she 🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "strawbunimilk.neocities.org",
+                "end": 23,
+                "expanded_url": "https://strawbunimilk.neocities.org",
+                "start": 0,
+                "url": "https://t.co/u48DPnf7CM"
+              }
+            ]
+          }
+        },
+        "id": "4693533145",
+        "location": "‿̅‿̅‿̅‿̅‿̅‿̅‿̅‿̅‿̅‿̅‿̅‿̅‿̅‿̅‿",
+        "name": "໒꒰𖦹 Ada ⋰ Elie ୨୧꒱ა",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038371543051653120/aumyu89O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12711,
+          "following_count": 63,
+          "like_count": 1479,
+          "listed_count": 89,
+          "media_count": 104,
+          "tweet_count": 660
+        },
+        "url": "https://t.co/u48DPnf7CM",
+        "username": "strawbunimilk",
+        "verified": false
+      }
+    ]
+  }
+}

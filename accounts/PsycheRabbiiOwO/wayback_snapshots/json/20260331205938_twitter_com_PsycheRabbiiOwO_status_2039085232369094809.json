@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2039085232369094809",
+    "created_at": "2026-03-31T20:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T21:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039085232369094809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yaming00742313…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/yaming00742313/status/2039052084218347886",
+          "start": 7,
+          "url": "https://t.co/uforvJZcZw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039085232369094809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039052084218347886",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是离间计😢 https://t.co/uforvJZcZw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2039085232369094809",
+        "created_at": "2026-03-31T20:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T21:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039085232369094809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yaming00742313…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yaming00742313/status/2039052084218347886",
+              "start": 7,
+              "url": "https://t.co/uforvJZcZw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039085232369094809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039052084218347886",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是离间计😢 https://t.co/uforvJZcZw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647815138450505730",
+        "conversation_id": "2039052084218347886",
+        "created_at": "2026-03-31T18:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T19:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039052084218347886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039052084218347886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "店长打电话给我，问我是否有违法行为和精神疾病未如实告知，说昨天有人向公司总部打电话举报，具体到我们店的分区，指名道姓的说，我有重大精神疾病，且有犯罪倾向，将我和我男友牧鸢在外网发声与扭转机构救人等行为扭曲成企图颠覆国家的行为，且将我的性别身份一并告知，污蔑我有性病传染病。威胁公司方将我解雇，否则会持续走消费者热线与公安部门进行举报，将会严重影响公司声誉。\n我希望你们有什么要求，可以直接与我沟通，尽管有人辱骂我，但我的私信也一直是开放的。我工作的公司与同事是无辜的，请不要将网络上的纠纷带人现实生活，退出救助也好，退网也好，你们尽管来找我，我只求你们善良……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6362,
+          "like_count": 70,
+          "quote_count": 13,
+          "reply_count": 25,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "店长打电话给我，问我是否有违法行为和精神疾病未如实告知，说昨天有人向公司总部打电话举报，具体到我们店的分区，指名道姓的说，我有重大精神疾病，且有犯罪倾向，将我和我男友牧鸢在外网发声与扭转机构救人等行为扭曲成企图颠覆国家的行为，且将我的性别身份一并告知，污蔑我有性病传染病。威胁公司"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/8964准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "rabbii_third"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月（🍥•﹃•🍥）8964",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032672138176704512/fwd2tlZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 1130,
+          "like_count": 6267,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 1645
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "INFJ，一名便利店上班的普通女孩。爱人牧鸢：@LwrDHYyuxR22499",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "LwrDHYyuxR22499"
+              }
+            ]
+          }
+        },
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（便利店打工记）",
+        "pinned_tweet_id": "2038877141438521628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12164,
+          "following_count": 1567,
+          "like_count": 8429,
+          "listed_count": 32,
+          "media_count": 397,
+          "tweet_count": 2873
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

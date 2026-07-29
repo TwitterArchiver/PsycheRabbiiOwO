@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988296784243027968"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1988296791901843515",
+    "created_at": "2025-11-11T17:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T18:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988296791901843515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/x111niUNNS",
+          "end": 61,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1988296791901843515/photo/1",
+          "media_key": "3_1988296784243027968",
+          "start": 38,
+          "url": "https://t.co/x111niUNNS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988296791901843515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想cos的角色+1\n\n古诺希亚 尤里\n\n感觉每一个特征都在我的xp上🥵🥵🥵 https://t.co/x111niUNNS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1988296784243027968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5fZZAzbcAAFapN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988296784243027968"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1988296791901843515",
+        "created_at": "2025-11-11T17:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988296791901843515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x111niUNNS",
+              "end": 61,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1988296791901843515/photo/1",
+              "media_key": "3_1988296784243027968",
+              "start": 38,
+              "url": "https://t.co/x111niUNNS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988296791901843515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想cos的角色+1\n\n古诺希亚 尤里\n\n感觉每一个特征都在我的xp上🥵🥵🥵 https://t.co/x111niUNNS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/165cm 52kg 本人很丑别骂我/这里这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 479,
+          "like_count": 730,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 564
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

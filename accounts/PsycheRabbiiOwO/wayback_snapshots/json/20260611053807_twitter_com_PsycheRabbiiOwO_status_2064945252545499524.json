@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2064887086080315636",
+    "created_at": "2026-06-11T05:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T06:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064945252545499524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064945252545499524",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064887086080315636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonogamiRinneTS 老板指了指那个牌子，把这个劳保赶了出去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2064887086080315636",
+        "created_at": "2026-06-11T05:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064945252545499524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064945252545499524",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064887086080315636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS 老板指了指那个牌子，把这个劳保赶了出去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "2064887086080315636",
+        "created_at": "2026-06-11T01:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T02:37:21.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064884659474100465",
+          "2064887086080315636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064887086080315636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "老保笑话第四集：反式脂肪\n\n在美国一深红州，某天一老保路过一新开业的甜品店，看到墙上挂着“拒绝跨性别胖子”，老保大喜，为了表示对这家新店的支持，于是狠下心把自己整整一个月的薪水都掏出去，把店内最贵的几种产品全买了下来\n\n结完账临走前，老保对甜品店老板称赞道：我相信，像你这样三观正的人，卖的东西一定安全又健康\n\n老板指了指墙上那个“拒绝跨性别胖子”（no trans fat）的标语答道：那是当然，我们店用的所有原料都经过严格把关，绝对不含有反式脂肪等对人体有害的成分\n\n老保：🤡🤡\n\n*Trans fat：英文含义为“反式脂肪”，同时也可以指“跨性别胖子”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1752,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "老保笑话第四集：反式脂肪\n\n在美国一深红州，某天一老保路过一新开业的甜品店，看到墙上挂着“拒绝跨性别胖子”，老保大喜，为了表示对这家新店的支持，于是狠下心把自己整整一个月的薪水都掏出去，把店内最贵的几种产品全买了下来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 1537,
+          "like_count": 16794,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 2626
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4752,
+          "following_count": 3595,
+          "like_count": 1418,
+          "listed_count": 16,
+          "media_count": 271,
+          "tweet_count": 1825
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

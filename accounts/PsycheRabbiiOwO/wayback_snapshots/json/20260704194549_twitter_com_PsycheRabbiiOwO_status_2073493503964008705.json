@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073493494245847040",
+        "3_2073493494229073921"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2073493503964008705",
+    "created_at": "2026-07-04T19:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T20:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073493503964008705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G8o8GqFEJU",
+          "end": 51,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2073493503964008705/photo/1",
+          "media_key": "3_2073493494245847040",
+          "start": 28,
+          "url": "https://t.co/G8o8GqFEJU"
+        },
+        {
+          "display_url": "pic.x.com/G8o8GqFEJU",
+          "end": 51,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2073493503964008705/photo/1",
+          "media_key": "3_2073493494229073921",
+          "start": 28,
+          "url": "https://t.co/G8o8GqFEJU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073493503964008705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现实中最接近常守朱的发型是哪种？\n我觉得还是短发适合我 https://t.co/G8o8GqFEJU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_2073493494245847040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMaHWOCbcAAc8H0.jpg",
+        "width": 1198
+      },
+      {
+        "height": 919,
+        "media_key": "3_2073493494229073921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMaHWN-bgAEwwEl.jpg",
+        "width": 1793
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073493494245847040",
+            "3_2073493494229073921"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2073493503964008705",
+        "created_at": "2026-07-04T19:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073493503964008705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G8o8GqFEJU",
+              "end": 51,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2073493503964008705/photo/1",
+              "media_key": "3_2073493494245847040",
+              "start": 28,
+              "url": "https://t.co/G8o8GqFEJU"
+            },
+            {
+              "display_url": "pic.x.com/G8o8GqFEJU",
+              "end": 51,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2073493503964008705/photo/1",
+              "media_key": "3_2073493494229073921",
+              "start": 28,
+              "url": "https://t.co/G8o8GqFEJU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073493503964008705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现实中最接近常守朱的发型是哪种？\n我觉得还是短发适合我 https://t.co/G8o8GqFEJU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 1629,
+          "like_count": 18828,
+          "listed_count": 3,
+          "media_count": 310,
+          "tweet_count": 2851
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

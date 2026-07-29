@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963495819614851072"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1963495828468736065",
+    "created_at": "2025-09-04T06:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T07:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963495828468736065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jlZJF4V9gR",
+          "end": 23,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1963495828468736065/photo/1",
+          "media_key": "3_1963495819614851072",
+          "start": 0,
+          "url": "https://t.co/jlZJF4V9gR"
+        },
+        {
+          "display_url": "x.com/deep_dark_fant…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/deep_dark_fanta/status/1963070855141097745",
+          "start": 24,
+          "url": "https://t.co/N1l1joYzZp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963495828468736065",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963070855141097745",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/jlZJF4V9gR https://t.co/N1l1joYzZp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1959,
+        "media_key": "3_1963495819614851072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz-9C34bkAAc1Hm.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963495819614851072"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1963495828468736065",
+        "created_at": "2025-09-04T06:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T07:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963495828468736065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jlZJF4V9gR",
+              "end": 23,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1963495828468736065/photo/1",
+              "media_key": "3_1963495819614851072",
+              "start": 0,
+              "url": "https://t.co/jlZJF4V9gR"
+            },
+            {
+              "display_url": "x.com/deep_dark_fant…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/deep_dark_fanta/status/1963070855141097745",
+              "start": 24,
+              "url": "https://t.co/N1l1joYzZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963495828468736065",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963070855141097745",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/jlZJF4V9gR https://t.co/N1l1joYzZp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "732822531430879232",
+        "conversation_id": "1962910156821614894",
+        "created_at": "2025-09-03T02:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T03:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963070855141097745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963070855141097745",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14215,
+          "like_count": 311,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962910156821614894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 笑完再補充一句，老兄，你不要害我被國安逮捕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/生理男心理（不确定）/可能是泛性恋？/有对象了已经🥰@pirapira2112/目前无糖/联系方式私信，欢迎骚扰！！！/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 375,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 306
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-18T06:38:01.000Z",
+        "description": "精趙就不要翻墻，錢再多也不分你。\n愛好用趙國語錄打愛趙者的臉。",
+        "id": "732822531430879232",
+        "location": "中華民國",
+        "name": "劉醒我系你上司",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/799866172833492992/DFk4L4_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 154,
+          "like_count": 35703,
+          "listed_count": 12,
+          "media_count": 1043,
+          "tweet_count": 46352
+        },
+        "username": "Deep_Dark_Fanta",
+        "verified": false
+      }
+    ]
+  }
+}

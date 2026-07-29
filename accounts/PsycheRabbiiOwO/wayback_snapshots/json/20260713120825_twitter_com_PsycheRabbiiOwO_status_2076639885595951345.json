@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2076558768490602850",
+    "created_at": "2026-07-13T12:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076639885595951345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1832763086039896064",
+          "start": 0,
+          "username": "NanoCatfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076639885595951345",
+    "in_reply_to_user_id": "1832763086039896064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076635667053105512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanoCatfish 打算一会去洪崖洞or江滩公园🥺🥺你要来嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2076558768490602850",
+        "created_at": "2026-07-13T12:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076639885595951345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1832763086039896064",
+              "start": 0,
+              "username": "NanoCatfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076639885595951345",
+        "in_reply_to_user_id": "1832763086039896064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076635667053105512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanoCatfish 打算一会去洪崖洞or江滩公园🥺🥺你要来嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832763086039896064",
+        "conversation_id": "2076558768490602850",
+        "created_at": "2026-07-13T11:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076635667053105512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076635667053105512",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076558768490602850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 这会是在哪里qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 1661,
+          "like_count": 19833,
+          "listed_count": 3,
+          "media_count": 316,
+          "tweet_count": 2937
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-08T12:51:34.000Z",
+        "description": "自由、平等、博爱 | 找我玩pls qwq | 可以称呼我为小叶 | 无性别认同 | @Nano_Catfish | Z @wimzylens0 | 可爱的猫猫 @bth95147 | 超棒喵喵叶姐姐～ @LeavesMao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "Nano_Catfish"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "wimzylens0"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "bth95147"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "LeavesMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nanocatfish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nanocatfish",
+                "start": 0,
+                "url": "https://t.co/I3vJIN1yOJ"
+              }
+            ]
+          }
+        },
+        "id": "1832763086039896064",
+        "location": "🍀四叶草园🍀",
+        "name": "🍀Nano Catfish🐟🐟🐟",
+        "pinned_tweet_id": "1985858852060070241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007057714342461440/5Gc8L4A0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 309,
+          "like_count": 6922,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1576
+        },
+        "url": "https://t.co/I3vJIN1yOJ",
+        "username": "NanoCatfish",
+        "verified": true
+      }
+    ]
+  }
+}

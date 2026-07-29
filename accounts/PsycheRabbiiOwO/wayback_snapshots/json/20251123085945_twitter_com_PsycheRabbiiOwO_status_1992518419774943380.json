@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1992518419774943380",
+    "created_at": "2025-11-23T08:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T09:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992518419774943380"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sprlumi/status…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/sprlumi/status/1992439496646992073",
+          "start": 47,
+          "url": "https://t.co/exIpcOkTtj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992518419774943380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992439496646992073",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭😭😭\n\n我真该换梯了\n现在这个百分百晶哥直连\n（图便宜🥲🥲）\n每次发帖都要自我审查，累死了 https://t.co/exIpcOkTtj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1992439493790674945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6aRKcfaMAEEpLQ.jpg",
+        "width": 576
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992439493895618560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6aRKc4bgAA14x3.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1992518419774943380",
+        "created_at": "2025-11-23T08:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T09:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992518419774943380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sprlumi/status…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/sprlumi/status/1992439496646992073",
+              "start": 47,
+              "url": "https://t.co/exIpcOkTtj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992518419774943380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992439496646992073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭😭😭\n\n我真该换梯了\n现在这个百分百晶哥直连\n（图便宜🥲🥲）\n每次发帖都要自我审查，累死了 https://t.co/exIpcOkTtj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992439493790674945",
+            "3_1992439493895618560"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "1992439496646992073",
+        "created_at": "2025-11-23T03:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T04:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992439496646992073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hntKn6gwjL",
+              "end": 90,
+              "expanded_url": "https://x.com/sprLumi/status/1992439496646992073/photo/1",
+              "media_key": "3_1992439493790674945",
+              "start": 67,
+              "url": "https://t.co/hntKn6gwjL"
+            },
+            {
+              "display_url": "pic.x.com/hntKn6gwjL",
+              "end": 90,
+              "expanded_url": "https://x.com/sprLumi/status/1992439496646992073/photo/1",
+              "media_key": "3_1992439493895618560",
+              "start": 67,
+              "url": "https://t.co/hntKn6gwjL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992439496646992073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 79528,
+          "like_count": 310,
+          "quote_count": 7,
+          "reply_count": 85,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "用梯子的账号会出现一个盾 鉴定为人下人 不用的则没有\n还有那些写着互fo的天天发低质量内容的账号 点进去发现来自中国 100%是狱友 https://t.co/hntKn6gwjL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/165cm 52kg 本人很丑别骂我/这里这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 532,
+          "like_count": 1151,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 662
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "◇ 𝐴𝑙𝑙 𝑀𝑦 𝐿𝑖𝑓𝑒 ◇ @HobartR6 @_FurryFur_ ◇ 泰补180包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "HobartR6"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🌃",
+        "name": "𝙨𝙥𝙧𝙇𝙪𝙢𝙞💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992462935785136128/2DCOadzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3231,
+          "following_count": 897,
+          "like_count": 1186,
+          "listed_count": 5,
+          "media_count": 39,
+          "tweet_count": 474
+        },
+        "username": "sprLumi",
+        "verified": true
+      }
+    ]
+  }
+}

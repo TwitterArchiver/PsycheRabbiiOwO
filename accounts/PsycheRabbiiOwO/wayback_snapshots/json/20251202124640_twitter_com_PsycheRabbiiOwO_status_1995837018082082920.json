@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1995534078888845386",
+    "created_at": "2025-12-02T12:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T13:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995837018082082920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "894527973839192064",
+          "start": 0,
+          "username": "SarkazWisadel"
+        },
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995837018082082920",
+    "in_reply_to_user_id": "894527973839192064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995534078888845386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SarkazWisadel @grok 事實核查"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1115,
+        "media_key": "3_1995534076347129856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7GPq23boAADUa6.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1995534078888845386",
+        "created_at": "2025-12-02T12:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T13:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995837018082082920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "894527973839192064",
+              "start": 0,
+              "username": "SarkazWisadel"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995837018082082920",
+        "in_reply_to_user_id": "894527973839192064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995534078888845386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SarkazWisadel @grok 事實核查"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995534076347129856"
+          ]
+        },
+        "author_id": "894527973839192064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995534078888845386",
+        "created_at": "2025-12-01T16:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T17:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995534078888845386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jxBVogUtlo",
+              "end": 31,
+              "expanded_url": "https://x.com/SarkazWisadel/status/1995534078888845386/photo/1",
+              "media_key": "3_1995534076347129856",
+              "start": 8,
+              "url": "https://t.co/jxBVogUtlo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995534078888845386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5791,
+          "like_count": 79,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是真的吗（？ https://t.co/jxBVogUtlo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/本人长相普通别骂我参考亮点里的照片/雷点不多只有顺直黄蛆，od，反跨（不雷人只雷事不要跳脸就好我很少b人只会不理你）/这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48ZKhM"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰（🏳️‍⚧️💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 640,
+          "like_count": 1633,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 805
+        },
+        "url": "https://t.co/274M48ZKhM",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-07T11:57:43.000Z",
+        "description": "⚑ Canada state-affiliated personnel\nUndergrad at UofT(St George), Registered as Liberal\n旅行者。清水日常推。\n好闺蜜@sutanghentian | 超喜欢的魅魔姐姐@yawarakai421 | 杂鱼🌰@Lingmeiya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 102,
+                "username": "sutanghentian"
+              },
+              {
+                "end": 140,
+                "start": 127,
+                "username": "yawarakai421"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "Lingmeiya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kokodayo.us",
+                "end": 23,
+                "expanded_url": "https://www.kokodayo.us",
+                "start": 0,
+                "url": "https://t.co/9v78GoBNYc"
+              }
+            ]
+          }
+        },
+        "id": "894527973839192064",
+        "location": "Osaka-shi Tennoji-ku, Osaka",
+        "name": "Kokodayo",
+        "pinned_tweet_id": "1924847655534080159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960487619546243074/D0c1I-cM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3913,
+          "following_count": 327,
+          "like_count": 43576,
+          "listed_count": 12,
+          "media_count": 4123,
+          "tweet_count": 23685
+        },
+        "url": "https://t.co/9v78GoBNYc",
+        "username": "SarkazWisadel",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6722060,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5403,
+          "media_count": 2765890,
+          "tweet_count": 70952112
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

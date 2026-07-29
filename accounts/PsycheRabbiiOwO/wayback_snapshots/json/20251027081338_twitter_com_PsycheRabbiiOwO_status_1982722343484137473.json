@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982051912955424768"
+      ],
+      "media_source_tweet_id": [
+        "1982051922334142555"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1982722343484137473",
+    "created_at": "2025-10-27T08:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T09:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982722343484137473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1444716723978981380",
+          "start": 3,
+          "username": "EleanorAnatidae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ro72kJ1Y8B",
+          "end": 88,
+          "expanded_url": "https://x.com/EleanorAnatidae/status/1982051922334142555/photo/1",
+          "media_key": "3_1982051912955424768",
+          "start": 65,
+          "url": "https://t.co/ro72kJ1Y8B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982722343484137473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982051922334142555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EleanorAnatidae: 我这个丑陋的怪物，不男不女的变态死人妖，恶心的废物东西…….\n想死想死想死\n好想自杀啊 https://t.co/ro72kJ1Y8B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1982051912955424768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4GptqYXcAAxUIY.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982051912955424768"
+          ],
+          "media_source_tweet_id": [
+            "1982051922334142555"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1982722343484137473",
+        "created_at": "2025-10-27T08:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T09:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982722343484137473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1444716723978981380",
+              "start": 3,
+              "username": "EleanorAnatidae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ro72kJ1Y8B",
+              "end": 88,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/1982051922334142555/photo/1",
+              "media_key": "3_1982051912955424768",
+              "start": 65,
+              "url": "https://t.co/ro72kJ1Y8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982722343484137473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982051922334142555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EleanorAnatidae: 我这个丑陋的怪物，不男不女的变态死人妖，恶心的废物东西…….\n想死想死想死\n好想自杀啊 https://t.co/ro72kJ1Y8B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982051912955424768"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "conversation_id": "1982051922334142555",
+        "created_at": "2025-10-25T11:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T12:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982051922334142555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ro72kJ1Y8B",
+              "end": 67,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/1982051922334142555/photo/1",
+              "media_key": "3_1982051912955424768",
+              "start": 44,
+              "url": "https://t.co/ro72kJ1Y8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982051922334142555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 17749,
+          "like_count": 179,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我这个丑陋的怪物，不男不女的变态死人妖，恶心的废物东西…….\n想死想死想死\n好想自杀啊 https://t.co/ro72kJ1Y8B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "明天。",
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🐰凌月月（互关版）",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 440,
+          "like_count": 503,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 485
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "mtf🏳️‍⚧️/👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 46,
+                "start": 32,
+                "username": "Shirlene_girl"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772859713987960832/7mLglH_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2703,
+          "following_count": 1750,
+          "like_count": 20371,
+          "listed_count": 9,
+          "media_count": 121,
+          "tweet_count": 5420
+        },
+        "username": "EleanorAnatidae",
+        "verified": false
+      }
+    ]
+  }
+}

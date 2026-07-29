@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077238451762851840",
+        "3_2077238451787976704"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2077238566191857948",
+    "created_at": "2026-07-15T03:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T04:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077238566191857948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sMkjedHI80",
+          "end": 91,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2077238566191857948/photo/1",
+          "media_key": "3_2077238451762851840",
+          "start": 68,
+          "url": "https://t.co/sMkjedHI80"
+        },
+        {
+          "display_url": "pic.x.com/sMkjedHI80",
+          "end": 91,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2077238566191857948/photo/1",
+          "media_key": "3_2077238451787976704",
+          "start": 68,
+          "url": "https://t.co/sMkjedHI80"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077238566191857948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你好吗一日都市，\n如果提起未来这件事  呐，\n你是否也会有寂寞的样子。\n所有真实都终将消逝，\n可我一直在追寻它的影子，\n到那时.... https://t.co/sMkjedHI80"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2077238451762851840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPVXb8bcAAhcCl.jpg",
+        "width": 4032
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2077238451787976704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPVXcCa0AAHWLW.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077238451762851840",
+            "3_2077238451787976704"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2077238566191857948",
+        "created_at": "2026-07-15T03:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T04:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077238566191857948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sMkjedHI80",
+              "end": 91,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2077238566191857948/photo/1",
+              "media_key": "3_2077238451762851840",
+              "start": 68,
+              "url": "https://t.co/sMkjedHI80"
+            },
+            {
+              "display_url": "pic.x.com/sMkjedHI80",
+              "end": 91,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2077238566191857948/photo/1",
+              "media_key": "3_2077238451787976704",
+              "start": 68,
+              "url": "https://t.co/sMkjedHI80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077238566191857948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好吗一日都市，\n如果提起未来这件事  呐，\n你是否也会有寂寞的样子。\n所有真实都终将消逝，\n可我一直在追寻它的影子，\n到那时.... https://t.co/sMkjedHI80"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 1669,
+          "like_count": 19913,
+          "listed_count": 3,
+          "media_count": 320,
+          "tweet_count": 2959
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

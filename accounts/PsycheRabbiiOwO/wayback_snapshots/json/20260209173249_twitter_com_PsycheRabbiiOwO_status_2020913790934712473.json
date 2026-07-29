@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020876428166955008"
+      ],
+      "media_source_tweet_id": [
+        "2020876432147349621"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2020913790934712473",
+    "created_at": "2026-02-09T17:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T18:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020913790934712473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1879338554511495168",
+          "start": 3,
+          "username": "BAshirasu_1226"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YGlW1BdO5F",
+          "end": 68,
+          "expanded_url": "https://x.com/BAshirasu_1226/status/2020876432147349621/photo/1",
+          "media_key": "3_2020876428166955008",
+          "start": 45,
+          "url": "https://t.co/YGlW1BdO5F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020913790934712473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020876432147349621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BAshirasu_1226: 地平说和地圆说都low爆了，不妨来试试我们地克说 https://t.co/YGlW1BdO5F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2020876428166955008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuYZ4PaAAAmeY8.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020876428166955008"
+          ],
+          "media_source_tweet_id": [
+            "2020876432147349621"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2020913790934712473",
+        "created_at": "2026-02-09T17:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T18:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020913790934712473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1879338554511495168",
+              "start": 3,
+              "username": "BAshirasu_1226"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YGlW1BdO5F",
+              "end": 68,
+              "expanded_url": "https://x.com/BAshirasu_1226/status/2020876432147349621/photo/1",
+              "media_key": "3_2020876428166955008",
+              "start": 45,
+              "url": "https://t.co/YGlW1BdO5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020913790934712473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020876432147349621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BAshirasu_1226: 地平说和地圆说都low爆了，不妨来试试我们地克说 https://t.co/YGlW1BdO5F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020876428166955008"
+          ]
+        },
+        "author_id": "1879338554511495168",
+        "conversation_id": "2020876432147349621",
+        "created_at": "2026-02-09T15:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020876432147349621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YGlW1BdO5F",
+              "end": 48,
+              "expanded_url": "https://x.com/BAshirasu_1226/status/2020876432147349621/photo/1",
+              "media_key": "3_2020876428166955008",
+              "start": 25,
+              "url": "https://t.co/YGlW1BdO5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020876432147349621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2620,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "地平说和地圆说都low爆了，不妨来试试我们地克说 https://t.co/YGlW1BdO5F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 926,
+          "like_count": 3680,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1289
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T01:23:30.000Z",
+        "description": "2006.5.19|MtX|176cm/70kg|双相|精分|ENFP-T|抽象纯神人|音游人|翻车顺男|翻车2024.4.22|自切2025.6.10|闲散人员一只|里推:@mai_HAYASE_chu   靠谱糖商：@ipaddress22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 87,
+                "username": "mai_HAYASE_chu"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "ipaddress22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/9KfOTjK",
+                "end": 23,
+                "expanded_url": "https://b23.tv/9KfOTjK",
+                "start": 0,
+                "url": "https://t.co/eYxEIoAdXb"
+              }
+            ]
+          }
+        },
+        "id": "1879338554511495168",
+        "location": "SBGA",
+        "name": "Hayase.TPZ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1954218012543680795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978350326135816192/4pxoKG7e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14894,
+          "following_count": 381,
+          "like_count": 1597,
+          "listed_count": 22,
+          "media_count": 302,
+          "tweet_count": 2064
+        },
+        "url": "https://t.co/eYxEIoAdXb",
+        "username": "BAshirasu_1226",
+        "verified": false
+      }
+    ]
+  }
+}

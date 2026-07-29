@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1978522925700411542",
+    "created_at": "2025-10-15T22:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T23:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978592164285399534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668037836996771840",
+          "start": 0,
+          "username": "cha_li_jin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978592164285399534",
+    "in_reply_to_user_id": "1668037836996771840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978522925700411542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cha_li_jin 😭照镜子。。。😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1978522925700411542",
+        "created_at": "2025-10-15T22:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T23:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978592164285399534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668037836996771840",
+              "start": 0,
+              "username": "cha_li_jin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978592164285399534",
+        "in_reply_to_user_id": "1668037836996771840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978522925700411542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cha_li_jin 😭照镜子。。。😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668037836996771840",
+        "conversation_id": "1978522925700411542",
+        "created_at": "2025-10-15T18:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T19:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978522925700411542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cha_li_jin/sta…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/cha_li_jin/status/1954934923649007864",
+              "start": 146,
+              "url": "https://t.co/S9cDoM1sOl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978522925700411542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 432,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954934923649007864",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回避型的事情讲过好多次了\n我知道我自己就是这样子\n既接不住别人的情感也接不住别人的话\n问我为什么会这样子？\n因为从小到大我已经一个人玩习惯了\n我没有体会过和家人的亲密关系\n成年了之后也再也学不会怎么维持和别人的亲密关系\n我知道我很烂\n这辈子就这样子了\n我也很痛苦\n随便骂吧\n早摆烂了这个性格 https://t.co/S9cDoM1sOl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "明天。",
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🐰凌月月（互关版）",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 433,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 450
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T23:29:56.000Z",
+        "description": "阴湿阳光回避型性压抑理工舞萌安卓型含糖长发男，常驻广州，一切与敏感色图相关的会逐步移植到 @tashigan_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "tashigan_"
+              }
+            ]
+          }
+        },
+        "id": "1668037836996771840",
+        "location": "0x7d9cd745",
+        "name": "天才少女察里津",
+        "pinned_tweet_id": "1940983556492435942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972464380152573952/DrbfLE7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5538,
+          "following_count": 810,
+          "like_count": 9982,
+          "listed_count": 17,
+          "media_count": 245,
+          "tweet_count": 1926
+        },
+        "username": "cha_li_jin",
+        "verified": false
+      }
+    ]
+  }
+}

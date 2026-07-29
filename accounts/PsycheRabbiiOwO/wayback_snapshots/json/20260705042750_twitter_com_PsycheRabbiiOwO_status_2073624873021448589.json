@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2073614006028546296",
+    "created_at": "2026-07-05T04:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T05:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073624873021448589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "708700717",
+          "start": 0,
+          "username": "GuajavaDuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073624873021448589",
+    "in_reply_to_user_id": "708700717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073614006028546296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuajavaDuo 目前的做法没问题，但说辞可以看出今后会很危险\n\n只用“爷爷去世奶奶大哭”“父母期望成才”之类的去提供合理性，就是把孩子当成了家庭的附属品\n\n从后续帖子中“在气头上没让孩子吃饭”可以看出，这家人就是一帮不理智不讲逻辑的东西，以后会做出更加伤害孩子的行为的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2073614006028546296",
+        "created_at": "2026-07-05T04:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073624873021448589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "708700717",
+              "start": 0,
+              "username": "GuajavaDuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073624873021448589",
+        "in_reply_to_user_id": "708700717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073614006028546296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuajavaDuo 目前的做法没问题，但说辞可以看出今后会很危险\n\n只用“爷爷去世奶奶大哭”“父母期望成才”之类的去提供合理性，就是把孩子当成了家庭的附属品\n\n从后续帖子中“在气头上没让孩子吃饭”可以看出，这家人就是一帮不理智不讲逻辑的东西，以后会做出更加伤害孩子的行为的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "708700717",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2073614006028546296",
+        "created_at": "2026-07-05T03:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073614006028546296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xingyunxiya/st…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/xingyunxiya/status/2073448926594953653",
+              "start": 134,
+              "url": "https://t.co/ntwPgo2JfN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073614006028546296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073448926594953653",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来唱点反调\n人类在处于青春期时脑前额叶成长并未完全，故很容易以为社群或者身边小群体影响而做出不正确的选择。会因为家庭环境中父权或者母系教育的缺失而对自己的性别或者性向产生质疑，在没能得知孩子身边是不是有不良诱因的情况下，让孩子自己冷静并作出选择才是利益最大化的选择。 https://t.co/ntwPgo2JfN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 1632,
+          "like_count": 18846,
+          "listed_count": 3,
+          "media_count": 311,
+          "tweet_count": 2857
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-21T09:28:17.000Z",
+        "description": "如果你有需要我会在肥牛山等你",
+        "id": "708700717",
+        "location": "長安東路三十三巷",
+        "name": "亻可 犭苗",
+        "pinned_tweet_id": "2069409129081233754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056152125038870528/J9mcTzNC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9314,
+          "following_count": 1745,
+          "like_count": 8128,
+          "listed_count": 62,
+          "media_count": 22731,
+          "tweet_count": 349796
+        },
+        "url": "",
+        "username": "GuajavaDuo",
+        "verified": false
+      }
+    ]
+  }
+}

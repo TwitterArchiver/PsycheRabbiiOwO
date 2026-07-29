@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079431105313427456"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2079431115530801416",
+    "created_at": "2026-07-21T04:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T05:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079431115530801416"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uELxTDG7x5",
+          "end": 111,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2079431115530801416/photo/1",
+          "media_key": "3_2079431105313427456",
+          "start": 88,
+          "url": "https://t.co/uELxTDG7x5"
+        },
+        {
+          "display_url": "x.com/psycherabbiiow…",
+          "end": 135,
+          "expanded_url": "https://twitter.com/psycherabbiiowo/status/2078805737292325367",
+          "start": 112,
+          "url": "https://t.co/RgCSLTcroH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079431115530801416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078805737292325367",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "1.谢谢！我喜欢你(♡&gt;𖥦&lt;)/♥\n2.好！\n3.天天开心！你也要，大家都要呀！💕\n4.🙃这个不回答\n5.？当然是，和和我说话的人说话\n6.不\n7.泛，不在乎性别 https://t.co/uELxTDG7x5 https://t.co/RgCSLTcroH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1723,
+        "media_key": "3_2079431105313427456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNufkq8a0AAcXgS.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1789,
+        "media_key": "3_2078805728501100544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlmy8xa8AAP5x_.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079431105313427456"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2079431115530801416",
+        "created_at": "2026-07-21T04:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079431115530801416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uELxTDG7x5",
+              "end": 111,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2079431115530801416/photo/1",
+              "media_key": "3_2079431105313427456",
+              "start": 88,
+              "url": "https://t.co/uELxTDG7x5"
+            },
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/psycherabbiiowo/status/2078805737292325367",
+              "start": 112,
+              "url": "https://t.co/RgCSLTcroH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079431115530801416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078805737292325367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1.谢谢！我喜欢你(♡&gt;𖥦&lt;)/♥\n2.好！\n3.天天开心！你也要，大家都要呀！💕\n4.🙃这个不回答\n5.？当然是，和和我说话的人说话\n6.不\n7.泛，不在乎性别 https://t.co/uELxTDG7x5 https://t.co/RgCSLTcroH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078805728501100544"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2078805737292325367",
+        "created_at": "2026-07-19T11:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078805737292325367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IKKTS72R47",
+              "end": 173,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2078805737292325367/photo/1",
+              "media_key": "3_2078805728501100544",
+              "start": 150,
+              "url": "https://t.co/IKKTS72R47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078805737292325367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2241,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 54,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咳咳回复下，这个好久没看了\n\n1.   做什么🤔做爱么？做过\n2.  真健康吗 我想长胖一点😭\n3.  出去的建议么...这个也没什么可以建议的吧。如果是指约炮那还是不要了\n4.   谢谢！！！我喜欢你！\n5.    22岁快23了\n6.   调戏，啦啦啦啦啦\n7.    涩涩图发过哦，不过有点丑 https://t.co/IKKTS72R47"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 1714,
+          "like_count": 20431,
+          "listed_count": 2,
+          "media_count": 341,
+          "tweet_count": 3078
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

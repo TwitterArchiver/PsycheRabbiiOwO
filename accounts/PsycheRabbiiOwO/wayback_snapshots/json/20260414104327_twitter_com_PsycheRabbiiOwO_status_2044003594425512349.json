@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044003573101670401",
+        "3_2044003573105889280",
+        "3_2044003573114298368"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      }
+    ],
+    "conversation_id": "2044003594425512349",
+    "created_at": "2026-04-14T10:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T11:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044003594425512349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fvu1u1myMb",
+          "end": 157,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2044003594425512349/photo/1",
+          "media_key": "3_2044003573101670401",
+          "start": 134,
+          "url": "https://t.co/fvu1u1myMb"
+        },
+        {
+          "display_url": "pic.x.com/fvu1u1myMb",
+          "end": 157,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2044003594425512349/photo/1",
+          "media_key": "3_2044003573105889280",
+          "start": 134,
+          "url": "https://t.co/fvu1u1myMb"
+        },
+        {
+          "display_url": "pic.x.com/fvu1u1myMb",
+          "end": 157,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2044003594425512349/photo/1",
+          "media_key": "3_2044003573114298368",
+          "start": 134,
+          "url": "https://t.co/fvu1u1myMb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044003594425512349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坐公交堵车了，正好在初中附近，就下车回去看看\n\n去了展板附近，刚到的时候看到清一色的素描or国漫风，还有十年前我的同班同学留下的\n\n不过看到后面有好多不错的作品（超喜欢p1右下角那张）\n还有一个画师的自设（如果是的话）\n\n就是p3那两张放一起，武士刀砍向老毛有点难绷 https://t.co/fvu1u1myMb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2044003573101670401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3Ca45asAELK8F.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2044003573105889280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3Ca46bEAAMUf5.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2044003573114298368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3Ca48bYAAK35M.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044003573101670401",
+            "3_2044003573105889280",
+            "3_2044003573114298368"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          }
+        ],
+        "conversation_id": "2044003594425512349",
+        "created_at": "2026-04-14T10:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044003594425512349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fvu1u1myMb",
+              "end": 157,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2044003594425512349/photo/1",
+              "media_key": "3_2044003573101670401",
+              "start": 134,
+              "url": "https://t.co/fvu1u1myMb"
+            },
+            {
+              "display_url": "pic.x.com/fvu1u1myMb",
+              "end": 157,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2044003594425512349/photo/1",
+              "media_key": "3_2044003573105889280",
+              "start": 134,
+              "url": "https://t.co/fvu1u1myMb"
+            },
+            {
+              "display_url": "pic.x.com/fvu1u1myMb",
+              "end": 157,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2044003594425512349/photo/1",
+              "media_key": "3_2044003573114298368",
+              "start": 134,
+              "url": "https://t.co/fvu1u1myMb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044003594425512349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坐公交堵车了，正好在初中附近，就下车回去看看\n\n去了展板附近，刚到的时候看到清一色的素描or国漫风，还有十年前我的同班同学留下的\n\n不过看到后面有好多不错的作品（超喜欢p1右下角那张）\n还有一个画师的自设（如果是的话）\n\n就是p3那两张放一起，武士刀砍向老毛有点难绷 https://t.co/fvu1u1myMb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1258,
+          "like_count": 7951,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 1898
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

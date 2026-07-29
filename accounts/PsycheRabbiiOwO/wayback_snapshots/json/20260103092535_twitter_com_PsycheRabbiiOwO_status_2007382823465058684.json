@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2007382761158651906"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2007382823465058684",
+    "created_at": "2026-01-03T09:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T10:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007382823465058684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ar5WQseZXC",
+          "end": 47,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2007382823465058684/video/1",
+          "media_key": "13_2007382761158651906",
+          "start": 24,
+          "url": "https://t.co/ar5WQseZXC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007382823465058684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本音很粗已经打算放弃了。。😢\n攒点钱做手术去吧 https://t.co/ar5WQseZXC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14686,
+        "height": 1920,
+        "media_key": "13_2007382761158651906",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007382761158651906/img/tYJV4Ro_70LmIHzs.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007382761158651906/vid/avc1/720x1560/88iK9G476Z8V0Ayv.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007382761158651906/vid/avc1/886x1920/pa46D8WhbTCh7X7v.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007382761158651906/vid/avc1/320x692/k6uE1CaPazCZ52Eg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007382761158651906/pl/TGhO9O0QmKPQZlWN.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007382761158651906/vid/avc1/480x1040/k-q-eShuDWA2YmtJ.mp4"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007382761158651906"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2007382823465058684",
+        "created_at": "2026-01-03T09:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T10:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007382823465058684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ar5WQseZXC",
+              "end": 47,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2007382823465058684/video/1",
+              "media_key": "13_2007382761158651906",
+              "start": 24,
+              "url": "https://t.co/ar5WQseZXC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007382823465058684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本音很粗已经打算放弃了。。😢\n攒点钱做手术去吧 https://t.co/ar5WQseZXC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）含🍥做题蛆/长相普通别骂我参考亮点里的照片/只混生物圈岩石圈大气圈水圈/链接是提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲（💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 794,
+          "like_count": 2843,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1087
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

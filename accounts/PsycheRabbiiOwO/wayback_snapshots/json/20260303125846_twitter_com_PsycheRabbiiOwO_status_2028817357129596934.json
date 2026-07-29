@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2028768305981640856",
+    "created_at": "2026-03-03T12:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T13:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028817357129596934"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "丁亮",
+          "probability": 0.8149,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1556770191660355585",
+          "start": 0,
+          "username": "webgangst1r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028817357129596934",
+    "in_reply_to_user_id": "1556770191660355585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028768305981640856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@webgangst1r 丁亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028768294807953408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeiA-eaYAAZrj0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2028768305981640856",
+        "created_at": "2026-03-03T12:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028817357129596934"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "丁亮",
+              "probability": 0.8149,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1556770191660355585",
+              "start": 0,
+              "username": "webgangst1r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028817357129596934",
+        "in_reply_to_user_id": "1556770191660355585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028768305981640856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@webgangst1r 丁亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028768294807953408"
+          ]
+        },
+        "author_id": "1556770191660355585",
+        "conversation_id": "2028768305981640856",
+        "created_at": "2026-03-03T09:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T10:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028768305981640856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sf7cgS5o5O",
+              "end": 31,
+              "expanded_url": "https://x.com/webgangst1r/status/2028768305981640856/photo/1",
+              "media_key": "3_2028768294807953408",
+              "start": 8,
+              "url": "https://t.co/sf7cgS5o5O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028768305981640856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 299,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死我了荧光套 https://t.co/sf7cgS5o5O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月（♡´∀`♡)🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025891245403594752/7m_aCDuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 1030,
+          "like_count": 4986,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 1457
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-08T22:32:04.000Z",
+        "description": "edtwt/shtwt🚪52 好友位 188解锁线下 520私信只回复口令",
+        "id": "1556770191660355585",
+        "name": "瓜",
+        "pinned_tweet_id": "2011372340698083714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893345266662596609/heQFvQiE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3030,
+          "following_count": 66,
+          "like_count": 270,
+          "listed_count": 13,
+          "media_count": 285,
+          "tweet_count": 713
+        },
+        "username": "webgangst1r",
+        "verified": false
+      }
+    ]
+  }
+}

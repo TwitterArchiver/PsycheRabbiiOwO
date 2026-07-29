@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1979189350589165730",
+    "created_at": "2025-10-17T14:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T15:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979192639649124851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "994410429488087040",
+          "start": 0,
+          "username": "Minamiya_Chiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979192639649124851",
+    "in_reply_to_user_id": "994410429488087040",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979189350589165730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minamiya_Chiyo 🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 641,
+        "media_key": "3_1979189347795484672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3d-OcKWQAAAdHe.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1979189350589165730",
+        "created_at": "2025-10-17T14:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T15:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979192639649124851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "994410429488087040",
+              "start": 0,
+              "username": "Minamiya_Chiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979192639649124851",
+        "in_reply_to_user_id": "994410429488087040",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979189350589165730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minamiya_Chiyo 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979189347795484672"
+          ]
+        },
+        "author_id": "994410429488087040",
+        "conversation_id": "1979189350589165730",
+        "created_at": "2025-10-17T14:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T15:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979189350589165730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TAG0hV0ikL",
+              "end": 25,
+              "expanded_url": "https://x.com/Minamiya_Chiyo/status/1979189350589165730/photo/1",
+              "media_key": "3_1979189347795484672",
+              "start": 2,
+              "url": "https://t.co/TAG0hV0ikL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979189350589165730",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥺 https://t.co/TAG0hV0ikL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "明天。",
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🐰凌月月（互关版）",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 435,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 460
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-10T02:54:56.000Z",
+        "description": "不是男的/也不是女的/日本語N2/175.50/飛行機が好き/不是好人/脾气很差/索粉/重度足控/业余摄影/DM ok/🚪29/168",
+        "id": "994410429488087040",
+        "location": "Hangzhou",
+        "name": "南宫千代",
+        "pinned_tweet_id": "1921189637470498888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736759823411314689/uv_RJoXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 2455,
+          "like_count": 23764,
+          "listed_count": 14,
+          "media_count": 136,
+          "tweet_count": 2001
+        },
+        "username": "Minamiya_Chiyo",
+        "verified": false
+      }
+    ]
+  }
+}

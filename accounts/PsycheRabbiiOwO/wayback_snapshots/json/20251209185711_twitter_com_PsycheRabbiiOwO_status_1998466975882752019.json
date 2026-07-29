@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1998466975882752019",
+    "created_at": "2025-12-09T18:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T19:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998466975882752019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1532035593361924098",
+          "start": 3,
+          "username": "BanYaoCoin"
+        },
+        {
+          "end": 29,
+          "id": "493787356",
+          "start": 16,
+          "username": "fabuliciouso"
+        },
+        {
+          "end": 45,
+          "id": "1260553941714186241",
+          "start": 30,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998466975882752019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998464189321331188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BanYaoCoin: @fabuliciouso @whyyoutouzhele 是的网络很多脑残喷子认知确实很低 主要原因是通信设备普及导致牛马也上网了 早些年天涯论坛大部分是高知群体 这也是互联网目前的一个很大问题 垃圾信息大量充斥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1998466975882752019",
+        "created_at": "2025-12-09T18:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T19:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998466975882752019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1532035593361924098",
+              "start": 3,
+              "username": "BanYaoCoin"
+            },
+            {
+              "end": 29,
+              "id": "493787356",
+              "start": 16,
+              "username": "fabuliciouso"
+            },
+            {
+              "end": 45,
+              "id": "1260553941714186241",
+              "start": 30,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998466975882752019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998464189321331188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BanYaoCoin: @fabuliciouso @whyyoutouzhele 是的网络很多脑残喷子认知确实很低 主要原因是通信设备普及导致牛马也上网了 早些年天涯论坛大部分是高知群体 这也是互联网目前的一个很大问题 垃圾信息大量充斥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532035593361924098",
+        "conversation_id": "1998090203043635418",
+        "created_at": "2025-12-09T18:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T19:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998464189321331188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "493787356",
+              "start": 0,
+              "username": "fabuliciouso"
+            },
+            {
+              "end": 29,
+              "id": "1260553941714186241",
+              "start": 14,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998464189321331188",
+        "in_reply_to_user_id": "493787356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998103502585995706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fabuliciouso @whyyoutouzhele 是的网络很多脑残喷子认知确实很低 主要原因是通信设备普及导致牛马也上网了 早些年天涯论坛大部分是高知群体 这也是互联网目前的一个很大问题 垃圾信息大量充斥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/本人长相普通别骂我参考亮点里的照片/雷点不多只有顺直黄蛆，od，反跨（不雷人只雷事不要跳脸就好我很少b人只会不理你）/这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰（🏳️‍⚧️💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 691,
+          "like_count": 2028,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 910
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-01T16:25:33.000Z",
+        "description": "Cryptocurrency Trader",
+        "id": "1532035593361924098",
+        "location": "Hong Kong",
+        "name": "芬达🪴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912721323522240512/kKL9nj_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 728,
+          "like_count": 1610,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 860
+        },
+        "username": "BanYaoCoin",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-16T05:51:33.000Z",
+        "description": "",
+        "id": "493787356",
+        "name": "Demomiso",
+        "pinned_tweet_id": "1722529458039787788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682077571306115072/W7BUK77c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 508,
+          "like_count": 14504,
+          "listed_count": 5,
+          "media_count": 10,
+          "tweet_count": 2763
+        },
+        "username": "fabuliciouso",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1991824796930187302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998464594226839552/OmoQEWXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2155386,
+          "following_count": 984,
+          "like_count": 8428,
+          "listed_count": 8410,
+          "media_count": 38318,
+          "tweet_count": 45215
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": false
+      }
+    ]
+  }
+}

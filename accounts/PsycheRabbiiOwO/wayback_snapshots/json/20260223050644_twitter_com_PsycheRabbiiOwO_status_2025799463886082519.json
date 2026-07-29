@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025613280891596800"
+      ],
+      "media_source_tweet_id": [
+        "2025613294170759487"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025799463886082519",
+    "created_at": "2026-02-23T05:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T06:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025799463886082519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tWUWdEZLiR",
+          "end": 112,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2025613294170759487/photo/1",
+          "media_key": "3_2025613280891596800",
+          "start": 89,
+          "url": "https://t.co/tWUWdEZLiR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025799463886082519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025613294170759487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 呃呃……\n西安护航身为一个曾经打击过的一家机构跟我现在正在打击的一家机构是竞争关系…\n所以现在要给我们钱让我们去gank他的竞争对手… https://t.co/tWUWdEZLiR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025613280891596800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxsi_vbcAAjePp.jpg",
+        "width": 861
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025613280891596800"
+          ],
+          "media_source_tweet_id": [
+            "2025613294170759487"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025799463886082519",
+        "created_at": "2026-02-23T05:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T06:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025799463886082519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tWUWdEZLiR",
+              "end": 112,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2025613294170759487/photo/1",
+              "media_key": "3_2025613280891596800",
+              "start": 89,
+              "url": "https://t.co/tWUWdEZLiR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025799463886082519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025613294170759487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 呃呃……\n西安护航身为一个曾经打击过的一家机构跟我现在正在打击的一家机构是竞争关系…\n所以现在要给我们钱让我们去gank他的竞争对手… https://t.co/tWUWdEZLiR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025613280891596800"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025613294170759487",
+        "created_at": "2026-02-22T16:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025613294170759487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tWUWdEZLiR",
+              "end": 91,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2025613294170759487/photo/1",
+              "media_key": "3_2025613280891596800",
+              "start": 68,
+              "url": "https://t.co/tWUWdEZLiR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025613294170759487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 27567,
+          "like_count": 189,
+          "quote_count": 9,
+          "reply_count": 39,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃……\n西安护航身为一个曾经打击过的一家机构跟我现在正在打击的一家机构是竞争关系…\n所以现在要给我们钱让我们去gank他的竞争对手… https://t.co/tWUWdEZLiR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 979,
+          "like_count": 4371,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1376
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 1892,
+          "like_count": 1757,
+          "listed_count": 12,
+          "media_count": 344,
+          "tweet_count": 2209
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2003548240990601229",
+    "created_at": "2025-12-23T19:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T20:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003548240990601229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h2o2333/status…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/h2o2333/status/2003291214838370460",
+          "start": 75,
+          "url": "https://t.co/Iu6XNqCCi7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003548240990601229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "饭桌上\n“你知道吗中国这次真的把日本搞趴下了”\n“美国全是流浪汉失业率很高我看他们很快就垮了”\n“中国就应该打仗，打台湾打日本打美国征服世界没问题”\n\n所以我真搞不懂，一个八零年代的大学生，当年一个班毕业的成了老板、高官、教授，普通点的也报团留学然后移民了，在美国过得舒舒服服。而他是怎么变成如今这个样子的。。。。搞不懂啊真的搞不懂"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003291214838370460",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "饭桌上\n“你知道吗中国这次真的把日本搞趴下了”\n“美国全是流浪汉失业率很高我看他们很快就垮了”\n“中国就应该打仗，打台湾打日本打美国征服世界没问题” https://t.co/Iu6XNqCCi7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2003548240990601229",
+        "created_at": "2025-12-23T19:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T20:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003548240990601229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h2o2333/status…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/h2o2333/status/2003291214838370460",
+              "start": 75,
+              "url": "https://t.co/Iu6XNqCCi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003548240990601229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "饭桌上\n“你知道吗中国这次真的把日本搞趴下了”\n“美国全是流浪汉失业率很高我看他们很快就垮了”\n“中国就应该打仗，打台湾打日本打美国征服世界没问题”\n\n所以我真搞不懂，一个八零年代的大学生，当年一个班毕业的成了老板、高官、教授，普通点的也报团留学然后移民了，在美国过得舒舒服服。而他是怎么变成如今这个样子的。。。。搞不懂啊真的搞不懂"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003291214838370460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "饭桌上\n“你知道吗中国这次真的把日本搞趴下了”\n“美国全是流浪汉失业率很高我看他们很快就垮了”\n“中国就应该打仗，打台湾打日本打美国征服世界没问题” https://t.co/Iu6XNqCCi7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969670166423228416",
+        "conversation_id": "2003291214838370460",
+        "created_at": "2025-12-23T02:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T03:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003291214838370460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003291214838370460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 772,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸问我为什么这么讨厌国家，你他妈自己就是政府的你心里没点b数吗，我恨的是你啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）含🍥做题蛆/长相普通别骂我参考亮点里的照片/只混生物圈岩石圈大气圈水圈/链接是提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ （💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 756,
+          "like_count": 2500,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1020
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T07:49:04.000Z",
+        "description": "",
+        "id": "1969670166423228416",
+        "location": "level 790",
+        "name": "一氧化二氢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000240281497874432/hQuBDaDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 410,
+          "like_count": 886,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1830
+        },
+        "username": "h2o2333",
+        "verified": false
+      }
+    ]
+  }
+}

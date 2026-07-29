@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2046208094980747379",
+    "created_at": "2026-04-20T12:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T13:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046208094980747379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sallyovo05/sta…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/sallyovo05/status/2046161081702441125",
+          "start": 30,
+          "url": "https://t.co/7GkbbQINTx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046208094980747379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046161081702441125",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是管理了就，在镜子里♀实际很♂\n不管理，虽然不好看但不♂ https://t.co/7GkbbQINTx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2046208094980747379",
+        "created_at": "2026-04-20T12:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046208094980747379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sallyovo05/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/sallyovo05/status/2046161081702441125",
+              "start": 30,
+              "url": "https://t.co/7GkbbQINTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046208094980747379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046161081702441125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是管理了就，在镜子里♀实际很♂\n不管理，虽然不好看但不♂ https://t.co/7GkbbQINTx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729090153124376576",
+        "conversation_id": "2046020674402025868",
+        "created_at": "2026-04-20T09:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T10:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046161081702441125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046161081702441125",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 328,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046020674402025868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 但是我不管理头发比以前弄各种刘海看起来更女性化一点（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 1310,
+          "like_count": 8833,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 2010
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-27T10:50:02.000Z",
+        "description": "是男孩子/05\n有什么想问的tg联系https://t.co/uWEHdlCpvu\n目前不会回复私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sal00502",
+                "end": 41,
+                "expanded_url": "https://t.me/sal00502",
+                "start": 18,
+                "url": "https://t.co/uWEHdlCpvu"
+              }
+            ]
+          }
+        },
+        "id": "1729090153124376576",
+        "location": "重庆，成都🚪150 ",
+        "name": "Sally",
+        "pinned_tweet_id": "2007101408131309773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039239022497943552/vFE4Ra8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26782,
+          "following_count": 167,
+          "like_count": 1123,
+          "listed_count": 78,
+          "media_count": 199,
+          "tweet_count": 698
+        },
+        "username": "sallyOVO05",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2030252280621240446",
+    "created_at": "2026-03-07T16:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T17:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030315827078270995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1228546301572173825",
+          "start": 0,
+          "username": "AAAAAMTxT"
+        },
+        {
+          "end": 27,
+          "id": "943439286287851520",
+          "start": 11,
+          "username": "SakurabaSenhane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030315827078270995",
+    "in_reply_to_user_id": "1228546301572173825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030252280621240446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AAAAAMTxT @SakurabaSenhane 设敬🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2030252280621240446",
+        "created_at": "2026-03-07T16:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030315827078270995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1228546301572173825",
+              "start": 0,
+              "username": "AAAAAMTxT"
+            },
+            {
+              "end": 27,
+              "id": "943439286287851520",
+              "start": 11,
+              "username": "SakurabaSenhane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030315827078270995",
+        "in_reply_to_user_id": "1228546301572173825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030252280621240446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AAAAAMTxT @SakurabaSenhane 设敬🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1228546301572173825",
+        "conversation_id": "2030252280621240446",
+        "created_at": "2026-03-07T12:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T13:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030252280621240446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1228546301572173825",
+              "start": 4,
+              "username": "AAAAAMTxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030252280621240446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5871,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n@AAAAAMTxT 于本日18时因强制入院受到强大刺激心脏骤停猝死，享年21岁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月（🍥•﹃•🍥）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025891245403594752/7m_aCDuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 1041,
+          "like_count": 5089,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 1486
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-15T05:07:27.000Z",
+        "description": "这里*****，可以叫我星星星星星/坐标厦门/非二元性别生理双性/重度恋痛/嗑药od自残/会互fo一些同属性的宝宝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaaaamtxt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaaaamtxt",
+                "start": 0,
+                "url": "https://t.co/WjhB4pS4f2"
+              }
+            ]
+          }
+        },
+        "id": "1228546301572173825",
+        "name": "*****🍥（混沌邪恶少女）",
+        "pinned_tweet_id": "2027549441826427252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597279516568625152/vnOBUIVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 715,
+          "like_count": 25485,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 5242
+        },
+        "url": "https://t.co/WjhB4pS4f2",
+        "username": "AAAAAMTxT",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "你的带φ东北羽姐•最爱的天气是雨天•最喜欢的人是你·baka·@hoshi_Asuka0089•与你的日常•便是奇迹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "hoshi_Asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apple.com/my",
+                "end": 23,
+                "expanded_url": "https://www.apple.com/my",
+                "start": 0,
+                "url": "https://t.co/iDBvaNiZyT"
+              }
+            ]
+          }
+        },
+        "id": "943439286287851520",
+        "location": "S.C.H.A.L.E",
+        "name": "💮西行寺　千羽🌸",
+        "pinned_tweet_id": "2029522201070973435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864885438613458948/CrYxyfg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3269,
+          "following_count": 6019,
+          "like_count": 110551,
+          "listed_count": 8,
+          "media_count": 2357,
+          "tweet_count": 33357
+        },
+        "url": "https://t.co/iDBvaNiZyT",
+        "username": "SakurabaSenhane",
+        "verified": false
+      }
+    ]
+  }
+}

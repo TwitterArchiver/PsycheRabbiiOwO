@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044075746277371905"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2044075752581411304",
+    "created_at": "2026-04-14T15:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044075752581411304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XO39nhW9xF",
+          "end": 63,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2044075752581411304/photo/1",
+          "media_key": "3_2044075746277371905",
+          "start": 40,
+          "url": "https://t.co/XO39nhW9xF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044075752581411304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“男性避孕药取得突破”\n“性别逆转关键基因被发现”\n\n你们男的喜欢水仙的有福了 https://t.co/XO39nhW9xF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1268,
+        "media_key": "3_2044075746277371905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4ED67asAEj1Hl.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044075746277371905"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2044075752581411304",
+        "created_at": "2026-04-14T15:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044075752581411304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XO39nhW9xF",
+              "end": 63,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2044075752581411304/photo/1",
+              "media_key": "3_2044075746277371905",
+              "start": 40,
+              "url": "https://t.co/XO39nhW9xF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044075752581411304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“男性避孕药取得突破”\n“性别逆转关键基因被发现”\n\n你们男的喜欢水仙的有福了 https://t.co/XO39nhW9xF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 1268,
+          "like_count": 7989,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 1911
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

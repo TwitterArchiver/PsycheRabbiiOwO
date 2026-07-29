@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2044586949412040957",
+    "created_at": "2026-04-16T01:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044586949412040957"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044586949412040957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "昨晚明明想的是，别的东西，比如在外星生活啊之类的\n\n结果梦到的是，头发被剪了\n\n大概这样，我去理发，随口说了平头，睡了过去，一觉醒来回到家了，我妈问，你狼尾呢，我摸了下后脑勺心都凉了\n\n脑子里飞快计算多久才能长回来，得一年吧，然后急得快哭了，在家里乱跑\n\n突然发现，这个好像是搬家前的那个房子\n意识到是梦后，就平静下来\n刚想做点什么，醒了。。。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨晚明明想的是，别的东西，比如在外星生活啊之类的\n\n结果梦到的是，头发被剪了\n\n大概这样，我去理发，随口说了平头，睡了过去，一觉醒来回到家了，我妈问，你狼尾呢，我摸了下后脑勺心都凉了\n\n脑子里飞快计算多久才能长回来，得一年吧，然后急得快哭了，在家里乱跑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2044586949412040957",
+        "created_at": "2026-04-16T01:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044586949412040957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044586949412040957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "昨晚明明想的是，别的东西，比如在外星生活啊之类的\n\n结果梦到的是，头发被剪了\n\n大概这样，我去理发，随口说了平头，睡了过去，一觉醒来回到家了，我妈问，你狼尾呢，我摸了下后脑勺心都凉了\n\n脑子里飞快计算多久才能长回来，得一年吧，然后急得快哭了，在家里乱跑\n\n突然发现，这个好像是搬家前的那个房子\n意识到是梦后，就平静下来\n刚想做点什么，醒了。。。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚明明想的是，别的东西，比如在外星生活啊之类的\n\n结果梦到的是，头发被剪了\n\n大概这样，我去理发，随口说了平头，睡了过去，一觉醒来回到家了，我妈问，你狼尾呢，我摸了下后脑勺心都凉了\n\n脑子里飞快计算多久才能长回来，得一年吧，然后急得快哭了，在家里乱跑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 1270,
+          "like_count": 8130,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 1917
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2020773783154602421",
+    "created_at": "2026-02-09T08:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T09:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020773783154602421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1462419807173677059",
+          "start": 3,
+          "username": "Jane_S_Eye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020773783154602421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020149885681471571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jane_S_Eye: 您好：\n看了您的烦恼，我了解您是一位跨性别女子，您丈夫在您身边不快乐。\n这在临床上一般有两种：\n1.他不爱您了、移情别恋。\n2.他很爱您，但他无法作为丈夫爱您。\n但是我相信他是爱您的，请对他抱有信心—他不想与您分开。您可能需要帮他开一些药物来调理…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2020773783154602421",
+        "created_at": "2026-02-09T08:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T09:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020773783154602421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1462419807173677059",
+              "start": 3,
+              "username": "Jane_S_Eye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020773783154602421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020149885681471571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jane_S_Eye: 您好：\n看了您的烦恼，我了解您是一位跨性别女子，您丈夫在您身边不快乐。\n这在临床上一般有两种：\n1.他不爱您了、移情别恋。\n2.他很爱您，但他无法作为丈夫爱您。\n但是我相信他是爱您的，请对他抱有信心—他不想与您分开。您可能需要帮他开一些药物来调理…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462419807173677059",
+        "conversation_id": "2020149885681471571",
+        "created_at": "2026-02-07T14:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T15:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020149885681471571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020149885681471571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2704,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "您好：\n看了您的烦恼，我了解您是一位跨性别女子，您丈夫在您身边不快乐。\n这在临床上一般有两种：\n1.他不爱您了、移情别恋。\n2.他很爱您，但他无法作为丈夫爱您。\n但是我相信他是爱您的，请对他抱有信心—他不想与您分开。您可能需要帮他开一些药物来调理一下身体。\n以上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 925,
+          "like_count": 3649,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1279
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "she/her but Not a whore.",
+        "id": "1462419807173677059",
+        "location": "Live in the second floor ",
+        "name": "Véronique",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014887084780355584/8FhBKtzU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10981,
+          "following_count": 3121,
+          "like_count": 12196,
+          "listed_count": 20,
+          "media_count": 456,
+          "tweet_count": 7929
+        },
+        "username": "Jane_S_Eye",
+        "verified": false
+      }
+    ]
+  }
+}

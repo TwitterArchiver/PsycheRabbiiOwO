@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967090640682188800"
+      ],
+      "media_source_tweet_id": [
+        "1967090643408457743"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1967106486318108817",
+    "created_at": "2025-09-14T06:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T07:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967106486318108817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1390652924481527810",
+          "start": 3,
+          "username": "zqtlovekris99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W1Lwa3j6Ot",
+          "end": 54,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1967090643408457743/photo/1",
+          "media_key": "3_1967090640682188800",
+          "start": 31,
+          "url": "https://t.co/W1Lwa3j6Ot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967106486318108817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967090643408457743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zqtlovekris99: 你就说是不是pc用的吧 https://t.co/W1Lwa3j6Ot"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1967090640682188800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yCg_7bgAAWrbU.jpg",
+        "width": 740
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967090640682188800"
+          ],
+          "media_source_tweet_id": [
+            "1967090643408457743"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1967106486318108817",
+        "created_at": "2025-09-14T06:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T07:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967106486318108817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1390652924481527810",
+              "start": 3,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W1Lwa3j6Ot",
+              "end": 54,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1967090643408457743/photo/1",
+              "media_key": "3_1967090640682188800",
+              "start": 31,
+              "url": "https://t.co/W1Lwa3j6Ot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967106486318108817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967090643408457743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zqtlovekris99: 你就说是不是pc用的吧 https://t.co/W1Lwa3j6Ot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967090640682188800"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1967090643408457743",
+        "created_at": "2025-09-14T04:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T05:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967090643408457743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W1Lwa3j6Ot",
+              "end": 35,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1967090643408457743/photo/1",
+              "media_key": "3_1967090640682188800",
+              "start": 12,
+              "url": "https://t.co/W1Lwa3j6Ot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967090643408457743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你就说是不是pc用的吧 https://t.co/W1Lwa3j6Ot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/🍥2025.09.06/MTX/可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 412,
+          "like_count": 362,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 359
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀（七休日版）",
+        "pinned_tweet_id": "1967098999326077171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10069,
+          "following_count": 1021,
+          "like_count": 21579,
+          "listed_count": 10,
+          "media_count": 3515,
+          "tweet_count": 22225
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

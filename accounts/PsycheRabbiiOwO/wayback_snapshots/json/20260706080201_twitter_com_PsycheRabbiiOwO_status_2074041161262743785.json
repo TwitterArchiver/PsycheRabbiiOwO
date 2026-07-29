@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2074036745684025773",
+    "created_at": "2026-07-06T08:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074041161262743785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074041161262743785",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074036745684025773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 「对象」像很久前就定下了，「情侣」太正式\n「npy」这种没有性别属性，仅表示亲密关系，我感觉是一种进步"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 992,
+        "media_key": "3_2074036738536910848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMh1bMuaMAAzLq_.jpg",
+        "width": 1586
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2074036745684025773",
+        "created_at": "2026-07-06T08:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074041161262743785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074041161262743785",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074036745684025773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 「对象」像很久前就定下了，「情侣」太正式\n「npy」这种没有性别属性，仅表示亲密关系，我感觉是一种进步"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074036738536910848"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2074036745684025773",
+        "created_at": "2026-07-06T07:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074036745684025773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G83D3G7QRC",
+              "end": 170,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2074036745684025773/photo/1",
+              "media_key": "3_2074036738536910848",
+              "start": 147,
+              "url": "https://t.co/G83D3G7QRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074036745684025773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么要用「npy」缩写代替「男/女朋友」？\n\n環状線最近总在墙内社媒看到「npy」，每次看都要反应一会儿才能知道是「男/女朋友」的意思；然后又要反应一会儿判断其到底是「男朋友」还是「女朋友」……\n\n直接说「男/女朋友」不行吗？如果不想暴露性别的话，说「对象」「情侣」也可以。为什么非要用几个 字母组成的缩写呢？不仅不易理解，而且还会造成歧义……\n\n满屏幕拼音缩写鬼看得懂啊.jpg"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么要用「npy」缩写代替「男/女朋友」？\n\n環状線最近总在墙内社媒看到「npy」，每次看都要反应一会儿才能知道是「男/女朋友」的意思；然后又要反应一会儿判断其到底是「男朋友」还是「女朋友」……\n\n直接说「男/女朋友」不行吗？如果不想暴露性别的话，说「对象」「情侣」也可以。为什么非要用几个 https://t.co/G83D3G7QRC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 1636,
+          "like_count": 19000,
+          "listed_count": 3,
+          "media_count": 310,
+          "tweet_count": 2867
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9227,
+          "following_count": 880,
+          "like_count": 29629,
+          "listed_count": 13,
+          "media_count": 1894,
+          "tweet_count": 9699
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

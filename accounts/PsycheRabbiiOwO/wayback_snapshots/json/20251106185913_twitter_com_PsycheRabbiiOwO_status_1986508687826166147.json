@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986300467283173379"
+      ],
+      "media_source_tweet_id": [
+        "1986300512913006665"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1986508687826166147",
+    "created_at": "2025-11-06T18:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T19:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986508687826166147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IGUKYBBKKS",
+          "end": 51,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1986300512913006665/photo/1",
+          "media_key": "3_1986300467283173379",
+          "start": 28,
+          "url": "https://t.co/IGUKYBBKKS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986508687826166147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986300512913006665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 新世纪复印战士 https://t.co/IGUKYBBKKS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1986300467283173379",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5DBwEmbIAMG649.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986300467283173379"
+          ],
+          "media_source_tweet_id": [
+            "1986300512913006665"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1986508687826166147",
+        "created_at": "2025-11-06T18:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T19:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986508687826166147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IGUKYBBKKS",
+              "end": 51,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1986300512913006665/photo/1",
+              "media_key": "3_1986300467283173379",
+              "start": 28,
+              "url": "https://t.co/IGUKYBBKKS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986508687826166147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986300512913006665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 新世纪复印战士 https://t.co/IGUKYBBKKS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986300467283173379"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1986300512913006665",
+        "created_at": "2025-11-06T05:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T06:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986300512913006665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IGUKYBBKKS",
+              "end": 31,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1986300512913006665/photo/1",
+              "media_key": "3_1986300467283173379",
+              "start": 8,
+              "url": "https://t.co/IGUKYBBKKS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986300512913006665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 32720,
+          "like_count": 858,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "新世纪复印战士 https://t.co/IGUKYBBKKS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/165cm 52kg 本人很丑别骂我",
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 466,
+          "like_count": 608,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 525
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9039,
+          "following_count": 7552,
+          "like_count": 26498,
+          "listed_count": 19,
+          "media_count": 6080,
+          "tweet_count": 39661
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

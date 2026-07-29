@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2040005428348903922",
+    "created_at": "2026-04-03T09:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T10:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040005428348903922"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040005428348903922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "为了确保咱们可以同频交流，希望以下的词你至少理解5个：砖高炉、高十六烷值柴油、高辛烷值汽油、硅岩、阳光化合物、异氙、铿铀、三钛、中子、无尽、超时空金属、精金、钛钼、钇钡铜氧、晶化粉红史莱姆、充能银锭、生动合金、末影粗胚、末影、黑青铜、流明、信素、混合晶、电动马达、化学反应釜、超净间、电路板、装配线、炖史炉、聚变线圈、星门、LV、MV、UV、EV、ZPM、UXV、石油产线、硅岩产线、铂系处理、净化水、生物产线、凯夫拉产线、纳米产线、输入总线、输入仓、消声仓、数据仓、算力仓、巴纳德F、鲸鱼座T星E、阿努比斯、半人马Bb、迈罕带、奈佩里、递镭女、核电轻而易举"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为了确保咱们可以同频交流，希望以下的词你至少理解5个：砖高炉、高十六烷值柴油、高辛烷值汽油、硅岩、阳光化合物、异氙、铿铀、三钛、中子、无尽、超时空金属、精金、钛钼、钇钡铜氧、晶化粉红史莱姆、充能银锭、生动合金、末影粗胚、末影、黑青铜、流明、信素、混合晶、电动马达、化学反应釜、超净"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2040005428348903922",
+        "created_at": "2026-04-03T09:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040005428348903922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040005428348903922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为了确保咱们可以同频交流，希望以下的词你至少理解5个：砖高炉、高十六烷值柴油、高辛烷值汽油、硅岩、阳光化合物、异氙、铿铀、三钛、中子、无尽、超时空金属、精金、钛钼、钇钡铜氧、晶化粉红史莱姆、充能银锭、生动合金、末影粗胚、末影、黑青铜、流明、信素、混合晶、电动马达、化学反应釜、超净间、电路板、装配线、炖史炉、聚变线圈、星门、LV、MV、UV、EV、ZPM、UXV、石油产线、硅岩产线、铂系处理、净化水、生物产线、凯夫拉产线、纳米产线、输入总线、输入仓、消声仓、数据仓、算力仓、巴纳德F、鲸鱼座T星E、阿努比斯、半人马Bb、迈罕带、奈佩里、递镭女、核电轻而易举"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了确保咱们可以同频交流，希望以下的词你至少理解5个：砖高炉、高十六烷值柴油、高辛烷值汽油、硅岩、阳光化合物、异氙、铿铀、三钛、中子、无尽、超时空金属、精金、钛钼、钇钡铜氧、晶化粉红史莱姆、充能银锭、生动合金、末影粗胚、末影、黑青铜、流明、信素、混合晶、电动马达、化学反应釜、超净"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 1160,
+          "like_count": 6525,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 1682
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

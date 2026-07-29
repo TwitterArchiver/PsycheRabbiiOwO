@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1965743621392707645",
+    "created_at": "2025-09-10T11:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T12:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965743621392707645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857991327419609088",
+          "start": 3,
+          "username": "PingyaX"
+        },
+        {
+          "end": 22,
+          "id": "1911628907842818049",
+          "start": 13,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965743621392707645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965728482757083401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PingyaX: @codyhunk 中国官网：薄，袭来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1965743621392707645",
+        "created_at": "2025-09-10T11:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T12:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965743621392707645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857991327419609088",
+              "start": 3,
+              "username": "PingyaX"
+            },
+            {
+              "end": 22,
+              "id": "1911628907842818049",
+              "start": 13,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965743621392707645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965728482757083401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PingyaX: @codyhunk 中国官网：薄，袭来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857991327419609088",
+        "conversation_id": "1965681871137988698",
+        "created_at": "2025-09-10T10:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T11:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965728482757083401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965728482757083401",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2331,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965681871137988698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 中国官网：薄，袭来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/🍥2025.09.06/MTX/可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 397,
+          "like_count": 332,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 334
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T03:37:22.000Z",
+        "description": "",
+        "id": "1857991327419609088",
+        "name": "👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935635206788005889/wgEE9JTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 61,
+          "like_count": 8958,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 133
+        },
+        "username": "PingyaX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "大家好叫我半藏就好，很喜欢和大家成为朋友，平时分享梗图。没啥雷点，爱打游戏不红温，互fo记得在顶置留言",
+        "id": "1911628907842818049",
+        "location": "距你0.2km",
+        "name": "岛田半藏",
+        "pinned_tweet_id": "1947464239570161956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952336396066377728/lizJCy-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9539,
+          "following_count": 1725,
+          "like_count": 4896,
+          "listed_count": 21,
+          "media_count": 3924,
+          "tweet_count": 4220
+        },
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988910840926572544"
+      ],
+      "media_source_tweet_id": [
+        "1989152303635476990"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1989236456767062169",
+    "created_at": "2025-11-14T07:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T08:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989236456767062169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1693935285577670656",
+          "start": 3,
+          "username": "MinaseAyano"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AyFi0cdv9J",
+          "end": 42,
+          "expanded_url": "https://x.com/MinaseAyano/status/1989152303635476990/photo/1",
+          "media_key": "3_1988910840926572544",
+          "start": 19,
+          "url": "https://t.co/AyFi0cdv9J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989236456767062169",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989152303635476990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MinaseAyano: 怪 https://t.co/AyFi0cdv9J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 844,
+        "media_key": "3_1988910840926572544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5oH30NaEAAVnkr.jpg",
+        "width": 844
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988910840926572544"
+          ],
+          "media_source_tweet_id": [
+            "1989152303635476990"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1989236456767062169",
+        "created_at": "2025-11-14T07:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T08:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989236456767062169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1693935285577670656",
+              "start": 3,
+              "username": "MinaseAyano"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AyFi0cdv9J",
+              "end": 42,
+              "expanded_url": "https://x.com/MinaseAyano/status/1989152303635476990/photo/1",
+              "media_key": "3_1988910840926572544",
+              "start": 19,
+              "url": "https://t.co/AyFi0cdv9J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989236456767062169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989152303635476990",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MinaseAyano: 怪 https://t.co/AyFi0cdv9J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988910840926572544"
+          ]
+        },
+        "author_id": "1693935285577670656",
+        "conversation_id": "1989152303635476990",
+        "created_at": "2025-11-14T02:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T03:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989152303635476990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AyFi0cdv9J",
+              "end": 25,
+              "expanded_url": "https://x.com/MinaseAyano/status/1989152303635476990/photo/1",
+              "media_key": "3_1988910840926572544",
+              "start": 2,
+              "url": "https://t.co/AyFi0cdv9J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989152303635476990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 9575,
+          "like_count": 182,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "怪 https://t.co/AyFi0cdv9J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/165cm 52kg 本人很丑别骂我/这里这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 497,
+          "like_count": 834,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 597
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF | 2010.5 | 欢迎互fo! | 请看置顶推ε=ε=(ノ≧∇≦)ノ | 里推@Yumo_1314 | 傻傻的萌萌的笨蛋宝宝💕@qwqawanya 最好的大姐姐@Kisaragi_momoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Yumo_1314"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "qwqawanya"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "Kisaragi_momoe"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "将军渡黄河浮桥",
+        "name": "绫乃Ayano🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1974339366408630432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985745698982363136/vwaNlsV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2386,
+          "following_count": 2274,
+          "like_count": 8308,
+          "listed_count": 6,
+          "media_count": 749,
+          "tweet_count": 8349
+        },
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

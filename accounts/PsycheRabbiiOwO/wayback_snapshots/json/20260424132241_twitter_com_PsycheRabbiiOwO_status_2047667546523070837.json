@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047667537882869760"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2047667546523070837",
+    "created_at": "2026-04-24T13:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047667546523070837"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U0bL3iyAWW",
+          "end": 40,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2047667546523070837/photo/1",
+          "media_key": "3_2047667537882869760",
+          "start": 17,
+          "url": "https://t.co/U0bL3iyAWW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047667546523070837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "AI技术用在这个上面👍🏻👍🏻👍🏻 https://t.co/U0bL3iyAWW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1943,
+        "media_key": "3_2047667537882869760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrGxtWbcAAIUX0.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047667537882869760"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2047667546523070837",
+        "created_at": "2026-04-24T13:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047667546523070837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U0bL3iyAWW",
+              "end": 40,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2047667546523070837/photo/1",
+              "media_key": "3_2047667537882869760",
+              "start": 17,
+              "url": "https://t.co/U0bL3iyAWW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047667546523070837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "AI技术用在这个上面👍🏻👍🏻👍🏻 https://t.co/U0bL3iyAWW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "凌月月qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 1342,
+          "like_count": 9836,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 2115
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

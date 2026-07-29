@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042633544829411328"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2042633564332921244",
+    "created_at": "2026-04-10T15:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042633564332921244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/si3RLDvPc4",
+          "end": 57,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2042633564332921244/photo/1",
+          "media_key": "3_2042633544829411328",
+          "start": 34,
+          "url": "https://t.co/si3RLDvPc4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042633564332921244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "-“满！What can I say?”\n\n-“满八？😡Out！” https://t.co/si3RLDvPc4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042633544829411328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjkYv3aoAAIJOh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042633544829411328"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2042633564332921244",
+        "created_at": "2026-04-10T15:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042633564332921244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/si3RLDvPc4",
+              "end": 57,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2042633564332921244/photo/1",
+              "media_key": "3_2042633544829411328",
+              "start": 34,
+              "url": "https://t.co/si3RLDvPc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042633564332921244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "-“满！What can I say?”\n\n-“满八？😡Out！” https://t.co/si3RLDvPc4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 1246,
+          "like_count": 7577,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 1834
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

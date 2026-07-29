@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1978629190162219335",
+    "created_at": "2025-10-16T01:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T02:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978629190162219335"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1978629190162219335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妇女保障法→妇女特权→妇联获得纠察职能→妇联获得实权→以此为跳板入局→爬上高位→叶卡捷琳娜\n\n当然我说的是朝鲜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1978629190162219335",
+        "created_at": "2025-10-16T01:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T02:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978629190162219335"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978629190162219335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妇女保障法→妇女特权→妇联获得纠察职能→妇联获得实权→以此为跳板入局→爬上高位→叶卡捷琳娜\n\n当然我说的是朝鲜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "明天。",
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🐰凌月月（互关版）",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 434,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 453
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

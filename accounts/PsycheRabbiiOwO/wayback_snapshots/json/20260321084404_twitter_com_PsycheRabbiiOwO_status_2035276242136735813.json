@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2035224124549718243",
+    "created_at": "2026-03-21T08:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T09:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035276242136735813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 28,
+          "id": "1628790080910536705",
+          "start": 14,
+          "username": "tousa40700129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035276242136735813",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035224124549718243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee @tousa40700129 已严肃收藏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035224120292683776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6RjehaMAAkUT7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2035224124549718243",
+        "created_at": "2026-03-21T08:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T09:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035276242136735813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 28,
+              "id": "1628790080910536705",
+              "start": 14,
+              "username": "tousa40700129"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035276242136735813",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035224124549718243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee @tousa40700129 已严肃收藏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035224120292683776"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "2035224124549718243",
+        "created_at": "2026-03-21T05:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T06:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035224124549718243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KgMMM9tKPF",
+              "end": 27,
+              "expanded_url": "https://x.com/amber_toffee/status/2035224124549718243/photo/1",
+              "media_key": "3_2035224120292683776",
+              "start": 4,
+              "url": "https://t.co/KgMMM9tKPF"
+            },
+            {
+              "display_url": "x.com/0twt012/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/0twt012/status/2033883678636736647",
+              "start": 28,
+              "url": "https://t.co/KStorD7PYw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035224124549718243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 12567,
+          "like_count": 461,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033883678636736647",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "找到了 https://t.co/KgMMM9tKPF https://t.co/KStorD7PYw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/8964准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "rabbii_third"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月（🍥•﹃•🍥）8964",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032672138176704512/fwd2tlZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 1086,
+          "like_count": 5668,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 1558
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "🏳️‍⚧️ ⚢ / ☭ / ɪɴᴛᴘ / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23026,
+          "following_count": 2676,
+          "like_count": 38859,
+          "listed_count": 1,
+          "media_count": 532,
+          "tweet_count": 20765
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-23T16:13:32.000Z",
+        "description": "年上姐姐重度依赖",
+        "id": "1628790080910536705",
+        "location": "苏州",
+        "name": "🎄Sil0🇪🇺🧸🎄",
+        "pinned_tweet_id": "1954060583256699291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998307036417945601/iNPcDudB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 1053,
+          "like_count": 27279,
+          "listed_count": 1,
+          "media_count": 788,
+          "tweet_count": 6820
+        },
+        "username": "tousa40700129",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967144610465280005"
+      ],
+      "media_source_tweet_id": [
+        "1967144631545851955"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1967469998970183724",
+    "created_at": "2025-09-15T06:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T07:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967469998970183724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1577836636783902720",
+          "start": 3,
+          "username": "thujimbo411"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g2Q5O9QSHa",
+          "end": 40,
+          "expanded_url": "https://x.com/thujimbo411/status/1967144631545851955/photo/1",
+          "media_key": "3_1967144610465280005",
+          "start": 17,
+          "url": "https://t.co/g2Q5O9QSHa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967469998970183724",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967144631545851955",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thujimbo411: https://t.co/g2Q5O9QSHa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 364,
+        "media_key": "3_1967144610465280005",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yzmdCbcAU09V8.jpg",
+        "width": 781
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967144610465280005"
+          ],
+          "media_source_tweet_id": [
+            "1967144631545851955"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1967469998970183724",
+        "created_at": "2025-09-15T06:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T07:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967469998970183724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1577836636783902720",
+              "start": 3,
+              "username": "thujimbo411"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g2Q5O9QSHa",
+              "end": 40,
+              "expanded_url": "https://x.com/thujimbo411/status/1967144631545851955/photo/1",
+              "media_key": "3_1967144610465280005",
+              "start": 17,
+              "url": "https://t.co/g2Q5O9QSHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967469998970183724",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967144631545851955",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thujimbo411: https://t.co/g2Q5O9QSHa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967144610465280005"
+          ]
+        },
+        "author_id": "1577836636783902720",
+        "conversation_id": "1967144631545851955",
+        "created_at": "2025-09-14T08:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T09:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967144631545851955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g2Q5O9QSHa",
+              "end": 23,
+              "expanded_url": "https://x.com/thujimbo411/status/1967144631545851955/photo/1",
+              "media_key": "3_1967144610465280005",
+              "start": 0,
+              "url": "https://t.co/g2Q5O9QSHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967144631545851955",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7918,
+          "like_count": 100,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/g2Q5O9QSHa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/含糖男娘🍥2025.09.06//可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 414,
+          "like_count": 368,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 368
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-06T01:42:36.000Z",
+        "description": "持证含糖MtF🏳️‍⚧️/SRS202607/爱人@yusakikassan/泛性恋/萌新Kiger/maimaiDX/美食探索/交通迷/个人频道https://t.co/ETDj1cdNV3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "yusakikassan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/jimbosrs",
+                "end": 96,
+                "expanded_url": "https://t.me/jimbosrs",
+                "start": 73,
+                "url": "https://t.co/ETDj1cdNV3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/480514215",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/480514215",
+                "start": 0,
+                "url": "https://t.co/K0SNHd8jCa"
+              }
+            ]
+          }
+        },
+        "id": "1577836636783902720",
+        "location": "北京海淀",
+        "name": "🍥金啵🍥",
+        "pinned_tweet_id": "1928160704206377272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577836925406556160/TewEQgDG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1597,
+          "following_count": 574,
+          "like_count": 16,
+          "listed_count": 6,
+          "media_count": 366,
+          "tweet_count": 890
+        },
+        "url": "https://t.co/K0SNHd8jCa",
+        "username": "thujimbo411",
+        "verified": false
+      }
+    ]
+  }
+}

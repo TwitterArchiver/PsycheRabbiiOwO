@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2026884125744037909",
+    "created_at": "2026-02-26T04:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T05:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026884125744037909"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/guimengnya/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/guimengnya/status/2026881468254109736",
+          "start": 7,
+          "url": "https://t.co/GhfqqhM2LV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026884125744037909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026881468254109736",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想要一套这个 https://t.co/GhfqqhM2LV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 751,
+        "media_key": "3_2026881455289470976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDt8dhbEAAQyNY.jpg",
+        "width": 1469
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2026884125744037909",
+        "created_at": "2026-02-26T04:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T05:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026884125744037909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/guimengnya/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/guimengnya/status/2026881468254109736",
+              "start": 7,
+              "url": "https://t.co/GhfqqhM2LV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026884125744037909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026881468254109736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想要一套这个 https://t.co/GhfqqhM2LV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026881455289470976"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026881468254109736",
+        "created_at": "2026-02-26T04:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T05:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026881468254109736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ob8qY0LUtk",
+              "end": 34,
+              "expanded_url": "https://x.com/GuiMengNya/status/2026881468254109736/photo/1",
+              "media_key": "3_2026881455289470976",
+              "start": 11,
+              "url": "https://t.co/ob8qY0LUtk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026881468254109736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "理解蟑螂，成为蟑螂？ https://t.co/ob8qY0LUtk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月（♡´∀`♡)🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025891245403594752/7m_aCDuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 988,
+          "like_count": 4622,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 1411
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7475,
+          "following_count": 714,
+          "like_count": 10312,
+          "listed_count": 28,
+          "media_count": 1349,
+          "tweet_count": 3517
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

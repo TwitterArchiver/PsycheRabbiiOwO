@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075897528365801472"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2075897540415979533",
+    "created_at": "2026-07-11T10:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T11:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075897540415979533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/k9Ph1m5aKE",
+          "end": 32,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2075897540415979533/photo/1",
+          "media_key": "3_2075897528365801472",
+          "start": 9,
+          "url": "https://t.co/k9Ph1m5aKE"
+        },
+        {
+          "display_url": "x.com/psycherabbiiow…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/psycherabbiiowo/status/2075246654626902314",
+          "start": 33,
+          "url": "https://t.co/vJJCXewNOP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075897540415979533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075246654626902314",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去 恢复得真快 https://t.co/k9Ph1m5aKE https://t.co/vJJCXewNOP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2472,
+        "media_key": "3_2075897528365801472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8RzbBa4AA8wnB.jpg",
+        "width": 1948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075897528365801472"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2075897540415979533",
+        "created_at": "2026-07-11T10:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075897540415979533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k9Ph1m5aKE",
+              "end": 32,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2075897540415979533/photo/1",
+              "media_key": "3_2075897528365801472",
+              "start": 9,
+              "url": "https://t.co/k9Ph1m5aKE"
+            },
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/psycherabbiiowo/status/2075246654626902314",
+              "start": 33,
+              "url": "https://t.co/vJJCXewNOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075897540415979533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075246654626902314",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去 恢复得真快 https://t.co/k9Ph1m5aKE https://t.co/vJJCXewNOP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2075246654626902314",
+        "created_at": "2026-07-09T15:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075246654626902314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075246654626902314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘶，切到手了\n\n好疼。。。\n第一次感觉到划破皮有这么疼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 1654,
+          "like_count": 19724,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 2919
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

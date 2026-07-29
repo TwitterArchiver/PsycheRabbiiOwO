@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2079852374865441163",
+    "created_at": "2026-07-22T08:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079852374865441163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/reina93/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/reina93/status/2079728721754488834",
+          "start": 5,
+          "url": "https://t.co/VKNGb6KhJ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079852374865441163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079728721754488834",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这期神了 https://t.co/VKNGb6KhJ4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2079852374865441163",
+        "created_at": "2026-07-22T08:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079852374865441163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reina93/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/reina93/status/2079728721754488834",
+              "start": 5,
+              "url": "https://t.co/VKNGb6KhJ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079852374865441163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079728721754488834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这期神了 https://t.co/VKNGb6KhJ4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "26640428",
+        "conversation_id": "2079728413376729301",
+        "created_at": "2026-07-22T00:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079728721754488834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079728721754488834",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9363,
+          "like_count": 100,
+          "quote_count": 16,
+          "reply_count": 23,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079728413376729301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 原来真的是同类喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 1729,
+          "like_count": 20555,
+          "listed_count": 2,
+          "media_count": 342,
+          "tweet_count": 3093
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-26T00:27:27.000Z",
+        "description": "银狐VPN，下载即送2天免费，邀请好友送1天，网络不稳定？提前准备，有备无患。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/mVtCDZAYWC"
+              }
+            ]
+          }
+        },
+        "id": "26640428",
+        "name": "银狐VPN全球漫游",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078251925842313216/FlDU_PLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 46,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/mVtCDZAYWC",
+        "username": "reina93",
+        "verified": false
+      }
+    ]
+  }
+}

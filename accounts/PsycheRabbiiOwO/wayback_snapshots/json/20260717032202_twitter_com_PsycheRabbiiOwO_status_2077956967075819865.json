@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2077956967075819865",
+    "created_at": "2026-07-17T03:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T04:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077956967075819865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "722848046321508352",
+          "start": 3,
+          "username": "woyongdehuawei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077956967075819865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077811575264588116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woyongdehuawei: “张雪峰含金量还在上升”\n\n网友投稿\n\n7月16日，四川成都，成都国际中心漫展上一小伙子Cos张雪峰牢师，最后没有跑过成都的气温中暑倒地，但塞翁失马焉知非福，小伙子的倒地彻底完成了张雪峰老师飞升成圣的闭环\n\n索性小伙子嘴唇没有发紫，得到救…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2077811568230682625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXenNKWUAEfbJi.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1708,
+        "media_key": "3_2077811568264327168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXenNSXsAAShxW.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2077956967075819865",
+        "created_at": "2026-07-17T03:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077956967075819865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "722848046321508352",
+              "start": 3,
+              "username": "woyongdehuawei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077956967075819865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077811575264588116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woyongdehuawei: “张雪峰含金量还在上升”\n\n网友投稿\n\n7月16日，四川成都，成都国际中心漫展上一小伙子Cos张雪峰牢师，最后没有跑过成都的气温中暑倒地，但塞翁失马焉知非福，小伙子的倒地彻底完成了张雪峰老师飞升成圣的闭环\n\n索性小伙子嘴唇没有发紫，得到救…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077811568230682625",
+            "3_2077811568264327168"
+          ]
+        },
+        "author_id": "722848046321508352",
+        "conversation_id": "2077811575264588116",
+        "created_at": "2026-07-16T17:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077811575264588116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ltSnHviPVB",
+              "end": 149,
+              "expanded_url": "https://x.com/woyongdehuawei/status/2077811575264588116/photo/1",
+              "media_key": "3_2077811568230682625",
+              "start": 126,
+              "url": "https://t.co/ltSnHviPVB"
+            },
+            {
+              "display_url": "pic.x.com/ltSnHviPVB",
+              "end": 149,
+              "expanded_url": "https://x.com/woyongdehuawei/status/2077811575264588116/photo/1",
+              "media_key": "3_2077811568264327168",
+              "start": 126,
+              "url": "https://t.co/ltSnHviPVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077811575264588116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 174790,
+          "like_count": 863,
+          "quote_count": 5,
+          "reply_count": 49,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "“张雪峰含金量还在上升”\n\n网友投稿\n\n7月16日，四川成都，成都国际中心漫展上一小伙子Cos张雪峰牢师，最后没有跑过成都的气温中暑倒地，但塞翁失马焉知非福，小伙子的倒地彻底完成了张雪峰老师飞升成圣的闭环\n\n索性小伙子嘴唇没有发紫，得到救治后生龙活虎 https://t.co/ltSnHviPVB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 1674,
+          "like_count": 20000,
+          "listed_count": 3,
+          "media_count": 326,
+          "tweet_count": 2984
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2016-04-20T18:02:58.000Z",
+        "description": "Christian/British Patriot/Conservatives/中国叛逃公职人员/YT：https://t.co/GrFL00hmWI USDT捐助: TCWbpsL4cwoUAUwzYVZspUrRBmzqbFF4FX 投稿邮箱:lundunbagong@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@woyongdehuawei",
+                "end": 75,
+                "expanded_url": "http://www.youtube.com/@woyongdehuawei",
+                "start": 52,
+                "url": "https://t.co/GrFL00hmWI"
+              }
+            ]
+          }
+        },
+        "id": "722848046321508352",
+        "location": "London, England",
+        "name": "清丝老师谈治国理政",
+        "pinned_tweet_id": "1744308099131871366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829410849577938944/lduE7qLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80109,
+          "following_count": 818,
+          "like_count": 24842,
+          "listed_count": 373,
+          "media_count": 7107,
+          "tweet_count": 29186
+        },
+        "url": "",
+        "username": "woyongdehuawei",
+        "verified": true
+      }
+    ]
+  }
+}

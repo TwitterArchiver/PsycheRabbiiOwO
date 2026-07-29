@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2043781375443292502",
+    "created_at": "2026-04-13T20:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T21:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043781375443292502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043781375443292502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043704668866384057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 从数据上来看确实如此，并且也非常符合逻辑：跨性别者（尤其是跨女）越是被歧视、被逐出公共领域，她们就越可能迫于生计选择色情产业，保守主义者就越能获得自己的享乐材料。这就是我之前说的，他们不希望我们看见彼此，只希望我们被禁锢在他们的凝视里。 ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043704664420458496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyykHSXIAARBnB.jpg",
+        "width": 1182
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043704664420429825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyykHSWsAE-nby.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2043781375443292502",
+        "created_at": "2026-04-13T20:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T21:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043781375443292502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043781375443292502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043704668866384057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 从数据上来看确实如此，并且也非常符合逻辑：跨性别者（尤其是跨女）越是被歧视、被逐出公共领域，她们就越可能迫于生计选择色情产业，保守主义者就越能获得自己的享乐材料。这就是我之前说的，他们不希望我们看见彼此，只希望我们被禁锢在他们的凝视里。 ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043704664420458496",
+            "3_2043704664420429825"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "2043704668866384057",
+        "created_at": "2026-04-13T14:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043704668866384057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3vw1W36RVt",
+              "end": 142,
+              "expanded_url": "https://x.com/amber_toffee/status/2043704668866384057/photo/1",
+              "media_key": "3_2043704664420458496",
+              "start": 119,
+              "url": "https://t.co/3vw1W36RVt"
+            },
+            {
+              "display_url": "pic.x.com/3vw1W36RVt",
+              "end": 142,
+              "expanded_url": "https://x.com/amber_toffee/status/2043704668866384057/photo/1",
+              "media_key": "3_2043704664420429825",
+              "start": 119,
+              "url": "https://t.co/3vw1W36RVt"
+            },
+            {
+              "display_url": "x.com/tong35018157/s…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/tong35018157/status/2043591847155585202",
+              "start": 143,
+              "url": "https://t.co/z10Z5VDCYk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043704668866384057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 4854,
+          "like_count": 132,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043591847155585202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从数据上来看确实如此，并且也非常符合逻辑：跨性别者（尤其是跨女）越是被歧视、被逐出公共领域，她们就越可能迫于生计选择色情产业，保守主义者就越能获得自己的享乐材料。这就是我之前说的，他们不希望我们看见彼此，只希望我们被禁锢在他们的凝视里。 https://t.co/3vw1W36RVt https://t.co/z10Z5VDCYk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 1256,
+          "like_count": 7906,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 1882
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 37,
+                "start": 21,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️ ⚢ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2040939467280674867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24235,
+          "following_count": 2728,
+          "like_count": 40594,
+          "listed_count": 11,
+          "media_count": 595,
+          "tweet_count": 21678
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2048731265378243045",
+    "created_at": "2026-04-27T12:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T13:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048743560284139812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1529658600649539584",
+          "start": 0,
+          "username": "DrSunan2022422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048743560284139812",
+    "in_reply_to_user_id": "1529658600649539584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048742177803825550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrSunan2022422 🥲石，美味😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2048731265378243045",
+        "created_at": "2026-04-27T12:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048743560284139812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1529658600649539584",
+              "start": 0,
+              "username": "DrSunan2022422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048743560284139812",
+        "in_reply_to_user_id": "1529658600649539584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048742177803825550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrSunan2022422 🥲石，美味😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529658600649539584",
+        "conversation_id": "2048731265378243045",
+        "created_at": "2026-04-27T12:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048742177803825550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048742177803825550",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048741741524849036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 我吃过很多石，这个味儿和基本盘有点像但味道层次感又有些差别（什么品石高手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/我喜欢你你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 1388,
+          "like_count": 10827,
+          "listed_count": 2,
+          "media_count": 260,
+          "tweet_count": 2214
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T03:00:24.000Z",
+        "description": "一般路过土豆地雷系女高 /喜欢油豆腐的赛博狐狸 | 要素过多啥都能聊 | 在搞某种tpl| 业余喜欢写小说 |睿智的P社玩家｜看到有趣的人会回关｜最闹麻的主任@CnDiode｜最爱的姐姐@g60Yts1kvzO4g8q\n赚点零花钱喵 🚪10r口令红包",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 79,
+                "username": "CnDiode"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "g60Yts1kvzO4g8q"
+              }
+            ]
+          }
+        },
+        "id": "1529658600649539584",
+        "location": "SCP基金会中国分部34号站点",
+        "name": "SCP-Dr.Sunan🐾",
+        "pinned_tweet_id": "1977929373727834336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530385867826556928/p_rx1WWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3689,
+          "following_count": 896,
+          "like_count": 46449,
+          "listed_count": 9,
+          "media_count": 451,
+          "tweet_count": 6429
+        },
+        "username": "DrSunan2022422",
+        "verified": true
+      }
+    ]
+  }
+}

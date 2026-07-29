@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2068803812161393136",
+    "created_at": "2026-06-21T21:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T22:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068803812161393136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuanyilingyi/s…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/yuanyilingyi/status/2068642597866963273",
+          "start": 42,
+          "url": "https://t.co/bmgWaP6G6K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068803812161393136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068642597866963273",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "hrt一定是跨，没hrt不一定是跨\n（断断续续觉得好玩的不算）\n\n我的理解是这样的 https://t.co/bmgWaP6G6K"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2068803812161393136",
+        "created_at": "2026-06-21T21:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T22:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068803812161393136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuanyilingyi/s…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/yuanyilingyi/status/2068642597866963273",
+              "start": 42,
+              "url": "https://t.co/bmgWaP6G6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068803812161393136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068642597866963273",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hrt一定是跨，没hrt不一定是跨\n（断断续续觉得好玩的不算）\n\n我的理解是这样的 https://t.co/bmgWaP6G6K"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796471454839816192",
+        "conversation_id": "2068642597866963273",
+        "created_at": "2026-06-21T10:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068642597866963273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068642597866963273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3038,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底哪来的hrt了才算跨女这种说法，hrt只是代表进行了激素治疗并不代表不是跨女不是么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 1586,
+          "like_count": 17596,
+          "listed_count": 3,
+          "media_count": 285,
+          "tweet_count": 2690
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-31T09:19:29.000Z",
+        "description": "朝雾绫澜｜本人已成年，无不良引导｜xyn｜清水日常推｜同类可互fo｜概率回fo｜转生版｜喜欢可爱的事物｜想要fo想要想要",
+        "id": "1796471454839816192",
+        "name": "纟夌🍀",
+        "pinned_tweet_id": "2063535069008925017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064265125528231936/GdFIqysV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 212,
+          "like_count": 1607,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 645
+        },
+        "url": "",
+        "username": "yuanyilingyi",
+        "verified": false
+      }
+    ]
+  }
+}

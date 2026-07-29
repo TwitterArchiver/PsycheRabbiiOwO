@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2043197298390491482",
+    "created_at": "2026-04-12T05:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T06:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043197298390491482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/psycherabbiiow…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/psycherabbiiowo/status/2043047622878073018",
+          "start": 61,
+          "url": "https://t.co/g4k7wC03iv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043197298390491482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043047622878073018",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对上了对上了\n\n药娘是塔达林，塔达林吸的地嗪导致神经索萎缩，这个就是雌二醇\n\n而黑暗圣堂武士自断神经索，这个对应自切药娘 https://t.co/g4k7wC03iv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2043197298390491482",
+        "created_at": "2026-04-12T05:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043197298390491482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/psycherabbiiowo/status/2043047622878073018",
+              "start": 61,
+              "url": "https://t.co/g4k7wC03iv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043197298390491482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043047622878073018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对上了对上了\n\n药娘是塔达林，塔达林吸的地嗪导致神经索萎缩，这个就是雌二醇\n\n而黑暗圣堂武士自断神经索，这个对应自切药娘 https://t.co/g4k7wC03iv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2043047622878073018",
+        "created_at": "2026-04-11T19:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T20:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043047622878073018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/natsumejuri/st…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/natsumejuri/status/2042953916321796176",
+              "start": 41,
+              "url": "https://t.co/ZTvRGBWrBn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043047622878073018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042953916321796176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自切的时候可以念念台词：\n\n一代又一代的勇者们最终选择了----\n黑暗圣堂之路！ https://t.co/ZTvRGBWrBn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 1248,
+          "like_count": 7696,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 1849
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

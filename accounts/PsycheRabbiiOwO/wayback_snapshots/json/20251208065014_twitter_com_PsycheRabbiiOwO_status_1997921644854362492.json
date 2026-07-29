@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1997600239390466099",
+    "created_at": "2025-12-08T06:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T07:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997921644854362492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1117644610396778501",
+          "start": 0,
+          "username": "canderyy"
+        },
+        {
+          "end": 20,
+          "id": "1996563547007176704",
+          "start": 10,
+          "username": "gu_niu666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997921644854362492",
+    "in_reply_to_user_id": "1117644610396778501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997908867817275492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canderyy @gu_niu666 没事的我就玩玩它，这人喜欢嘴臭，对线水平又不高，所以我感觉我找到了电子宠物。偶尔喂点零食，看看它能不能拉出更逆天的言论而已。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1997600239390466099",
+        "created_at": "2025-12-08T06:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T07:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997921644854362492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1117644610396778501",
+              "start": 0,
+              "username": "canderyy"
+            },
+            {
+              "end": 20,
+              "id": "1996563547007176704",
+              "start": 10,
+              "username": "gu_niu666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997921644854362492",
+        "in_reply_to_user_id": "1117644610396778501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997908867817275492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canderyy @gu_niu666 没事的我就玩玩它，这人喜欢嘴臭，对线水平又不高，所以我感觉我找到了电子宠物。偶尔喂点零食，看看它能不能拉出更逆天的言论而已。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1117644610396778501",
+        "conversation_id": "1997600239390466099",
+        "created_at": "2025-12-08T05:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T06:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997908867817275492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            },
+            {
+              "end": 27,
+              "id": "1996563547007176704",
+              "start": 17,
+              "username": "gu_niu666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997908867817275492",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997600239390466099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO @gu_niu666 ？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/本人长相普通别骂我参考亮点里的照片/雷点不多只有顺直黄蛆，od，反跨（不雷人只雷事不要跳脸就好我很少b人只会不理你）/这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48ZKhM"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰（🏳️‍⚧️💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 675,
+          "like_count": 1905,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 881
+        },
+        "url": "https://t.co/274M48ZKhM",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-15T04:23:34.000Z",
+        "description": "37岁人夫，hrt2025.4.8持证含糖，老倒霉蛋一个，已和家人出柜    最后：老婆我永远爱着你😘",
+        "id": "1117644610396778501",
+        "location": "浙江省宁波市",
+        "name": "Shanshan's Vile Pet🍥",
+        "pinned_tweet_id": "1943202703271956749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941855814437990400/0mAddQZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 145,
+          "like_count": 1365,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 1132
+        },
+        "username": "canderyy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T12:53:53.000Z",
+        "description": "三退 ：退圈 退药 退跨🫡\n反lgbt/跨人乐子/重开药桶饭\n1.理想是世界没有跨\n2.拆除跨旗子和鱼板标识，屏蔽大数据跨性别人物和社区\n3.当跨也不要进圈子，这会提前结束你青春的生命，这圈子已经烂完，看圈子如喝慢性毒药4.天救自救者\n5.安卓跨人 好自为之",
+        "id": "1996563547007176704",
+        "location": "木桶星",
+        "name": "米（🏳️‍🌈😓😅🤣🤡）",
+        "pinned_tweet_id": "1996690173355266357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996563611385528320/LrKuzEL8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 50,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 131
+        },
+        "username": "gu_niu666",
+        "verified": false
+      }
+    ]
+  }
+}

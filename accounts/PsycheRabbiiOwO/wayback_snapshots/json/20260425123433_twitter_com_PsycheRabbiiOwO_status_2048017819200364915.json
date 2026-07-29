@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2048017819200364915",
+    "created_at": "2026-04-25T12:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048017819200364915"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jianlvup/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/jianlvup/status/2047980705972695126",
+          "start": 13,
+          "url": "https://t.co/fyKVaXHauF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048017819200364915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047980705972695126",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然但是，最后一排是真爽 https://t.co/fyKVaXHauF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 549,
+        "media_key": "3_2047980699840647168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvjmIjbkAAq0Jd.jpg",
+        "width": 479
+      },
+      {
+        "height": 553,
+        "media_key": "3_2047980703019937792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvjmUZbsAAehD8.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2048017819200364915",
+        "created_at": "2026-04-25T12:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048017819200364915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jianlvup/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/jianlvup/status/2047980705972695126",
+              "start": 13,
+              "url": "https://t.co/fyKVaXHauF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048017819200364915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047980705972695126",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然但是，最后一排是真爽 https://t.co/fyKVaXHauF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047980699840647168",
+            "3_2047980703019937792"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "2047980705972695126",
+        "created_at": "2026-04-25T10:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047980705972695126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VZrCvFHIig",
+              "end": 33,
+              "expanded_url": "https://x.com/jianlvup/status/2047980705972695126/photo/1",
+              "media_key": "3_2047980699840647168",
+              "start": 10,
+              "url": "https://t.co/VZrCvFHIig"
+            },
+            {
+              "display_url": "pic.x.com/VZrCvFHIig",
+              "end": 33,
+              "expanded_url": "https://x.com/jianlvup/status/2047980705972695126/photo/1",
+              "media_key": "3_2047980703019937792",
+              "start": 10,
+              "url": "https://t.co/VZrCvFHIig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047980705972695126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 849,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何看待这种人？？ https://t.co/VZrCvFHIig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/我喜欢你你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 1358,
+          "like_count": 10273,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 2161
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "为爱发电",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2047837497531777532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17553,
+          "following_count": 1471,
+          "like_count": 79219,
+          "listed_count": 63,
+          "media_count": 3052,
+          "tweet_count": 6348
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

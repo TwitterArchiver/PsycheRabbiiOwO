@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023985210413772800"
+      ],
+      "media_source_tweet_id": [
+        "2023985213110681898"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2024157637093499216",
+    "created_at": "2026-02-18T16:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T17:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024157637093499216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1662058783215087617",
+          "start": 3,
+          "username": "HacchiTheMaid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/33k90S6RU8",
+          "end": 46,
+          "expanded_url": "https://x.com/HacchiTheMaid/status/2023985213110681898/photo/1",
+          "media_key": "3_2023985210413772800",
+          "start": 23,
+          "url": "https://t.co/33k90S6RU8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024157637093499216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023985213110681898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HacchiTheMaid: 笑晕了 https://t.co/33k90S6RU8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 967,
+        "media_key": "3_2023985210413772800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBaj00lbcAAypVd.jpg",
+        "width": 1487
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023985210413772800"
+          ],
+          "media_source_tweet_id": [
+            "2023985213110681898"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2024157637093499216",
+        "created_at": "2026-02-18T16:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024157637093499216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1662058783215087617",
+              "start": 3,
+              "username": "HacchiTheMaid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/33k90S6RU8",
+              "end": 46,
+              "expanded_url": "https://x.com/HacchiTheMaid/status/2023985213110681898/photo/1",
+              "media_key": "3_2023985210413772800",
+              "start": 23,
+              "url": "https://t.co/33k90S6RU8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024157637093499216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023985213110681898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HacchiTheMaid: 笑晕了 https://t.co/33k90S6RU8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023985210413772800"
+          ]
+        },
+        "author_id": "1662058783215087617",
+        "conversation_id": "2023985213110681898",
+        "created_at": "2026-02-18T04:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023985213110681898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/33k90S6RU8",
+              "end": 27,
+              "expanded_url": "https://x.com/HacchiTheMaid/status/2023985213110681898/photo/1",
+              "media_key": "3_2023985210413772800",
+              "start": 4,
+              "url": "https://t.co/33k90S6RU8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023985213110681898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 87014,
+          "like_count": 2379,
+          "quote_count": 10,
+          "reply_count": 29,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "笑晕了 https://t.co/33k90S6RU8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 947,
+          "like_count": 3958,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 1337
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。狗狗@Sorsacerba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Sorsacerba"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi🏳️‍⚧️",
+        "pinned_tweet_id": "1927301590777479428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9361,
+          "following_count": 1989,
+          "like_count": 52513,
+          "listed_count": 32,
+          "media_count": 1323,
+          "tweet_count": 36282
+        },
+        "username": "HacchiTheMaid",
+        "verified": false
+      }
+    ]
+  }
+}

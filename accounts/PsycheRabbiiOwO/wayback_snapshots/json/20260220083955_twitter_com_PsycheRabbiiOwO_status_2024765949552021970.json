@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024710302277726209"
+      ],
+      "media_source_tweet_id": [
+        "2024710311169691774"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2024765949552021970",
+    "created_at": "2026-02-20T08:39:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T09:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024765949552021970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1876826722504769536",
+          "start": 3,
+          "username": "Trevor_520"
+        },
+        {
+          "end": 28,
+          "id": "1974865605204586498",
+          "start": 16,
+          "username": "Krktmk_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aU3ZFR1SaY",
+          "end": 52,
+          "expanded_url": "https://x.com/Trevor_520/status/2024710311169691774/photo/1",
+          "media_key": "3_2024710302277726209",
+          "start": 29,
+          "url": "https://t.co/aU3ZFR1SaY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024765949552021970",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024710311169691774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Trevor_520: @Krktmk_8964 https://t.co/aU3ZFR1SaY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 823,
+        "media_key": "3_2024710302277726209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBk3SuRWcAEr_4I.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024710302277726209"
+          ],
+          "media_source_tweet_id": [
+            "2024710311169691774"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2024765949552021970",
+        "created_at": "2026-02-20T08:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T09:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024765949552021970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1876826722504769536",
+              "start": 3,
+              "username": "Trevor_520"
+            },
+            {
+              "end": 28,
+              "id": "1974865605204586498",
+              "start": 16,
+              "username": "Krktmk_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aU3ZFR1SaY",
+              "end": 52,
+              "expanded_url": "https://x.com/Trevor_520/status/2024710311169691774/photo/1",
+              "media_key": "3_2024710302277726209",
+              "start": 29,
+              "url": "https://t.co/aU3ZFR1SaY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024765949552021970",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024710311169691774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Trevor_520: @Krktmk_8964 https://t.co/aU3ZFR1SaY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024710302277726209"
+          ]
+        },
+        "author_id": "1876826722504769536",
+        "conversation_id": "2024464490293801287",
+        "created_at": "2026-02-20T04:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T05:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024710311169691774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "Krktmk_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aU3ZFR1SaY",
+              "end": 36,
+              "expanded_url": "https://x.com/Trevor_520/status/2024710311169691774/photo/1",
+              "media_key": "3_2024710302277726209",
+              "start": 13,
+              "url": "https://t.co/aU3ZFR1SaY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024710311169691774",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2327,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024464490293801287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Krktmk_8964 https://t.co/aU3ZFR1SaY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 965,
+          "like_count": 4156,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1358
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T03:02:32.000Z",
+        "description": "你的出拳太慢了",
+        "id": "1876826722504769536",
+        "name": "水下放电",
+        "pinned_tweet_id": "2023433178288181740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005671191843831808/H5j-3zcj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 36,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 332
+        },
+        "username": "Trevor_520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2016628139888431137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016867499816693760/cgM-POhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 1611,
+          "like_count": 28171,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 2986
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      }
+    ]
+  }
+}

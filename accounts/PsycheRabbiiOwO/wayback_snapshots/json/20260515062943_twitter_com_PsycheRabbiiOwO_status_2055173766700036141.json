@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055173754490351616"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2055173766700036141",
+    "created_at": "2026-05-15T06:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T07:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055173766700036141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lgD1xcC34u",
+          "end": 104,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2055173766700036141/photo/1",
+          "media_key": "3_2055173754490351616",
+          "start": 81,
+          "url": "https://t.co/lgD1xcC34u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055173766700036141",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Tlc5SFREUTBSM1UwTkU5Uk5EUlBTVFEwVDNJME5FZE5OV0ZsVERRMFJ5czBORXRNTkRSSGRUYzNlVUk9 https://t.co/lgD1xcC34u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1313,
+        "media_key": "3_2055173754490351616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVxpBQacAAW5Od.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055173754490351616"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2055173766700036141",
+        "created_at": "2026-05-15T06:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055173766700036141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lgD1xcC34u",
+              "end": 104,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2055173766700036141/photo/1",
+              "media_key": "3_2055173754490351616",
+              "start": 81,
+              "url": "https://t.co/lgD1xcC34u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055173766700036141",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Tlc5SFREUTBSM1UwTkU5Uk5EUlBTVFEwVDNJME5FZE5OV0ZsVERRMFJ5czBORXRNTkRSSGRUYzNlVUk9 https://t.co/lgD1xcC34u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 1475,
+          "like_count": 13471,
+          "listed_count": 2,
+          "media_count": 272,
+          "tweet_count": 2412
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

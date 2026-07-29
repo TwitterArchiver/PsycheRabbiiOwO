@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2044058423445336223",
+    "created_at": "2026-04-14T14:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T15:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044058423445336223"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yan_huan92807/…",
+          "end": 111,
+          "expanded_url": "https://twitter.com/yan_huan92807/status/2044043863074189728",
+          "start": 88,
+          "url": "https://t.co/wpOavxnCon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044058423445336223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044043863074189728",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "绷不住了我吃安眠药睡瘫也这个感觉\n\n每天醒来都像重生了\n-----------------------------------------\n唉又一个生命逝去。。。晚安吧。。。 https://t.co/wpOavxnCon"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2044058423445336223",
+        "created_at": "2026-04-14T14:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044058423445336223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yan_huan92807/…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/yan_huan92807/status/2044043863074189728",
+              "start": 88,
+              "url": "https://t.co/wpOavxnCon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044058423445336223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044043863074189728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绷不住了我吃安眠药睡瘫也这个感觉\n\n每天醒来都像重生了\n-----------------------------------------\n唉又一个生命逝去。。。晚安吧。。。 https://t.co/wpOavxnCon"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2044031280673894425",
+        "created_at": "2026-04-14T13:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044043863074189728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613892080190849024",
+              "start": 0,
+              "username": "8964iq"
+            },
+            {
+              "end": 19,
+              "id": "1886054681635704832",
+              "start": 8,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044043863074189728",
+        "in_reply_to_user_id": "1613892080190849024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044042797033107572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964iq @Manglesuki 不知道，应该比喝盐好，大概率是无法呼吸忘记呼吸肺部被巨石压着萎缩不久会失去意识。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 1266,
+          "like_count": 7975,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 1909
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \nany pronouns\n什么圈都搞/enby，ftx🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵\n老婆我最爱的母狗婊子宝贝https://t.co/ojLNRKtUJR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/gess828?s=21",
+                "end": 127,
+                "expanded_url": "https://x.com/gess828?s=21",
+                "start": 104,
+                "url": "https://t.co/ojLNRKtUJR"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "小利亚是鳄鱼🐊女权人妖美女骚鸡妓妖景观装置法国新浪潮存在主义黑泽明喜欢你好穷苦困苦的雾都孤儿",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 176,
+          "like_count": 2630,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 787
+        },
+        "username": "yan_huan92807",
+        "verified": false
+      }
+    ]
+  }
+}

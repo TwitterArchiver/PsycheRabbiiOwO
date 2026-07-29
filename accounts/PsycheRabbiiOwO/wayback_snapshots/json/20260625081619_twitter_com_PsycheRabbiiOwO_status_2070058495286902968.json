@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2070026686066995302",
+    "created_at": "2026-06-25T08:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T09:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070058495286902968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065088028474068992",
+          "start": 0,
+          "username": "VplusVequalsW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070058495286902968",
+    "in_reply_to_user_id": "2065088028474068992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070026686066995302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VplusVequalsW 爱压抑，性冷淡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2070026686066995302",
+        "created_at": "2026-06-25T08:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070058495286902968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065088028474068992",
+              "start": 0,
+              "username": "VplusVequalsW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070058495286902968",
+        "in_reply_to_user_id": "2065088028474068992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070026686066995302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VplusVequalsW 爱压抑，性冷淡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065088028474068992",
+        "conversation_id": "2070026686066995302",
+        "created_at": "2026-06-25T06:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070026686066995302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070026686066995302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是怎么做到又性压抑又性冷淡的😱😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 1587,
+          "like_count": 17924,
+          "listed_count": 3,
+          "media_count": 288,
+          "tweet_count": 2725
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-11T15:15:20.000Z",
+        "description": "03｜mtx｜HRT (2024.09.21-now)｜pokemon｜自我认同比较混乱😵‍💫｜同类和觉得有意思的人会回fo",
+        "id": "2065088028474068992",
+        "location": "绿林大学",
+        "name": "月桂冠🏳️‍⚧️",
+        "pinned_tweet_id": "2068583032022540765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069849742570590208/6ApDcsfy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 206,
+          "like_count": 2098,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 279
+        },
+        "url": "",
+        "username": "VplusVequalsW",
+        "verified": false
+      }
+    ]
+  }
+}

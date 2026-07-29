@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2040405623821758727",
+    "created_at": "2026-04-04T12:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T13:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040405623821758727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1311442673706831873",
+          "start": 3,
+          "username": "Tatamkj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040405623821758727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040258705942573505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tatamkj: 蒙眼玩四爱结果发现假牛是热的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2040405623821758727",
+        "created_at": "2026-04-04T12:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040405623821758727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1311442673706831873",
+              "start": 3,
+              "username": "Tatamkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040405623821758727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040258705942573505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tatamkj: 蒙眼玩四爱结果发现假牛是热的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311442673706831873",
+        "conversation_id": "2040258705942573505",
+        "created_at": "2026-04-04T02:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T03:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040258705942573505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040258705942573505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 112238,
+          "like_count": 770,
+          "quote_count": 6,
+          "reply_count": 32,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "蒙眼玩四爱结果发现假牛是热的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 1188,
+          "like_count": 6750,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 1725
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-30T23:08:28.000Z",
+        "description": "29元包年千G流量VPN👉🏻https://t.co/tzeSfWUPZs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ta30.vip/s/a39c945bbb2b…",
+                "end": 37,
+                "expanded_url": "https://www.ta30.vip/s/a39c945bbb2b7caa4b8af3f6fbce598e",
+                "start": 14,
+                "url": "https://t.co/tzeSfWUPZs"
+              }
+            ]
+          }
+        },
+        "id": "1311442673706831873",
+        "location": "California, USA",
+        "name": "Hug me",
+        "pinned_tweet_id": "1958216356928815610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969205545908518913/-3Gct3lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1701,
+          "following_count": 2189,
+          "like_count": 49849,
+          "listed_count": 13,
+          "media_count": 1281,
+          "tweet_count": 3847
+        },
+        "username": "Tatamkj",
+        "verified": false
+      }
+    ]
+  }
+}

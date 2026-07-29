@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2049734209045176362",
+    "created_at": "2026-04-30T06:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T07:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049734209045176362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuu00401/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/yuu00401/status/2049689021690097915",
+          "start": 15,
+          "url": "https://t.co/Z2651m0Tmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049734209045176362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049689021690097915",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开始社会调查？\n调查？\n？！ https://t.co/Z2651m0Tmd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2049734209045176362",
+        "created_at": "2026-04-30T06:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049734209045176362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuu00401/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/yuu00401/status/2049689021690097915",
+              "start": 15,
+              "url": "https://t.co/Z2651m0Tmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049734209045176362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049689021690097915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开始社会调查？\n调查？\n？！ https://t.co/Z2651m0Tmd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554424317483655175",
+        "conversation_id": "2049689021690097915",
+        "created_at": "2026-04-30T03:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T04:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049689021690097915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049689021690097915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1471,
+          "like_count": 40,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性别研究博士下海\n这也是研究的一部分?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 1400,
+          "like_count": 11237,
+          "listed_count": 2,
+          "media_count": 262,
+          "tweet_count": 2250
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T11:10:23.000Z",
+        "description": "原来我走了那么远，远到那些无话不谈，渐渐听不清了",
+        "id": "1554424317483655175",
+        "location": "拉尼亚凯亚超星系",
+        "name": "yuu🎀",
+        "pinned_tweet_id": "1979443587306647701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931386075710365696/hZ7z3fLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4003,
+          "following_count": 764,
+          "like_count": 73160,
+          "listed_count": 6,
+          "media_count": 2342,
+          "tweet_count": 34538
+        },
+        "username": "yuu00401",
+        "verified": false
+      }
+    ]
+  }
+}

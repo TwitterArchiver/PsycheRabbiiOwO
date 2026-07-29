@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047311064052998144"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2047311075230855321",
+    "created_at": "2026-04-23T13:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047311075230855321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R8xhslIFDG",
+          "end": 52,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2047311075230855321/photo/1",
+          "media_key": "3_2047311064052998144",
+          "start": 29,
+          "url": "https://t.co/R8xhslIFDG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047311075230855321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是什么赛道🤔🤔\n生育tv么\n\n还有姐，你学生证的钢印呢 https://t.co/R8xhslIFDG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2034,
+        "media_key": "3_2047311064052998144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmCkM2bIAAR_ez.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047311064052998144"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2047311075230855321",
+        "created_at": "2026-04-23T13:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047311075230855321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R8xhslIFDG",
+              "end": 52,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2047311075230855321/photo/1",
+              "media_key": "3_2047311064052998144",
+              "start": 29,
+              "url": "https://t.co/R8xhslIFDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047311075230855321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是什么赛道🤔🤔\n生育tv么\n\n还有姐，你学生证的钢印呢 https://t.co/R8xhslIFDG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 1330,
+          "like_count": 9497,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 2072
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

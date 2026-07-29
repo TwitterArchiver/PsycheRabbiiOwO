@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997901332876087296"
+      ],
+      "media_source_tweet_id": [
+        "1997901341273051601"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1997961020950860018",
+    "created_at": "2025-12-08T09:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T10:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997961020950860018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DsLex52il0",
+          "end": 42,
+          "expanded_url": "https://x.com/Cldeop/status/1997901341273051601/photo/1",
+          "media_key": "3_1997901332876087296",
+          "start": 19,
+          "url": "https://t.co/DsLex52il0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997961020950860018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997901341273051601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: 全是神人断句 https://t.co/DsLex52il0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1033,
+        "media_key": "3_1997901332876087296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7n4rUpb0AAZtM4.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997901332876087296"
+          ],
+          "media_source_tweet_id": [
+            "1997901341273051601"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1997961020950860018",
+        "created_at": "2025-12-08T09:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T10:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997961020950860018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DsLex52il0",
+              "end": 42,
+              "expanded_url": "https://x.com/Cldeop/status/1997901341273051601/photo/1",
+              "media_key": "3_1997901332876087296",
+              "start": 19,
+              "url": "https://t.co/DsLex52il0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997961020950860018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997901341273051601",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: 全是神人断句 https://t.co/DsLex52il0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997901332876087296"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1997901341273051601",
+        "created_at": "2025-12-08T05:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T06:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997901341273051601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DsLex52il0",
+              "end": 30,
+              "expanded_url": "https://x.com/Cldeop/status/1997901341273051601/photo/1",
+              "media_key": "3_1997901332876087296",
+              "start": 7,
+              "url": "https://t.co/DsLex52il0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997901341273051601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 19665,
+          "like_count": 394,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "全是神人断句 https://t.co/DsLex52il0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/本人长相普通别骂我参考亮点里的照片/雷点不多只有顺直黄蛆，od，反跨（不雷人只雷事不要跳脸就好我很少b人只会不理你）/这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48ZKhM"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰（🏳️‍⚧️💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 677,
+          "like_count": 1918,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 892
+        },
+        "url": "https://t.co/274M48ZKhM",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93282,
+          "following_count": 665,
+          "like_count": 32598,
+          "listed_count": 270,
+          "media_count": 13866,
+          "tweet_count": 19990
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

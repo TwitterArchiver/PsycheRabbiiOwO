@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969046669489852416"
+      ],
+      "media_source_tweet_id": [
+        "1969046677165080685"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1969049289130201322",
+    "created_at": "2025-09-19T14:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T15:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969049289130201322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1402859194504470536",
+          "start": 3,
+          "username": "MING089487"
+        },
+        {
+          "end": 24,
+          "id": "1536685082630451200",
+          "start": 16,
+          "username": "zykojev"
+        },
+        {
+          "end": 32,
+          "id": "1613079089879076864",
+          "start": 25,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q3PUpka7IX",
+          "end": 56,
+          "expanded_url": "https://x.com/MING089487/status/1969046677165080685/photo/1",
+          "media_key": "3_1969046669489852416",
+          "start": 33,
+          "url": "https://t.co/q3PUpka7IX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969049289130201322",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969046677165080685",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MING089487: @zykojev @Cldeop https://t.co/q3PUpka7IX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 994,
+        "media_key": "3_1969046669489852416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1N1g3Eb0AASci_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969046669489852416"
+          ],
+          "media_source_tweet_id": [
+            "1969046677165080685"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1969049289130201322",
+        "created_at": "2025-09-19T14:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T15:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969049289130201322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1402859194504470536",
+              "start": 3,
+              "username": "MING089487"
+            },
+            {
+              "end": 24,
+              "id": "1536685082630451200",
+              "start": 16,
+              "username": "zykojev"
+            },
+            {
+              "end": 32,
+              "id": "1613079089879076864",
+              "start": 25,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q3PUpka7IX",
+              "end": 56,
+              "expanded_url": "https://x.com/MING089487/status/1969046677165080685/photo/1",
+              "media_key": "3_1969046669489852416",
+              "start": 33,
+              "url": "https://t.co/q3PUpka7IX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969049289130201322",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969046677165080685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MING089487: @zykojev @Cldeop https://t.co/q3PUpka7IX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969046669489852416"
+          ]
+        },
+        "author_id": "1402859194504470536",
+        "conversation_id": "1969031392550953017",
+        "created_at": "2025-09-19T14:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T15:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969046677165080685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1536685082630451200",
+              "start": 0,
+              "username": "zykojev"
+            },
+            {
+              "end": 16,
+              "id": "1613079089879076864",
+              "start": 9,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q3PUpka7IX",
+              "end": 40,
+              "expanded_url": "https://x.com/MING089487/status/1969046677165080685/photo/1",
+              "media_key": "3_1969046669489852416",
+              "start": 17,
+              "url": "https://t.co/q3PUpka7IX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969046677165080685",
+        "in_reply_to_user_id": "1536685082630451200",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969034541148028964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zykojev @Cldeop https://t.co/q3PUpka7IX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/含糖男娘2025.09.06//可能是泛性恋？/有对象了已经🥰@pirapira2112/🚪18/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 421,
+          "like_count": 393,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 392
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-10T05:24:49.000Z",
+        "description": "戰車工廠廠長兼研發團隊、技師、品管、慣老闆及未提及的所有部門。\n好男娘♂️、潛水員。\n我只是喜歡觀察人群，絕對不是社恐。",
+        "id": "1402859194504470536",
+        "name": "聖殿騎士團裝甲營指揮官♂️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750471891733925888/vb8KcKEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 292,
+          "like_count": 10922,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 675
+        },
+        "username": "MING089487",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-14T12:21:30.000Z",
+        "description": "This account is used to follow game information",
+        "id": "1536685082630451200",
+        "name": "Zykojev",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935326755151060992/JbkFppa8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 922,
+          "like_count": 3842,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 1214
+        },
+        "username": "zykojev",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79409,
+          "following_count": 635,
+          "like_count": 30580,
+          "listed_count": 251,
+          "media_count": 12256,
+          "tweet_count": 17365
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

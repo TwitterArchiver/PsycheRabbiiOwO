@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981099818467442688"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1981099827237966230",
+    "created_at": "2025-10-22T20:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T21:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981099827237966230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OGZSpvE1md",
+          "end": 137,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1981099827237966230/photo/1",
+          "media_key": "3_1981099818467442688",
+          "start": 114,
+          "url": "https://t.co/OGZSpvE1md"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981099827237966230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "高考恋爱一百天啊\n\n这gal，好怀念\n\n高一那一年真的就是这种环境\n我交到了好多朋友\n也收获了第一段“恋爱”\n\n可是到后来环境越来越压抑\n精神状况也越来越差\n\n还好这个游戏\n给了我高中可以很美好的幻想\n支撑着我走完了剩下的两年 https://t.co/OGZSpvE1md"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1177,
+        "media_key": "3_1981099818467442688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G35HyeBXwAAP_F5.jpg",
+        "width": 1590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981099818467442688"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1981099827237966230",
+        "created_at": "2025-10-22T20:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T21:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981099827237966230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGZSpvE1md",
+              "end": 137,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1981099827237966230/photo/1",
+              "media_key": "3_1981099818467442688",
+              "start": 114,
+              "url": "https://t.co/OGZSpvE1md"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981099827237966230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高考恋爱一百天啊\n\n这gal，好怀念\n\n高一那一年真的就是这种环境\n我交到了好多朋友\n也收获了第一段“恋爱”\n\n可是到后来环境越来越压抑\n精神状况也越来越差\n\n还好这个游戏\n给了我高中可以很美好的幻想\n支撑着我走完了剩下的两年 https://t.co/OGZSpvE1md"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "明天。",
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🐰凌月月（互关版）",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 441,
+          "like_count": 494,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 473
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

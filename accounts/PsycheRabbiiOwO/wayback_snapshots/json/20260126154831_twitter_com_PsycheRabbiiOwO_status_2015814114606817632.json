@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2015814114606817632",
+    "created_at": "2026-01-26T15:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T16:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015814114606817632"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/error505___/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/error505___/status/2015682975673831738",
+          "start": 4,
+          "url": "https://t.co/Xun43PuXy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015814114606817632",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015682975673831738",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "lol https://t.co/Xun43PuXy8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2015814114606817632",
+        "created_at": "2026-01-26T15:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015814114606817632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/error505___/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/error505___/status/2015682975673831738",
+              "start": 4,
+              "url": "https://t.co/Xun43PuXy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015814114606817632",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015682975673831738",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "lol https://t.co/Xun43PuXy8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1188476463424688128",
+        "conversation_id": "2015614733928276110",
+        "created_at": "2026-01-26T07:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015682975673831738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1478016794203992065",
+              "start": 0,
+              "username": "quadrakyiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015682975673831738",
+        "in_reply_to_user_id": "1478016794203992065",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5037,
+          "like_count": 317,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015614733928276110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quadrakyiro your gender fluid became gender solid"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "含🍥做题蛆/长相普通别骂我参考亮点里的照片/备用机@rabbii_third不知道会发些什么呢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 873,
+          "like_count": 3398,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1196
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-27T15:24:19.000Z",
+        "description": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 🏳️‍🌈 | I repost a lot | They/Them | Person that plays games",
+        "id": "1188476463424688128",
+        "name": "Error505",
+        "pinned_tweet_id": "1664596496883277825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664632408887492611/5cdubGGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 843,
+          "like_count": 80314,
+          "listed_count": 1,
+          "media_count": 726,
+          "tweet_count": 34008
+        },
+        "username": "Error505___",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2000527661735780617",
+    "created_at": "2025-12-15T11:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T12:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000527661735780617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1983381983565885444",
+          "start": 3,
+          "username": "Zemyu_8310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000527661735780617",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 875
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999726710821126344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zemyu_8310: ( ´･ω･`)     ( ´･ω･`)\n ( ´･ω･`)   ( ´･ω･`)\n  ( ´･ω･`) ( ´･ω･`)\n   ( ´･ω･`) ´･ω･`)\n    ( ´･ω･`)･ω･`)\n     ( ´･ω･`)ω･`)…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2000527661735780617",
+        "created_at": "2025-12-15T11:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T12:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000527661735780617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983381983565885444",
+              "start": 3,
+              "username": "Zemyu_8310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000527661735780617",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 875
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999726710821126344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zemyu_8310: ( ´･ω･`)     ( ´･ω･`)\n ( ´･ω･`)   ( ´･ω･`)\n  ( ´･ω･`) ( ´･ω･`)\n   ( ´･ω･`) ´･ω･`)\n    ( ´･ω･`)･ω･`)\n     ( ´･ω･`)ω･`)…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983381983565885444",
+        "conversation_id": "1999726710821126344",
+        "created_at": "2025-12-13T06:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T07:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999726710821126344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999726710821126344",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {},
+          "text": "( ´･ω･`)     ( ´･ω･`)\n ( ´･ω･`)   ( ´･ω･`)\n  ( ´･ω･`) ( ´･ω･`)\n   ( ´･ω･`) ´･ω･`)\n    ( ´･ω･`)･ω･`)\n     ( ´･ω･`)ω･`)\n      ( ´･ω･`) ･`)\n       ( ´･ω･`) `)\n        ( ´･ω･`))\n         ( ´･ω･`)\n         (( ´･ω･`)\n        ( ´( ´･ω･`)\n       ( ´･( ´･ω･`)\n      ( ´･  ( ´･ω･`)\n     ( ´･ω( ´･ω･`)\n    ( ´･ω･( ´･ω･`)\n   ( ´･ω･` ( ´･ω･`)\n  ( ´･ω･`)  ( ´･ω･`)\n ( ´･ω･`)    ( ´･ω･`)\n( ´･ω･`)      ( ´･ω･`)\n( ´･ω･`)     ( ´･ω･`)\n ( ´･ω･`)   ( ´･ω･`)\n  ( ´･ω･`) ( ´･ω･`)\n   ( ´･ω･`) ´･ω･`)\n    ( ´･ω･`)･ω･`)\n     ( ´･ω･`)ω･`)\n      ( ´･ω･`) ･`)\n       ( ´･ω･`) `)\n        ( ´･ω･`))\n         ( ´･ω･`)\n         (( ´･ω･`)\n        ( ´( ´･ω･`)\n       ( ´･( ´･ω･`)\n      ( ´･  ( ´･ω･`)\n     ( ´･ω( ´･ω･`)\n    ( ´･ω･( ´･ω･`)\n   ( ´･ω･` ( ´･ω･`)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 632,
+          "impression_count": 161899,
+          "like_count": 7358,
+          "quote_count": 36,
+          "reply_count": 25,
+          "retweet_count": 875
+        },
+        "reply_settings": "everyone",
+        "text": "( ´･ω･`)     ( ´･ω･`)\n ( ´･ω･`)   ( ´･ω･`)\n  ( ´･ω･`) ( ´･ω･`)\n   ( ´･ω･`) ´･ω･`)\n    ( ´･ω･`)･ω･`)\n     ( ´･ω･`)ω･`)\n      ( ´･ω･`) ･`)\n       ( ´･ω･`) `)\n        ( ´･ω･`))\n         ( ´･ω･`)\n         (( ´･ω･`)\n        ( ´( ´･ω･`)\n       ( ´･("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）含🍥/长相普通别骂我参考亮点里的照片/只混生物圈岩石圈大气圈水圈/链接是提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ （💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 726,
+          "like_count": 2248,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 959
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-29T03:55:22.000Z",
+        "description": "😈 -曲に『 歌わされる歌い手 』ではなく、曲を『 歌う歌い手 』目指してます‼ - 😈 ：💜総合タグ #みゅぅとぴあ ：👑配信タグ #みゅーといっしょ： 💜FA #みゅみゅみてみて ：👑FM 😈↺ ：僕の日常が見れちゃうよ→ @831__0",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 52,
+                "tag": "みゅぅとぴあ"
+              },
+              {
+                "end": 76,
+                "start": 67,
+                "tag": "みゅーといっしょ"
+              },
+              {
+                "end": 91,
+                "start": 82,
+                "tag": "みゅみゅみてみて"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 121,
+                "start": 114,
+                "username": "831__0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zemyu",
+                "end": 23,
+                "expanded_url": "https://lit.link/zemyu",
+                "start": 0,
+                "url": "https://t.co/Kch2bT8HAj"
+              }
+            ]
+          }
+        },
+        "id": "1983381983565885444",
+        "location": "12/24 初オリジナル曲公開😈↺",
+        "name": "Zμ@半年で2800フォロワー",
+        "pinned_tweet_id": "1992571368098173110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983383404428296192/3StEkQS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1633,
+          "following_count": 884,
+          "like_count": 562,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 387
+        },
+        "url": "https://t.co/Kch2bT8HAj",
+        "username": "Zemyu_8310",
+        "verified": true
+      }
+    ]
+  }
+}

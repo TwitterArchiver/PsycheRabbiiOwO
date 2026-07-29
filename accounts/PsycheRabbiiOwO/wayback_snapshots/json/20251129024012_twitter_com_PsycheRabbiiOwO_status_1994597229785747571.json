@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1994563034237616139",
+    "created_at": "2025-11-29T02:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T03:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994597229785747571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1573695183643967490",
+          "start": 0,
+          "username": "xiaoxiaoyang09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994597229785747571",
+    "in_reply_to_user_id": "1573695183643967490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994563034237616139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiaoyang09 互fo百分百"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1902,
+        "media_key": "3_1994563029435125763",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G64cgfObkAMciBP.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1994563034237616139",
+        "created_at": "2025-11-29T02:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T03:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994597229785747571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1573695183643967490",
+              "start": 0,
+              "username": "xiaoxiaoyang09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994597229785747571",
+        "in_reply_to_user_id": "1573695183643967490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994563034237616139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiaoyang09 互fo百分百"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994563029435125763"
+          ]
+        },
+        "author_id": "1573695183643967490",
+        "conversation_id": "1994563034237616139",
+        "created_at": "2025-11-29T00:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T01:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994563034237616139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h4Tsaf30lN",
+              "end": 81,
+              "expanded_url": "https://x.com/xiaoxiaoyang09/status/1994563034237616139/photo/1",
+              "media_key": "3_1994563029435125763",
+              "start": 58,
+              "url": "https://t.co/h4Tsaf30lN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994563034237616139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 603,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "滨崎步原定于11月29日的上海演唱会因不可抗力取消，她却选择抵达场馆，在空无一人的场地完成整场表演！这是什么原因？ https://t.co/h4Tsaf30lN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/本人很丑别骂我/雷顺直黄蛆，od，反跨（不雷人只雷事，不当面提就好）/这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48ZKhM"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰（🏳️‍⚧️💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 610,
+          "like_count": 1457,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 758
+        },
+        "url": "https://t.co/274M48ZKhM",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T15:25:56.000Z",
+        "description": "一个爱做梦的小女孩。互fo呗",
+        "id": "1573695183643967490",
+        "name": "小羊没烦恼",
+        "pinned_tweet_id": "1988154040010817917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573697712700235776/sQrHA-_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10316,
+          "following_count": 3214,
+          "like_count": 10505,
+          "listed_count": 30,
+          "media_count": 789,
+          "tweet_count": 12972
+        },
+        "username": "xiaoxiaoyang09",
+        "verified": false
+      }
+    ]
+  }
+}

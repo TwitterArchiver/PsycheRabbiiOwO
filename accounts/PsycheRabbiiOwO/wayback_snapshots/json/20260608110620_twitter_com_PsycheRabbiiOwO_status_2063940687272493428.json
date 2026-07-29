@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2063940687272493428",
+    "created_at": "2026-06-08T11:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063940687272493428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drsunan2022422…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/drsunan2022422/status/2063924208808419753",
+          "start": 31,
+          "url": "https://t.co/9ZPQwqy3iT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063940687272493428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063924208808419753",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们一天天在网上叽里呱啦地说来说去，怎么拍照都这么好看？？？ https://t.co/9ZPQwqy3iT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2063940687272493428",
+        "created_at": "2026-06-08T11:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063940687272493428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drsunan2022422…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/drsunan2022422/status/2063924208808419753",
+              "start": 31,
+              "url": "https://t.co/9ZPQwqy3iT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063940687272493428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063924208808419753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们一天天在网上叽里呱啦地说来说去，怎么拍照都这么好看？？？ https://t.co/9ZPQwqy3iT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529658600649539584",
+        "conversation_id": "2063924208808419753",
+        "created_at": "2026-06-08T10:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063924208808419753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/queue_prompt/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/queue_prompt/status/2063841734430175464",
+              "start": 31,
+              "url": "https://t.co/UGYhl5JbNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063924208808419753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063841734430175464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们一天天在网上叽里呱啦地说来说去，怎么拍照都这么好看？？？ https://t.co/UGYhl5JbNf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 1524,
+          "like_count": 16295,
+          "listed_count": 3,
+          "media_count": 290,
+          "tweet_count": 2588
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T03:00:24.000Z",
+        "description": "一般路过土豆地雷系女高 /喜欢油豆腐的赛博狐狸 | 要素过多啥都能聊 | 想搞ppl| 业余喜欢写小说 |睿智的P社玩家｜看到有趣的人会回关｜最闹麻的主任@CnDiode｜意难平@g60Yts1kvzO4g8q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "CnDiode"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "g60Yts1kvzO4g8q"
+              }
+            ]
+          }
+        },
+        "id": "1529658600649539584",
+        "location": "SCP基金会中国分部34号站点",
+        "name": "SCP-Dr.Sunan🐾",
+        "pinned_tweet_id": "1977929373727834336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530385867826556928/p_rx1WWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3772,
+          "following_count": 956,
+          "like_count": 52417,
+          "listed_count": 11,
+          "media_count": 493,
+          "tweet_count": 6981
+        },
+        "username": "DrSunan2022422",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053565027526066176"
+      ],
+      "media_source_tweet_id": [
+        "2053611044501893126"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2053637322571440488",
+    "created_at": "2026-05-11T00:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T01:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053637322571440488"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "跨男"
+        },
+        {
+          "end": 27,
+          "start": 23,
+          "tag": "ftm"
+        },
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "迷因"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1853728008580050944",
+          "start": 3,
+          "username": "transman_meme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HNFntRTLR9",
+          "end": 55,
+          "expanded_url": "https://x.com/transman_meme/status/2053611044501893126/photo/1",
+          "media_key": "3_2053565027526066176",
+          "start": 32,
+          "url": "https://t.co/HNFntRTLR9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053637322571440488",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053611044501893126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @transman_meme: #跨男 #ftm #迷因 https://t.co/HNFntRTLR9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1309,
+        "media_key": "3_2053565027526066176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-6gyTbQAAz_NT.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053565027526066176"
+          ],
+          "media_source_tweet_id": [
+            "2053611044501893126"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2053637322571440488",
+        "created_at": "2026-05-11T00:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053637322571440488"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "跨男"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "ftm"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "迷因"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1853728008580050944",
+              "start": 3,
+              "username": "transman_meme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HNFntRTLR9",
+              "end": 55,
+              "expanded_url": "https://x.com/transman_meme/status/2053611044501893126/photo/1",
+              "media_key": "3_2053565027526066176",
+              "start": 32,
+              "url": "https://t.co/HNFntRTLR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053637322571440488",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053611044501893126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @transman_meme: #跨男 #ftm #迷因 https://t.co/HNFntRTLR9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053565027526066176"
+          ]
+        },
+        "author_id": "1853728008580050944",
+        "conversation_id": "2053611044501893126",
+        "created_at": "2026-05-10T23:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T00:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053611044501893126"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "跨男"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "ftm"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "迷因"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HNFntRTLR9",
+              "end": 36,
+              "expanded_url": "https://x.com/transman_meme/status/2053611044501893126/photo/1",
+              "media_key": "3_2053565027526066176",
+              "start": 13,
+              "url": "https://t.co/HNFntRTLR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053611044501893126",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 668,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "#跨男 #ftm #迷因 https://t.co/HNFntRTLR9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 1455,
+          "like_count": 12890,
+          "listed_count": 2,
+          "media_count": 268,
+          "tweet_count": 2368
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T09:16:18.000Z",
+        "description": "只求共嗚 \n主帳：@RaisoyaX_X（已刪帳）\n棉花糖：https://t.co/BxL63AFAPE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "RaisoyaX_X"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/v985ssw9pk6p7m…",
+                "end": 53,
+                "expanded_url": "https://marshmallow-qa.com/v985ssw9pk6p7my?t=ajwEqv&utm_medium=url_text&utm_source=promotion",
+                "start": 30,
+                "url": "https://t.co/BxL63AFAPE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/transm…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/transmanmeme.bsky.social",
+                "start": 0,
+                "url": "https://t.co/mRidPau6T7"
+              }
+            ]
+          }
+        },
+        "id": "1853728008580050944",
+        "name": "跨男迷因",
+        "pinned_tweet_id": "1945538139894026576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939723306653097984/CGtjuE-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 46,
+          "like_count": 765,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 650
+        },
+        "url": "https://t.co/mRidPau6T7",
+        "username": "transman_meme",
+        "verified": false
+      }
+    ]
+  }
+}

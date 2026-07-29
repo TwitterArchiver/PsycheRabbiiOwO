@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977380591961337856"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1977380606737551542",
+    "created_at": "2025-10-12T14:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T15:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977380606737551542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qvM8tOEqY1",
+          "end": 34,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1977380606737551542/photo/1",
+          "media_key": "3_1977380591961337856",
+          "start": 11,
+          "url": "https://t.co/qvM8tOEqY1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977380606737551542",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哪里有色气棒棒😇😇😇 https://t.co/qvM8tOEqY1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1632,
+        "media_key": "3_1977380591961337856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ERK_mbcAAHQ3H.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977380591961337856"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1977380606737551542",
+        "created_at": "2025-10-12T14:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T15:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977380606737551542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qvM8tOEqY1",
+              "end": 34,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1977380606737551542/photo/1",
+              "media_key": "3_1977380591961337856",
+              "start": 11,
+              "url": "https://t.co/qvM8tOEqY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977380606737551542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪里有色气棒棒😇😇😇 https://t.co/qvM8tOEqY1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "唉",
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "😇",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 430,
+          "like_count": 456,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 430
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

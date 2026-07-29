@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2070829870129787338",
+    "created_at": "2026-06-27T11:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070838341155922297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1945848714058203136",
+          "start": 0,
+          "username": "LnaRoaH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070838341155922297",
+    "in_reply_to_user_id": "1945848714058203136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070829870129787338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LnaRoaH 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070829856435351552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0QyF8aMAANl6_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070829856435400704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0QyF8a8AA8Sxe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2070829870129787338",
+        "created_at": "2026-06-27T11:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070838341155922297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1945848714058203136",
+              "start": 0,
+              "username": "LnaRoaH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070838341155922297",
+        "in_reply_to_user_id": "1945848714058203136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070829870129787338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LnaRoaH 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070829856435351552",
+            "3_2070829856435400704"
+          ]
+        },
+        "author_id": "1945848714058203136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070829870129787338",
+        "created_at": "2026-06-27T11:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070829870129787338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7rEmz834h",
+              "end": 40,
+              "expanded_url": "https://x.com/LnaRoaH/status/2070829870129787338/photo/1",
+              "media_key": "3_2070829856435351552",
+              "start": 17,
+              "url": "https://t.co/j7rEmz834h"
+            },
+            {
+              "display_url": "pic.x.com/j7rEmz834h",
+              "end": 40,
+              "expanded_url": "https://x.com/LnaRoaH/status/2070829870129787338/photo/1",
+              "media_key": "3_2070829856435400704",
+              "start": 17,
+              "url": "https://t.co/j7rEmz834h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070829870129787338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "茉酸奶新品\n仲夏榴莲梦⌯'ᵕ'⌯ https://t.co/j7rEmz834h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 1595,
+          "like_count": 18222,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 2745
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-17T14:11:19.000Z",
+        "description": "你好啊～我是lhr 攝影｜HIFI｜畫畫｜羽毛球｜游泳｜化學 ｜推推空間｜散文诗｜坐標待定天津市和苏州市 調戲鏈接🔗https://t.co/QZ0qizQuEq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lnaroah",
+                "end": 81,
+                "expanded_url": "https://ngl.link/lnaroah",
+                "start": 58,
+                "url": "https://t.co/QZ0qizQuEq"
+              }
+            ]
+          }
+        },
+        "id": "1945848714058203136",
+        "location": "距你1.5km",
+        "name": "lhr～",
+        "pinned_tweet_id": "2054592648699363690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980434750884966400/-y_6Pczc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 103,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 360
+        },
+        "url": "",
+        "username": "LnaRoaH",
+        "verified": true
+      }
+    ]
+  }
+}

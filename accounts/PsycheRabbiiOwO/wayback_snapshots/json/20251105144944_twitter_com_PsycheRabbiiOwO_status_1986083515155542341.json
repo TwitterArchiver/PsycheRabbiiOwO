@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986083507765116928",
+        "3_1986083507756777472"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1986083515155542341",
+    "created_at": "2025-11-05T14:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T15:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986083515155542341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GR65IgYRFL",
+          "end": 73,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1986083515155542341/photo/1",
+          "media_key": "3_1986083507765116928",
+          "start": 50,
+          "url": "https://t.co/GR65IgYRFL"
+        },
+        {
+          "display_url": "pic.x.com/GR65IgYRFL",
+          "end": 73,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1986083515155542341/photo/1",
+          "media_key": "3_1986083507756777472",
+          "start": 50,
+          "url": "https://t.co/GR65IgYRFL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986083515155542341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🍥🍥67days前后对比\n唉，我怎么这么丑啊唉\n左前（表情像个若只）\n右后（好像也就奈子大了点？） https://t.co/GR65IgYRFL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1803,
+        "media_key": "3_1986083507765116928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_8bXaaAAAEzHp.jpg",
+        "width": 1179
+      },
+      {
+        "height": 746,
+        "media_key": "3_1986083507756777472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_8bXYawAAttkb.jpg",
+        "width": 457
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986083507765116928",
+            "3_1986083507756777472"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1986083515155542341",
+        "created_at": "2025-11-05T14:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T15:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986083515155542341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GR65IgYRFL",
+              "end": 73,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1986083515155542341/photo/1",
+              "media_key": "3_1986083507765116928",
+              "start": 50,
+              "url": "https://t.co/GR65IgYRFL"
+            },
+            {
+              "display_url": "pic.x.com/GR65IgYRFL",
+              "end": 73,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1986083515155542341/photo/1",
+              "media_key": "3_1986083507756777472",
+              "start": 50,
+              "url": "https://t.co/GR65IgYRFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986083515155542341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🍥🍥67days前后对比\n唉，我怎么这么丑啊唉\n左前（表情像个若只）\n右后（好像也就奈子大了点？） https://t.co/GR65IgYRFL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/165cm 52kg 本人很丑别骂我",
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 464,
+          "like_count": 566,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 516
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

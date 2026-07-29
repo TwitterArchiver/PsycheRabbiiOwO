@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013451409996361728",
+        "3_2013451411640422400"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2013451422063562931",
+    "created_at": "2026-01-20T03:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T04:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013451422063562931"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/08icIvRP5n",
+          "end": 99,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2013451422063562931/photo/1",
+          "media_key": "3_2013451409996361728",
+          "start": 76,
+          "url": "https://t.co/08icIvRP5n"
+        },
+        {
+          "display_url": "pic.x.com/08icIvRP5n",
+          "end": 99,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2013451422063562931/photo/1",
+          "media_key": "3_2013451411640422400",
+          "start": 76,
+          "url": "https://t.co/08icIvRP5n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013451422063562931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "热门是吧\n我操你妈\n\n“给建议”，但是半句不离裤裆\n经典拿极端说全部，加重刻板印象\n\n讽刺是吧\n我操你妈，我操你爸，\n我操你儿子我操你女儿，我操你全家 https://t.co/08icIvRP5n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1833,
+        "media_key": "3_2013451409996361728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_E3Y8FXsAAXX5C.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013451411640422400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_E3ZCNWEAA_AI5.jpg",
+        "width": 1094
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013451409996361728",
+            "3_2013451411640422400"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2013451422063562931",
+        "created_at": "2026-01-20T03:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T04:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013451422063562931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/08icIvRP5n",
+              "end": 99,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2013451422063562931/photo/1",
+              "media_key": "3_2013451409996361728",
+              "start": 76,
+              "url": "https://t.co/08icIvRP5n"
+            },
+            {
+              "display_url": "pic.x.com/08icIvRP5n",
+              "end": 99,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2013451422063562931/photo/1",
+              "media_key": "3_2013451411640422400",
+              "start": 76,
+              "url": "https://t.co/08icIvRP5n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013451422063562931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "热门是吧\n我操你妈\n\n“给建议”，但是半句不离裤裆\n经典拿极端说全部，加重刻板印象\n\n讽刺是吧\n我操你妈，我操你爸，\n我操你儿子我操你女儿，我操你全家 https://t.co/08icIvRP5n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）含🍥做题蛆/长相普通别骂我参考亮点里的照片/只混生物圈岩石圈大气圈水圈/链接是提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲（💯互fo8964）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 830,
+          "like_count": 3182,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1155
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

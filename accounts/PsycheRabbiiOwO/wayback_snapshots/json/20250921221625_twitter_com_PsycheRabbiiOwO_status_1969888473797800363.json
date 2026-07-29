@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1969816122615869661",
+    "created_at": "2025-09-21T22:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T23:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969888473797800363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1744976536397340672",
+          "start": 0,
+          "username": "JxunViolet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969888473797800363",
+    "in_reply_to_user_id": "1744976536397340672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969875990513148245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JxunViolet 谢谢！开心🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1969816122615869661",
+        "created_at": "2025-09-21T22:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T23:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969888473797800363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1744976536397340672",
+              "start": 0,
+              "username": "JxunViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969888473797800363",
+        "in_reply_to_user_id": "1744976536397340672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969875990513148245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JxunViolet 谢谢！开心🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744976536397340672",
+        "conversation_id": "1969816122615869661",
+        "created_at": "2025-09-21T21:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T22:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969875990513148245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969875990513148245",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969816122615869661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 生日快乐🎂！要天天开心哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/含糖男娘2025.09.06//可能是泛性恋？/有对象了已经🥰@pirapira2112/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 422,
+          "like_count": 408,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 404
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-10T06:56:50.000Z",
+        "description": "大号@Jxun_violet 换手机的时候被不小心封了 高龄超大只无糖mtf｜持糖胆小鬼｜infj小老头｜待业中 ｜计划分手后含糖 请大家多多指教喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "Jxun_violet"
+              }
+            ]
+          }
+        },
+        "id": "1744976536397340672",
+        "location": "夢の地",
+        "name": "薰瑾🏳️‍⚧️",
+        "pinned_tweet_id": "1915129176920821881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744976943014203392/yQlBnDjt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 450,
+          "like_count": 569,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 280
+        },
+        "username": "JxunViolet",
+        "verified": false
+      }
+    ]
+  }
+}

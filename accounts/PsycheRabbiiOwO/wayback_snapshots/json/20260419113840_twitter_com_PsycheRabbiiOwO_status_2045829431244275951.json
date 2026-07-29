@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045794861383921664"
+      ],
+      "media_source_tweet_id": [
+        "2045794864000844261"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2045829431244275951",
+    "created_at": "2026-04-19T11:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T12:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045829431244275951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P6H4xAjbPn",
+          "end": 83,
+          "expanded_url": "https://x.com/amber_toffee/status/2045794864000844261/photo/1",
+          "media_key": "3_2045794861383921664",
+          "start": 60,
+          "url": "https://t.co/P6H4xAjbPn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045829431244275951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045794864000844261",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 笑死，这位韩国小粉红在我发完解释以后光速把我屏蔽了，各位要不都去原评论区解释一下吧 https://t.co/P6H4xAjbPn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045794861383921664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQfllwbsAAvh5O.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045794861383921664"
+          ],
+          "media_source_tweet_id": [
+            "2045794864000844261"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2045829431244275951",
+        "created_at": "2026-04-19T11:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045829431244275951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6H4xAjbPn",
+              "end": 83,
+              "expanded_url": "https://x.com/amber_toffee/status/2045794864000844261/photo/1",
+              "media_key": "3_2045794861383921664",
+              "start": 60,
+              "url": "https://t.co/P6H4xAjbPn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045829431244275951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045794864000844261",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 笑死，这位韩国小粉红在我发完解释以后光速把我屏蔽了，各位要不都去原评论区解释一下吧 https://t.co/P6H4xAjbPn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045794861383921664"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "2045793196341379121",
+        "created_at": "2026-04-19T09:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045794864000844261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6H4xAjbPn",
+              "end": 65,
+              "expanded_url": "https://x.com/amber_toffee/status/2045794864000844261/photo/1",
+              "media_key": "3_2045794861383921664",
+              "start": 42,
+              "url": "https://t.co/P6H4xAjbPn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045794864000844261",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1686,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045793196341379121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死，这位韩国小粉红在我发完解释以后光速把我屏蔽了，各位要不都去原评论区解释一下吧 https://t.co/P6H4xAjbPn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 1304,
+          "like_count": 8738,
+          "listed_count": 2,
+          "media_count": 238,
+          "tweet_count": 1992
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "☭ 🏳️‍⚧️ ⚢ / ᴢʜ, ᴇɴ / ❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2040939467280674867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25888,
+          "following_count": 2776,
+          "like_count": 41277,
+          "listed_count": 14,
+          "media_count": 628,
+          "tweet_count": 21964
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

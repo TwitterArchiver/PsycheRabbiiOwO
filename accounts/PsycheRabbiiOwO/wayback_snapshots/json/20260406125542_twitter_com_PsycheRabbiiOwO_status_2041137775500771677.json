@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2041137775500771677",
+    "created_at": "2026-04-06T12:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041137775500771677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wd2xxj/status/…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/wd2xxj/status/2041054267122016745",
+          "start": 30,
+          "url": "https://t.co/CdcWxBiban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041137775500771677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041054267122016745",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种我真喜欢，可是这不可能不打药的\n\n不兑，那不是ftm嘛 https://t.co/CdcWxBiban"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2041054256246267904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNICDbboAAn9Y5.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2041137775500771677",
+        "created_at": "2026-04-06T12:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041137775500771677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wd2xxj/status/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/wd2xxj/status/2041054267122016745",
+              "start": 30,
+              "url": "https://t.co/CdcWxBiban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041137775500771677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041054267122016745",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种我真喜欢，可是这不可能不打药的\n\n不兑，那不是ftm嘛 https://t.co/CdcWxBiban"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041054256246267904"
+          ]
+        },
+        "author_id": "2011599098567409665",
+        "conversation_id": "2041054267122016745",
+        "created_at": "2026-04-06T07:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T08:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041054267122016745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8QwoDA51B0",
+              "end": 29,
+              "expanded_url": "https://x.com/wd2xxj/status/2041054267122016745/photo/1",
+              "media_key": "3_2041054256246267904",
+              "start": 6,
+              "url": "https://t.co/8QwoDA51B0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041054267122016745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 42767,
+          "like_count": 300,
+          "quote_count": 10,
+          "reply_count": 84,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "肌肉不易😢 https://t.co/8QwoDA51B0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 1209,
+          "like_count": 7019,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 1747
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-15T00:39:40.000Z",
+        "description": "",
+        "id": "2011599098567409665",
+        "name": "非常快6号机",
+        "pinned_tweet_id": "2031626268517810601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011599200648388608/4DMHAckG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 225,
+          "like_count": 7642,
+          "listed_count": 10,
+          "media_count": 1098,
+          "tweet_count": 2755
+        },
+        "username": "wd2xxj",
+        "verified": false
+      }
+    ]
+  }
+}

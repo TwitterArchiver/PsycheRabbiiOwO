@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072007489466601473"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2072007500032037317",
+    "created_at": "2026-06-30T17:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072007500032037317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gVzndiglYg",
+          "end": 44,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2072007500032037317/photo/1",
+          "media_key": "3_2072007489466601473",
+          "start": 21,
+          "url": "https://t.co/gVzndiglYg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072007500032037317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一年前咋长这样？？？？\n啊这谁啊😫？？？ https://t.co/gVzndiglYg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1957,
+        "media_key": "3_2072007489466601473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HME_1W2bEAE0WCY.jpg",
+        "width": 1468
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072007489466601473"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2072007500032037317",
+        "created_at": "2026-06-30T17:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072007500032037317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gVzndiglYg",
+              "end": 44,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2072007500032037317/photo/1",
+              "media_key": "3_2072007489466601473",
+              "start": 21,
+              "url": "https://t.co/gVzndiglYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072007500032037317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一年前咋长这样？？？？\n啊这谁啊😫？？？ https://t.co/gVzndiglYg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 1608,
+          "like_count": 18409,
+          "listed_count": 3,
+          "media_count": 295,
+          "tweet_count": 2778
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

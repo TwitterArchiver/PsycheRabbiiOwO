@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1997320966565994640",
+    "created_at": "2025-12-06T15:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T16:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997320966565994640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1784178668928937985",
+          "start": 3,
+          "username": "xingruh257144"
+        },
+        {
+          "end": 29,
+          "id": "1321471835058233345",
+          "start": 19,
+          "username": "enoly_gay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997320966565994640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997231426278998391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xingruh257144: @enoly_gay 哇还有mygo子仙人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1997320966565994640",
+        "created_at": "2025-12-06T15:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997320966565994640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1784178668928937985",
+              "start": 3,
+              "username": "xingruh257144"
+            },
+            {
+              "end": 29,
+              "id": "1321471835058233345",
+              "start": 19,
+              "username": "enoly_gay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997320966565994640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997231426278998391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xingruh257144: @enoly_gay 哇还有mygo子仙人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784178668928937985",
+        "conversation_id": "1997205363595304978",
+        "created_at": "2025-12-06T09:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T10:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997231426278998391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1321471835058233345",
+              "start": 0,
+              "username": "enoly_gay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997231426278998391",
+        "in_reply_to_user_id": "1321471835058233345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1720,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997205363595304978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enoly_gay 哇还有mygo子仙人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/本人长相普通别骂我参考亮点里的照片/雷点不多只有顺直黄蛆，od，反跨（不雷人只雷事不要跳脸就好我很少b人只会不理你）/这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48ZKhM"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰（🏳️‍⚧️💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 669,
+          "like_count": 1865,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 871
+        },
+        "url": "https://t.co/274M48ZKhM",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-27T11:12:08.000Z",
+        "description": "让希望做我无声永存的墓志铭",
+        "id": "1784178668928937985",
+        "location": "璃月",
+        "name": "祥瑞鹤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784239322046119936/lZo05aNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 70,
+          "like_count": 1037,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 563
+        },
+        "username": "xingruh257144",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-28T15:20:19.000Z",
+        "description": "",
+        "id": "1321471835058233345",
+        "location": "HIROSHIMA",
+        "name": "蒂贝茨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878290071004295168/5F-38hWh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 211,
+          "like_count": 3867,
+          "listed_count": 54,
+          "media_count": 781,
+          "tweet_count": 2010
+        },
+        "username": "enoly_gay",
+        "verified": false
+      }
+    ]
+  }
+}

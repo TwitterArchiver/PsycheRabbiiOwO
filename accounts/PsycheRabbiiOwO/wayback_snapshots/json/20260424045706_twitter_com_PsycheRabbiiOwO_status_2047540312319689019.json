@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2047540312319689019",
+    "created_at": "2026-04-24T04:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047540312319689019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1473159080143376385",
+          "start": 3,
+          "username": "Jacque1ineWong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047540312319689019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047517245463769305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jacque1ineWong: 还有第四种 跨妹给男朋友手术费的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2047540312319689019",
+        "created_at": "2026-04-24T04:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047540312319689019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1473159080143376385",
+              "start": 3,
+              "username": "Jacque1ineWong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047540312319689019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047517245463769305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jacque1ineWong: 还有第四种 跨妹给男朋友手术费的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473159080143376385",
+        "conversation_id": "2047517245463769305",
+        "created_at": "2026-04-24T03:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047517245463769305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mizu_bai/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/mizu_bai/status/2046962518367916178",
+              "start": 17,
+              "url": "https://t.co/YW4uhQ6d4X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047517245463769305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 426,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046962518367916178",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有第四种 跨妹给男朋友手术费的 https://t.co/YW4uhQ6d4X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "凌月月qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 1338,
+          "like_count": 9765,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 2107
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-21T05:11:17.000Z",
+        "description": "👩‍❤️‍💋‍👨猎头 | Career Advisor for MTFs | Specialized in BD/MKT/PM/Front-Middle Offices for Web3/Web2 Tech Company, Firms",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lnk.bio/jacque1inewong",
+                "end": 23,
+                "expanded_url": "https://lnk.bio/jacque1inewong",
+                "start": 0,
+                "url": "https://t.co/4VcYD8QOuv"
+              }
+            ]
+          }
+        },
+        "id": "1473159080143376385",
+        "location": "Macau",
+        "name": "茉莉奶绿黄奕缘（猎头版）",
+        "pinned_tweet_id": "1981532932574761001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035239048470732800/28ncdCFx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3857,
+          "following_count": 569,
+          "like_count": 33199,
+          "listed_count": 8,
+          "media_count": 667,
+          "tweet_count": 12023
+        },
+        "url": "https://t.co/4VcYD8QOuv",
+        "username": "Jacque1ineWong",
+        "verified": true
+      }
+    ]
+  }
+}

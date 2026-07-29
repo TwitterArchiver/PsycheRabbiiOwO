@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2045336515534893361",
+    "created_at": "2026-04-18T08:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T09:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045425526685450540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1512280643761479680",
+          "start": 0,
+          "username": "nianshoulong"
+        },
+        {
+          "end": 21,
+          "id": "1545277694325116928",
+          "start": 14,
+          "username": "BI3BXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045425526685450540",
+    "in_reply_to_user_id": "1512280643761479680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045401178922701198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nianshoulong @BI3BXI 喹硫平会吗？我都吃过，只有奥氮平米氮平会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2045336515534893361",
+        "created_at": "2026-04-18T08:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045425526685450540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1512280643761479680",
+              "start": 0,
+              "username": "nianshoulong"
+            },
+            {
+              "end": 21,
+              "id": "1545277694325116928",
+              "start": 14,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045425526685450540",
+        "in_reply_to_user_id": "1512280643761479680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045401178922701198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nianshoulong @BI3BXI 喹硫平会吗？我都吃过，只有奥氮平米氮平会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512280643761479680",
+        "conversation_id": "2045336515534893361",
+        "created_at": "2026-04-18T07:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045401178922701198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045401178922701198",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045336515534893361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI 应该是喹硫平、奥氮平、米氮平这种非典型抗精神病药，有明显的增强食欲的作用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 1283,
+          "like_count": 8471,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 1964
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-08T04:06:27.000Z",
+        "description": "愿你能拥抱希望和爱｜愿你有能力爱与被爱｜变成可爱毛茸茸的我@JiLi_Fox丨勿挂念坠入深渊的我@jilifuneng",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "JiLi_Fox"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "jilifuneng"
+              }
+            ]
+          }
+        },
+        "id": "1512280643761479680",
+        "location": "Guangdong",
+        "name": "年兽龙（等待重生版）",
+        "pinned_tweet_id": "1792404911176728870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659240762838781954/YNM77ZXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4327,
+          "following_count": 174,
+          "like_count": 3065,
+          "listed_count": 3,
+          "media_count": 733,
+          "tweet_count": 5875
+        },
+        "username": "nianshoulong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "海棠花开 真情为您｜Premium+｜🏳️‍🌈Enby🏳️‍⚧️\nCrush（？）@XUEQIUxka 好姐姐 @Tennoujinyano\n❤️@show5560 本垢@yqua_\n好伙伴@hoshinofujivy @Jimi_yang22770",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 70,
+                "start": 56,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "show5560"
+              },
+              {
+                "end": 91,
+                "start": 85,
+                "username": "yqua_"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "Jimi_yang22770"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8729,
+          "following_count": 4053,
+          "like_count": 41795,
+          "listed_count": 25,
+          "media_count": 2713,
+          "tweet_count": 10575
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

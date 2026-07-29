@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1990200885352554797",
+    "created_at": "2025-11-17T17:56:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T18:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990479114114113852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1227972166609559553",
+          "start": 0,
+          "username": "Avocado88458510"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990479114114113852",
+    "in_reply_to_user_id": "1227972166609559553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990200885352554797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Avocado88458510 「害怕」有事，和标准里的「确信」有事，不太一样？还是开心点喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1990200885352554797",
+        "created_at": "2025-11-17T17:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T18:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990479114114113852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1227972166609559553",
+              "start": 0,
+              "username": "Avocado88458510"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990479114114113852",
+        "in_reply_to_user_id": "1227972166609559553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990200885352554797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Avocado88458510 「害怕」有事，和标准里的「确信」有事，不太一样？还是开心点喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227972166609559553",
+        "conversation_id": "1990200885352554797",
+        "created_at": "2025-11-16T23:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T00:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990200885352554797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990200885352554797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天天都害怕被别人背后讨论，这算不算是一种“被害妄想”了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/165cm 52kg 本人很丑别骂我/这里这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 511,
+          "like_count": 969,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 623
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-13T15:07:11.000Z",
+        "description": "是葉木-健広呀~也可以叫咱苏梅！｜曾MTX，天残党，已放弃跨性别（目前个人感觉自己的性别并不重要），医学/解剖学性别男｜兴趣爱好是科技、影视、音乐、心理学、生物医学、药理学、乌托邦与反乌托邦，喜欢《少女终末旅行》、《omori》跟《奇诺之旅》｜是个重度姐控｜可以互fo哟！Ｏ(≧▽≦)Ｏ",
+        "id": "1227972166609559553",
+        "location": "我想死",
+        "name": "🍥小葉喵~🏳️‍⚧️（苏梅）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665015546948255744/-E8rizVh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 1699,
+          "like_count": 4035,
+          "listed_count": 8,
+          "media_count": 159,
+          "tweet_count": 1692
+        },
+        "username": "Avocado88458510",
+        "verified": false
+      }
+    ]
+  }
+}

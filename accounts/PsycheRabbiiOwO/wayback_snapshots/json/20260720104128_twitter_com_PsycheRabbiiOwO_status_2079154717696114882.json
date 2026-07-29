@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2078857398878687739",
+    "created_at": "2026-07-20T10:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079154717696114882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1781761964760571904",
+          "start": 0,
+          "username": "school_bec40855"
+        },
+        {
+          "end": 26,
+          "id": "1465701247021838341",
+          "start": 17,
+          "username": "show5560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079154717696114882",
+    "in_reply_to_user_id": "1781761964760571904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078874342235213941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@school_bec40855 @show5560 91共识"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2078857398878687739",
+        "created_at": "2026-07-20T10:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079154717696114882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1781761964760571904",
+              "start": 0,
+              "username": "school_bec40855"
+            },
+            {
+              "end": 26,
+              "id": "1465701247021838341",
+              "start": 17,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079154717696114882",
+        "in_reply_to_user_id": "1781761964760571904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078874342235213941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@school_bec40855 @show5560 91共识"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781761964760571904",
+        "conversation_id": "2078857398878687739",
+        "created_at": "2026-07-19T16:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078874342235213941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078874342235213941",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 51286,
+          "like_count": 1508,
+          "quote_count": 1,
+          "reply_count": 46,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078857398878687739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 宝岛的人想陆🙂\n大陆的人想岛🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 1713,
+          "like_count": 20394,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 3070
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T19:09:42.000Z",
+        "description": "Benjamin, user, kind personality, moderately active. Likes: Plague Inc, MurderDrones, Rebel Inc, Arena Breakout, Afghanistan, etc",
+        "id": "1781761964760571904",
+        "location": "china（中国）🇨🇳",
+        "name": "🇨🇳温德华（阿拉克拉）",
+        "pinned_tweet_id": "1917811737136619956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990730720139177984/8gNI2iZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 434,
+          "like_count": 12263,
+          "listed_count": 6,
+          "media_count": 247,
+          "tweet_count": 3162
+        },
+        "url": "",
+        "username": "school_bec40855",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5144,
+          "following_count": 1734,
+          "like_count": 31780,
+          "listed_count": 13,
+          "media_count": 2400,
+          "tweet_count": 11124
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

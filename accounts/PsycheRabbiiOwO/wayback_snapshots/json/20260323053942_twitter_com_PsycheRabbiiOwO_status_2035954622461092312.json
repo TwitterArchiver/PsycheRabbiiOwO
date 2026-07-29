@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035772912805048320",
+        "3_2035772920996532224"
+      ],
+      "media_source_tweet_id": [
+        "2035772928823017714",
+        "2035772928823017714"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "2035954622461092312",
+    "created_at": "2026-03-23T05:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T06:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035954622461092312"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 107,
+          "start": 104,
+          "tag": "男娘"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "伪娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1749111869800144896",
+          "start": 3,
+          "username": "a3193155173"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3sYFSDs748",
+          "end": 135,
+          "expanded_url": "https://x.com/a3193155173/status/2035772928823017714/photo/1",
+          "media_key": "3_2035772912805048320",
+          "start": 112,
+          "url": "https://t.co/3sYFSDs748"
+        },
+        {
+          "display_url": "pic.x.com/3sYFSDs748",
+          "end": 135,
+          "expanded_url": "https://x.com/a3193155173/status/2035772928823017714/photo/1",
+          "media_key": "3_2035772920996532224",
+          "start": 112,
+          "url": "https://t.co/3sYFSDs748"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035954622461092312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035772928823017714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @a3193155173: 外出野战路上发现火情遂拨打119\n在我们做爱的时候119就过去了\n火势得到有效控制\n火灭了我们也做完了\n这边建议大家开车不要往窗外弹烟头\n@平安天津\n\n视频剪一剪就发别着急\n#男娘 #伪娘 https://t.co/3sYFSDs748"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2035772912805048320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HECErZ8bcAAWhdl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2035772920996532224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HECEr4dbkAANP31.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035772912805048320",
+            "3_2035772920996532224"
+          ],
+          "media_source_tweet_id": [
+            "2035772928823017714",
+            "2035772928823017714"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2035954622461092312",
+        "created_at": "2026-03-23T05:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T06:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035954622461092312"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "男娘"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "伪娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749111869800144896",
+              "start": 3,
+              "username": "a3193155173"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sYFSDs748",
+              "end": 135,
+              "expanded_url": "https://x.com/a3193155173/status/2035772928823017714/photo/1",
+              "media_key": "3_2035772912805048320",
+              "start": 112,
+              "url": "https://t.co/3sYFSDs748"
+            },
+            {
+              "display_url": "pic.x.com/3sYFSDs748",
+              "end": 135,
+              "expanded_url": "https://x.com/a3193155173/status/2035772928823017714/photo/1",
+              "media_key": "3_2035772920996532224",
+              "start": 112,
+              "url": "https://t.co/3sYFSDs748"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035954622461092312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035772928823017714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @a3193155173: 外出野战路上发现火情遂拨打119\n在我们做爱的时候119就过去了\n火势得到有效控制\n火灭了我们也做完了\n这边建议大家开车不要往窗外弹烟头\n@平安天津\n\n视频剪一剪就发别着急\n#男娘 #伪娘 https://t.co/3sYFSDs748"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035772912805048320",
+            "3_2035772920996532224"
+          ]
+        },
+        "author_id": "1749111869800144896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2035772928823017714",
+        "created_at": "2026-03-22T17:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T18:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035772928823017714"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "男娘"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sYFSDs748",
+              "end": 118,
+              "expanded_url": "https://x.com/a3193155173/status/2035772928823017714/photo/1",
+              "media_key": "3_2035772912805048320",
+              "start": 95,
+              "url": "https://t.co/3sYFSDs748"
+            },
+            {
+              "display_url": "pic.x.com/3sYFSDs748",
+              "end": 118,
+              "expanded_url": "https://x.com/a3193155173/status/2035772928823017714/photo/1",
+              "media_key": "3_2035772920996532224",
+              "start": 95,
+              "url": "https://t.co/3sYFSDs748"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035772928823017714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 20330,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "外出野战路上发现火情遂拨打119\n在我们做爱的时候119就过去了\n火势得到有效控制\n火灭了我们也做完了\n这边建议大家开车不要往窗外弹烟头\n@平安天津\n\n视频剪一剪就发别着急\n#男娘 #伪娘 https://t.co/3sYFSDs748"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/8964准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "rabbii_third"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月（🍥•﹃•🍥）8964",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032672138176704512/fwd2tlZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 1092,
+          "like_count": 5722,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 1568
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-21T16:49:12.000Z",
+        "description": "大号 @ABurrell24870 这个小号清水号，大号发的清水小号也会发",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "ABurrell24870"
+              }
+            ]
+          }
+        },
+        "id": "1749111869800144896",
+        "name": "再也不敢普法了",
+        "pinned_tweet_id": "1927755928973001103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749114017871024128/FPAlCVV6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 49,
+          "like_count": 149,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 177
+        },
+        "username": "a3193155173",
+        "verified": false
+      }
+    ]
+  }
+}

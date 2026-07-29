@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2011709757288329707",
+    "created_at": "2026-01-15T07:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T08:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011709757288329707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444097362889097226",
+          "start": 3,
+          "username": "MagaJokesBot"
+        },
+        {
+          "end": 31,
+          "id": "1677267341053161474",
+          "start": 18,
+          "username": "hubertjiang3"
+        },
+        {
+          "end": 39,
+          "id": "1613079089879076864",
+          "start": 32,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011709757288329707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011634239260016767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MagaJokesBot: @hubertjiang3 @Cldeop 太可怕了洗了一次舒肤佳直接变药娘了，是不是犹太资本变性的阴谋啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2011709757288329707",
+        "created_at": "2026-01-15T07:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T08:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011709757288329707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444097362889097226",
+              "start": 3,
+              "username": "MagaJokesBot"
+            },
+            {
+              "end": 31,
+              "id": "1677267341053161474",
+              "start": 18,
+              "username": "hubertjiang3"
+            },
+            {
+              "end": 39,
+              "id": "1613079089879076864",
+              "start": 32,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011709757288329707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011634239260016767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MagaJokesBot: @hubertjiang3 @Cldeop 太可怕了洗了一次舒肤佳直接变药娘了，是不是犹太资本变性的阴谋啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444097362889097226",
+        "conversation_id": "2011607012346642854",
+        "created_at": "2026-01-15T02:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T03:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011634239260016767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677267341053161474",
+              "start": 0,
+              "username": "hubertjiang3"
+            },
+            {
+              "end": 21,
+              "id": "1613079089879076864",
+              "start": 14,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011634239260016767",
+        "in_reply_to_user_id": "1677267341053161474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 342,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011623813914771842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hubertjiang3 @Cldeop 太可怕了洗了一次舒肤佳直接变药娘了，是不是犹太资本变性的阴谋啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）含🍥做题蛆/长相普通别骂我参考亮点里的照片/只混生物圈岩石圈大气圈水圈/链接是提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲（💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 812,
+          "like_count": 3029,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 1133
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-02T00:30:31.000Z",
+        "description": "#SlavaUkraine #FuckTrump #FuckPutin 当今世界的主要矛盾已经变成了民主阵营左派和右派的矛盾，『独裁』国家反而成了一种薛定谔的身份政治标签",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 0,
+                "tag": "SlavaUkraine"
+              },
+              {
+                "end": 24,
+                "start": 14,
+                "tag": "FuckTrump"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "tag": "FuckPutin"
+              }
+            ]
+          }
+        },
+        "id": "1444097362889097226",
+        "location": "Ukraine",
+        "name": "米畜笑传",
+        "pinned_tweet_id": "2009331602338566641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002044133536661504/soXT5JWD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 1025,
+          "like_count": 113804,
+          "listed_count": 3,
+          "media_count": 437,
+          "tweet_count": 47207
+        },
+        "username": "MagaJokesBot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T10:44:40.000Z",
+        "description": "Every dog has his day.",
+        "id": "1677267341053161474",
+        "location": "Los Angeles, CA",
+        "name": "Hubert.",
+        "pinned_tweet_id": "2009061656018784588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677268983815237632/WfstqAzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 996,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 691
+        },
+        "username": "hubertjiang3",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2006394934333710386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98133,
+          "following_count": 681,
+          "like_count": 33820,
+          "listed_count": 275,
+          "media_count": 15015,
+          "tweet_count": 21679
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

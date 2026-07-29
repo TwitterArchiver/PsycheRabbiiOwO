@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1969712902270816577",
+    "created_at": "2025-09-21T10:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T11:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969712902270816577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1807784016839622656",
+          "start": 3,
+          "username": "LinusAUR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969712902270816577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969637909134524831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LinusAUR: 一个精子细胞大约包含38.5MB的信息。每毫升精液约有1亿个精子细胞，平均射精量则是2.25mL，平均射出时间5s。这使得人类几把的平均带宽来到了1687 TB/s"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1969712902270816577",
+        "created_at": "2025-09-21T10:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T11:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969712902270816577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1807784016839622656",
+              "start": 3,
+              "username": "LinusAUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969712902270816577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969637909134524831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LinusAUR: 一个精子细胞大约包含38.5MB的信息。每毫升精液约有1亿个精子细胞，平均射精量则是2.25mL，平均射出时间5s。这使得人类几把的平均带宽来到了1687 TB/s"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807784016839622656",
+        "conversation_id": "1969637909134524831",
+        "created_at": "2025-09-21T05:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T06:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969637909134524831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969637909134524831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 7676,
+          "like_count": 131,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "一个精子细胞大约包含38.5MB的信息。每毫升精液约有1亿个精子细胞，平均射精量则是2.25mL，平均射出时间5s。这使得人类几把的平均带宽来到了1687 TB/s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/含糖男娘2025.09.06//可能是泛性恋？/有对象了已经🥰@pirapira2112/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 422,
+          "like_count": 400,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 401
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T14:31:22.000Z",
+        "description": "既然猫是一种液体 那橘猫是不是一种橙汁？",
+        "id": "1807784016839622656",
+        "location": "0x00007C00      ",
+        "name": "𝙵𝚘𝚛𝚐𝚎𝚝𝙰𝚄𝚁",
+        "pinned_tweet_id": "1912731001408876631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945730299171680256/X9RRFjK0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4141,
+          "following_count": 551,
+          "like_count": 17579,
+          "listed_count": 5,
+          "media_count": 481,
+          "tweet_count": 4665
+        },
+        "username": "LinusAUR",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074536101960892416",
+        "3_2074536101935824896",
+        "3_2074536101965172736",
+        "3_2074536101956694020"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074536116611592237",
+    "created_at": "2026-07-07T16:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T17:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074536116611592237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IBQZQ8s709",
+          "end": 70,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2074536116611592237/photo/1",
+          "media_key": "3_2074536101960892416",
+          "start": 47,
+          "url": "https://t.co/IBQZQ8s709"
+        },
+        {
+          "display_url": "pic.x.com/IBQZQ8s709",
+          "end": 70,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2074536116611592237/photo/1",
+          "media_key": "3_2074536101935824896",
+          "start": 47,
+          "url": "https://t.co/IBQZQ8s709"
+        },
+        {
+          "display_url": "pic.x.com/IBQZQ8s709",
+          "end": 70,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2074536116611592237/photo/1",
+          "media_key": "3_2074536101965172736",
+          "start": 47,
+          "url": "https://t.co/IBQZQ8s709"
+        },
+        {
+          "display_url": "pic.x.com/IBQZQ8s709",
+          "end": 70,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2074536116611592237/photo/1",
+          "media_key": "3_2074536101956694020",
+          "start": 47,
+          "url": "https://t.co/IBQZQ8s709"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074536116611592237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "apex我很喜欢，赛博朋克我也很喜欢\n\n可是密码比的，这模型什么哨兵玩意\n还有人类吗？？？？ https://t.co/IBQZQ8s709"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 729,
+        "media_key": "3_2074536101960892416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMo7l-caQAA-vdG.jpg",
+        "width": 512
+      },
+      {
+        "height": 921,
+        "media_key": "3_2074536101935824896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMo7l-WbwAAHbs2.jpg",
+        "width": 512
+      },
+      {
+        "height": 764,
+        "media_key": "3_2074536101965172736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMo7l-dbkAAnQa1.jpg",
+        "width": 512
+      },
+      {
+        "height": 663,
+        "media_key": "3_2074536101956694020",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMo7l-baMAQps9Y.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074536101960892416",
+            "3_2074536101935824896",
+            "3_2074536101965172736",
+            "3_2074536101956694020"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074536116611592237",
+        "created_at": "2026-07-07T16:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074536116611592237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IBQZQ8s709",
+              "end": 70,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2074536116611592237/photo/1",
+              "media_key": "3_2074536101960892416",
+              "start": 47,
+              "url": "https://t.co/IBQZQ8s709"
+            },
+            {
+              "display_url": "pic.x.com/IBQZQ8s709",
+              "end": 70,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2074536116611592237/photo/1",
+              "media_key": "3_2074536101935824896",
+              "start": 47,
+              "url": "https://t.co/IBQZQ8s709"
+            },
+            {
+              "display_url": "pic.x.com/IBQZQ8s709",
+              "end": 70,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2074536116611592237/photo/1",
+              "media_key": "3_2074536101965172736",
+              "start": 47,
+              "url": "https://t.co/IBQZQ8s709"
+            },
+            {
+              "display_url": "pic.x.com/IBQZQ8s709",
+              "end": 70,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2074536116611592237/photo/1",
+              "media_key": "3_2074536101956694020",
+              "start": 47,
+              "url": "https://t.co/IBQZQ8s709"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074536116611592237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "apex我很喜欢，赛博朋克我也很喜欢\n\n可是密码比的，这模型什么哨兵玩意\n还有人类吗？？？？ https://t.co/IBQZQ8s709"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 1647,
+          "like_count": 19375,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 2891
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

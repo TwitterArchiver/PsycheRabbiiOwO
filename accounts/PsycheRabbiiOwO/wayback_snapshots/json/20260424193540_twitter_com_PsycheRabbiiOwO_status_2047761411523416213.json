@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2047761411523416213",
+    "created_at": "2026-04-24T19:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T20:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047761411523416213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lwrdhyyuxr2249…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/lwrdhyyuxr22499/status/2047594286456385589",
+          "start": 41,
+          "url": "https://t.co/aFMCMZehm4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047761411523416213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047594286456385589",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实很合逻辑啊\n\n两方各有利益所图，又各有致对方为死地把柄\n\n那不妥妥铁杆盟友么 https://t.co/aFMCMZehm4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2047761411523416213",
+        "created_at": "2026-04-24T19:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047761411523416213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lwrdhyyuxr2249…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/lwrdhyyuxr22499/status/2047594286456385589",
+              "start": 41,
+              "url": "https://t.co/aFMCMZehm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047761411523416213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047594286456385589",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实很合逻辑啊\n\n两方各有利益所图，又各有致对方为死地把柄\n\n那不妥妥铁杆盟友么 https://t.co/aFMCMZehm4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2047594286456385589",
+        "created_at": "2026-04-24T08:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047594286456385589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2047575554157949023",
+              "start": 38,
+              "url": "https://t.co/JdXCN09cnB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047594286456385589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 5813,
+          "like_count": 130,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047575554157949023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "某位姓徐的部长有没有参与\n有没有在福建给李铮残党找关系找资源找校区自己清楚 https://t.co/JdXCN09cnB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯🍥凌月月🍥🤯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 1343,
+          "like_count": 9963,
+          "listed_count": 2,
+          "media_count": 250,
+          "tweet_count": 2128
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4563,
+          "following_count": 2579,
+          "like_count": 2633,
+          "listed_count": 16,
+          "media_count": 398,
+          "tweet_count": 2660
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969647974507544576"
+      ],
+      "media_source_tweet_id": [
+        "1969738379412558090"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1969950145572942005",
+    "created_at": "2025-09-22T02:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T03:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969950145572942005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1847778949272584192",
+          "start": 3,
+          "username": "jingsheng237248"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J8hFuCnQ14",
+          "end": 52,
+          "expanded_url": "https://x.com/jingsheng237248/status/1969738379412558090/photo/1",
+          "media_key": "3_1969647974507544576",
+          "start": 29,
+          "url": "https://t.co/J8hFuCnQ14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969950145572942005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969738379412558090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingsheng237248: 这商家是天才诶 https://t.co/J8hFuCnQ14"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1969647974507544576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1WYZa0XAAA9yPb.jpg",
+        "width": 537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969647974507544576"
+          ],
+          "media_source_tweet_id": [
+            "1969738379412558090"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1969950145572942005",
+        "created_at": "2025-09-22T02:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T03:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969950145572942005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1847778949272584192",
+              "start": 3,
+              "username": "jingsheng237248"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8hFuCnQ14",
+              "end": 52,
+              "expanded_url": "https://x.com/jingsheng237248/status/1969738379412558090/photo/1",
+              "media_key": "3_1969647974507544576",
+              "start": 29,
+              "url": "https://t.co/J8hFuCnQ14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969950145572942005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969738379412558090",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingsheng237248: 这商家是天才诶 https://t.co/J8hFuCnQ14"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969647974507544576"
+          ]
+        },
+        "author_id": "1847778949272584192",
+        "conversation_id": "1969738379412558090",
+        "created_at": "2025-09-21T12:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T13:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969738379412558090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8hFuCnQ14",
+              "end": 31,
+              "expanded_url": "https://x.com/jingsheng237248/status/1969738379412558090/photo/1",
+              "media_key": "3_1969647974507544576",
+              "start": 8,
+              "url": "https://t.co/J8hFuCnQ14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969738379412558090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9848,
+          "like_count": 215,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "这商家是天才诶 https://t.co/J8hFuCnQ14"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/含糖男娘2025.09.06//可能是泛性恋？/有对象了已经🥰@pirapira2112/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 429,
+          "like_count": 410,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 406
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T23:17:00.000Z",
+        "description": "星际殖民和永生兴趣群：https://t.co/Gb5SFglSDN｜我的YouTube 频道https://t.co/sbQiOktQdW｜墙外聪明吧联盟tg群https://t.co/hO6v9As72R｜💯回关，漏fo请私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+KZtdiRh6Kn85N…",
+                "end": 34,
+                "expanded_url": "https://t.me/+KZtdiRh6Kn85NTdh",
+                "start": 11,
+                "url": "https://t.co/Gb5SFglSDN"
+              },
+              {
+                "display_url": "youtube.com/@naofujiang?si…",
+                "end": 70,
+                "expanded_url": "https://youtube.com/@naofujiang?si=PB1KJBBda1TvehWg",
+                "start": 47,
+                "url": "https://t.co/sbQiOktQdW"
+              },
+              {
+                "display_url": "t.me/+-r03gqqFd_9jN…",
+                "end": 104,
+                "expanded_url": "https://t.me/+-r03gqqFd_9jNmIx",
+                "start": 81,
+                "url": "https://t.co/hO6v9As72R"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/xiaona…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/xiaonaofujiang.bsky.social",
+                "start": 0,
+                "url": "https://t.co/t48ryN9R9j"
+              }
+            ]
+          }
+        },
+        "id": "1847778949272584192",
+        "location": "小号@xiaobenzhu211",
+        "name": "脑斧酱-聪明吧",
+        "pinned_tweet_id": "1969873098393420090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873060612315455488/mf2pvdmw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11645,
+          "following_count": 11698,
+          "like_count": 4323,
+          "listed_count": 21,
+          "media_count": 763,
+          "tweet_count": 3676
+        },
+        "url": "https://t.co/t48ryN9R9j",
+        "username": "jingsheng237248",
+        "verified": false
+      }
+    ]
+  }
+}

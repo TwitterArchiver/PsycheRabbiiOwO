@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2079247674629660840",
+    "created_at": "2026-07-20T16:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T17:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079247674629660840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/psycherabbiiow…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/psycherabbiiowo/status/2078658881438577030",
+          "start": 64,
+          "url": "https://t.co/O3UxmP2Ieo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079247674629660840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078658881438577030",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天打完雌激素+感冒发烧\n\n我现在就好像被捆了十个小时还被不停玩乳头搓蛋蛋，还有打屁股挠痒痒的m\n\n胸疼蛋疼肌肉疼全身疼😇😇😇 https://t.co/O3UxmP2Ieo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2804,
+        "media_key": "3_2078658867630882816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNjhOhZawAAAH3z.jpg",
+        "width": 1577
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2079247674629660840",
+        "created_at": "2026-07-20T16:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079247674629660840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/psycherabbiiowo/status/2078658881438577030",
+              "start": 64,
+              "url": "https://t.co/O3UxmP2Ieo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079247674629660840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078658881438577030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天打完雌激素+感冒发烧\n\n我现在就好像被捆了十个小时还被不停玩乳头搓蛋蛋，还有打屁股挠痒痒的m\n\n胸疼蛋疼肌肉疼全身疼😇😇😇 https://t.co/O3UxmP2Ieo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078658867630882816"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2078658881438577030",
+        "created_at": "2026-07-19T01:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078658881438577030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3PRcJUaIAk",
+              "end": 99,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2078658881438577030/photo/1",
+              "media_key": "3_2078658867630882816",
+              "start": 76,
+              "url": "https://t.co/3PRcJUaIAk"
+            },
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/psycherabbiiowo/status/2078634793999450299",
+              "start": 100,
+              "url": "https://t.co/lGXkmROprv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078658881438577030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "感冒发烧了，一个人蜷缩在角落。那种孤独感很强烈，就好像再一次回到了那个分手的夜晚\n\n看着人来人往，大家打扮得漂漂亮亮，集邮很开心很大方，动作不约而同。\n和上次跟前任去的漫展一样，仍然是，想融入却害怕。我好像从小到大都在渴望融入某个圈子，但都好难。总会有莫名其妙的恐惧感，摧毁了好多好多"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4052,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078634793999450299",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感冒发烧了，一个人蜷缩在角落。那种孤独感很强烈，就好像再一次回到了那个分手的夜晚\n\n看着人来人往，大家打扮得漂漂亮亮，集邮很开心很大方，动作不约而同。 https://t.co/3PRcJUaIAk https://t.co/lGXkmROprv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 1713,
+          "like_count": 20408,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 3073
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

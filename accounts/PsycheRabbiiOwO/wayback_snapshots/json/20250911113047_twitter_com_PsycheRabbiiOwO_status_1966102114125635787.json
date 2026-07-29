@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966038186091753476"
+      ],
+      "media_source_tweet_id": [
+        "1966038200415301925"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1966102114125635787",
+    "created_at": "2025-09-11T11:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T12:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966102114125635787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790370144755351552",
+          "start": 3,
+          "username": "FurinaDF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6GjPIIxmyD",
+          "end": 50,
+          "expanded_url": "https://x.com/FurinaDF/status/1966038200415301925/photo/1",
+          "media_key": "3_1966038186091753476",
+          "start": 27,
+          "url": "https://t.co/6GjPIIxmyD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966102114125635787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966038200415301925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FurinaDF: 历史上的今天，9月11日 https://t.co/6GjPIIxmyD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1966038186091753476",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0jFUFDaMAQ4VLV.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966038186091753476"
+          ],
+          "media_source_tweet_id": [
+            "1966038200415301925"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1966102114125635787",
+        "created_at": "2025-09-11T11:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T12:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966102114125635787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790370144755351552",
+              "start": 3,
+              "username": "FurinaDF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6GjPIIxmyD",
+              "end": 50,
+              "expanded_url": "https://x.com/FurinaDF/status/1966038200415301925/photo/1",
+              "media_key": "3_1966038186091753476",
+              "start": 27,
+              "url": "https://t.co/6GjPIIxmyD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966102114125635787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966038200415301925",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FurinaDF: 历史上的今天，9月11日 https://t.co/6GjPIIxmyD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966038186091753476"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1966038200415301925",
+        "created_at": "2025-09-11T07:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T08:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966038200415301925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6GjPIIxmyD",
+              "end": 36,
+              "expanded_url": "https://x.com/FurinaDF/status/1966038200415301925/photo/1",
+              "media_key": "3_1966038186091753476",
+              "start": 13,
+              "url": "https://t.co/6GjPIIxmyD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966038200415301925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5773,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "历史上的今天，9月11日 https://t.co/6GjPIIxmyD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/🍥2025.09.06/MTX/可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 406,
+          "like_count": 343,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 346
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "广西玉林荔枝狗肉节形象大使 | 诸夏爱国者 | 支持博彩和性产业合法化 | 备用账号@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 42,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLR6O"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "1966058430483018062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47424,
+          "following_count": 2300,
+          "like_count": 28477,
+          "listed_count": 139,
+          "media_count": 6587,
+          "tweet_count": 11012
+        },
+        "url": "https://t.co/69nE3RLR6O",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

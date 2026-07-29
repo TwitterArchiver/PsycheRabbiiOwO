@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1996990254209757219",
+    "created_at": "2025-12-06T06:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T07:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997185648189755806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977759027573735424",
+          "start": 0,
+          "username": "tsukiumiRyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997185648189755806",
+    "in_reply_to_user_id": "1977759027573735424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997002372502233506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsukiumiRyue 可爱。。。吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1996990254209757219",
+        "created_at": "2025-12-06T06:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T07:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997185648189755806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977759027573735424",
+              "start": 0,
+              "username": "tsukiumiRyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997185648189755806",
+        "in_reply_to_user_id": "1977759027573735424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997002372502233506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsukiumiRyue 可爱。。。吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977759027573735424",
+        "conversation_id": "1996990254209757219",
+        "created_at": "2025-12-05T17:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T18:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997002372502233506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997002372502233506",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996990254209757219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/本人长相普通别骂我参考亮点里的照片/雷点不多只有顺直黄蛆，od，反跨（不雷人只雷事不要跳脸就好我很少b人只会不理你）/这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48ZKhM"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰（🏳️‍⚧️💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 668,
+          "like_count": 1850,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 868
+        },
+        "url": "https://t.co/274M48ZKhM",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-13T15:37:07.000Z",
+        "description": "喵｜INTJ.ISFP｜165｜xyn🍥HRT.25.10.29｜生日2009.03.11｜n2考取中",
+        "id": "1977759027573735424",
+        "location": "Memories of the Witch",
+        "name": "鎮命🍥",
+        "pinned_tweet_id": "1988659146615582737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996160050096943104/xjE2nG8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 677,
+          "like_count": 12119,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 766
+        },
+        "username": "tsukiumiRyue",
+        "verified": false
+      }
+    ]
+  }
+}

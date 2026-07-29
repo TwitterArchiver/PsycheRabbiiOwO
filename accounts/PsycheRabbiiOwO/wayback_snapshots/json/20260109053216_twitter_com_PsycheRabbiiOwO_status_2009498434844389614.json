@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2009498434844389614",
+    "created_at": "2026-01-09T05:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T06:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009498434844389614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1481958808175923200",
+          "start": 3,
+          "username": "iamdeeprince_"
+        },
+        {
+          "end": 34,
+          "id": "3429950987",
+          "start": 19,
+          "username": "engineers_feed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009498434844389614",
+    "lang": "da",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009322613794017406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iamdeeprince_: @engineers_feed log(😅) =💧log(😄)\n\n😴 + ☕ = 😃\n\n🙂'=😐\n\n🙂''=😶\n\n(👍)^-1=(👎).\n\ne^👁️🥧 + 1 = 0\n\nlog(🌩) = log(☁️) - log(⚡️)\n\nlog(😎)…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2009498434844389614",
+        "created_at": "2026-01-09T05:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T06:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009498434844389614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1481958808175923200",
+              "start": 3,
+              "username": "iamdeeprince_"
+            },
+            {
+              "end": 34,
+              "id": "3429950987",
+              "start": 19,
+              "username": "engineers_feed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009498434844389614",
+        "lang": "da",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009322613794017406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iamdeeprince_: @engineers_feed log(😅) =💧log(😄)\n\n😴 + ☕ = 😃\n\n🙂'=😐\n\n🙂''=😶\n\n(👍)^-1=(👎).\n\ne^👁️🥧 + 1 = 0\n\nlog(🌩) = log(☁️) - log(⚡️)\n\nlog(😎)…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481958808175923200",
+        "conversation_id": "2009177503638933940",
+        "created_at": "2026-01-08T17:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T18:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009322613794017406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3429950987",
+              "start": 0,
+              "username": "engineers_feed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009322613794017406",
+        "in_reply_to_user_id": "3429950987",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 1889,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009177503638933940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@engineers_feed log(😅) =💧log(😄)\n\n😴 + ☕ = 😃\n\n🙂'=😐\n\n🙂''=😶\n\n(👍)^-1=(👎).\n\ne^👁️🥧 + 1 = 0\n\nlog(🌩) = log(☁️) - log(⚡️)\n\nlog(😎) = log(🙂) + log (🕶)\n\nLog(🙈)+Log(🙉)+Log(🙊)=Log(🙈🙉🙊)\n\n∫💧=🌊\n\n∫☘️ = 🌳\n\nSingo / Cosgo = 💃\n\n⚡️=🏋🏻‍♂️💡^2\n\nd(🐔)/dx = 🥚\n\nd²(🐔)/dx² = d(🥚)/dx =🍳."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）含🍥做题蛆/长相普通别骂我参考亮点里的照片/只混生物圈岩石圈大气圈水圈/链接是提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲（💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 796,
+          "like_count": 2930,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1107
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T11:58:47.000Z",
+        "description": "sigh.......",
+        "id": "1481958808175923200",
+        "location": "somewhere in mars",
+        "name": "tuff",
+        "pinned_tweet_id": "2000639512201105441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006333784111624192/IBGKxdqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 3443,
+          "like_count": 193,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 2984
+        },
+        "username": "iamdeeprince_",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-18T14:38:54.000Z",
+        "description": "The most fun way to learn something new everyday. Brother page of @stats_feed YouTube https://t.co/rAUIl0V1xC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "stats_feed"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@world_of_engi…",
+                "end": 109,
+                "expanded_url": "https://youtube.com/@world_of_engineering",
+                "start": 86,
+                "url": "https://t.co/rAUIl0V1xC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "worldofengineering.com",
+                "end": 23,
+                "expanded_url": "https://worldofengineering.com",
+                "start": 0,
+                "url": "https://t.co/knwRB43cRF"
+              }
+            ]
+          }
+        },
+        "id": "3429950987",
+        "name": "World of Engineering",
+        "pinned_tweet_id": "2008160675001196916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509808420030844929/ifEhyqHM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3523635,
+          "following_count": 68,
+          "like_count": 4469,
+          "listed_count": 7094,
+          "media_count": 8792,
+          "tweet_count": 24634
+        },
+        "url": "https://t.co/knwRB43cRF",
+        "username": "engineers_feed",
+        "verified": true
+      }
+    ]
+  }
+}

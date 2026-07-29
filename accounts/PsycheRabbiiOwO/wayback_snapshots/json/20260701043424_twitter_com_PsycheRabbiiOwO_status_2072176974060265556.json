@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072176964157534208"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2072176974060265556",
+    "created_at": "2026-07-01T04:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T05:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072176974060265556"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NAFXU8zX1h",
+          "end": 36,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2072176974060265556/photo/1",
+          "media_key": "3_2072176964157534208",
+          "start": 13,
+          "url": "https://t.co/NAFXU8zX1h"
+        },
+        {
+          "display_url": "x.com/nanami_mua/sta…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/nanami_mua/status/2071968036559700314",
+          "start": 37,
+          "url": "https://t.co/2OV62ket66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072176974060265556",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071968036559700314",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈哈哈哈哈哈哈哈哈 https://t.co/NAFXU8zX1h https://t.co/2OV62ket66"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1973,
+        "media_key": "3_2072176964157534208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHZ-FRbcAADCbV.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072176964157534208"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2072176974060265556",
+        "created_at": "2026-07-01T04:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072176974060265556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NAFXU8zX1h",
+              "end": 36,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2072176974060265556/photo/1",
+              "media_key": "3_2072176964157534208",
+              "start": 13,
+              "url": "https://t.co/NAFXU8zX1h"
+            },
+            {
+              "display_url": "x.com/nanami_mua/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/nanami_mua/status/2071968036559700314",
+              "start": 37,
+              "url": "https://t.co/2OV62ket66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072176974060265556",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071968036559700314",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈哈哈哈哈哈哈哈 https://t.co/NAFXU8zX1h https://t.co/2OV62ket66"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "2071959423241928748",
+        "created_at": "2026-06-30T14:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071968036559700314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071968036559700314",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 648,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071966995663446289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 此地无银三百两什么啊我也没说你是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 1610,
+          "like_count": 18459,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 2788
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX/小证🍥25.1.11/半个家长党/100%健全/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "AnranbuSleep"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanameow～",
+        "pinned_tweet_id": "2023776700212097110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 504,
+          "like_count": 89588,
+          "listed_count": 6,
+          "media_count": 852,
+          "tweet_count": 10763
+        },
+        "url": "",
+        "username": "nanami_mua",
+        "verified": false
+      }
+    ]
+  }
+}

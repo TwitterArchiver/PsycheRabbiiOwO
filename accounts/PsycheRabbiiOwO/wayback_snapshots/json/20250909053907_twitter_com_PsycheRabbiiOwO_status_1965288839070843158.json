@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958586622431436802"
+      ],
+      "media_source_tweet_id": [
+        "1958586625455530029"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1965288839070843158",
+    "created_at": "2025-09-09T05:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T06:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965288839070843158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1673364955171782657",
+          "start": 3,
+          "username": "kxk1388574"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K889B1mZ4t",
+          "end": 54,
+          "expanded_url": "https://x.com/kxk1388574/status/1958586625455530029/photo/1",
+          "media_key": "3_1958586622431436802",
+          "start": 31,
+          "url": "https://t.co/K889B1mZ4t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965288839070843158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958586625455530029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kxk1388574: 灌肠不就相当于被水艹了嘛🥵🥵 https://t.co/K889B1mZ4t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1958586622431436802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy5MJ_PboAI1beP.jpg",
+        "width": 966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958586622431436802"
+          ],
+          "media_source_tweet_id": [
+            "1958586625455530029"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1965288839070843158",
+        "created_at": "2025-09-09T05:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T06:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965288839070843158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1673364955171782657",
+              "start": 3,
+              "username": "kxk1388574"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K889B1mZ4t",
+              "end": 54,
+              "expanded_url": "https://x.com/kxk1388574/status/1958586625455530029/photo/1",
+              "media_key": "3_1958586622431436802",
+              "start": 31,
+              "url": "https://t.co/K889B1mZ4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965288839070843158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958586625455530029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kxk1388574: 灌肠不就相当于被水艹了嘛🥵🥵 https://t.co/K889B1mZ4t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958586622431436802"
+          ]
+        },
+        "author_id": "1673364955171782657",
+        "conversation_id": "1958586625455530029",
+        "created_at": "2025-08-21T17:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T18:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958586625455530029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K889B1mZ4t",
+              "end": 38,
+              "expanded_url": "https://x.com/kxk1388574/status/1958586625455530029/photo/1",
+              "media_key": "3_1958586622431436802",
+              "start": 15,
+              "url": "https://t.co/K889B1mZ4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958586625455530029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 39161,
+          "like_count": 567,
+          "quote_count": 2,
+          "reply_count": 36,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "灌肠不就相当于被水艹了嘛🥵🥵 https://t.co/K889B1mZ4t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/🍥2025.09.06/MTX/可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 390,
+          "like_count": 325,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 322
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*肉便器🍊@tangeorange\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "tangeorange"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk（🍋超大）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8142,
+          "following_count": 5236,
+          "like_count": 40430,
+          "listed_count": 13,
+          "media_count": 620,
+          "tweet_count": 5532
+        },
+        "username": "kxk1388574",
+        "verified": false
+      }
+    ]
+  }
+}

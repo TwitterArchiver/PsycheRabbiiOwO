@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2042996726186086864",
+    "created_at": "2026-04-12T02:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T03:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043161004012654930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1994685146092769284",
+          "start": 0,
+          "username": "Georgeanne35433"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043161004012654930",
+    "in_reply_to_user_id": "1994685146092769284",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042996726186086864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Georgeanne35433 男大弟弟来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2042996726186086864",
+        "created_at": "2026-04-12T02:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T03:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043161004012654930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1994685146092769284",
+              "start": 0,
+              "username": "Georgeanne35433"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043161004012654930",
+        "in_reply_to_user_id": "1994685146092769284",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042996726186086864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Georgeanne35433 男大弟弟来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994685146092769284",
+        "conversation_id": "2042996726186086864",
+        "created_at": "2026-04-11T16:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042996726186086864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042996726186086864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3263,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "片姐们不要再找我月抛了😭\n我说我是药娘我几把硬不了只能半勃起你们尔多隆嘛😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 1247,
+          "like_count": 7689,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 1847
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-29T08:29:45.000Z",
+        "description": "🇨🇳/06/前日语生/mtf/无证含🍥/hrt 2026.3.16/会伪声/军事狙击/wargame/跨圈骂街第一人\n※暂时不接线下\n※看不了也回不了私信，有事微信聊\n★特别提示：不要在我的评论区没事找事，有问题可以好好说，我对正常人很温柔，但对犯贱的人我从来不惯着，别等我烦了直接开团的时候又骂不过然后哭着拉黑我",
+        "id": "1994685146092769284",
+        "name": "ayuki_atsuko🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2036384167915823519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030892145595588610/YaV3S0Qe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 264,
+          "like_count": 2557,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 378
+        },
+        "username": "Georgeanne35433",
+        "verified": false
+      }
+    ]
+  }
+}

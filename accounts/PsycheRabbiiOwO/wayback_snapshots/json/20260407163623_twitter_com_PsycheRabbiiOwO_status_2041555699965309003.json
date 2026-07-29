@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2041430368142942236",
+    "created_at": "2026-04-07T16:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T17:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041555699965309003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812363069487742976",
+          "start": 0,
+          "username": "mingji_A"
+        },
+        {
+          "end": 26,
+          "id": "1543982488019963905",
+          "start": 10,
+          "username": "XPz7qZexOZH76pb"
+        },
+        {
+          "end": 38,
+          "id": "1976995735532138496",
+          "start": 27,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041555699965309003",
+    "in_reply_to_user_id": "1812363069487742976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041430368142942236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingji_A @XPz7qZexOZH76pb @JanboMikan 唇友谊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2926,
+        "media_key": "3_2041430182389809152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSd71cbAAAxz8H.jpg",
+        "width": 2301
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2041430368142942236",
+        "created_at": "2026-04-07T16:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T17:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041555699965309003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812363069487742976",
+              "start": 0,
+              "username": "mingji_A"
+            },
+            {
+              "end": 26,
+              "id": "1543982488019963905",
+              "start": 10,
+              "username": "XPz7qZexOZH76pb"
+            },
+            {
+              "end": 38,
+              "id": "1976995735532138496",
+              "start": 27,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041555699965309003",
+        "in_reply_to_user_id": "1812363069487742976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041430368142942236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingji_A @XPz7qZexOZH76pb @JanboMikan 唇友谊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041430182389809152"
+          ]
+        },
+        "author_id": "1812363069487742976",
+        "conversation_id": "2041430368142942236",
+        "created_at": "2026-04-07T08:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041430368142942236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/meqKxC6UR2",
+              "end": 38,
+              "expanded_url": "https://x.com/mingji_A/status/2041430368142942236/photo/1",
+              "media_key": "3_2041430182389809152",
+              "start": 15,
+              "url": "https://t.co/meqKxC6UR2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041430368142942236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 6052,
+          "like_count": 494,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "男娘的“纯友谊”一般长这样😋 https://t.co/meqKxC6UR2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1230,
+          "like_count": 7253,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 1778
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3183,
+          "following_count": 2133,
+          "like_count": 86920,
+          "listed_count": 16,
+          "media_count": 147,
+          "tweet_count": 16698
+        },
+        "username": "mingji_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T15:38:41.000Z",
+        "description": "一个普普通通的xyn，也许是xnn，未含糖，mtf/hrt未开始。未来的我想做一个安静的xnn/xyn，最终的梦想是想变成自己内心的另一个她。\n小号@LiFeng88725",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "LiFeng88725"
+              }
+            ]
+          }
+        },
+        "id": "1543982488019963905",
+        "name": "秋风 🍁🍂🫧🍥🏳️‍⚧️🍭🍬一直陪伴在你身边",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991527620484427783/O5xvpGxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 2470,
+          "like_count": 1108,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 758
+        },
+        "username": "XPz7qZexOZH76pb",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10561,
+          "following_count": 439,
+          "like_count": 14676,
+          "listed_count": 38,
+          "media_count": 210,
+          "tweet_count": 7502
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

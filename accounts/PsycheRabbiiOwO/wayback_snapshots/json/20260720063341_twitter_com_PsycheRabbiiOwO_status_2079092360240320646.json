@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2078651524033704244",
+    "created_at": "2026-07-20T06:33:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:33:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079092360240320646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1874351728264630272",
+          "start": 0,
+          "username": "jsbsjCV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079092360240320646",
+    "in_reply_to_user_id": "1874351728264630272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079076838991909226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jsbsjCV xm出cos"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2079076735145177088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpdRnMbcAAbHO5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079076735145099265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpdRnMaQAEQgFc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2078651524033704244",
+        "created_at": "2026-07-20T06:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079092360240320646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1874351728264630272",
+              "start": 0,
+              "username": "jsbsjCV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079092360240320646",
+        "in_reply_to_user_id": "1874351728264630272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079076838991909226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jsbsjCV xm出cos"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079076735145177088",
+            "3_2079076735145099265"
+          ]
+        },
+        "author_id": "1874351728264630272",
+        "conversation_id": "2078651524033704244",
+        "created_at": "2026-07-20T05:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079076838991909226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQDmaPf75Q",
+              "end": 60,
+              "expanded_url": "https://x.com/jsbsjCV/status/2079076838991909226/photo/1",
+              "media_key": "3_2079076735145177088",
+              "start": 37,
+              "url": "https://t.co/XQDmaPf75Q"
+            },
+            {
+              "display_url": "pic.x.com/XQDmaPf75Q",
+              "end": 60,
+              "expanded_url": "https://x.com/jsbsjCV/status/2079076838991909226/photo/1",
+              "media_key": "3_2079076735145099265",
+              "start": 37,
+              "url": "https://t.co/XQDmaPf75Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079076838991909226",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078651524033704244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 十六号我也去了世界线来着\n就是天太热了 https://t.co/XQDmaPf75Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 1703,
+          "like_count": 20314,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 3060
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-01T07:07:39.000Z",
+        "description": "我 爱 你 们 所 有 人",
+        "id": "1874351728264630272",
+        "location": "Wong Tai Sin District",
+        "name": "明矾晚安安 🍥 🏳‍⚧",
+        "pinned_tweet_id": "2077730485674139972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077345075764539393/KiSs5EXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 362,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "jsbsjCV",
+        "verified": false
+      }
+    ]
+  }
+}

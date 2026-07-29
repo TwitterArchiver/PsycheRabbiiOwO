@@ -1,0 +1,672 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1967076088020168834",
+    "created_at": "2025-09-14T04:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T05:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967076088020168834"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 70,
+          "tag": "HK416"
+        },
+        {
+          "end": 83,
+          "start": 78,
+          "tag": "少女前线"
+        },
+        {
+          "end": 100,
+          "start": 85,
+          "tag": "GirlsFrontline"
+        },
+        {
+          "end": 114,
+          "start": 102,
+          "tag": "ドールズフロントライン"
+        },
+        {
+          "end": 121,
+          "start": 116,
+          "tag": "ドルフロ"
+        },
+        {
+          "end": 127,
+          "start": 122,
+          "tag": "少女前線"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "994410429488087040",
+          "start": 3,
+          "username": "Minamiya_Chiyo"
+        },
+        {
+          "end": 46,
+          "id": "795060223534731264",
+          "start": 34,
+          "username": "LovelyTohka"
+        },
+        {
+          "end": 68,
+          "id": "994410429488087040",
+          "start": 53,
+          "username": "Minamiya_Chiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967076088020168834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966129652013130069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minamiya_Chiyo: HK416，人形扩编\n原皮：@LovelyTohka \nMod3：@Minamiya_Chiyo \n#HK416  #少女前线  #GirlsFrontline  #ドールズフロントライン  #ドルフロ #少女前線 https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1376,
+        "media_key": "3_1966129635806285824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0kYfJyaEAA4DeC.jpg",
+        "width": 2064
+      },
+      {
+        "height": 1376,
+        "media_key": "3_1966129636196364290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0kYfLPaMAIcQQ3.jpg",
+        "width": 2064
+      },
+      {
+        "height": 1376,
+        "media_key": "3_1966129636489965569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0kYfMVaMAEiF71.jpg",
+        "width": 2064
+      },
+      {
+        "height": 1376,
+        "media_key": "3_1966129647218995207",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0kYf0TaMAcHnkG.jpg",
+        "width": 2064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1967076088020168834",
+        "created_at": "2025-09-14T04:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T05:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967076088020168834"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 70,
+              "tag": "HK416"
+            },
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "少女前线"
+            },
+            {
+              "end": 100,
+              "start": 85,
+              "tag": "GirlsFrontline"
+            },
+            {
+              "end": 114,
+              "start": 102,
+              "tag": "ドールズフロントライン"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "ドルフロ"
+            },
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "少女前線"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "994410429488087040",
+              "start": 3,
+              "username": "Minamiya_Chiyo"
+            },
+            {
+              "end": 46,
+              "id": "795060223534731264",
+              "start": 34,
+              "username": "LovelyTohka"
+            },
+            {
+              "end": 68,
+              "id": "994410429488087040",
+              "start": 53,
+              "username": "Minamiya_Chiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967076088020168834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966129652013130069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Minamiya_Chiyo: HK416，人形扩编\n原皮：@LovelyTohka \nMod3：@Minamiya_Chiyo \n#HK416  #少女前线  #GirlsFrontline  #ドールズフロントライン  #ドルフロ #少女前線 https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966129635806285824",
+            "3_1966129636196364290",
+            "3_1966129636489965569",
+            "3_1966129647218995207"
+          ]
+        },
+        "author_id": "994410429488087040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1966129652013130069",
+        "created_at": "2025-09-11T13:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T14:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966129652013130069"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 50,
+              "tag": "HK416"
+            },
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "少女前线"
+            },
+            {
+              "end": 80,
+              "start": 65,
+              "tag": "GirlsFrontline"
+            },
+            {
+              "end": 94,
+              "start": 82,
+              "tag": "ドールズフロントライン"
+            },
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "ドルフロ"
+            },
+            {
+              "end": 107,
+              "start": 102,
+              "tag": "少女前線"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 26,
+              "id": "795060223534731264",
+              "start": 14,
+              "username": "LovelyTohka"
+            },
+            {
+              "end": 48,
+              "id": "994410429488087040",
+              "start": 33,
+              "username": "Minamiya_Chiyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5Ni4ppwJd",
+              "end": 131,
+              "expanded_url": "https://x.com/Minamiya_Chiyo/status/1966129652013130069/photo/1",
+              "media_key": "3_1966129635806285824",
+              "start": 108,
+              "url": "https://t.co/u5Ni4ppwJd"
+            },
+            {
+              "display_url": "pic.x.com/u5Ni4ppwJd",
+              "end": 131,
+              "expanded_url": "https://x.com/Minamiya_Chiyo/status/1966129652013130069/photo/1",
+              "media_key": "3_1966129636196364290",
+              "start": 108,
+              "url": "https://t.co/u5Ni4ppwJd"
+            },
+            {
+              "display_url": "pic.x.com/u5Ni4ppwJd",
+              "end": 131,
+              "expanded_url": "https://x.com/Minamiya_Chiyo/status/1966129652013130069/photo/1",
+              "media_key": "3_1966129636489965569",
+              "start": 108,
+              "url": "https://t.co/u5Ni4ppwJd"
+            },
+            {
+              "display_url": "pic.x.com/u5Ni4ppwJd",
+              "end": 131,
+              "expanded_url": "https://x.com/Minamiya_Chiyo/status/1966129652013130069/photo/1",
+              "media_key": "3_1966129647218995207",
+              "start": 108,
+              "url": "https://t.co/u5Ni4ppwJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966129652013130069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1516,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "HK416，人形扩编\n原皮：@LovelyTohka \nMod3：@Minamiya_Chiyo \n#HK416  #少女前线  #GirlsFrontline  #ドールズフロントライン  #ドルフロ #少女前線 https://t.co/u5Ni4ppwJd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/🍥2025.09.06/MTX/可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 412,
+          "like_count": 360,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 357
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-10T02:54:56.000Z",
+        "description": "不是男的/也不是女的/日本語N2/175.50/飛行機が好き/不是好人/脾气很差/索粉/重度足控/业余摄影/DM ok/🚪29/168",
+        "id": "994410429488087040",
+        "location": "Hangzhou",
+        "name": "南宫千代",
+        "pinned_tweet_id": "1921189637470498888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736759823411314689/uv_RJoXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 2375,
+          "like_count": 22984,
+          "listed_count": 14,
+          "media_count": 124,
+          "tweet_count": 1957
+        },
+        "username": "Minamiya_Chiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-06T00:28:23.000Z",
+        "description": "CN:十香///图是高P,真人是丑逼///来个人和我贴吧,可以涩涩!",
+        "id": "795060223534731264",
+        "location": "杭州",
+        "name": "𝑻𝒐𝒉𝒌𝒂🥯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764173581314043904/-Abh2yhN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3140,
+          "following_count": 570,
+          "like_count": 6500,
+          "listed_count": 17,
+          "media_count": 238,
+          "tweet_count": 2232
+        },
+        "username": "LovelyTohka",
+        "verified": false
+      }
+    ]
+  }
+}

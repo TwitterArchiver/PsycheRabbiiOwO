@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1977301934827794493",
+    "created_at": "2025-10-12T18:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T19:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977438733478854932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1616696567549034496",
+          "start": 0,
+          "username": "LovelyChino2013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977438733478854932",
+    "in_reply_to_user_id": "1616696567549034496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977301934827794493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LovelyChino2013 这个表情我真的很爱用🥹🥹🥹，呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1977301934827794493",
+        "created_at": "2025-10-12T18:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T19:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977438733478854932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1616696567549034496",
+              "start": 0,
+              "username": "LovelyChino2013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977438733478854932",
+        "in_reply_to_user_id": "1616696567549034496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977301934827794493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LovelyChino2013 这个表情我真的很爱用🥹🥹🥹，呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616696567549034496",
+        "conversation_id": "1977301934827794493",
+        "created_at": "2025-10-12T09:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T10:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977301934827794493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977301934827794493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 943,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“🥹🥺”这俩表情好难绷啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "唉",
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "😇",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 430,
+          "like_count": 459,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 435
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T07:18:09.000Z",
+        "description": "重度社恐\\主业历史学 \\ Trotskyism ☭⁴\\托派☭⁴革命马主义\\mtx🏳️‍⚧️🍥her无证深柜\\喜欢Lolita\\最爱DDLC&Just Yuri❤️芙兰秀秀全员，香风智乃，晓美焰\\夏目安安\\芙兰秀秀\\猫和老鼠\\施特劳斯\\辉夜姬\\赤瞳\\l'Incorruptible\\里推@KawaiiYuri2013",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 142,
+                "username": "KawaiiYuri2013"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "http://marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/UnTrdQVDUJ"
+              }
+            ]
+          }
+        },
+        "id": "1616696567549034496",
+        "location": "Earth",
+        "name": "NatsumeShusui🏳️‍⚧️",
+        "pinned_tweet_id": "1974718151079444599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974674372767182848/V_YNyLiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 897,
+          "like_count": 22480,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 1723
+        },
+        "url": "https://t.co/UnTrdQVDUJ",
+        "username": "LovelyChino2013",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044049224984342529"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2043821531734913045",
+    "created_at": "2026-04-14T13:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044049243397337318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        },
+        {
+          "end": 18,
+          "id": "1613079089879076864",
+          "start": 11,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/71et5Va2LQ",
+          "end": 130,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2044049243397337318/photo/1",
+          "media_key": "3_2044049224984342529",
+          "start": 107,
+          "url": "https://t.co/71et5Va2LQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044049243397337318",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043838791744663585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama @Cldeop 这一步复杂了，应该把分母换成(t+1/t)^2-4\n令t+1/t=k（注意k的取值范围）\n，则h(t)可以表示为I(k)=4k/(k^2-4)\n再求这个函数的最小值就很容易了 https://t.co/71et5Va2LQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2044049224984342529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3r8LaasAEHWZI.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044049224984342529"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2043821531734913045",
+        "created_at": "2026-04-14T13:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044049243397337318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            },
+            {
+              "end": 18,
+              "id": "1613079089879076864",
+              "start": 11,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/71et5Va2LQ",
+              "end": 130,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2044049243397337318/photo/1",
+              "media_key": "3_2044049224984342529",
+              "start": 107,
+              "url": "https://t.co/71et5Va2LQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044049243397337318",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043838791744663585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama @Cldeop 这一步复杂了，应该把分母换成(t+1/t)^2-4\n令t+1/t=k（注意k的取值范围）\n，则h(t)可以表示为I(k)=4k/(k^2-4)\n再求这个函数的最小值就很容易了 https://t.co/71et5Va2LQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2043821531734913045",
+        "created_at": "2026-04-13T23:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T00:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043838791744663585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "description": "第一步：求出 f(x)f(x)f(x) 和 g(x)g(x)g(x) 的表达式 已知 f(x)f(x)f(x) 是定义在 RRR 上的偶函数，g(x)g(x)g(x) 是奇函数，且有已知条件： f(x)+g(x)=ex— (1)f(x) + g(x) = e^x \\quad \\text{--- (1)}f(x)+g(x)=ex— (1) 我们将等式中的 xxx 替换为 −x-x−x，得到： f(−...",
+              "display_url": "mizukiakiyama.com/articles/solve…",
+              "end": 36,
+              "expanded_url": "https://mizukiakiyama.com/articles/solve-math-03",
+              "start": 13,
+              "status": 200,
+              "title": "solve math 03",
+              "unwound_url": "https://mizukiakiyama.com/articles/solve-math-03",
+              "url": "https://t.co/UghOPQnqAO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043838791744663585",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1997,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043821531734913045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 查看解析：https://t.co/UghOPQnqAO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 1266,
+          "like_count": 7969,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 1905
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |Dev @HRTtracker🍥 @KeenLib |  User | 🐱 Lover | 好朋友 🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "KeenLib"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "qianxunchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041377830597246976/UX0FQmaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2930,
+          "following_count": 1864,
+          "like_count": 7674,
+          "listed_count": 2,
+          "media_count": 1055,
+          "tweet_count": 4729
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2035514809815638174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100965,
+          "following_count": 759,
+          "like_count": 36136,
+          "listed_count": 281,
+          "media_count": 17610,
+          "tweet_count": 25338
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

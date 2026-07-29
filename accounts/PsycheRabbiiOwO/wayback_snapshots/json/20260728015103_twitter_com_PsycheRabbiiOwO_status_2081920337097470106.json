@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2081886477097763162",
+    "created_at": "2026-07-28T01:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T02:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081920337097470106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2076841557802864640",
+          "start": 0,
+          "username": "kuukiwtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081920337097470106",
+    "in_reply_to_user_id": "2076841557802864640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081886477097763162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukiwtf 一个自认为清醒，却时时刻刻散出一股味的支妹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 847,
+        "media_key": "3_2081886468453376000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HORYtnbbIAAWGYQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2081886477097763162",
+        "created_at": "2026-07-28T01:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081920337097470106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081920337097470106",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081886477097763162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 一个自认为清醒，却时时刻刻散出一股味的支妹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081886468453376000"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2081886477097763162",
+        "created_at": "2026-07-27T23:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T00:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081886477097763162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CxE9F4CfrP",
+              "end": 164,
+              "expanded_url": "https://x.com/kuukiwtf/status/2081886477097763162/photo/1",
+              "media_key": "3_2081886468453376000",
+              "start": 141,
+              "url": "https://t.co/CxE9F4CfrP"
+            },
+            {
+              "display_url": "x.com/vw50qucaobi/st…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/vw50qucaobi/status/2081843954346299595",
+              "start": 165,
+              "url": "https://t.co/V0AHWqNKSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081886477097763162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗\n\n支那"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081843954346299595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗有什么好 https://t.co/CxE9F4CfrP https://t.co/V0AHWqNKSH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 1752,
+          "like_count": 21046,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 3152
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 469,
+          "like_count": 6393,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1128
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

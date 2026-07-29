@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1966767913282793661",
+    "created_at": "2025-09-13T10:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T11:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966804284529668575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750684739441446912",
+          "start": 0,
+          "username": "wngy189327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966804284529668575",
+    "in_reply_to_user_id": "1750684739441446912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966767913282793661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngy189327 祝进化，成为家长党🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 560,
+        "media_key": "3_1966767791270490113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0tc4sJbcAEIhg-.jpg",
+        "width": 796
+      },
+      {
+        "height": 560,
+        "media_key": "3_1966767792902008832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0tc4yOacAAA9md.jpg",
+        "width": 796
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966767909868630016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0tc_l9bcAA4Nl0.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966767745640632320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0tc2CKbEAA23eW.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1966767913282793661",
+        "created_at": "2025-09-13T10:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T11:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966804284529668575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750684739441446912",
+              "start": 0,
+              "username": "wngy189327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966804284529668575",
+        "in_reply_to_user_id": "1750684739441446912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966767913282793661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngy189327 祝进化，成为家长党🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966767791270490113",
+            "3_1966767792902008832",
+            "3_1966767909868630016",
+            "3_1966767745640632320"
+          ]
+        },
+        "author_id": "1750684739441446912",
+        "conversation_id": "1966767913282793661",
+        "created_at": "2025-09-13T07:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T08:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966767913282793661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2rff33epyr",
+              "end": 89,
+              "expanded_url": "https://x.com/wngy189327/status/1966767913282793661/photo/1",
+              "media_key": "3_1966767791270490113",
+              "start": 66,
+              "url": "https://t.co/2rff33epyr"
+            },
+            {
+              "display_url": "pic.x.com/2rff33epyr",
+              "end": 89,
+              "expanded_url": "https://x.com/wngy189327/status/1966767913282793661/photo/1",
+              "media_key": "3_1966767792902008832",
+              "start": 66,
+              "url": "https://t.co/2rff33epyr"
+            },
+            {
+              "display_url": "pic.x.com/2rff33epyr",
+              "end": 89,
+              "expanded_url": "https://x.com/wngy189327/status/1966767913282793661/photo/1",
+              "media_key": "3_1966767909868630016",
+              "start": 66,
+              "url": "https://t.co/2rff33epyr"
+            },
+            {
+              "display_url": "pic.x.com/2rff33epyr",
+              "end": 89,
+              "expanded_url": "https://x.com/wngy189327/status/1966767913282793661/photo/1",
+              "media_key": "3_1966767745640632320",
+              "start": 66,
+              "url": "https://t.co/2rff33epyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966767913282793661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前两天还是炸柜了，父母先带我去了儿童医院看了看内分泌和心理然后去了北京，现在在停药等激素恢复正常了要带我去上海复旦跨性别门诊看看。 https://t.co/2rff33epyr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/🍥2025.09.06/MTX/可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 409,
+          "like_count": 352,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 350
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T00:59:19.000Z",
+        "description": "一个翻车的法西斯\n130斤\n10年的mtf\n15岁的xyn\nhrt🍥：2025年7月5日（正在断糖）\n已炸柜\n1000度近视\n本号不涉政，只更新日常 涉政见大号   @min_hong75899",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "min_hong75899"
+              }
+            ]
+          }
+        },
+        "id": "1750684739441446912",
+        "name": "核弹 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945038502443302913/JZf4jhEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 149,
+          "like_count": 2549,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 323
+        },
+        "username": "wngy189327",
+        "verified": false
+      }
+    ]
+  }
+}

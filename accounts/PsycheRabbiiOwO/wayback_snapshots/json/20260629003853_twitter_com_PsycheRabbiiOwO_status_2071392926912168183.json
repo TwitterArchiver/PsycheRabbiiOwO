@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2071392926912168183",
+    "created_at": "2026-06-29T00:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T01:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071392926912168183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/natsumejuri/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/natsumejuri/status/2071213568415113648",
+          "start": 12,
+          "url": "https://t.co/OdsCNIsVAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071392926912168183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071213568415113648",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的很想长体重。。。 https://t.co/OdsCNIsVAT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1446,
+        "media_key": "3_2071213562975121408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5twwMacAAnKsi.jpg",
+        "width": 1127
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2071392926912168183",
+        "created_at": "2026-06-29T00:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T01:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071392926912168183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/natsumejuri/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/natsumejuri/status/2071213568415113648",
+              "start": 12,
+              "url": "https://t.co/OdsCNIsVAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071392926912168183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071213568415113648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的很想长体重。。。 https://t.co/OdsCNIsVAT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071213562975121408"
+          ]
+        },
+        "author_id": "1526965927748571136",
+        "conversation_id": "2071213568415113648",
+        "created_at": "2026-06-28T12:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071213568415113648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BjGswhub74",
+              "end": 168,
+              "expanded_url": "https://x.com/Natsumejuri/status/2071213568415113648/photo/1",
+              "media_key": "3_2071213562975121408",
+              "start": 145,
+              "url": "https://t.co/BjGswhub74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071213568415113648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "首先是做一个好看的发型，适合自己的造型能显著提高pass度。我推荐是鬓发修到与下巴齐平的程度，可以掩盖脸部的缺陷又显得干净利落。别忘了打理头发，多研究扎头发的技术。\n\n然后是增重，体脂率太低的话hrt效果会大打折扣，但是具体数据我没计算过，我身边统计学的话bmi不低于21-24比较合适。\n\n最后是挑点适合自己气质的日常的衣服，不建议起手就挑战平均顺女都驾驭不了的衣服。好好打扮一下出门，表现得自然一点，培养一下自信。\n\n这就是新手关教学了，接下来主线支线就要自己探索了。\n\n最后，谢谢提问，加油。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 3676,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "other",
+        "text": "首先是做一个好看的发型，适合自己的造型能显著提高pass度。我推荐是鬓发修到与下巴齐平的程度，可以掩盖脸部的缺陷又显得干净利落。别忘了打理头发，多研究扎头发的技术。\n\n然后是增重，体脂率太低的话hrt效果会大打折扣，但是具体数据我没计算过，我身边统计学的话bmi不低于21-24比较合适。 https://t.co/BjGswhub74"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 1602,
+          "like_count": 18321,
+          "listed_count": 3,
+          "media_count": 290,
+          "tweet_count": 2756
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-18T16:41:01.000Z",
+        "description": "MtF | Computer Science",
+        "id": "1526965927748571136",
+        "location": "亚空间",
+        "name": "夏子",
+        "pinned_tweet_id": "2032355055467446683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996966756427218944/EWv7GHnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5635,
+          "following_count": 578,
+          "like_count": 28450,
+          "listed_count": 8,
+          "media_count": 669,
+          "tweet_count": 4425
+        },
+        "url": "",
+        "username": "Natsumejuri",
+        "verified": true
+      }
+    ]
+  }
+}

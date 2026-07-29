@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1981810895438459279",
+    "created_at": "2025-10-24T20:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T21:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981814271526023318"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1981814271526023318",
+    "in_reply_to_user_id": "1768935696646238208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981813647908515929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蠢事还有很多很多\n所以我\n一步步推开所有的朋友\n是为了什么呢\n\n那件事很重要\n想不起来，记忆断掉了\n所以是什么呢\n是什么呢\n是什么呢......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1981810895438459279",
+        "created_at": "2025-10-24T20:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T21:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981814271526023318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981814271526023318",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981813647908515929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蠢事还有很多很多\n所以我\n一步步推开所有的朋友\n是为了什么呢\n\n那件事很重要\n想不起来，记忆断掉了\n所以是什么呢\n是什么呢\n是什么呢......"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1981810895438459279",
+        "created_at": "2025-10-24T20:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T21:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981813647908515929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981813647908515929",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981812145462685843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只是觉得当年那个人好令人厌恶\n如果现在我回去一定会做出更好的选择\n\n可是没有他就没有现在的我\n而我现在也是他最期望和最喜欢的样子\n\n那我\n仍然是只会令人厌恶的吧\n仍然是只配孤单一人的吧\n仍然是......\n\n其实，“我”早就死掉了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "明天。",
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🐰凌月月（互关版）",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 441,
+          "like_count": 496,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 480
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

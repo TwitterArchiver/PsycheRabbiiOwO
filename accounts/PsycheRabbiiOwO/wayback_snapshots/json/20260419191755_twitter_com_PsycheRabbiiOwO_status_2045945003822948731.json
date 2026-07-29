@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2045945003822948731",
+    "created_at": "2026-04-19T19:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T20:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045945003822948731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/psycherabbiiow…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/psycherabbiiowo/status/2045841350256636187",
+          "start": 11,
+          "url": "https://t.co/NPSwSpwKvL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045945003822948731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045841350256636187",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喵的一发裸体就掉fo https://t.co/NPSwSpwKvL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2045841334599340032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRJ2r-a0AAzrrC.jpg",
+        "width": 2441
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2045945003822948731",
+        "created_at": "2026-04-19T19:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T20:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045945003822948731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/psycherabbiiowo/status/2045841350256636187",
+              "start": 11,
+              "url": "https://t.co/NPSwSpwKvL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045945003822948731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045841350256636187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喵的一发裸体就掉fo https://t.co/NPSwSpwKvL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045841334599340032"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2045841350256636187",
+        "created_at": "2026-04-19T12:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045841350256636187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRsL13ne6m",
+              "end": 29,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2045841350256636187/photo/1",
+              "media_key": "3_2045841334599340032",
+              "start": 6,
+              "url": "https://t.co/aRsL13ne6m"
+            },
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/psycherabbiiowo/status/2045790063150424533",
+              "start": 30,
+              "url": "https://t.co/qIMpZcnVFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045841350256636187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045790063150424533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "变瘦了（悲 https://t.co/aRsL13ne6m https://t.co/qIMpZcnVFD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 1306,
+          "like_count": 8797,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 2003
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

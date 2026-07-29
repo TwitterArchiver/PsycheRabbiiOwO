@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2015718105595711640",
+    "created_at": "2026-01-26T09:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T10:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015718105595711640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/psycherabbiiow…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/psycherabbiiowo/status/2015460517431869677",
+          "start": 33,
+          "url": "https://t.co/ahpljr7jwK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015718105595711640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015460517431869677",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😇😇😇\n我要去④①④了\n\n“别在网上买乱七八糟的东西”\n“好的” https://t.co/ahpljr7jwK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2015718105595711640",
+        "created_at": "2026-01-26T09:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015718105595711640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/psycherabbiiowo/status/2015460517431869677",
+              "start": 33,
+              "url": "https://t.co/ahpljr7jwK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015718105595711640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015460517431869677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😇😇😇\n我要去④①④了\n\n“别在网上买乱七八糟的东西”\n“好的” https://t.co/ahpljr7jwK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2015460517431869677",
+        "created_at": "2026-01-25T16:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T17:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015460517431869677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015460517431869677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 133,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假牛牛忘在浴室，吸墙上的\n\n爸妈还去都洗了澡，我的人生已经完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "含🍥做题蛆/长相普通别骂我参考亮点里的照片/备用机@rabbii_third不知道会发些什么呢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 870,
+          "like_count": 3362,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1194
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

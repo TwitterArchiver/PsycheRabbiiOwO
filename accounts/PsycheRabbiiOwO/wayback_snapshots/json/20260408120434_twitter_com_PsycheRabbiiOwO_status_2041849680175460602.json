@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2041849680175460602",
+    "created_at": "2026-04-08T12:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T13:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041849680175460602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wudicaomei/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/wudicaomei/status/2040391291973042274",
+          "start": 5,
+          "url": "https://t.co/Byk8eCBgLd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041849680175460602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040391291973042274",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/Byk8eCBgLd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2041849680175460602",
+        "created_at": "2026-04-08T12:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041849680175460602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wudicaomei/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/wudicaomei/status/2040391291973042274",
+              "start": 5,
+              "url": "https://t.co/Byk8eCBgLd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041849680175460602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040391291973042274",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/Byk8eCBgLd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767198260564041728",
+        "conversation_id": "2040391291973042274",
+        "created_at": "2026-04-04T11:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040391291973042274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040391291973042274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6632,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救命…我现在是小兔子模式….性欲一天忽高忽低的….一个舌吻就能让我直接软掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 1233,
+          "like_count": 7337,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 1797
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-11T14:37:56.000Z",
+        "description": "NSFW🏳️‍⚧️omega/goth【like❤️：🎨Art / 🏋️Fitness 】Thank you for your appreciation and love! \n\n請不要把我搬進牆內！ 在這裡只是藝術創作與記錄花期💐的自己！謝謝你的欣賞！興趣所致",
+        "id": "1767198260564041728",
+        "location": "🚪88",
+        "name": "Natu",
+        "pinned_tweet_id": "2041806717613437080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971616930961530880/E8CVaSz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112759,
+          "following_count": 922,
+          "like_count": 15353,
+          "listed_count": 711,
+          "media_count": 458,
+          "tweet_count": 2042
+        },
+        "username": "wudicaomei",
+        "verified": true
+      }
+    ]
+  }
+}

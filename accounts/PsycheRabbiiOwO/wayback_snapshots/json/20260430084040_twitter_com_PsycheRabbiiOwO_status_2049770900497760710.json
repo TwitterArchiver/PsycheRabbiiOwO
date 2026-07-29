@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2049770900497760710",
+    "created_at": "2026-04-30T08:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049770900497760710"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/renyue105/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/renyue105/status/2049270227851170073",
+          "start": 5,
+          "url": "https://t.co/ELo5mo3fXo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049770900497760710",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049270227851170073",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不像演的 https://t.co/ELo5mo3fXo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2049770900497760710",
+        "created_at": "2026-04-30T08:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049770900497760710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/renyue105/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/renyue105/status/2049270227851170073",
+              "start": 5,
+              "url": "https://t.co/ELo5mo3fXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049770900497760710",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049270227851170073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不像演的 https://t.co/ELo5mo3fXo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036071254873276416",
+        "conversation_id": "2049116665435361388",
+        "created_at": "2026-04-28T23:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T00:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049270227851170073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1262587553162489856",
+              "start": 0,
+              "username": "caijingshujuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049270227851170073",
+        "in_reply_to_user_id": "1262587553162489856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15927,
+          "like_count": 7,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049116665435361388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caijingshujuku 大家都是这么过来的，我们的父辈，他们最艰难的年代都没有倒下，现在的人一点苦都吃不了就要躺平当社会的寄生虫，诶，这里面没有境外势力的挑拨我是不信的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 1402,
+          "like_count": 11299,
+          "listed_count": 2,
+          "media_count": 262,
+          "tweet_count": 2256
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T13:23:41.000Z",
+        "description": "05年出生的中国人，我热爱我的祖国🇨🇳喜欢运动，冥想，三观正，无糖跨女，愿望是变得pass...正在缓慢努力中",
+        "id": "2036071254873276416",
+        "location": "中国 江西",
+        "name": "任月",
+        "pinned_tweet_id": "2046413472829731201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049463682388918272/v0kS5hpL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 63,
+          "like_count": 2039,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1631
+        },
+        "username": "renyue105",
+        "verified": false
+      }
+    ]
+  }
+}

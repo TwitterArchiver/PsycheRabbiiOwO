@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981437809421340672"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1981437818380706042",
+    "created_at": "2025-10-23T19:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T20:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981437818380706042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HtwZXkN2tS",
+          "end": 53,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1981437818380706042/photo/1",
+          "media_key": "3_1981437809421340672",
+          "start": 30,
+          "url": "https://t.co/HtwZXkN2tS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981437818380706042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的高中操场跟这个一模一样\n\n啊\n\n和初恋也是在这里告白的 https://t.co/HtwZXkN2tS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1179,
+        "media_key": "3_1981437809421340672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G397MIcWUAA2jn4.jpg",
+        "width": 1576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981437809421340672"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1981437818380706042",
+        "created_at": "2025-10-23T19:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T20:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981437818380706042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HtwZXkN2tS",
+              "end": 53,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1981437818380706042/photo/1",
+              "media_key": "3_1981437809421340672",
+              "start": 30,
+              "url": "https://t.co/HtwZXkN2tS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981437818380706042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的高中操场跟这个一模一样\n\n啊\n\n和初恋也是在这里告白的 https://t.co/HtwZXkN2tS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "明天。",
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🐰凌月月（互关版）",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 441,
+          "like_count": 495,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 475
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

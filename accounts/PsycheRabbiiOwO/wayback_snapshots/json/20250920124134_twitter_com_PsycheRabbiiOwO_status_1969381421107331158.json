@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968937721344487424"
+      ],
+      "media_source_tweet_id": [
+        "1968937727144955942"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1969381421107331158",
+    "created_at": "2025-09-20T12:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T13:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969381421107331158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "977090038256295936",
+          "start": 3,
+          "username": "DontBeStupidOne"
+        },
+        {
+          "end": 30,
+          "id": "39507891",
+          "start": 21,
+          "username": "archer_t"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5fxsyuuR7q",
+          "end": 54,
+          "expanded_url": "https://x.com/DontBeStupidOne/status/1968937727144955942/photo/1",
+          "media_key": "3_1968937721344487424",
+          "start": 31,
+          "url": "https://t.co/5fxsyuuR7q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969381421107331158",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968937727144955942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DontBeStupidOne: @archer_t https://t.co/5fxsyuuR7q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 409,
+        "media_key": "3_1968937721344487424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1MSbPma8AAJ2YO.png",
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968937721344487424"
+          ],
+          "media_source_tweet_id": [
+            "1968937727144955942"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1969381421107331158",
+        "created_at": "2025-09-20T12:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T13:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969381421107331158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "977090038256295936",
+              "start": 3,
+              "username": "DontBeStupidOne"
+            },
+            {
+              "end": 30,
+              "id": "39507891",
+              "start": 21,
+              "username": "archer_t"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5fxsyuuR7q",
+              "end": 54,
+              "expanded_url": "https://x.com/DontBeStupidOne/status/1968937727144955942/photo/1",
+              "media_key": "3_1968937721344487424",
+              "start": 31,
+              "url": "https://t.co/5fxsyuuR7q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969381421107331158",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968937727144955942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DontBeStupidOne: @archer_t https://t.co/5fxsyuuR7q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968937721344487424"
+          ]
+        },
+        "author_id": "977090038256295936",
+        "conversation_id": "1968685703098700074",
+        "created_at": "2025-09-19T07:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T08:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968937727144955942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "39507891",
+              "start": 0,
+              "username": "archer_t"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5fxsyuuR7q",
+              "end": 33,
+              "expanded_url": "https://x.com/DontBeStupidOne/status/1968937727144955942/photo/1",
+              "media_key": "3_1968937721344487424",
+              "start": 10,
+              "url": "https://t.co/5fxsyuuR7q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968937727144955942",
+        "in_reply_to_user_id": "39507891",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 10695,
+          "like_count": 204,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968685703098700074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@archer_t https://t.co/5fxsyuuR7q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/含糖男娘2025.09.06//可能是泛性恋？/有对象了已经🥰@pirapira2112/🚪18/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 421,
+          "like_count": 396,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 397
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-23T07:49:53.000Z",
+        "description": "Language and Geography Fan \nEnglish;Deutsch;Español;français ;日本語 \n有感而发，对号入座，自备茶水。\n无事此静坐，有福方读书。",
+        "id": "977090038256295936",
+        "location": "Japan",
+        "name": "沙岸树",
+        "pinned_tweet_id": "1469873993885036545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825124614193946624/XG44inuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 1477,
+          "like_count": 930,
+          "listed_count": 11,
+          "media_count": 584,
+          "tweet_count": 4184
+        },
+        "username": "DontBeStupidOne",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-12T14:16:55.000Z",
+        "description": "到底什么是绝对中立(Neutral)||家猫牡丹||我推知名16岁少年||推特举报第一人||霍比特人||agnostic leaning towards atheism||dvorak layout||准备打一辈子starcraft||itchy legs||Room101囚徒||禁止转回墙内",
+        "id": "39507891",
+        "location": "Earth, Solar System, Milky Way",
+        "name": "T",
+        "pinned_tweet_id": "1407746469067563016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930418949843484672/sJGitpHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3814,
+          "following_count": 1116,
+          "like_count": 10260,
+          "listed_count": 34,
+          "media_count": 2805,
+          "tweet_count": 70617
+        },
+        "username": "archer_t",
+        "verified": false
+      }
+    ]
+  }
+}

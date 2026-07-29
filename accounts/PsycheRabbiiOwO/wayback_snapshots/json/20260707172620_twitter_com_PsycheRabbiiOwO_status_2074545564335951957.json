@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2074545564335951957",
+    "created_at": "2026-07-07T17:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074545564335951957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zedrb3lzkxlyez…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/zedrb3lzkxlyezt/status/2073797048168485099",
+          "start": 5,
+          "url": "https://t.co/tgaGOY5O9o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074545564335951957",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073797048168485099",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了 https://t.co/tgaGOY5O9o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2073693439473090560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMc9MkDaAAAS_sL.png",
+        "width": 511
+      },
+      {
+        "height": 360,
+        "media_key": "3_2073693456988618752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMc9NlTbwAA8jO6.png",
+        "width": 270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2074545564335951957",
+        "created_at": "2026-07-07T17:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074545564335951957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zedrb3lzkxlyez…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/zedrb3lzkxlyezt/status/2073797048168485099",
+              "start": 5,
+              "url": "https://t.co/tgaGOY5O9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074545564335951957",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073797048168485099",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了 https://t.co/tgaGOY5O9o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073693439473090560",
+            "3_2073693456988618752"
+          ]
+        },
+        "author_id": "1080962072438104064",
+        "conversation_id": "2073797048168485099",
+        "created_at": "2026-07-05T15:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073797048168485099"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BPcLgywSMB",
+              "end": 53,
+              "expanded_url": "https://x.com/Zedrb3LZkxLyEzt/status/2073797048168485099/photo/1",
+              "media_key": "3_2073693439473090560",
+              "start": 30,
+              "url": "https://t.co/BPcLgywSMB"
+            },
+            {
+              "display_url": "pic.x.com/BPcLgywSMB",
+              "end": 53,
+              "expanded_url": "https://x.com/Zedrb3LZkxLyEzt/status/2073797048168485099/photo/1",
+              "media_key": "3_2073693456988618752",
+              "start": 30,
+              "url": "https://t.co/BPcLgywSMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073797048168485099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 598,
+          "impression_count": 264276,
+          "like_count": 2358,
+          "quote_count": 3,
+          "reply_count": 665,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "上班时一本正经的人模人样，下班后谁知道我会是这样的 #反差 https://t.co/BPcLgywSMB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 1647,
+          "like_count": 19376,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 2892
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-03T23:00:16.000Z",
+        "description": "爱人爱己，更爱粉丝",
+        "id": "1080962072438104064",
+        "name": "棉花糖",
+        "pinned_tweet_id": "2074418641840599477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941226774429392896/b0Jjt4wi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4072,
+          "following_count": 0,
+          "like_count": 7,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "Zedrb3LZkxLyEzt",
+        "verified": false
+      }
+    ]
+  }
+}

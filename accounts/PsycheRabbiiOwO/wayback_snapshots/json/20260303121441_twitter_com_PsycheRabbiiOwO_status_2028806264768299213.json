@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2028721176059711488"
+      ],
+      "media_source_tweet_id": [
+        "2028721243957186973"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2028806264768299213",
+    "created_at": "2026-03-03T12:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T13:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028806264768299213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XgBLNgrW7B",
+          "end": 48,
+          "expanded_url": "https://x.com/Cldeop/status/2028721243957186973/photo/1",
+          "media_key": "16_2028721176059711488",
+          "start": 25,
+          "url": "https://t.co/XgBLNgrW7B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028806264768299213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028721243957186973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: 元宵节快乐！请你吃汤圆！ https://t.co/XgBLNgrW7B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_2028721176059711488",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCd3KTdaEAAY3l4.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCd3KTdaEAAY3l4.mp4"
+          }
+        ],
+        "width": 208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2028721176059711488"
+          ],
+          "media_source_tweet_id": [
+            "2028721243957186973"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2028806264768299213",
+        "created_at": "2026-03-03T12:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028806264768299213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XgBLNgrW7B",
+              "end": 48,
+              "expanded_url": "https://x.com/Cldeop/status/2028721243957186973/photo/1",
+              "media_key": "16_2028721176059711488",
+              "start": 25,
+              "url": "https://t.co/XgBLNgrW7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028806264768299213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028721243957186973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: 元宵节快乐！请你吃汤圆！ https://t.co/XgBLNgrW7B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2028721176059711488"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2028721243957186973",
+        "created_at": "2026-03-03T06:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T07:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028721243957186973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XgBLNgrW7B",
+              "end": 36,
+              "expanded_url": "https://x.com/Cldeop/status/2028721243957186973/photo/1",
+              "media_key": "16_2028721176059711488",
+              "start": 13,
+              "url": "https://t.co/XgBLNgrW7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028721243957186973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 67163,
+          "like_count": 737,
+          "quote_count": 13,
+          "reply_count": 111,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "元宵节快乐！请你吃汤圆！ https://t.co/XgBLNgrW7B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月（♡´∀`♡)🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025891245403594752/7m_aCDuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 1030,
+          "like_count": 4983,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 1456
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2027908377758863690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101263,
+          "following_count": 722,
+          "like_count": 34635,
+          "listed_count": 288,
+          "media_count": 16395,
+          "tweet_count": 23548
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

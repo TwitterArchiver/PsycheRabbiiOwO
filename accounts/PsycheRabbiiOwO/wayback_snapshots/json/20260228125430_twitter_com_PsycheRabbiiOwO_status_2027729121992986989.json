@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027661982737043457"
+      ],
+      "media_source_tweet_id": [
+        "2027662027381215475"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2027729121992986989",
+    "created_at": "2026-02-28T12:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T13:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027729121992986989"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "Apple",
+          "probability": 0.6942,
+          "start": 18,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VywbY5mY0R",
+          "end": 48,
+          "expanded_url": "https://x.com/anblk984/status/2027662027381215475/photo/1",
+          "media_key": "3_2027661982737043457",
+          "start": 25,
+          "url": "https://t.co/VywbY5mY0R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027729121992986989",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027662027381215475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: bad Apple： https://t.co/VywbY5mY0R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2027661982737043457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOz1I2bEAEdfnf.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027661982737043457"
+          ],
+          "media_source_tweet_id": [
+            "2027662027381215475"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2027729121992986989",
+        "created_at": "2026-02-28T12:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027729121992986989"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Apple",
+              "probability": 0.6942,
+              "start": 18,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VywbY5mY0R",
+              "end": 48,
+              "expanded_url": "https://x.com/anblk984/status/2027662027381215475/photo/1",
+              "media_key": "3_2027661982737043457",
+              "start": 25,
+              "url": "https://t.co/VywbY5mY0R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027729121992986989",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027662027381215475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anblk984: bad Apple： https://t.co/VywbY5mY0R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027661982737043457"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2027662027381215475",
+        "created_at": "2026-02-28T08:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T09:27:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027661984737726715",
+          "2027662027381215475"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Apple",
+              "probability": 0.8612,
+              "start": 4,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VywbY5mY0R",
+              "end": 34,
+              "expanded_url": "https://x.com/anblk984/status/2027662027381215475/photo/1",
+              "media_key": "3_2027661982737043457",
+              "start": 11,
+              "url": "https://t.co/VywbY5mY0R"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2027634876288041458",
+              "start": 35,
+              "url": "https://t.co/Vs4YkTyDL9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027662027381215475",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7028,
+          "like_count": 166,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027634876288041458",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "bad Apple： https://t.co/VywbY5mY0R https://t.co/Vs4YkTyDL9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月（♡´∀`♡)🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025891245403594752/7m_aCDuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 991,
+          "like_count": 4741,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 1424
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/劳保爱习楠/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2020994442631709177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9611,
+          "following_count": 971,
+          "like_count": 105020,
+          "listed_count": 59,
+          "media_count": 2028,
+          "tweet_count": 25949
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

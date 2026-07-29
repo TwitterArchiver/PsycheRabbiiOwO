@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2047339882650189996",
+    "created_at": "2026-04-23T15:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047339882650189996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yoshino_2333/s…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/yoshino_2333/status/2047327473126502675",
+          "start": 32,
+          "url": "https://t.co/ljvf8ZyRAW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047339882650189996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047327473126502675",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不理解啊，男的应该也不会代入男方吧，谁想成为本子里的那恶心样啊 https://t.co/ljvf8ZyRAW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2047339882650189996",
+        "created_at": "2026-04-23T15:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047339882650189996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoshino_2333/s…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/yoshino_2333/status/2047327473126502675",
+              "start": 32,
+              "url": "https://t.co/ljvf8ZyRAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047339882650189996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047327473126502675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不理解啊，男的应该也不会代入男方吧，谁想成为本子里的那恶心样啊 https://t.co/ljvf8ZyRAW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319578357395156993",
+        "conversation_id": "2047188443021934669",
+        "created_at": "2026-04-23T14:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047327473126502675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975597115490639874",
+              "start": 0,
+              "username": "Vivianpi3n"
+            },
+            {
+              "end": 22,
+              "id": "2026680668365991936",
+              "start": 12,
+              "username": "Sakee1106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047327473126502675",
+        "in_reply_to_user_id": "1975597115490639874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047327232562225547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vivianpi3n @Sakee1106 啊，因为我代入的都是女方，所以我可能才不理解（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "凌月月qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 1332,
+          "like_count": 9567,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 2083
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "我是 Roitium/Yoshino | Frontend/ReactNative Developer | Tweets in EN/CN | 头像 @qyMinusk9 | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "qyMinusk9"
+              },
+              {
+                "end": 100,
+                "start": 92,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2030998636159730141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039474668680486912/hErJuvgd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 528,
+          "like_count": 12117,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 8370
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      }
+    ]
+  }
+}

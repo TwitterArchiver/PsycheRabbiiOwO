@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041828806722514944",
+        "3_2041828806693154819"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2041828814842687910",
+    "created_at": "2026-04-08T10:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T11:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041828814842687910"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4E3EUl526C",
+          "end": 61,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2041828814842687910/photo/1",
+          "media_key": "3_2041828806722514944",
+          "start": 38,
+          "url": "https://t.co/4E3EUl526C"
+        },
+        {
+          "display_url": "pic.x.com/4E3EUl526C",
+          "end": 61,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2041828814842687910/photo/1",
+          "media_key": "3_2041828806693154819",
+          "start": 38,
+          "url": "https://t.co/4E3EUl526C"
+        },
+        {
+          "display_url": "x.com/jlxc2001/statu…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/jlxc2001/status/2041776341541081382",
+          "start": 62,
+          "url": "https://t.co/ZSfHlKXYNI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041828814842687910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041776341541081382",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "hhh我想起来去年刚吃糖那会了\n最pass的一集\n\np1吃糖前，p2吃糖后 https://t.co/4E3EUl526C https://t.co/ZSfHlKXYNI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1958,
+        "media_key": "3_2041828806722514944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYIe0za8AAGqcX.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2022,
+        "media_key": "3_2041828806693154819",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYIe0sa8AMJJtD.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041828806722514944",
+            "3_2041828806693154819"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2041828814842687910",
+        "created_at": "2026-04-08T10:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T11:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041828814842687910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4E3EUl526C",
+              "end": 61,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2041828814842687910/photo/1",
+              "media_key": "3_2041828806722514944",
+              "start": 38,
+              "url": "https://t.co/4E3EUl526C"
+            },
+            {
+              "display_url": "pic.x.com/4E3EUl526C",
+              "end": 61,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2041828814842687910/photo/1",
+              "media_key": "3_2041828806693154819",
+              "start": 38,
+              "url": "https://t.co/4E3EUl526C"
+            },
+            {
+              "display_url": "x.com/jlxc2001/statu…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/jlxc2001/status/2041776341541081382",
+              "start": 62,
+              "url": "https://t.co/ZSfHlKXYNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041828814842687910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041776341541081382",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hhh我想起来去年刚吃糖那会了\n最pass的一集\n\np1吃糖前，p2吃糖后 https://t.co/4E3EUl526C https://t.co/ZSfHlKXYNI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683218035602255872",
+        "conversation_id": "2041776341541081382",
+        "created_at": "2026-04-08T07:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T08:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041776341541081382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041776341541081382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2385,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在推特私信看到了让我带货飞机杯的广告，，思考🤔\n不知道是为什么，我抖音、B站、小红书都有人私信问我接不接杯子广告，是不是因为技术宅和杯子用户画像重合的原因"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 1233,
+          "like_count": 7319,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 1794
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14360,
+          "following_count": 192,
+          "like_count": 480,
+          "listed_count": 29,
+          "media_count": 866,
+          "tweet_count": 2332
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

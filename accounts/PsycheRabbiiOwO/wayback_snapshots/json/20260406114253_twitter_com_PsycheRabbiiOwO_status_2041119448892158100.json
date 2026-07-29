@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2041119448892158100",
+    "created_at": "2026-04-06T11:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T12:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041119448892158100"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaomonuya/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/xiaomonuya/status/2041106300730478712",
+          "start": 9,
+          "url": "https://t.co/O0wARIwOSI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041119448892158100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041106300730478712",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "雄激素我们分手吧 https://t.co/O0wARIwOSI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2041119448892158100",
+        "created_at": "2026-04-06T11:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041119448892158100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaomonuya/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/xiaomonuya/status/2041106300730478712",
+              "start": 9,
+              "url": "https://t.co/O0wARIwOSI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041119448892158100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041106300730478712",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雄激素我们分手吧 https://t.co/O0wARIwOSI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858393719080366080",
+        "conversation_id": "2041052347086799089",
+        "created_at": "2026-04-06T10:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041106300730478712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037915149173182465",
+              "start": 0,
+              "username": "luna_1111__"
+            },
+            {
+              "end": 24,
+              "id": "1223415775278428160",
+              "start": 13,
+              "username": "sophhhsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041106300730478712",
+        "in_reply_to_user_id": "2037915149173182465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041060829781516770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_1111__ @sophhhsama 雄激素我們分手吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 1206,
+          "like_count": 6985,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 1744
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻\n優點：有个世界上最好的姐姐 \n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n某些男的想给我发性器照片的给我滚～～～！",
+        "id": "1858393719080366080",
+        "name": "Camellia",
+        "pinned_tweet_id": "2036775919294279809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002633549674168320/FEfSHM8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 115,
+          "like_count": 1226,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 2436
+        },
+        "username": "xiaomonuya",
+        "verified": false
+      }
+    ]
+  }
+}

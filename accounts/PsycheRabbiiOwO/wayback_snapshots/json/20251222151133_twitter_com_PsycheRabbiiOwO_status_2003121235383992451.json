@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003016268333596674"
+      ],
+      "media_source_tweet_id": [
+        "2003016277707911209"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2003121235383992451",
+    "created_at": "2025-12-22T15:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T16:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003121235383992451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1607385073015492608",
+          "start": 3,
+          "username": "Aputto_9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/02n4xzRPQu",
+          "end": 37,
+          "expanded_url": "https://x.com/Aputto_9/status/2003016277707911209/photo/1",
+          "media_key": "3_2003016268333596674",
+          "start": 14,
+          "url": "https://t.co/02n4xzRPQu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003121235383992451",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 322
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003016277707911209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aputto_9: https://t.co/02n4xzRPQu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1661,
+        "media_key": "3_2003016268333596674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8wkrwFaQAIYFVa.jpg",
+        "width": 1301
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003016268333596674"
+          ],
+          "media_source_tweet_id": [
+            "2003016277707911209"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2003121235383992451",
+        "created_at": "2025-12-22T15:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T16:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003121235383992451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1607385073015492608",
+              "start": 3,
+              "username": "Aputto_9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/02n4xzRPQu",
+              "end": 37,
+              "expanded_url": "https://x.com/Aputto_9/status/2003016277707911209/photo/1",
+              "media_key": "3_2003016268333596674",
+              "start": 14,
+              "url": "https://t.co/02n4xzRPQu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003121235383992451",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 322
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003016277707911209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aputto_9: https://t.co/02n4xzRPQu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003016268333596674"
+          ]
+        },
+        "author_id": "1607385073015492608",
+        "conversation_id": "2003016277707911209",
+        "created_at": "2025-12-22T08:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T09:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003016277707911209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/02n4xzRPQu",
+              "end": 23,
+              "expanded_url": "https://x.com/Aputto_9/status/2003016277707911209/photo/1",
+              "media_key": "3_2003016268333596674",
+              "start": 0,
+              "url": "https://t.co/02n4xzRPQu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003016277707911209",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 411,
+          "impression_count": 46452,
+          "like_count": 4637,
+          "quote_count": 19,
+          "reply_count": 0,
+          "retweet_count": 322
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/02n4xzRPQu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）含🍥做题蛆/长相普通别骂我参考亮点里的照片/只混生物圈岩石圈大气圈水圈/链接是提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ （💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 752,
+          "like_count": 2461,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1014
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-26T14:37:27.000Z",
+        "description": "FA #あぷのおーしー りぷかえせてない",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 3,
+                "tag": "あぷのおーしー"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aputto9",
+                "end": 23,
+                "expanded_url": "https://lit.link/aputto9",
+                "start": 0,
+                "url": "https://t.co/PMwbggX0Ue"
+              }
+            ]
+          }
+        },
+        "id": "1607385073015492608",
+        "location": "無断利用禁止",
+        "name": "Apu︎",
+        "pinned_tweet_id": "1938889759688196377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850427867496333312/kbJlpDMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37622,
+          "following_count": 335,
+          "like_count": 60580,
+          "listed_count": 191,
+          "media_count": 853,
+          "tweet_count": 8468
+        },
+        "url": "https://t.co/PMwbggX0Ue",
+        "username": "Aputto_9",
+        "verified": false
+      }
+    ]
+  }
+}

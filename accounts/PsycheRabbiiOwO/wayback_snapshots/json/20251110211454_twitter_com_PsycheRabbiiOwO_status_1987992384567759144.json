@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987992372970401792"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1987534679755587745",
+    "created_at": "2025-11-10T21:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T22:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987992384567759144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1971006655430262784",
+          "start": 0,
+          "username": "FxxkApexLegend"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4QMjzRuCZ2",
+          "end": 41,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1987992384567759144/photo/1",
+          "media_key": "3_1987992372970401792",
+          "start": 18,
+          "url": "https://t.co/4QMjzRuCZ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987992384567759144",
+    "in_reply_to_user_id": "1971006655430262784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987534679755587745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FxxkApexLegend 🤔 https://t.co/4QMjzRuCZ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 467,
+        "media_key": "3_1987992372970401792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5bEh8cWMAAmBZ6.jpg",
+        "width": 293
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987992372970401792"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1987534679755587745",
+        "created_at": "2025-11-10T21:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T22:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987992384567759144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1971006655430262784",
+              "start": 0,
+              "username": "FxxkApexLegend"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4QMjzRuCZ2",
+              "end": 41,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1987992384567759144/photo/1",
+              "media_key": "3_1987992372970401792",
+              "start": 18,
+              "url": "https://t.co/4QMjzRuCZ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987992384567759144",
+        "in_reply_to_user_id": "1971006655430262784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987534679755587745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FxxkApexLegend 🤔 https://t.co/4QMjzRuCZ2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971006655430262784",
+        "conversation_id": "1987534679755587745",
+        "created_at": "2025-11-09T14:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T15:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987534679755587745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jokieliu/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/jokieliu/status/1987321608697196817",
+              "start": 8,
+              "url": "https://t.co/C3Z36Iyd0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987534679755587745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 756,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987321608697196817",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想去成都喵 https://t.co/C3Z36Iyd0o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/165cm 52kg 本人很丑别骂我/主页添加了提问箱哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 474,
+          "like_count": 674,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "請輸入文本。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEb0Sn"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "name": "🍀🍥青野🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984834861589573632/M2WZxoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2360,
+          "following_count": 367,
+          "like_count": 2983,
+          "listed_count": 9,
+          "media_count": 385,
+          "tweet_count": 3289
+        },
+        "url": "https://t.co/BKhBrEb0Sn",
+        "username": "FxxkApexLegend",
+        "verified": false
+      }
+    ]
+  }
+}

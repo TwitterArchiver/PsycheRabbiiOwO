@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2072140604101063132",
+    "created_at": "2026-07-01T10:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T11:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072262449739559012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1945848714058203136",
+          "start": 0,
+          "username": "LnaRoaH"
+        },
+        {
+          "end": 18,
+          "id": "1880217164025839617",
+          "start": 9,
+          "username": "DayGaoLi"
+        },
+        {
+          "end": 33,
+          "id": "1622066090074607616",
+          "start": 19,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072262449739559012",
+    "in_reply_to_user_id": "1945848714058203136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072262099649356134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LnaRoaH @DayGaoLi @hoshinofujivy 刚看懂hh这是文科学士服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2072140604101063132",
+        "created_at": "2026-07-01T10:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072262449739559012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1945848714058203136",
+              "start": 0,
+              "username": "LnaRoaH"
+            },
+            {
+              "end": 18,
+              "id": "1880217164025839617",
+              "start": 9,
+              "username": "DayGaoLi"
+            },
+            {
+              "end": 33,
+              "id": "1622066090074607616",
+              "start": 19,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072262449739559012",
+        "in_reply_to_user_id": "1945848714058203136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072262099649356134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LnaRoaH @DayGaoLi @hoshinofujivy 刚看懂hh这是文科学士服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945848714058203136",
+        "conversation_id": "2072140604101063132",
+        "created_at": "2026-07-01T10:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072262099649356134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            },
+            {
+              "end": 26,
+              "id": "1880217164025839617",
+              "start": 17,
+              "username": "DayGaoLi"
+            },
+            {
+              "end": 41,
+              "id": "1622066090074607616",
+              "start": 27,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072262099649356134",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072173136993525981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO @DayGaoLi @hoshinofujivy 可能文科不好就业？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 1611,
+          "like_count": 18487,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 2795
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-17T14:11:19.000Z",
+        "description": "你好啊～我是lhr 攝影｜HIFI｜畫畫｜羽毛球｜游泳｜化學 ｜推推空間｜交易員｜坐標待定天津市和苏州市 調戲鏈接🔗https://t.co/QZ0qizQuEq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lnaroah",
+                "end": 81,
+                "expanded_url": "https://ngl.link/lnaroah",
+                "start": 58,
+                "url": "https://t.co/QZ0qizQuEq"
+              }
+            ]
+          }
+        },
+        "id": "1945848714058203136",
+        "location": "距你1.5km",
+        "name": "lhr～",
+        "pinned_tweet_id": "2057390797981352401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980434750884966400/-y_6Pczc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 109,
+          "like_count": 906,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 385
+        },
+        "url": "",
+        "username": "LnaRoaH",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-17T11:35:24.000Z",
+        "description": "Language:English,中文,日本語(学ぶing)",
+        "id": "1880217164025839617",
+        "name": "朝陽高黎",
+        "pinned_tweet_id": "1994979837002617177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017541921305165824/qyKyzNng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 3,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 817
+        },
+        "url": "",
+        "username": "DayGaoLi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12362,
+          "following_count": 4383,
+          "like_count": 49913,
+          "listed_count": 36,
+          "media_count": 3058,
+          "tweet_count": 16922
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

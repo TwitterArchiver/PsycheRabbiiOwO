@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072170894638854144",
+        "3_2072170894605303808",
+        "3_2072170894622130176",
+        "3_2072170894626275328"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2072170904914964980",
+    "created_at": "2026-07-01T04:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T05:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072170904914964980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lH5m6Ymo1R",
+          "end": 86,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2072170904914964980/photo/1",
+          "media_key": "3_2072170894638854144",
+          "start": 63,
+          "url": "https://t.co/lH5m6Ymo1R"
+        },
+        {
+          "display_url": "pic.x.com/lH5m6Ymo1R",
+          "end": 86,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2072170904914964980/photo/1",
+          "media_key": "3_2072170894605303808",
+          "start": 63,
+          "url": "https://t.co/lH5m6Ymo1R"
+        },
+        {
+          "display_url": "pic.x.com/lH5m6Ymo1R",
+          "end": 86,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2072170904914964980/photo/1",
+          "media_key": "3_2072170894622130176",
+          "start": 63,
+          "url": "https://t.co/lH5m6Ymo1R"
+        },
+        {
+          "display_url": "pic.x.com/lH5m6Ymo1R",
+          "end": 86,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2072170904914964980/photo/1",
+          "media_key": "3_2072170894626275328",
+          "start": 63,
+          "url": "https://t.co/lH5m6Ymo1R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072170904914964980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "（碎碎念）\n\n久违地打开歌单，听了好多很久没听过的歌\n\n花谱是我最喜欢的歌手了，ta的歌声很能感染人，形象带有的神秘感也很酷\n\n主要是，现在很多歌为了旋律好听，歌词完全为了音律服务，上下不通还没什么含义。而花谱的歌总传递着，反抗世界还有传达爱意的主题，在现在这个容易政治性抑郁的时代，很能鼓舞人\n\n小小混编一下🥺\n-----------------\n「世界和平」都是骗人的\n每个人都是孤独的\n因为性别也好，肤色也好\n我们恐惧着，憎恶着\n害怕触碰对方\n\n什么是「正确的事」「该做的事」\n我不知道啊。。。\n就连自己，都不相信了\n自我逐渐被淡忘\n痛苦，悲伤\n真正的姿态是什么啊\n还请写下故事的你\n告诉我那个谜题吧\n\n在这本被称为「世界」的小说\n成为了「观测者」\n我们相遇，侃侃而谈\n我们相连，勇气交叠\n祈求奇迹降临，将你拯救\n也许它会开始转动\n\n不可解的它，逐渐崩坏的它\n我们都是主人公\n请一定相信自己是「特别的」\n就算被骂做反派，也守护着对方吧\n迈着相同的步伐，分离又靠近\n用纸飞机相互倾诉，\n在往复的日子里坠入爱河\n化作流星穿过天穹，坠入天际\n\n唱着名为「真相」的歌，\n让我们变得温柔吧！\n在这蓝色的某处活下去\n相互伤害又相互安慰\n带着未觉醒的、未完成的「爱」的魔法\n我们还未尝一败，对吧？对吧！\n-------------\np1 不可解（Inexplicable）\np2 痛みを（把痛苦）\np3  邂逅（Chance meeting）\np4 それを世界と言うんだね（原来这就是所谓的世界）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "（碎碎念）\n\n久违地打开歌单，听了好多很久没听过的歌\n\n花谱是我最喜欢的歌手了，ta的歌声很能感染人，形象带有的神秘感也很酷 https://t.co/lH5m6Ymo1R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2072170894638854144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHUcyjaMAAqBOb.jpg",
+        "width": 1628
+      },
+      {
+        "height": 3400,
+        "media_key": "3_2072170894605303808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHUcybaQAAPcVI.jpg",
+        "width": 1500
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2072170894622130176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHUcyfbAAAN9dl.jpg",
+        "width": 1426
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2072170894626275328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHUcygaQAAwsR0.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072170894638854144",
+            "3_2072170894605303808",
+            "3_2072170894622130176",
+            "3_2072170894626275328"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2072170904914964980",
+        "created_at": "2026-07-01T04:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072170904914964980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lH5m6Ymo1R",
+              "end": 86,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2072170904914964980/photo/1",
+              "media_key": "3_2072170894638854144",
+              "start": 63,
+              "url": "https://t.co/lH5m6Ymo1R"
+            },
+            {
+              "display_url": "pic.x.com/lH5m6Ymo1R",
+              "end": 86,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2072170904914964980/photo/1",
+              "media_key": "3_2072170894605303808",
+              "start": 63,
+              "url": "https://t.co/lH5m6Ymo1R"
+            },
+            {
+              "display_url": "pic.x.com/lH5m6Ymo1R",
+              "end": 86,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2072170904914964980/photo/1",
+              "media_key": "3_2072170894622130176",
+              "start": 63,
+              "url": "https://t.co/lH5m6Ymo1R"
+            },
+            {
+              "display_url": "pic.x.com/lH5m6Ymo1R",
+              "end": 86,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2072170904914964980/photo/1",
+              "media_key": "3_2072170894626275328",
+              "start": 63,
+              "url": "https://t.co/lH5m6Ymo1R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072170904914964980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "（碎碎念）\n\n久违地打开歌单，听了好多很久没听过的歌\n\n花谱是我最喜欢的歌手了，ta的歌声很能感染人，形象带有的神秘感也很酷\n\n主要是，现在很多歌为了旋律好听，歌词完全为了音律服务，上下不通还没什么含义。而花谱的歌总传递着，反抗世界还有传达爱意的主题，在现在这个容易政治性抑郁的时代，很能鼓舞人\n\n小小混编一下🥺\n-----------------\n「世界和平」都是骗人的\n每个人都是孤独的\n因为性别也好，肤色也好\n我们恐惧着，憎恶着\n害怕触碰对方\n\n什么是「正确的事」「该做的事」\n我不知道啊。。。\n就连自己，都不相信了\n自我逐渐被淡忘\n痛苦，悲伤\n真正的姿态是什么啊\n还请写下故事的你\n告诉我那个谜题吧\n\n在这本被称为「世界」的小说\n成为了「观测者」\n我们相遇，侃侃而谈\n我们相连，勇气交叠\n祈求奇迹降临，将你拯救\n也许它会开始转动\n\n不可解的它，逐渐崩坏的它\n我们都是主人公\n请一定相信自己是「特别的」\n就算被骂做反派，也守护着对方吧\n迈着相同的步伐，分离又靠近\n用纸飞机相互倾诉，\n在往复的日子里坠入爱河\n化作流星穿过天穹，坠入天际\n\n唱着名为「真相」的歌，\n让我们变得温柔吧！\n在这蓝色的某处活下去\n相互伤害又相互安慰\n带着未觉醒的、未完成的「爱」的魔法\n我们还未尝一败，对吧？对吧！\n-------------\np1 不可解（Inexplicable）\np2 痛みを（把痛苦）\np3  邂逅（Chance meeting）\np4 それを世界と言うんだね（原来这就是所谓的世界）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（碎碎念）\n\n久违地打开歌单，听了好多很久没听过的歌\n\n花谱是我最喜欢的歌手了，ta的歌声很能感染人，形象带有的神秘感也很酷 https://t.co/lH5m6Ymo1R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 1610,
+          "like_count": 18436,
+          "listed_count": 3,
+          "media_count": 295,
+          "tweet_count": 2783
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

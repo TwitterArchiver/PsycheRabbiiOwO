@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1978192010818232669",
+    "created_at": "2025-10-14T20:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T21:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978192010818232669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/psycherabbiiow…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/psycherabbiiowo/status/1978181125013954653",
+          "start": 41,
+          "url": "https://t.co/MVDhHrOb7l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978192010818232669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978181125013954653",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怀念当年有精力阅读的时光\n\n现在即使有空闲，也没有精力了\n\n冰与火之歌真的很好看 https://t.co/MVDhHrOb7l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1395,
+        "media_key": "3_1978181117208592384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3PpPsiagAAPKO8.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1978192010818232669",
+        "created_at": "2025-10-14T20:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T21:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978192010818232669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/psycherabbiiowo/status/1978181125013954653",
+              "start": 41,
+              "url": "https://t.co/MVDhHrOb7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978192010818232669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978181125013954653",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怀念当年有精力阅读的时光\n\n现在即使有空闲，也没有精力了\n\n冰与火之歌真的很好看 https://t.co/MVDhHrOb7l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978181117208592384"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1978181125013954653",
+        "created_at": "2025-10-14T19:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T20:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978181125013954653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EzATuA6cee",
+              "end": 37,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1978181125013954653/photo/1",
+              "media_key": "3_1978181117208592384",
+              "start": 14,
+              "url": "https://t.co/EzATuA6cee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978181125013954653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可是这个真的好好听啊🥹🥹🥹 https://t.co/EzATuA6cee"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "明天。",
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🐰凌月月（互关版）",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 432,
+          "like_count": 467,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 445
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

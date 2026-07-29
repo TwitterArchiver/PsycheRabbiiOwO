@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2047388690616656301",
+    "created_at": "2026-04-23T18:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T19:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047388690616656301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/olive718390/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/olive718390/status/2047320368676008398",
+          "start": 6,
+          "url": "https://t.co/Bt4C7Ooh4F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047388690616656301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047320368676008398",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是顺直男 https://t.co/Bt4C7Ooh4F"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2047388690616656301",
+        "created_at": "2026-04-23T18:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047388690616656301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/olive718390/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/olive718390/status/2047320368676008398",
+              "start": 6,
+              "url": "https://t.co/Bt4C7Ooh4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047388690616656301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047320368676008398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是顺直男 https://t.co/Bt4C7Ooh4F"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867207378774753280",
+        "conversation_id": "2047320368676008398",
+        "created_at": "2026-04-23T14:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047320368676008398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047320368676008398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱怎么样就怎么样，当我是长发男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "凌月月qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 1335,
+          "like_count": 9624,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 2090
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-12T13:58:35.000Z",
+        "description": "记录变化 ；06mtx2024.11.17🍥；183/120；小榄；血图转发 @yan_kenno",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "yan_kenno"
+              }
+            ]
+          }
+        },
+        "id": "1867207378774753280",
+        "name": "Olive",
+        "pinned_tweet_id": "1877546970006319107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870479803410960384/xxMn_OB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 1105,
+          "like_count": 35970,
+          "listed_count": 9,
+          "media_count": 321,
+          "tweet_count": 2945
+        },
+        "username": "Olive718390",
+        "verified": false
+      }
+    ]
+  }
+}

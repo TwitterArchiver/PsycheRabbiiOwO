@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065047754611757056"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2065047762048339986",
+    "created_at": "2026-06-11T12:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065047762048339986"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mX9YFqUrID",
+          "end": 88,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2065047762048339986/photo/1",
+          "media_key": "3_2065047754611757056",
+          "start": 65,
+          "url": "https://t.co/mX9YFqUrID"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065047762048339986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝宝我是兔子\n很好养活的，草饲就行☺️☺️☺️\n\n宝宝我是奶农\n给我吃奶子就好🥰🥰🥰\n\n宝宝我是猫猫\n要吃荤的哦，肉棒就好🥵🥵🥵 https://t.co/mX9YFqUrID"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 523,
+        "media_key": "3_2065047754611757056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiF_eHaEAAXNN8.jpg",
+        "width": 537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065047754611757056"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2065047762048339986",
+        "created_at": "2026-06-11T12:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065047762048339986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mX9YFqUrID",
+              "end": 88,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2065047762048339986/photo/1",
+              "media_key": "3_2065047754611757056",
+              "start": 65,
+              "url": "https://t.co/mX9YFqUrID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065047762048339986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝我是兔子\n很好养活的，草饲就行☺️☺️☺️\n\n宝宝我是奶农\n给我吃奶子就好🥰🥰🥰\n\n宝宝我是猫猫\n要吃荤的哦，肉棒就好🥵🥵🥵 https://t.co/mX9YFqUrID"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1543,
+          "like_count": 16871,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 2639
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

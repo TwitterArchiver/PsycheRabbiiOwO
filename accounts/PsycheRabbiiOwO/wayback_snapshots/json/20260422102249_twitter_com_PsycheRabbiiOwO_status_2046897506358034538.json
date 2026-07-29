@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2046897506358034538",
+    "created_at": "2026-04-22T10:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T11:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046897506358034538"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ktheyes_sissy/…",
+          "end": 154,
+          "expanded_url": "https://twitter.com/ktheyes_sissy/status/1971815072436834446",
+          "start": 131,
+          "url": "https://t.co/JenhSciC5a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046897506358034538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971815072436834446",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "私货是我觉得最恶心的一个词\n\n出来发表意见，说出来的都只能是公货是吧😄😄\n这个词预设了一个情景，就是一定会有一个主体，它的言论全是所有人都必须认为正确的，而与之相对的就是所谓私货\n简单点，己爸咱妈说的全是公货，支持己爸咱妈的也是公货，剩下的全是私货\n\n语言腐败 https://t.co/JenhSciC5a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2046897506358034538",
+        "created_at": "2026-04-22T10:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046897506358034538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ktheyes_sissy/…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/ktheyes_sissy/status/1971815072436834446",
+              "start": 131,
+              "url": "https://t.co/JenhSciC5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046897506358034538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971815072436834446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私货是我觉得最恶心的一个词\n\n出来发表意见，说出来的都只能是公货是吧😄😄\n这个词预设了一个情景，就是一定会有一个主体，它的言论全是所有人都必须认为正确的，而与之相对的就是所谓私货\n简单点，己爸咱妈说的全是公货，支持己爸咱妈的也是公货，剩下的全是私货\n\n语言腐败 https://t.co/JenhSciC5a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103762350216163329",
+        "conversation_id": "1971537484736770527",
+        "created_at": "2025-09-27T05:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T06:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971815072436834446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971815072436834446",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2683,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971537484736770527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 这不是活该吗？\n帐号主夹带私货，遭受怎样的处罚自己都该心知肚明吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 1321,
+          "like_count": 9211,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 2045
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-07T21:00:26.000Z",
+        "description": "",
+        "id": "1103762350216163329",
+        "location": "Hamilton City, New Zealand",
+        "name": "晨晨不怕 Ktheyes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1103768901106597888/gOz7uGP4_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 33,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 107
+        },
+        "username": "Ktheyes_sissy",
+        "verified": false
+      }
+    ]
+  }
+}

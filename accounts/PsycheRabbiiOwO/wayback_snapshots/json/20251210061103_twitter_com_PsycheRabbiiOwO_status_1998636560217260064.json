@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1998636560217260064",
+    "created_at": "2025-12-10T06:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T07:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998636560217260064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1508447794537070595",
+          "start": 3,
+          "username": "sakura2333owo"
+        },
+        {
+          "end": 29,
+          "id": "1756262532577423361",
+          "start": 19,
+          "username": "zyy133644"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998636560217260064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998385338415186125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakura2333owo: @zyy133644 我不行了…信这个文案的应该是没上过大学的🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1998636560217260064",
+        "created_at": "2025-12-10T06:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T07:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998636560217260064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1508447794537070595",
+              "start": 3,
+              "username": "sakura2333owo"
+            },
+            {
+              "end": 29,
+              "id": "1756262532577423361",
+              "start": 19,
+              "username": "zyy133644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998636560217260064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998385338415186125",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakura2333owo: @zyy133644 我不行了…信这个文案的应该是没上过大学的🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1997827839048258040",
+        "created_at": "2025-12-09T13:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998385338415186125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1756262532577423361",
+              "start": 0,
+              "username": "zyy133644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998385338415186125",
+        "in_reply_to_user_id": "1756262532577423361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4610,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997827839048258040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyy133644 我不行了…信这个文案的应该是没上过大学的🙀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/本人长相普通别骂我参考亮点里的照片/雷点不多只有顺直黄蛆，od，反跨（不雷人只雷事不要跳脸就好我很少b人只会不理你）/这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰（🏳️‍⚧️💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 697,
+          "like_count": 2033,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 912
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37054,
+          "following_count": 286,
+          "like_count": 7522,
+          "listed_count": 75,
+          "media_count": 1150,
+          "tweet_count": 5247
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-10T10:23:27.000Z",
+        "description": "开封｜大二在校学生 🚪199 入门",
+        "id": "1756262532577423361",
+        "location": "9.3km",
+        "name": "失格少女ID",
+        "pinned_tweet_id": "1998544440676462636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772627718406029312/1HSTkTIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13313,
+          "following_count": 0,
+          "like_count": 22,
+          "listed_count": 34,
+          "media_count": 452,
+          "tweet_count": 682
+        },
+        "username": "zyy133644",
+        "verified": false
+      }
+    ]
+  }
+}

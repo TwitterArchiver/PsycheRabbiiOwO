@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2032347297577939143",
+    "created_at": "2026-03-13T06:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T07:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032347297577939143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032347297577939143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032307301533782022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 经部分组员查实，该校与我曾前往救援的河南汝州若水教育，实为合作关系。\n同样滥用公职人员权力为其谋利，甚至将警务室开到学校里，方便维稳管理，把所谓“社会不稳定分子”进行改造，对成年人实施绑架、囚禁\n而牵头之人，正是汝州的市长\n该校背景不简…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2032307285423493120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQ0tV4bEAAFFSp.jpg",
+        "width": 1707
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2032307286472028160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQ0tZyacAAl6Nc.jpg",
+        "width": 1707
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2032307286472052736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQ0tZya0AAs0gm.jpg",
+        "width": 859
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032307287294164992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQ0tc2bQAAr2jL.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2032347297577939143",
+        "created_at": "2026-03-13T06:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T07:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032347297577939143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032347297577939143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032307301533782022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 经部分组员查实，该校与我曾前往救援的河南汝州若水教育，实为合作关系。\n同样滥用公职人员权力为其谋利，甚至将警务室开到学校里，方便维稳管理，把所谓“社会不稳定分子”进行改造，对成年人实施绑架、囚禁\n而牵头之人，正是汝州的市长\n该校背景不简…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032307285423493120",
+            "3_2032307286472028160",
+            "3_2032307286472052736",
+            "3_2032307287294164992"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2032307301533782022",
+        "created_at": "2026-03-13T04:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T05:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032307301533782022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2akdq3Fobg",
+              "end": 153,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2032307301533782022/photo/1",
+              "media_key": "3_2032307285423493120",
+              "start": 130,
+              "url": "https://t.co/2akdq3Fobg"
+            },
+            {
+              "display_url": "pic.x.com/2akdq3Fobg",
+              "end": 153,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2032307301533782022/photo/1",
+              "media_key": "3_2032307286472028160",
+              "start": 130,
+              "url": "https://t.co/2akdq3Fobg"
+            },
+            {
+              "display_url": "pic.x.com/2akdq3Fobg",
+              "end": 153,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2032307301533782022/photo/1",
+              "media_key": "3_2032307286472052736",
+              "start": 130,
+              "url": "https://t.co/2akdq3Fobg"
+            },
+            {
+              "display_url": "pic.x.com/2akdq3Fobg",
+              "end": 153,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2032307301533782022/photo/1",
+              "media_key": "3_2032307287294164992",
+              "start": 130,
+              "url": "https://t.co/2akdq3Fobg"
+            },
+            {
+              "display_url": "x.com/yanzhenzhen21/…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/yanzhenzhen21/status/2032087196363268607",
+              "start": 154,
+              "url": "https://t.co/HBXmaTANQW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032307301533782022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3422,
+          "like_count": 86,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032087196363268607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经部分组员查实，该校与我曾前往救援的河南汝州若水教育，实为合作关系。\n同样滥用公职人员权力为其谋利，甚至将警务室开到学校里，方便维稳管理，把所谓“社会不稳定分子”进行改造，对成年人实施绑架、囚禁\n而牵头之人，正是汝州的市长\n该校背景不简单\n如要维权请务必小心 https://t.co/2akdq3Fobg https://t.co/HBXmaTANQW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/8964准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "rabbii_third"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8wsaf9dfras6fdsgr4.com",
+                "end": 23,
+                "expanded_url": "http://8wsaf9dfras6fdsgr4.com",
+                "start": 0,
+                "url": "https://t.co/HHpVvSPYOB"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月（🍥•﹃•🍥）8964",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031049851111395328/bXDRpB4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 1049,
+          "like_count": 5333,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 1519
+        },
+        "url": "https://t.co/HHpVvSPYOB",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030919906380902400/imyfKWjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3754,
+          "following_count": 2075,
+          "like_count": 2015,
+          "listed_count": 13,
+          "media_count": 355,
+          "tweet_count": 2299
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

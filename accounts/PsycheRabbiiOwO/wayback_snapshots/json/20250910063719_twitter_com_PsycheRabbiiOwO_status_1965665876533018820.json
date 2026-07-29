@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1965485333535228322",
+    "created_at": "2025-09-10T06:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T07:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965665876533018820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "KagurazaAkira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965665876533018820",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965485333535228322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazaAkira 把我的眼镜放上天，拿到我们队友的旗帜了，已部署重生信标，有人摧毁了我的无人机，重伤倒地了，我还没结束呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1965485333535228322",
+        "created_at": "2025-09-10T06:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T07:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965665876533018820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazaAkira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965665876533018820",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965485333535228322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazaAkira 把我的眼镜放上天，拿到我们队友的旗帜了，已部署重生信标，有人摧毁了我的无人机，重伤倒地了，我还没结束呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "1965485333535228322",
+        "created_at": "2025-09-09T18:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T19:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965485333535228322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/misako_25ji/st…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/misako_25ji/status/1965384909130006859",
+              "start": 55,
+              "url": "https://t.co/0wvYO78kji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965485333535228322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 722,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965384909130006859",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讣告\n\n翎于2025年9月9日20:00，在奥林匹斯OD两个凤凰治疗包后，抢救无效去世，谢谢大家以来的陪伴. https://t.co/0wvYO78kji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/🍥2025.09.06/MTX/可能是泛性恋？/有对象了已经🥰@pirapira2112/没有联系方式/真的没有线下/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔子凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 393,
+          "like_count": 330,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 332
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "RIP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重庆市渝北区红锦大道60号",
+        "name": "游戳",
+        "pinned_tweet_id": "1965329272756965802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963655595862757381/ZQ_ObJTm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7903,
+          "following_count": 1417,
+          "like_count": 45787,
+          "listed_count": 11,
+          "media_count": 3355,
+          "tweet_count": 27321
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazaAkira",
+        "verified": true
+      }
+    ]
+  }
+}

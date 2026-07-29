@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2079149607339397269",
+    "created_at": "2026-07-20T10:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079149824449122707"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/psycherabbiiow…",
+          "end": 23,
+          "expanded_url": "https://x.com/psycherabbiiowo/status/2043479232433758462?s=46",
+          "start": 0,
+          "url": "https://t.co/2Pwex39ixp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079149824449122707",
+    "in_reply_to_user_id": "1768935696646238208",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043479232433758462",
+        "type": "quoted"
+      },
+      {
+        "id": "2079149607339397269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/2Pwex39ixp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 701,
+        "media_key": "3_2043479226222063616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvlh4jbMAAxZON.jpg",
+        "width": 1179
+      },
+      {
+        "height": 659,
+        "media_key": "3_2043479226217844736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvlh4ia0AAUW_X.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1140,
+        "media_key": "3_2043479226230480896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvlh4lboAARsM5.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1304,
+        "media_key": "3_2043479226226192384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvlh4kaMAAVyLG.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1824,
+        "media_key": "3_2079149597746950144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqfixiacAAC9W6.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1806,
+        "media_key": "3_2079149597730177024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqfixeagAABZOZ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2079149607339397269",
+        "created_at": "2026-07-20T10:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079149824449122707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 23,
+              "expanded_url": "https://x.com/psycherabbiiowo/status/2043479232433758462?s=46",
+              "start": 0,
+              "url": "https://t.co/2Pwex39ixp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079149824449122707",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043479232433758462",
+            "type": "quoted"
+          },
+          {
+            "id": "2079149607339397269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/2Pwex39ixp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043479226222063616",
+            "3_2043479226217844736",
+            "3_2043479226230480896",
+            "3_2043479226226192384"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2043479232433758462",
+        "created_at": "2026-04-12T23:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T00:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043479232433758462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K49WNDeUSp",
+              "end": 63,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2043479232433758462/photo/1",
+              "media_key": "3_2043479226222063616",
+              "start": 40,
+              "url": "https://t.co/K49WNDeUSp"
+            },
+            {
+              "display_url": "pic.x.com/K49WNDeUSp",
+              "end": 63,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2043479232433758462/photo/1",
+              "media_key": "3_2043479226217844736",
+              "start": 40,
+              "url": "https://t.co/K49WNDeUSp"
+            },
+            {
+              "display_url": "pic.x.com/K49WNDeUSp",
+              "end": 63,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2043479232433758462/photo/1",
+              "media_key": "3_2043479226230480896",
+              "start": 40,
+              "url": "https://t.co/K49WNDeUSp"
+            },
+            {
+              "display_url": "pic.x.com/K49WNDeUSp",
+              "end": 63,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2043479232433758462/photo/1",
+              "media_key": "3_2043479226226192384",
+              "start": 40,
+              "url": "https://t.co/K49WNDeUSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043479232433758462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 300,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然觉得这俩有点好磕\n\n互相quote对骂\n就像小情侣在床上rough sex https://t.co/K49WNDeUSp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079149597746950144",
+            "3_2079149597730177024"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2079149607339397269",
+        "created_at": "2026-07-20T10:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079149607339397269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xESE9kEBVl",
+              "end": 42,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2079149607339397269/photo/1",
+              "media_key": "3_2079149597746950144",
+              "start": 19,
+              "url": "https://t.co/xESE9kEBVl"
+            },
+            {
+              "display_url": "pic.x.com/xESE9kEBVl",
+              "end": 42,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2079149607339397269/photo/1",
+              "media_key": "3_2079149597730177024",
+              "start": 19,
+              "url": "https://t.co/xESE9kEBVl"
+            },
+            {
+              "display_url": "x.com/gongmendao/sta…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/gongmendao/status/2079125238386987119",
+              "start": 43,
+              "url": "https://t.co/j2yOtihkAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079149607339397269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079125238386987119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "握草，我是真喜欢磕这样的，找到同好了 https://t.co/xESE9kEBVl https://t.co/j2yOtihkAF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 1706,
+          "like_count": 20377,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 3068
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1988740717330723084",
+    "created_at": "2025-11-12T22:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T23:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988740717330723084"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xnhcy1126/stat…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/xnhcy1126/status/1988651598206365755",
+          "start": 26,
+          "url": "https://t.co/WFsAaCoAm3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988740717330723084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988651598206365755",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想和好多人面基\n但是好像长得不太方便\n求变好看教程 https://t.co/WFsAaCoAm3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_1988651595836583939",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5kcFw_acAMlonx.jpg",
+        "width": 717
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1988740717330723084",
+        "created_at": "2025-11-12T22:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T23:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988740717330723084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xnhcy1126/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/xnhcy1126/status/1988651598206365755",
+              "start": 26,
+              "url": "https://t.co/WFsAaCoAm3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988740717330723084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988651598206365755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想和好多人面基\n但是好像长得不太方便\n求变好看教程 https://t.co/WFsAaCoAm3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988651595836583939"
+          ]
+        },
+        "author_id": "1758152770560159744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988651598206365755",
+        "created_at": "2025-11-12T16:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988651598206365755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PhCbzsCFSF",
+              "end": 49,
+              "expanded_url": "https://x.com/xnhcy1126/status/1988651598206365755/photo/1",
+              "media_key": "3_1988651595836583939",
+              "start": 26,
+              "url": "https://t.co/PhCbzsCFSF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988651598206365755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 171,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想和好多人面基\n但是好像长得不太方便\n求变好看教程 https://t.co/PhCbzsCFSF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/165cm 52kg 本人很丑别骂我/这里这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 485,
+          "like_count": 779,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 582
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T15:34:29.000Z",
+        "description": "泥嚎我是初桜 | mtx | 赛博八字isfp | 碎碎念当朋友圈发 | 欢迎私信互关扩列 | 愿看到这句话的人会永远幸福≡ω≡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mohanan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mohanan2",
+                "start": 0,
+                "url": "https://t.co/joIWD0tqyx"
+              }
+            ]
+          }
+        },
+        "id": "1758152770560159744",
+        "location": "お幸せに",
+        "name": "汐华初流桜🍥",
+        "pinned_tweet_id": "1945491284204122119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976620950155390976/oJVaexe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1473,
+          "following_count": 901,
+          "like_count": 19,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 475
+        },
+        "url": "https://t.co/joIWD0tqyx",
+        "username": "xnhcy1126",
+        "verified": true
+      }
+    ]
+  }
+}

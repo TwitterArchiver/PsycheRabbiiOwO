@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2044550682070642838",
+    "created_at": "2026-04-16T07:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T08:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044683273964859480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944225210284314624",
+          "start": 0,
+          "username": "NMD_China"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044683273964859480",
+    "in_reply_to_user_id": "1944225210284314624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044550682070642838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NMD_China 你⏰赢了😀\n\n赢赢赢赢赢赢赢赢\n赢赢赢赢赢赢赢赢赢\n赢赢赢赢赢赢\n赢赢赢赢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1386,
+        "media_key": "3_2044550555079790592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF-z5bjb0AAxaxU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2044550682070642838",
+        "created_at": "2026-04-16T07:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044683273964859480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944225210284314624",
+              "start": 0,
+              "username": "NMD_China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044683273964859480",
+        "in_reply_to_user_id": "1944225210284314624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044550682070642838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_China 你⏰赢了😀\n\n赢赢赢赢赢赢赢赢\n赢赢赢赢赢赢赢赢赢\n赢赢赢赢赢赢\n赢赢赢赢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044550555079790592"
+          ]
+        },
+        "author_id": "1944225210284314624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044550682070642838",
+        "created_at": "2026-04-15T22:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T23:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044550682070642838"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "这是在干什么"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "兔友迷惑行为"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P7LLT5wQT2",
+              "end": 39,
+              "expanded_url": "https://x.com/NMD_China/status/2044550682070642838/photo/1",
+              "media_key": "3_2044550555079790592",
+              "start": 16,
+              "url": "https://t.co/P7LLT5wQT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044550682070642838",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 248,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#这是在干什么\n#兔友迷惑行为 https://t.co/P7LLT5wQT2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 1270,
+          "like_count": 8167,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 1926
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-13T02:40:02.000Z",
+        "description": "波尔布特|包蜜|嗯嗯你说的都对|入🚪89.64|主人@TheNan19930731|互fo记得说一声|锁推的和三无号去死|永远是你的XXX|腊主席同款发型|非常虾头",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "TheNan19930731"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/APOiQu7DxP"
+              }
+            ]
+          }
+        },
+        "id": "1944225210284314624",
+        "location": "野獸邸",
+        "name": "仿生老毛🇰🇭",
+        "pinned_tweet_id": "2020139501327192168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041026221488918528/MFIE1Xyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2590,
+          "following_count": 825,
+          "like_count": 139931,
+          "listed_count": 24,
+          "media_count": 1154,
+          "tweet_count": 4402
+        },
+        "url": "https://t.co/APOiQu7DxP",
+        "username": "NMD_China",
+        "verified": false
+      }
+    ]
+  }
+}

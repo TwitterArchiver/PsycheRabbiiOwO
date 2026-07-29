@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1978264722609750335",
+    "created_at": "2025-10-15T17:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T18:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978511223701328138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907640932893339654",
+          "start": 0,
+          "username": "Ran_Mitake37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978511223701328138",
+    "in_reply_to_user_id": "1907640932893339654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978264722609750335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ran_Mitake37 同款假发～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978264713441185792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Q1RoxaEAAcPkf.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1978264722609750335",
+        "created_at": "2025-10-15T17:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T18:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978511223701328138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907640932893339654",
+              "start": 0,
+              "username": "Ran_Mitake37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978511223701328138",
+        "in_reply_to_user_id": "1907640932893339654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978264722609750335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ran_Mitake37 同款假发～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978264713441185792"
+          ]
+        },
+        "author_id": "1907640932893339654",
+        "conversation_id": "1978264722609750335",
+        "created_at": "2025-10-15T01:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T02:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978264722609750335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NX6OoPMPo5",
+              "end": 58,
+              "expanded_url": "https://x.com/Ran_Mitake37/status/1978264722609750335/photo/1",
+              "media_key": "3_1978264713441185792",
+              "start": 35,
+              "url": "https://t.co/NX6OoPMPo5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978264722609750335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 24560,
+          "like_count": 301,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "开导了很多人，却唯独开导不了自己，准备开导时才发现自己两只手都握不住 https://t.co/NX6OoPMPo5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "明天。",
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🐰凌月月（互关版）",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 433,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 449
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T03:47:04.000Z",
+        "description": "♂️ 无糖 \\ 1??cm??kg??yo \\ 随机回fo \\ 高频率评论区互动 \\ 爱哈气爱撒娇爱熬夜的坏猫 \\ ⚠️不转R18 \\ 永久清水绝对擦边 \\ ⚠️不线下 \\ ⚠️不要和我建政 \\ ⚠️单身但拒绝恋爱 \\ 挂个小男娘@mhtqwq \\ 铲屎官@aesir641796 \\ 请理性打赏 \\ 祝你天天开心owo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 115,
+                "username": "mhtqwq"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "aesir641796"
+              }
+            ]
+          }
+        },
+        "id": "1907640932893339654",
+        "location": "Hyperbolic Space",
+        "name": "Ran",
+        "pinned_tweet_id": "1968744855187718370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965132236245925891/DWGhNYMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3706,
+          "following_count": 609,
+          "like_count": 331,
+          "listed_count": 8,
+          "media_count": 112,
+          "tweet_count": 3227
+        },
+        "username": "Ran_Mitake37",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2065013484488991178",
+    "created_at": "2026-06-11T10:09:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T11:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065013484488991178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/viki211027/sta…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/viki211027/status/2065004309247598593",
+          "start": 31,
+          "url": "https://t.co/OqzwfBG0cr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065013484488991178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065004309247598593",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们的试纸炒作之神又出新一集了\n\n目前战绩：艾滋、梅毒、怀孕 https://t.co/OqzwfBG0cr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065004304029945856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKheeUFbkAAHSZs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2065013484488991178",
+        "created_at": "2026-06-11T10:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065013484488991178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/viki211027/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/viki211027/status/2065004309247598593",
+              "start": 31,
+              "url": "https://t.co/OqzwfBG0cr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065013484488991178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065004309247598593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们的试纸炒作之神又出新一集了\n\n目前战绩：艾滋、梅毒、怀孕 https://t.co/OqzwfBG0cr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065004304029945856"
+          ]
+        },
+        "author_id": "2013100592202194945",
+        "conversation_id": "2065004309247598593",
+        "created_at": "2026-06-11T09:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065004309247598593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GSiZQGqKsU",
+              "end": 28,
+              "expanded_url": "https://x.com/Viki211027/status/2065004309247598593/photo/1",
+              "media_key": "3_2065004304029945856",
+              "start": 5,
+              "url": "https://t.co/GSiZQGqKsU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065004309247598593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怀孕了 https://t.co/GSiZQGqKsU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 1535,
+          "like_count": 16828,
+          "listed_count": 3,
+          "media_count": 296,
+          "tweet_count": 2632
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-19T04:06:07.000Z",
+        "description": "ENTP/10年1月/想和对象永远在一起/长相拟人/双向情感障碍/老婆@xieerfan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "xieerfan"
+              }
+            ]
+          }
+        },
+        "id": "2013100592202194945",
+        "name": "Dr土豆尼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064357476729073664/r6hYsU_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 22,
+          "like_count": 458,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 253
+        },
+        "username": "Viki211027",
+        "verified": false
+      }
+    ]
+  }
+}

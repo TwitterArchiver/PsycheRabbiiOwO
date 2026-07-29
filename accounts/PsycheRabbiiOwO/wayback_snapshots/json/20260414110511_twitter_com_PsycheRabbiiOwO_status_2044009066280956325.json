@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2044009066280956325",
+    "created_at": "2026-04-14T11:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044009066280956325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuroki7355608/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/kuroki7355608/status/2043929531829166516",
+          "start": 16,
+          "url": "https://t.co/Y74pDN8min"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044009066280956325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043929531829166516",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是\ntl上怎么有机车圈的😨😨 https://t.co/Y74pDN8min"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2044009066280956325",
+        "created_at": "2026-04-14T11:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044009066280956325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuroki7355608/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/kuroki7355608/status/2043929531829166516",
+              "start": 16,
+              "url": "https://t.co/Y74pDN8min"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044009066280956325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043929531829166516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是\ntl上怎么有机车圈的😨😨 https://t.co/Y74pDN8min"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965215002555809793",
+        "conversation_id": "2043929531829166516",
+        "created_at": "2026-04-14T05:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043929531829166516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043929531829166516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1690,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都说骑车会丢蛋的，那我现在已经丢了，我骑车岂不是无敌的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1259,
+          "like_count": 7958,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 1903
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T00:46:01.000Z",
+        "description": "TS/165/55kg/04 | 加好友💰299（每周4更新免费福利） | vx：NeedForSpeed299",
+        "id": "1965215002555809793",
+        "location": "江苏",
+        "name": "张怀民、",
+        "pinned_tweet_id": "1970870598881669623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969837490824708096/z-1g8WO5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6856,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 26,
+          "media_count": 12,
+          "tweet_count": 33
+        },
+        "username": "kuroki7355608",
+        "verified": false
+      }
+    ]
+  }
+}

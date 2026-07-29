@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2045687804869709864",
+    "created_at": "2026-04-19T13:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045859059891663273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2031097520840167424",
+          "start": 0,
+          "username": "Ciallo_114_514"
+        },
+        {
+          "end": 27,
+          "id": "1756909109788753920",
+          "start": 16,
+          "username": "__fanqie__"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Proper differentiation of gonadal somatic cells is crucial for sex determination and the production of sex hormones and gametes, and reconstituting this process in culture would both deepen our understanding of this process and enable the generation of ...",
+          "display_url": "science.org/doi/10.1126/sc…",
+          "end": 51,
+          "expanded_url": "https://www.science.org/doi/10.1126/science.aea0296",
+          "images": [
+            {
+              "height": 550,
+              "url": "https://pbs.twimg.com/news_img/2045859063729467392/aX5M-V3H?format=jpg&name=orig",
+              "width": 715
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2045859063729467392/aX5M-V3H?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 28,
+          "status": 200,
+          "title": "Reconstitution of sex determination and the testicular niche using mouse pluripotent stem cells",
+          "unwound_url": "https://www.science.org/doi/10.1126/science.aea0296",
+          "url": "https://t.co/QfRY38wrXU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045859059891663273",
+    "in_reply_to_user_id": "2031097520840167424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045855395579846999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ciallo_114_514 @__fanqie__ https://t.co/QfRY38wrXU\n好叭还是记错了，是多能干细胞，不是体细胞\n\n原标题：《Science：“人工睾丸”来了！干细胞培育出功能性精子，成功诞下健康且有生育能力的后代》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2045687804869709864",
+        "created_at": "2026-04-19T13:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045859059891663273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031097520840167424",
+              "start": 0,
+              "username": "Ciallo_114_514"
+            },
+            {
+              "end": 27,
+              "id": "1756909109788753920",
+              "start": 16,
+              "username": "__fanqie__"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Proper differentiation of gonadal somatic cells is crucial for sex determination and the production of sex hormones and gametes, and reconstituting this process in culture would both deepen our understanding of this process and enable the generation of ...",
+              "display_url": "science.org/doi/10.1126/sc…",
+              "end": 51,
+              "expanded_url": "https://www.science.org/doi/10.1126/science.aea0296",
+              "images": [
+                {
+                  "height": 550,
+                  "url": "https://pbs.twimg.com/news_img/2045859063729467392/aX5M-V3H?format=jpg&name=orig",
+                  "width": 715
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2045859063729467392/aX5M-V3H?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 28,
+              "status": 200,
+              "title": "Reconstitution of sex determination and the testicular niche using mouse pluripotent stem cells",
+              "unwound_url": "https://www.science.org/doi/10.1126/science.aea0296",
+              "url": "https://t.co/QfRY38wrXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045859059891663273",
+        "in_reply_to_user_id": "2031097520840167424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045855395579846999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ciallo_114_514 @__fanqie__ https://t.co/QfRY38wrXU\n好叭还是记错了，是多能干细胞，不是体细胞\n\n原标题：《Science：“人工睾丸”来了！干细胞培育出功能性精子，成功诞下健康且有生育能力的后代》"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031097520840167424",
+        "conversation_id": "2045687804869709864",
+        "created_at": "2026-04-19T13:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045855395579846999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            },
+            {
+              "end": 28,
+              "id": "1756909109788753920",
+              "start": 17,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045855395579846999",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045709978946970067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO @__fanqie__ 那么成功率是多少呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 1306,
+          "like_count": 8763,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 1997
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-09T19:59:37.000Z",
+        "description": "前世@YunoQiu56649｜互fo喵(没回私信提醒我喵)\n生日0402｜hrt2026.1.12-3.19 断糖ing｜已炸柜｜超级天残党+家长不管党｜中焦重抑｜全部立场中立｜碎碎念｜我又不想死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "2031097520840167424",
+        "location": "你家",
+        "name": "Ciallo～(∠・ω ＜ )︵★🍥🏳️‍⚧️（互fo寻回ing）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 670,
+          "like_count": 1780,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 3365
+        },
+        "username": "Ciallo_114_514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/侵权私信删除\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2045499488916381709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4826,
+          "following_count": 2963,
+          "like_count": 1504,
+          "listed_count": 6,
+          "media_count": 968,
+          "tweet_count": 8790
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

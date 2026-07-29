@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2013028362781180312",
+    "created_at": "2026-01-19T07:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T08:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013144545416884330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1029211346192105475",
+          "start": 0,
+          "username": "HuangSmallmao"
+        },
+        {
+          "end": 24,
+          "id": "1589809419822329857",
+          "start": 15,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013144545416884330",
+    "in_reply_to_user_id": "1029211346192105475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013121647163957534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuangSmallmao @jianlvup 你猜小学文化最高能做到什么职位😁😁😁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2013121637441273856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ALdplXAAAxV-6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2013028362781180312",
+        "created_at": "2026-01-19T07:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T08:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013144545416884330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1029211346192105475",
+              "start": 0,
+              "username": "HuangSmallmao"
+            },
+            {
+              "end": 24,
+              "id": "1589809419822329857",
+              "start": 15,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013144545416884330",
+        "in_reply_to_user_id": "1029211346192105475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013121647163957534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuangSmallmao @jianlvup 你猜小学文化最高能做到什么职位😁😁😁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013121637441273856"
+          ]
+        },
+        "author_id": "1029211346192105475",
+        "conversation_id": "2013028362781180312",
+        "created_at": "2026-01-19T05:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T06:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013121647163957534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8PFx9lRUCN",
+              "end": 123,
+              "expanded_url": "https://x.com/HuangSmallmao/status/2013121647163957534/photo/1",
+              "media_key": "3_2013121637441273856",
+              "start": 100,
+              "url": "https://t.co/8PFx9lRUCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013121647163957534",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013028362781180312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 看到这种回复，我不得不想起搜索这个……真的，你们能上推特主要是因为智能手机的普及以及操作的傻瓜化，还有没有墙。一群小学都没读完的文化水平在这指点江山，他妈的试图想要笑死来谋杀我。 https://t.co/8PFx9lRUCN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）含🍥做题蛆/长相普通别骂我参考亮点里的照片/只混生物圈岩石圈大气圈水圈/链接是提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48Zcse"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲（💯互fo8964）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 827,
+          "like_count": 3151,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 1148
+        },
+        "url": "https://t.co/274M48Zcse",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-14T03:41:21.000Z",
+        "description": "一个纯粹的好色之徒（男）。",
+        "id": "1029211346192105475",
+        "location": "极乐净土",
+        "name": "空空空空瓶子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003848705129205761/LicGpCSF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 420,
+          "like_count": 585,
+          "listed_count": 4,
+          "media_count": 35,
+          "tweet_count": 1252
+        },
+        "username": "HuangSmallmao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2013028029648527392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16203,
+          "following_count": 1353,
+          "like_count": 73601,
+          "listed_count": 60,
+          "media_count": 2543,
+          "tweet_count": 5594
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

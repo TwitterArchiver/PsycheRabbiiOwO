@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2014385329638350882",
+    "created_at": "2026-01-22T17:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T18:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014393669277909299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668037836996771840",
+          "start": 0,
+          "username": "cha_li_jin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014393669277909299",
+    "in_reply_to_user_id": "1668037836996771840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014385329638350882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cha_li_jin 生日快乐！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1011,
+        "media_key": "3_2014385321149136896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_SIxuPbAAAcrOJ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2014385329638350882",
+        "created_at": "2026-01-22T17:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T18:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014393669277909299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668037836996771840",
+              "start": 0,
+              "username": "cha_li_jin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014393669277909299",
+        "in_reply_to_user_id": "1668037836996771840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014385329638350882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cha_li_jin 生日快乐！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014385321149136896"
+          ]
+        },
+        "author_id": "1668037836996771840",
+        "conversation_id": "2014385329638350882",
+        "created_at": "2026-01-22T17:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T18:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014385329638350882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/51mUCHoxlp",
+              "end": 155,
+              "expanded_url": "https://x.com/cha_li_jin/status/2014385329638350882/photo/1",
+              "media_key": "3_2014385321149136896",
+              "start": 132,
+              "url": "https://t.co/51mUCHoxlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014385329638350882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前的弹珠零点突然说生日快乐才意识到已经过零点了\n来戳气球吧，蛋糕和趴体什么的都有没有准备，明天就奖励自己多打几pc乌蒙就行了\n\n（重发是因为突然发现有个很好的亲友也但是我没看見通知，真的很感动很感谢T T，受宠若惊吧，梦想有一天也可以体会一下很热闹的生日，大概 https://t.co/51mUCHoxlp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "含🍥做题蛆/长相普通别骂我参考亮点里的照片/备用机@rabbii_third不知道会发些什么呢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月⁰⃚⃙̴༝ ⁰⃚⃙̴ 🍥🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 865,
+          "like_count": 3292,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1188
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T23:29:56.000Z",
+        "description": "阴湿阳光长发男丨瑟瑟副号 @tashigan_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "tashigan_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsaritsyn1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsaritsyn1",
+                "start": 0,
+                "url": "https://t.co/2Jeo14uWZ8"
+              }
+            ]
+          }
+        },
+        "id": "1668037836996771840",
+        "location": "祝贺我又多活过一天",
+        "name": "AAA星之果实批发零售察里津",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004330025596887040/hq31ndXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8439,
+          "following_count": 778,
+          "like_count": 13577,
+          "listed_count": 45,
+          "media_count": 313,
+          "tweet_count": 2629
+        },
+        "url": "https://t.co/2Jeo14uWZ8",
+        "username": "cha_li_jin",
+        "verified": false
+      }
+    ]
+  }
+}

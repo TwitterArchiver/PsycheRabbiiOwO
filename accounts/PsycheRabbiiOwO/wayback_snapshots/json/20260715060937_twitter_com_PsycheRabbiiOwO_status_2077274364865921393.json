@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077236697105043456"
+      ],
+      "media_source_tweet_id": [
+        "2077236705544073472"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2077274364865921393",
+    "created_at": "2026-07-15T06:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077274364865921393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945848714058203136",
+          "start": 3,
+          "username": "LnaRoaH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iZOuo9adKx",
+          "end": 41,
+          "expanded_url": "https://x.com/LnaRoaH/status/2077236705544073472/photo/1",
+          "media_key": "3_2077236697105043456",
+          "start": 18,
+          "url": "https://t.co/iZOuo9adKx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077274364865921393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077236705544073472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LnaRoaH: 再见重庆 https://t.co/iZOuo9adKx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077236697105043456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPTxTVaEAAdwyT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077236697105043456"
+          ],
+          "media_source_tweet_id": [
+            "2077236705544073472"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2077274364865921393",
+        "created_at": "2026-07-15T06:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077274364865921393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945848714058203136",
+              "start": 3,
+              "username": "LnaRoaH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZOuo9adKx",
+              "end": 41,
+              "expanded_url": "https://x.com/LnaRoaH/status/2077236705544073472/photo/1",
+              "media_key": "3_2077236697105043456",
+              "start": 18,
+              "url": "https://t.co/iZOuo9adKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077274364865921393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077236705544073472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LnaRoaH: 再见重庆 https://t.co/iZOuo9adKx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077236697105043456"
+          ]
+        },
+        "author_id": "1945848714058203136",
+        "conversation_id": "2077236705544073472",
+        "created_at": "2026-07-15T03:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T04:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077236705544073472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZOuo9adKx",
+              "end": 28,
+              "expanded_url": "https://x.com/LnaRoaH/status/2077236705544073472/photo/1",
+              "media_key": "3_2077236697105043456",
+              "start": 5,
+              "url": "https://t.co/iZOuo9adKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077236705544073472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "再见重庆 https://t.co/iZOuo9adKx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 1670,
+          "like_count": 19922,
+          "listed_count": 3,
+          "media_count": 320,
+          "tweet_count": 2961
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-17T14:11:19.000Z",
+        "description": "你好啊～我是lhr 攝影｜HIFI｜畫畫｜羽毛球｜游泳｜化學 ｜推推空間｜交易員｜坐標待定天津市和苏州市 #lhr的攝影集 #lhr探店 調戲鏈接🔗https://t.co/QZ0qizQuEq",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "lhr的攝影集"
+              },
+              {
+                "end": 68,
+                "start": 62,
+                "tag": "lhr探店"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lnaroah",
+                "end": 97,
+                "expanded_url": "https://ngl.link/lnaroah",
+                "start": 74,
+                "url": "https://t.co/QZ0qizQuEq"
+              }
+            ]
+          }
+        },
+        "id": "1945848714058203136",
+        "location": "距你1.5km",
+        "name": "lhr～",
+        "pinned_tweet_id": "2057390797981352401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980434750884966400/-y_6Pczc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 125,
+          "like_count": 1050,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "LnaRoaH",
+        "verified": true
+      }
+    ]
+  }
+}

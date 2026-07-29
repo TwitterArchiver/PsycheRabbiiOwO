@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2046897506358034538",
+    "created_at": "2026-04-22T23:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T00:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047089575961690196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1103762350216163329",
+          "start": 0,
+          "username": "Ktheyes_sissy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047089575961690196",
+    "in_reply_to_user_id": "1103762350216163329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047078722952724595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ktheyes_sissy 还是那句话当务之急是拿到小学毕业证\n\n思维实验室是反贼😄你可以拨打12339举报😄😄哦，监狱里不能随便打电话啊，那没事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2046897506358034538",
+        "created_at": "2026-04-22T23:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T00:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047089575961690196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1103762350216163329",
+              "start": 0,
+              "username": "Ktheyes_sissy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047089575961690196",
+        "in_reply_to_user_id": "1103762350216163329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047078722952724595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ktheyes_sissy 还是那句话当务之急是拿到小学毕业证\n\n思维实验室是反贼😄你可以拨打12339举报😄😄哦，监狱里不能随便打电话啊，那没事了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103762350216163329",
+        "conversation_id": "2046897506358034538",
+        "created_at": "2026-04-22T22:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T23:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047078722952724595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047078722952724595",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047070754588762247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 脑子不好可以不要。这里说的账号主是跨儿说，是个有小学文化水平的人都能看懂。至于说反共，说的不是毛泽东，而是那个思维实验室。它是一个求诏安的反贼频道。\n还是那句话，不能好好说话可以别说。上来就火药味十足不知道是谁欠你的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 1324,
+          "like_count": 9306,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 2059
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-07T21:00:26.000Z",
+        "description": "",
+        "id": "1103762350216163329",
+        "location": "Hamilton City, New Zealand",
+        "name": "晨晨不怕 Ktheyes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1103768901106597888/gOz7uGP4_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 33,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 110
+        },
+        "username": "Ktheyes_sissy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2079499905182437558",
+    "created_at": "2026-07-21T09:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079499905182437558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shidailiang247…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/shidailiang247/status/2078842258707947574",
+          "start": 2,
+          "url": "https://t.co/F3y7ppYWLD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079499905182437558",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078842258707947574",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭 https://t.co/F3y7ppYWLD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078842221017845760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmH_F_aUAADY4N.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078842238428397568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmIAG2aQAAEKtX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2079499905182437558",
+        "created_at": "2026-07-21T09:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079499905182437558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shidailiang247…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/shidailiang247/status/2078842258707947574",
+              "start": 2,
+              "url": "https://t.co/F3y7ppYWLD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079499905182437558",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078842258707947574",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭 https://t.co/F3y7ppYWLD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078842221017845760",
+            "3_2078842238428397568"
+          ]
+        },
+        "author_id": "1868318380970987520",
+        "conversation_id": "2078842258707947574",
+        "created_at": "2026-07-19T13:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078842258707947574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pz7cz2sywY",
+              "end": 47,
+              "expanded_url": "https://x.com/shidailiang247/status/2078842258707947574/photo/1",
+              "media_key": "3_2078842221017845760",
+              "start": 24,
+              "url": "https://t.co/pz7cz2sywY"
+            },
+            {
+              "display_url": "pic.x.com/pz7cz2sywY",
+              "end": 47,
+              "expanded_url": "https://x.com/shidailiang247/status/2078842258707947574/photo/1",
+              "media_key": "3_2078842238428397568",
+              "start": 24,
+              "url": "https://t.co/pz7cz2sywY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078842258707947574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 58873,
+          "like_count": 735,
+          "quote_count": 11,
+          "reply_count": 195,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "话说我现在这样在药娘圈啥水平，hrt254天了 https://t.co/pz7cz2sywY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 1718,
+          "like_count": 20445,
+          "listed_count": 2,
+          "media_count": 341,
+          "tweet_count": 3081
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-15T15:33:15.000Z",
+        "description": "10年小资历mtf /2025.10.15服用色/11.7服用补/ 176cm 56kg/半家长党半妥协党/已炸柜/无证含糖/一年级小高生/猪猪:@yizhizhupig0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "yizhizhupig0"
+              }
+            ]
+          }
+        },
+        "id": "1868318380970987520",
+        "location": "小城市",
+        "name": "代凉shjllll🏳️‍⚧️",
+        "pinned_tweet_id": "2017480982627291554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006370725578592256/KpCdQG5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 257,
+          "like_count": 27,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 332
+        },
+        "url": "",
+        "username": "shidailiang247",
+        "verified": false
+      }
+    ]
+  }
+}

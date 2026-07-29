@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978177069218770944"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1978177080211739043",
+    "created_at": "2025-10-14T19:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T20:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978177080211739043"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GjV9H3QPhj",
+          "end": 23,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1978177080211739043/photo/1",
+          "media_key": "3_1978177069218770944",
+          "start": 0,
+          "url": "https://t.co/GjV9H3QPhj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978177080211739043",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/GjV9H3QPhj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1288,
+        "media_key": "3_1978177069218770944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3PlkEmbsAAaSBE.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978177069218770944"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1978177080211739043",
+        "created_at": "2025-10-14T19:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T20:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978177080211739043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GjV9H3QPhj",
+              "end": 23,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1978177080211739043/photo/1",
+              "media_key": "3_1978177069218770944",
+              "start": 0,
+              "url": "https://t.co/GjV9H3QPhj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978177080211739043",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GjV9H3QPhj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "明天。",
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "🐰🐰凌月月",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 431,
+          "like_count": 465,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 443
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

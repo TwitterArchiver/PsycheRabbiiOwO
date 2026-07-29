@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1961179497354694714",
+    "created_at": "2025-08-29T17:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T18:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961482060708942072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801067258682478592",
+          "start": 0,
+          "username": "kyle89162118614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961482060708942072",
+    "in_reply_to_user_id": "1801067258682478592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961396865603154414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyle89162118614 谢谢！🥹不过药送出去了，还是打算安于现状"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1961179497354694714",
+        "created_at": "2025-08-29T17:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T18:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961482060708942072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801067258682478592",
+              "start": 0,
+              "username": "kyle89162118614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961482060708942072",
+        "in_reply_to_user_id": "1801067258682478592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961396865603154414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyle89162118614 谢谢！🥹不过药送出去了，还是打算安于现状"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801067258682478592",
+        "conversation_id": "1961179497354694714",
+        "created_at": "2025-08-29T11:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T12:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961396865603154414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961396865603154414",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961179497354694714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 吃吃吃😙一起吃😙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "03 165/51 清水推偶尔擦边/生理男心理（不确定）/可能是泛性恋？/有对象了已经🥰@pirapira2112/目前无糖/聊得来可以面基哦/联系方式私信，欢迎骚扰！！！/主页转发抽象贴子，不代表本人看法捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "pirapira2112"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "兔兔凌月爱睡觉～ ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 355,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 283
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T01:41:22.000Z",
+        "description": "🔞🔞🔞🔞🔞🔞\n\n169/54/20y/持續減肥中\n/男娘🍥🏳️‍⚧️/4iiii/男受/bi",
+        "id": "1801067258682478592",
+        "location": "Taipei City, Taiwan",
+        "name": "Femboy Kyle🍥🏳️‍⚧️🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "1938815646198071463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958407064134537216/2Mv3cxtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 36,
+          "like_count": 17,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 150
+        },
+        "username": "kyle89162118614",
+        "verified": false
+      }
+    ]
+  }
+}

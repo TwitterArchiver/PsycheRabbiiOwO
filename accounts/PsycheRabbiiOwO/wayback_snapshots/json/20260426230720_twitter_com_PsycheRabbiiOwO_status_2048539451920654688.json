@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2048387296400154859",
+    "created_at": "2026-04-26T23:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T00:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048539451920654688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1866516145454632960",
+          "start": 0,
+          "username": "D0ntTox1c"
+        },
+        {
+          "end": 20,
+          "id": "1459391643988082701",
+          "start": 11,
+          "username": "umi_hoxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048539451920654688",
+    "in_reply_to_user_id": "1866516145454632960",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048436338001895890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D0ntTox1c @umi_hoxi 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2048387296400154859",
+        "created_at": "2026-04-26T23:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T00:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048539451920654688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1866516145454632960",
+              "start": 0,
+              "username": "D0ntTox1c"
+            },
+            {
+              "end": 20,
+              "id": "1459391643988082701",
+              "start": 11,
+              "username": "umi_hoxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048539451920654688",
+        "in_reply_to_user_id": "1866516145454632960",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048436338001895890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D0ntTox1c @umi_hoxi 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866516145454632960",
+        "conversation_id": "2048387296400154859",
+        "created_at": "2026-04-26T16:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048436338001895890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            },
+            {
+              "end": 26,
+              "id": "1459391643988082701",
+              "start": 17,
+              "username": "umi_hoxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048436338001895890",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048391636825301237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO @umi_hoxi 😎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/我喜欢你你喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 1384,
+          "like_count": 10647,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 2190
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T16:11:53.000Z",
+        "description": "MTF🏳️‍⚧️｜我的世界1.9pvper｜老公：@umi_hoxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "umi_hoxi"
+              }
+            ]
+          }
+        },
+        "id": "1866516145454632960",
+        "name": "AV1🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971075578955694086/3IGjYW2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 380,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 89
+        },
+        "username": "D0ntTox1c",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-13T05:25:12.000Z",
+        "description": "坐标鄭州/僮苗文化彝族/電波系/樂觀又陰鬱的樂子人/业余coser 165/55  /vx🚪50/qq🚪88/跨女/想srs沒錢/支持非二元/ ENTJ /双性戀/大一汉語言在讀\nChinese / English\n，架空世界/科幻/東方，MC老玩家,      \n老婆：@D0ntTox1c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "D0ntTox1c"
+              }
+            ]
+          }
+        },
+        "id": "1459391643988082701",
+        "location": "索拉里斯星",
+        "name": "太陽海星🏴‍☠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047192748084858880/gHveIg2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 421,
+          "like_count": 36796,
+          "listed_count": 2,
+          "media_count": 828,
+          "tweet_count": 7597
+        },
+        "username": "umi_hoxi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,555 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994847928213803012"
+      ],
+      "media_source_tweet_id": [
+        "1994847947021062333"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1418662307442221063",
+          "name": "Kaf"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1418662307442221063",
+          "name": "Kaf"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418662307442221063",
+          "name": "Kaf"
+        }
+      }
+    ],
+    "conversation_id": "1995127885791998226",
+    "created_at": "2025-11-30T13:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T14:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995127885791998226"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "花譜ちゃん",
+          "probability": 0.6269,
+          "start": 26,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "花譜美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1085832074622169088",
+          "start": 3,
+          "username": "PicoMaryH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uNrmLH2dLr",
+          "end": 67,
+          "expanded_url": "https://x.com/PicoMaryH/status/1994847947021062333/photo/1",
+          "media_key": "3_1994847928213803012",
+          "start": 44,
+          "url": "https://t.co/uNrmLH2dLr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995127885791998226",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994847947021062333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PicoMaryH: #花譜美術部\n\n初めて花譜ちゃんのコスプレをした.... https://t.co/uNrmLH2dLr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994847928213803012",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G68fnx4bkAQs_2c.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994847928213803012"
+          ],
+          "media_source_tweet_id": [
+            "1994847947021062333"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          }
+        ],
+        "conversation_id": "1995127885791998226",
+        "created_at": "2025-11-30T13:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T14:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995127885791998226"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "花譜ちゃん",
+              "probability": 0.6269,
+              "start": 26,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "花譜美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1085832074622169088",
+              "start": 3,
+              "username": "PicoMaryH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNrmLH2dLr",
+              "end": 67,
+              "expanded_url": "https://x.com/PicoMaryH/status/1994847947021062333/photo/1",
+              "media_key": "3_1994847928213803012",
+              "start": 44,
+              "url": "https://t.co/uNrmLH2dLr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995127885791998226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994847947021062333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PicoMaryH: #花譜美術部\n\n初めて花譜ちゃんのコスプレをした.... https://t.co/uNrmLH2dLr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994847928213803012"
+          ]
+        },
+        "author_id": "1085832074622169088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          }
+        ],
+        "conversation_id": "1994847947021062333",
+        "created_at": "2025-11-29T19:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T20:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994847947021062333"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "花譜ちゃん",
+              "probability": 0.667,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "花譜美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNrmLH2dLr",
+              "end": 52,
+              "expanded_url": "https://x.com/PicoMaryH/status/1994847947021062333/photo/1",
+              "media_key": "3_1994847928213803012",
+              "start": 29,
+              "url": "https://t.co/uNrmLH2dLr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994847947021062333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 7818,
+          "like_count": 491,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "#花譜美術部\n\n初めて花譜ちゃんのコスプレをした.... https://t.co/uNrmLH2dLr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/本人长相普通别骂我参考亮点里的照片/雷点不多只有顺直黄蛆，od，反跨（不雷人只雷事不要跳脸就好我很少b人只会不理你）/这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48ZKhM"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰（🏳️‍⚧️💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 619,
+          "like_count": 1554,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 787
+        },
+        "url": "https://t.co/274M48ZKhM",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-17T09:31:55.000Z",
+        "description": "りりしい-一応コスプレをやる人、インターネットに現る魔女っ子🤍神椿箱推し ヰ世界情緒ちゃんとAlbemuthが大好き 日本語を勉強するため変な日本語喋ってる 🇨🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/picomaryl?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/picomaryl?igsh=MW16Y3VqN2JvM3U0eQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/osHjZZqyKO"
+              }
+            ]
+          }
+        },
+        "id": "1085832074622169088",
+        "location": "海月病院",
+        "name": "探偵ちゃんのリリシン",
+        "pinned_tweet_id": "1820095429885002088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777426732255166464/-hg6-fjP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34859,
+          "following_count": 615,
+          "like_count": 2314,
+          "listed_count": 178,
+          "media_count": 600,
+          "tweet_count": 1945
+        },
+        "url": "https://t.co/osHjZZqyKO",
+        "username": "PicoMaryH",
+        "verified": false
+      }
+    ]
+  }
+}

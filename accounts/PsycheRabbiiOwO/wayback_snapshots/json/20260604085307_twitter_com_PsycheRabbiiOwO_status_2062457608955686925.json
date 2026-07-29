@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2062130863471829349",
+    "created_at": "2026-06-04T08:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062457608955686925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1363778249277382656",
+          "start": 0,
+          "username": "JVltGillEasbaig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062457608955686925",
+    "in_reply_to_user_id": "1363778249277382656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062320906798833926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JVltGillEasbaig 吃不下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2062130863471829349",
+        "created_at": "2026-06-04T08:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062457608955686925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1363778249277382656",
+              "start": 0,
+              "username": "JVltGillEasbaig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062457608955686925",
+        "in_reply_to_user_id": "1363778249277382656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062320906798833926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JVltGillEasbaig 吃不下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363778249277382656",
+        "conversation_id": "2062130863471829349",
+        "created_at": "2026-06-03T23:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T00:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062320906798833926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062320906798833926",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062130863471829349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 那你多吃不得了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 1495,
+          "like_count": 15537,
+          "listed_count": 3,
+          "media_count": 287,
+          "tweet_count": 2536
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T09:10:56.000Z",
+        "description": "ᛋᚨᚢᛚ:ᚺᚢᚷᚨᚱ:ᛚᛁᚲᛁᛚᛚᛁᚾᚾ:ᛏᛁᛚ:ᛚᛟᚠᛏᛊ:ᛚᛁᚠᛊ",
+        "id": "1363778249277382656",
+        "location": "Silent Hill, Maine, USA",
+        "name": "JoannaGillespuic",
+        "pinned_tweet_id": "2054057274277302458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054574979145220096/BH8Ellu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 532,
+          "like_count": 16260,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 8109
+        },
+        "username": "JVltGillEasbaig",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2027262276257059222",
+    "created_at": "2026-02-27T05:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T06:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027262276257059222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/basijiangdi/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/basijiangdi/status/2027219286482411909",
+          "start": 9,
+          "url": "https://t.co/BHIex66UxU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027262276257059222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027219286482411909",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "握草我真这样想过 https://t.co/BHIex66UxU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2027262276257059222",
+        "created_at": "2026-02-27T05:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027262276257059222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/basijiangdi/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/basijiangdi/status/2027219286482411909",
+              "start": 9,
+              "url": "https://t.co/BHIex66UxU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027262276257059222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027219286482411909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "握草我真这样想过 https://t.co/BHIex66UxU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550399674577592321",
+        "conversation_id": "2027202021905072548",
+        "created_at": "2026-02-27T03:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027219286482411909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1685784710285266944",
+              "start": 0,
+              "username": "mhtqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027219286482411909",
+        "in_reply_to_user_id": "1685784710285266944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2153,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027202021905072548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhtqwq 刷到过有拿退伍费去做手术的。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "rabbii_third"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上",
+        "name": "凌月月（♡´∀`♡)🫤🤯🥲(shadowbanned版)",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025891245403594752/7m_aCDuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 988,
+          "like_count": 4670,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 1417
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T08:38:04.000Z",
+        "description": "想成为一个作家",
+        "id": "1550399674577592321",
+        "name": "活到2080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775924027087040512/F_UbdgPq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 214,
+          "like_count": 72526,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 493
+        },
+        "username": "basijiangdi",
+        "verified": false
+      }
+    ]
+  }
+}

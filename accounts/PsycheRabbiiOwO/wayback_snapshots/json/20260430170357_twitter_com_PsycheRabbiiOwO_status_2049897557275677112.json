@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2049897557275677112",
+    "created_at": "2026-04-30T17:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T18:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049897557275677112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1798564576029810688",
+          "start": 3,
+          "username": "lirong11451419"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049897557275677112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049757041103946051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lirong11451419: 我不知道为什么，服用雌二醇后更加外向大方了，不猥琐了，更加独立自强了反而更像个大人了，我现在精力充沛，什么都想干，也不焦虑抑郁了，这就是青春期吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2049897557275677112",
+        "created_at": "2026-04-30T17:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049897557275677112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1798564576029810688",
+              "start": 3,
+              "username": "lirong11451419"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049897557275677112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049757041103946051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lirong11451419: 我不知道为什么，服用雌二醇后更加外向大方了，不猥琐了，更加独立自强了反而更像个大人了，我现在精力充沛，什么都想干，也不焦虑抑郁了，这就是青春期吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798564576029810688",
+        "conversation_id": "2049757041103946051",
+        "created_at": "2026-04-30T07:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049757041103946051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049757041103946051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5171,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道为什么，服用雌二醇后更加外向大方了，不猥琐了，更加独立自强了反而更像个大人了，我现在精力充沛，什么都想干，也不焦虑抑郁了，这就是青春期吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 1405,
+          "like_count": 11386,
+          "listed_count": 2,
+          "media_count": 264,
+          "tweet_count": 2265
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T03:56:43.000Z",
+        "description": "🍥HRT:2025.4.6，含糖友跨顺男0，一个永远长不大用🍥糖果来疗愈自己，性格软软爱吃🍥糖的小孩૮₍◜ෆ◝.₎ა，\n蓄发，护肤，学化妆ing。衡阳某大砖核科学在读",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/erererrtrt",
+                "end": 23,
+                "expanded_url": "https://t.me/erererrtrt",
+                "start": 0,
+                "url": "https://t.co/IprWNDkIXc"
+              }
+            ]
+          }
+        },
+        "id": "1798564576029810688",
+        "location": "湖南",
+        "name": "哒哒喵🍥",
+        "pinned_tweet_id": "1965991505367281767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039497198761893888/xL8rvNjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 1351,
+          "like_count": 3109,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 1448
+        },
+        "url": "https://t.co/IprWNDkIXc",
+        "username": "lirong11451419",
+        "verified": false
+      }
+    ]
+  }
+}

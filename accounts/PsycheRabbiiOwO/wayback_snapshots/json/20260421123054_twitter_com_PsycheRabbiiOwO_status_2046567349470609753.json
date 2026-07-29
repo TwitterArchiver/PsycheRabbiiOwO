@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2046550512686727168"
+      ],
+      "media_source_tweet_id": [
+        "2046550686452814274"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046567349470609753",
+    "created_at": "2026-04-21T12:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T13:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046567349470609753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qojAoIkpcq",
+          "end": 47,
+          "expanded_url": "https://x.com/dameizhongguo3/status/2046550686452814274/video/1",
+          "media_key": "13_2046550512686727168",
+          "start": 24,
+          "url": "https://t.co/qojAoIkpcq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046567349470609753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我特么。。。。\n\n这种若至剧，竟然还有百合？！ https://t.co/qojAoIkpcq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 343005,
+        "height": 720,
+        "media_key": "13_2046550512686727168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046550512686727168/img/UAtxzylpnr_Qn2G1.jpg",
+        "public_metrics": {
+          "view_count": 6074
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046550512686727168/vid/avc1/324x270/crxyti9Oiyyfb-wV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046550512686727168/vid/avc1/432x360/b8qcym8HsoqWli88.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046550512686727168/vid/avc1/864x720/Js63nyuqEPTS9hHH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046550512686727168/pl/cssQGvoCDpDPz0J9.m3u8"
+          }
+        ],
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046550512686727168"
+          ],
+          "media_source_tweet_id": [
+            "2046550686452814274"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046567349470609753",
+        "created_at": "2026-04-21T12:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046567349470609753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qojAoIkpcq",
+              "end": 47,
+              "expanded_url": "https://x.com/dameizhongguo3/status/2046550686452814274/video/1",
+              "media_key": "13_2046550512686727168",
+              "start": 24,
+              "url": "https://t.co/qojAoIkpcq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046567349470609753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特么。。。。\n\n这种若至剧，竟然还有百合？！ https://t.co/qojAoIkpcq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 1316,
+          "like_count": 9029,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 2029
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

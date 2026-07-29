@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2076558768490602850",
+    "created_at": "2026-07-13T15:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076691289878458724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2021206002050400258",
+          "start": 0,
+          "username": "Natsuki_Luka_P"
+        },
+        {
+          "end": 28,
+          "id": "1832763086039896064",
+          "start": 16,
+          "username": "NanoCatfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076691289878458724",
+    "in_reply_to_user_id": "2021206002050400258",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076676149057650709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsuki_Luka_P @NanoCatfish 🥹被开盒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2076558768490602850",
+        "created_at": "2026-07-13T15:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076691289878458724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2021206002050400258",
+              "start": 0,
+              "username": "Natsuki_Luka_P"
+            },
+            {
+              "end": 28,
+              "id": "1832763086039896064",
+              "start": 16,
+              "username": "NanoCatfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076691289878458724",
+        "in_reply_to_user_id": "2021206002050400258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076676149057650709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsuki_Luka_P @NanoCatfish 🥹被开盒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021206002050400258",
+        "conversation_id": "2076558768490602850",
+        "created_at": "2026-07-13T14:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076676149057650709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1832763086039896064",
+              "start": 0,
+              "username": "NanoCatfish"
+            },
+            {
+              "end": 29,
+              "id": "1768935696646238208",
+              "start": 13,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076676149057650709",
+        "in_reply_to_user_id": "1832763086039896064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076635667053105512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanoCatfish @PsycheRabbiiOwO 根据地铁贴图UI和颜色，以及右上角的地铁导视图来看，这是重庆轨交2号线。\n重庆轨交UI的特点是地铁线路图的站点向右下凹陷，换乘车站则是在凹陷向下方延伸出一个球。此外，出口方向的导视均使用黄色标识。\n如果你是地铁迷的话很容易就知道了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 1662,
+          "like_count": 19853,
+          "listed_count": 3,
+          "media_count": 316,
+          "tweet_count": 2939
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-10T12:54:13.000Z",
+        "description": "🇨🇳日韓 🇯🇵中韓 🇰🇷中日 友好！！！                                \n        音ゲー/鉄道/ボカロ/Arknights/麻雀       \nこんにちは、中国高中二年生、夏樹流花です。夢はボカロPだよ!\nmaimaidx rating15472",
+        "id": "2021206002050400258",
+        "name": "夏樹流花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066166901576011776/1OH-wQUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 16,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "Natsuki_Luka_P",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T12:51:34.000Z",
+        "description": "自由、平等、博爱 | 找我玩pls qwq | 可以称呼我为小叶 | 无性别认同 | @Nano_Catfish |  一场超过半年的梦… 嘛…？ @wimzylens0 | 可爱的猫猫 @bth95147 | 超棒喵喵叶姐姐～ @LeavesMao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "Nano_Catfish"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "wimzylens0"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "bth95147"
+              },
+              {
+                "end": 125,
+                "start": 115,
+                "username": "LeavesMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nanocatfish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nanocatfish",
+                "start": 0,
+                "url": "https://t.co/I3vJIN1yOJ"
+              }
+            ]
+          }
+        },
+        "id": "1832763086039896064",
+        "location": "🍀四叶草园🍀",
+        "name": "🍀Nano Catfish🐟🐟🐟",
+        "pinned_tweet_id": "1985858852060070241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007057714342461440/5Gc8L4A0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 310,
+          "like_count": 6925,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1576
+        },
+        "url": "https://t.co/I3vJIN1yOJ",
+        "username": "NanoCatfish",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2044002311333392821",
+    "created_at": "2026-04-14T10:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T11:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044002311333392821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3282882abc/sta…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/3282882abc/status/2039988361927258583",
+          "start": 130,
+          "url": "https://t.co/EVmmKXozUG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044002311333392821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039988361927258583",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有可能是推流机制的问题\n\n一个账号只要进跨圈了，x就只会给跨圈内容推流，推给的也是泛跨性别圈子。其他的内容都很难有流量，擦边都不行。相对的，男娘圈的擦边倒是一发一个爆款，推流很厉害\n\n转为分享普通生活的跨圈账号，都被埋在互联网海洋里了，又或者被“误封”掉 https://t.co/EVmmKXozUG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2044002311333392821",
+        "created_at": "2026-04-14T10:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044002311333392821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3282882abc/sta…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/3282882abc/status/2039988361927258583",
+              "start": 130,
+              "url": "https://t.co/EVmmKXozUG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044002311333392821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039988361927258583",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有可能是推流机制的问题\n\n一个账号只要进跨圈了，x就只会给跨圈内容推流，推给的也是泛跨性别圈子。其他的内容都很难有流量，擦边都不行。相对的，男娘圈的擦边倒是一发一个爆款，推流很厉害\n\n转为分享普通生活的跨圈账号，都被埋在互联网海洋里了，又或者被“误封”掉 https://t.co/EVmmKXozUG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918621198591905792",
+        "conversation_id": "2039955880343703913",
+        "created_at": "2026-04-03T08:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039988361927258583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039988361927258583",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 279,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039955880343703913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 漂亮话可以随便说，但是你圈三个月换一批人的事实我看是从未改变的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月qwq",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1258,
+          "like_count": 7945,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 1897
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-03T10:58:44.000Z",
+        "description": "#FFAACC Lovely Pink🍸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "FFAACC"
+              }
+            ]
+          }
+        },
+        "id": "1918621198591905792",
+        "location": "Hawaii, USA",
+        "name": "时尚辣妹洛洛梨👒",
+        "pinned_tweet_id": "2028828961078419768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040365082463576064/te656c8R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 54,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 79
+        },
+        "username": "3282882abc",
+        "verified": false
+      }
+    ]
+  }
+}

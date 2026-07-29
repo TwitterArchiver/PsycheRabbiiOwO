@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1996211954256609670",
+    "created_at": "2025-12-03T13:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T14:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996211954256609670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1775457158563274752",
+          "start": 3,
+          "username": "AshlynHe1129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996211954256609670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996148319094185992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AshlynHe1129: 我有个朋友，刚认识他的时候，他跟我说他本科是读一所普通的 211。\n我当时还夸了他一句：这已经挺厉害了吧。\n\n直到后来我们和他一个共同朋友一起吃饭。\n那个朋友随口说了一句：\n“你不是北大的吗？怎么变成 211 了？”\n\n我当时愣住了。\n他也愣…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1996211954256609670",
+        "created_at": "2025-12-03T13:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996211954256609670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1775457158563274752",
+              "start": 3,
+              "username": "AshlynHe1129"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996211954256609670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996148319094185992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AshlynHe1129: 我有个朋友，刚认识他的时候，他跟我说他本科是读一所普通的 211。\n我当时还夸了他一句：这已经挺厉害了吧。\n\n直到后来我们和他一个共同朋友一起吃饭。\n那个朋友随口说了一句：\n“你不是北大的吗？怎么变成 211 了？”\n\n我当时愣住了。\n他也愣…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775457158563274752",
+        "conversation_id": "1996148319094185992",
+        "created_at": "2025-12-03T09:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996148319094185992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996148319094185992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我有个朋友，刚认识他的时候，他跟我说他本科是读一所普通的 211。\n我当时还夸了他一句：这已经挺厉害了吧。\n\n直到后来我们和他一个共同朋友一起吃饭。\n那个朋友随口说了一句：\n“你不是北大的吗？怎么变成 211 了？”\n\n我当时愣住了。\n他也愣住了。\n现场一度非常尴尬。\n\n饭后我问他为什么不直接说自己是北大的。\n他憋了半天才告诉我，他有“名校羞耻症”。\n\n他说，进了北大之后，他第一次发现什么叫“努力没有用”。\n身边的人一个比一个厉害，简历耀眼、比赛金奖、科研经历、社会实践……\n他在那里完全找不到自己的定位，像是突然从学霸掉成了透明人。\n\n他说，在北大，他从来没有觉得自己优秀过。\n反而觉得自己很普通，甚至有点废。\n\n所以毕业以后，每次别人问他什么学校，他都会找一个差不多、但不会太亮眼的学校代替。\n普通 211，刚刚好，别人不会太惊讶，他也不会太紧张。\n\n他说他最怕的不是别人质疑，而是别人期待。\n特别是那种听到“北大”之后突然变得很尊敬、很夸张的夸赞，会让他浑身不自在。\n他总觉得自己配不上别人想象中的样子。\n\n我那一刻突然意识到：\n学历在这个社会里，从来都不是一个简单的标签。\n有人因为成绩不好自卑，有人却因为“太好”而焦虑。\n\n我们从小被教育：考好学校、上名校，这是往上走的唯一通道。\n但在现实社会里，学历光环有时候不仅没帮你减轻压力，反而成了新的枷锁。\n\n一个人真正的价值，从来不是学历能概括的。\n优秀的人不一定来自名校，\n来自名校的人也不一定永远优秀。\n\n我们这一代人可能都忘了：\n学历只是人生的一个开始，不是结论。\n也不是标签，更不是身份说明书。\n\n当一个北大生都因为“名校”两个字感到羞耻的时候，\n我们应该意识到，这个社会也许需要重新思考——\n我们究竟为什么要把一张录取通知书，看得那么重？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 50234,
+          "like_count": 136,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我有个朋友，刚认识他的时候，他跟我说他本科是读一所普通的 211。\n我当时还夸了他一句：这已经挺厉害了吧。\n\n直到后来我们和他一个共同朋友一起吃饭。\n那个朋友随口说了一句：\n“你不是北大的吗？怎么变成 211 了？”\n\n我当时愣住了。\n他也愣住了。\n现场一度非常尴尬。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/本人长相普通别骂我参考亮点里的照片/雷点不多只有顺直黄蛆，od，反跨（不雷人只雷事不要跳脸就好我很少b人只会不理你）/这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48ZKhM"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰（🏳️‍⚧️💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 647,
+          "like_count": 1707,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 828
+        },
+        "url": "https://t.co/274M48ZKhM",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-03T09:36:03.000Z",
+        "description": "Founder @ZenStellar | AI x Healing ｜Calm tech ｜Emotional wellness in the digital age｜会讲波兰语",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "ZenStellar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zenstellarshop.com",
+                "end": 23,
+                "expanded_url": "https://zenstellarshop.com/",
+                "start": 0,
+                "url": "https://t.co/i5P2xKpoo8"
+              }
+            ]
+          }
+        },
+        "id": "1775457158563274752",
+        "location": "厦门",
+        "name": "Ashlyn He",
+        "pinned_tweet_id": "1990400329960042995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987110492188360704/DpoD40x-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 76,
+          "like_count": 763,
+          "listed_count": 6,
+          "media_count": 11,
+          "tweet_count": 290
+        },
+        "url": "https://t.co/i5P2xKpoo8",
+        "username": "AshlynHe1129",
+        "verified": true
+      }
+    ]
+  }
+}

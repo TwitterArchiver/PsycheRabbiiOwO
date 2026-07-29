@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978385925089718272"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1978385962867532277",
+    "created_at": "2025-10-15T09:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T10:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978385962867532277"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OZlGw48xDA",
+          "end": 32,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1978385962867532277/photo/1",
+          "media_key": "3_1978385925089718272",
+          "start": 9,
+          "url": "https://t.co/OZlGw48xDA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978385962867532277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鱼板🍥被分尸了😭 https://t.co/OZlGw48xDA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1978385925089718272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3SjhFWa8AAwXe1.jpg",
+        "width": 1642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978385925089718272"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1978385962867532277",
+        "created_at": "2025-10-15T09:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T10:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978385962867532277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OZlGw48xDA",
+              "end": 32,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1978385962867532277/photo/1",
+              "media_key": "3_1978385925089718272",
+              "start": 9,
+              "url": "https://t.co/OZlGw48xDA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978385962867532277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鱼板🍥被分尸了😭 https://t.co/OZlGw48xDA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "明天。",
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🐰凌月月（互关版）",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 433,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 447
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2063984820259287293",
+    "created_at": "2026-06-08T14:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063984820259287293"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vilhelmpx/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/vilhelmpx/status/2062850085399203840",
+          "start": 22,
+          "url": "https://t.co/mVQs9oBOxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063984820259287293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062850085399203840",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没错啊👍\n修完道有了批，就是要审批才能改证 https://t.co/mVQs9oBOxs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2063984820259287293",
+        "created_at": "2026-06-08T14:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063984820259287293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vilhelmpx/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/vilhelmpx/status/2062850085399203840",
+              "start": 22,
+              "url": "https://t.co/mVQs9oBOxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063984820259287293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062850085399203840",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没错啊👍\n修完道有了批，就是要审批才能改证 https://t.co/mVQs9oBOxs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876253911916584960",
+        "conversation_id": "2062807395210780872",
+        "created_at": "2026-06-05T10:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062850085399203840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            },
+            {
+              "end": 30,
+              "id": "1981638054688501760",
+              "start": 17,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062850085399203840",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062809746315542563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO @ashasw114514 操，是这个修道，我不去了。我要审批。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 1524,
+          "like_count": 16335,
+          "listed_count": 3,
+          "media_count": 290,
+          "tweet_count": 2593
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-18T01:43:07.000Z",
+        "description": "idk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/FrenchActress",
+                "end": 23,
+                "expanded_url": "https://t.me/FrenchActress",
+                "start": 0,
+                "url": "https://t.co/KNQztwoYtb"
+              }
+            ]
+          }
+        },
+        "id": "876253911916584960",
+        "name": "Merkwüdigliebe",
+        "pinned_tweet_id": "1974951244113535467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1005987187463077889/ObYD2xBF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 220,
+          "like_count": 7379,
+          "listed_count": 8,
+          "media_count": 543,
+          "tweet_count": 30688
+        },
+        "url": "https://t.co/KNQztwoYtb",
+        "username": "VilhelmPX",
+        "verified": true
+      }
+    ]
+  }
+}

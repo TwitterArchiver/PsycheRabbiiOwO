@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056794338835996672",
+        "3_2056794338844430336"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2056794349602758689",
+    "created_at": "2026-05-19T17:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056794349602758689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dWYffAaRoW",
+          "end": 61,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2056794349602758689/photo/1",
+          "media_key": "3_2056794338835996672",
+          "start": 38,
+          "url": "https://t.co/dWYffAaRoW"
+        },
+        {
+          "display_url": "pic.x.com/dWYffAaRoW",
+          "end": 61,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2056794349602758689/photo/1",
+          "media_key": "3_2056794338844430336",
+          "start": 38,
+          "url": "https://t.co/dWYffAaRoW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056794349602758689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.  哇真的嘛，可以呀（不过为什么不私\n2. 关注塔菲喵，关注塔菲谢谢喵 https://t.co/dWYffAaRoW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 764,
+        "media_key": "3_2056794338835996672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIszjcZaoAAXyaF.jpg",
+        "width": 1179
+      },
+      {
+        "height": 655,
+        "media_key": "3_2056794338844430336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIszjcbbUAA45Xt.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056794338835996672",
+            "3_2056794338844430336"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2056794349602758689",
+        "created_at": "2026-05-19T17:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056794349602758689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dWYffAaRoW",
+              "end": 61,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2056794349602758689/photo/1",
+              "media_key": "3_2056794338835996672",
+              "start": 38,
+              "url": "https://t.co/dWYffAaRoW"
+            },
+            {
+              "display_url": "pic.x.com/dWYffAaRoW",
+              "end": 61,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2056794349602758689/photo/1",
+              "media_key": "3_2056794338844430336",
+              "start": 38,
+              "url": "https://t.co/dWYffAaRoW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056794349602758689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.  哇真的嘛，可以呀（不过为什么不私\n2. 关注塔菲喵，关注塔菲谢谢喵 https://t.co/dWYffAaRoW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 1483,
+          "like_count": 13817,
+          "listed_count": 3,
+          "media_count": 275,
+          "tweet_count": 2431
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

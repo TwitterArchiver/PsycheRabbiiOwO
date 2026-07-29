@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2062443003692929088",
+    "created_at": "2026-06-04T23:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T00:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062680903655289086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766452473840173056",
+          "start": 0,
+          "username": "mikotossd0106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062680903655289086",
+    "in_reply_to_user_id": "1766452473840173056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062676509513617684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikotossd0106 ？还有高手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2062443003692929088",
+        "created_at": "2026-06-04T23:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T00:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062680903655289086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766452473840173056",
+              "start": 0,
+              "username": "mikotossd0106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062680903655289086",
+        "in_reply_to_user_id": "1766452473840173056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062676509513617684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikotossd0106 ？还有高手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766452473840173056",
+        "conversation_id": "2062443003692929088",
+        "created_at": "2026-06-04T23:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T00:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062676509513617684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ],
+          "urls": [
+            {
+              "description": "简介：青春的痛经无法避免，如果水中最后的恐龙也被黄金占为己有，我们的乌托邦会在哪里？, 视频播放量 228166、弹幕量 1189、点赞数 43248、投硬币枚数 4533、收藏人数 15281、转发人数 8933, 视频作者 叽里咕噜_p, 作者简介 我真的很爱音乐啊！，相关视频：【初投稿/暂别作/诗岸】这期神了这期拉了，【初投稿/暂别作/诗岸】相比拉拉给给，我更喜欢旮拉给木，【初投稿/暂别作/诗岸】豪到你了吗？，【初投稿/暂告别作/诗岸原创】我喜欢的男孩不是男同/工业金属/死亡金属/日系摇滚/实验说唱/前卫摇滚/夏曲/车库朋克/自由爵士/恋歌/硬摇滚/轻摇滚/艺术金属，【初投稿/暂别作/诗岸】止战之殇/雷德王还有三个小时降临地球，【星尘/诗岸/原创摇滚】反乌托邦 “至少我还在为你而歌唱，在黑暗漫长的反乌托邦”，【洛天依原创】 我爱你，【原创曲】《十重告别》“比十年更早之前，我便歌颂着明天”，岸与灯【诗岸生贺原创】，【初投稿/暂告别作/诗岸原创】我的兄弟图谋不轨/硬摇滚/黑金属/情绪摇滚/实验说唱/前卫摇滚/数学摇滚/硬核朋克/伪爵士/恋歌/轻摇滚/交响DJ",
+              "display_url": "b23.tv/qhEw1ZI",
+              "end": 75,
+              "expanded_url": "https://b23.tv/qhEw1ZI",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2062676546096373760/qrJ1A5fy?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2062676546096373760/qrJ1A5fy?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "【初投稿/暂别作/诗岸】当我想哭的时候厕所里总是有黄金_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV13Vr9BBEET/?-Arouter=story&buvid=XU610146F2A393FC41751D7F0C20314DA34E0&from_spmid=main.ugc-video-detail-vertical.0.0&is_story_h5=false&mid=KFw2QsgbVPl4lhrAcu4kxw%3D%3D&p=1&plat_id=143&share_from=ugc&share_medium=android_i&share_plat=android&share_session_id=36462735-e462-4e05-a7b5-91394ea3ada9&share_source=COPY&share_tag=s_i&spmid=main.ugc-video-detail-verticalspace.0.0&timestamp=1778489503&unique_k=qhEw1ZI&up_id=3546946916584276",
+              "url": "https://t.co/akSCVvVgab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062676509513617684",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062443003692929088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 【【初投稿/暂别作/诗岸】当我想哭的时候厕所里总是有黄金-哔哩哔哩】 https://t.co/akSCVvVgab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 1499,
+          "like_count": 15692,
+          "listed_count": 3,
+          "media_count": 288,
+          "tweet_count": 2550
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T13:14:37.000Z",
+        "description": "rim de lacent!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikotossd.net",
+                "end": 23,
+                "expanded_url": "http://mikotossd.net",
+                "start": 0,
+                "url": "https://t.co/hoi4XcP34Y"
+              }
+            ]
+          }
+        },
+        "id": "1766452473840173056",
+        "location": "成都",
+        "name": "御坂鱼坂",
+        "pinned_tweet_id": "2016170324564574213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028471964957110272/CXxZxkpg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1830,
+          "following_count": 1651,
+          "like_count": 89253,
+          "listed_count": 5,
+          "media_count": 1252,
+          "tweet_count": 5753
+        },
+        "url": "https://t.co/hoi4XcP34Y",
+        "username": "mikotossd0106",
+        "verified": true
+      }
+    ]
+  }
+}

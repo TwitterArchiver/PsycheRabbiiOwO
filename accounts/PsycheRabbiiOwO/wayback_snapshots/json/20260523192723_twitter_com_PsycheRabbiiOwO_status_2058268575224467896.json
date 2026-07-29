@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2058268575224467896",
+    "created_at": "2026-05-23T19:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T20:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058268575224467896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/hsn8086/status/2058067013214613844",
+          "start": 19,
+          "url": "https://t.co/aCHt4pVSDB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058268575224467896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058067013214613844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？卧槽？！出口转内销转出口？\n\n妈呀 https://t.co/aCHt4pVSDB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2058066982260584448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-5BCmaMAALWdO.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2058268575224467896",
+        "created_at": "2026-05-23T19:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T20:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058268575224467896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/hsn8086/status/2058067013214613844",
+              "start": 19,
+              "url": "https://t.co/aCHt4pVSDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058268575224467896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058067013214613844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？卧槽？！出口转内销转出口？\n\n妈呀 https://t.co/aCHt4pVSDB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058066982260584448"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2058067013214613844",
+        "created_at": "2026-05-23T06:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058067013214613844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IohFYwA4Uc",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2058067013214613844/photo/1",
+              "media_key": "3_2058066982260584448",
+              "start": 0,
+              "url": "https://t.co/IohFYwA4Uc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058067013214613844",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 28603,
+          "like_count": 1607,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IohFYwA4Uc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 1486,
+          "like_count": 14211,
+          "listed_count": 3,
+          "media_count": 279,
+          "tweet_count": 2461
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120512,
+          "following_count": 1120,
+          "like_count": 52346,
+          "listed_count": 296,
+          "media_count": 21688,
+          "tweet_count": 32153
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

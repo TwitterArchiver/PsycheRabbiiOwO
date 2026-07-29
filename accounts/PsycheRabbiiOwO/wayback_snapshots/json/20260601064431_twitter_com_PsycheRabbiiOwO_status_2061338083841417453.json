@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2061309872763982199",
+    "created_at": "2026-06-01T06:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T07:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061338083841417453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007397795532333056",
+          "start": 0,
+          "username": "shaoxiancao1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061338083841417453",
+    "in_reply_to_user_id": "2007397795532333056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061309872763982199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaoxiancao1314 分手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2061309872763982199",
+        "created_at": "2026-06-01T06:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061338083841417453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007397795532333056",
+              "start": 0,
+              "username": "shaoxiancao1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061338083841417453",
+        "in_reply_to_user_id": "2007397795532333056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061309872763982199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaoxiancao1314 分手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007397795532333056",
+        "conversation_id": "2061309872763982199",
+        "created_at": "2026-06-01T04:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061309872763982199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061309872763982199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 403,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有没有办法让唐毓文停止出轨和家暴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 1493,
+          "like_count": 15121,
+          "listed_count": 3,
+          "media_count": 285,
+          "tweet_count": 2512
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T10:25:12.000Z",
+        "description": "低价🍥客服\n https://t.co/PBMuiF9RT5\ntg公告通知频道https://t.co/JRh1GMpZFp\ntg售后聊天群https://t.co/bCgbn8KY2x\n蓝V互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/qianxian1314520",
+                "end": 30,
+                "expanded_url": "http://t.me/qianxian1314520",
+                "start": 7,
+                "url": "https://t.co/PBMuiF9RT5"
+              },
+              {
+                "display_url": "t.me/tangyuwendetan…",
+                "end": 62,
+                "expanded_url": "http://t.me/tangyuwendetang520",
+                "start": 39,
+                "url": "https://t.co/JRh1GMpZFp"
+              },
+              {
+                "display_url": "t.me/+EVeqakNumwY5O…",
+                "end": 93,
+                "expanded_url": "https://t.me/+EVeqakNumwY5OTNh",
+                "start": 70,
+                "url": "https://t.co/bCgbn8KY2x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yesmtf.com",
+                "end": 23,
+                "expanded_url": "http://yesmtf.com",
+                "start": 0,
+                "url": "https://t.co/Z6vEIn46JX"
+              }
+            ]
+          }
+        },
+        "id": "2007397795532333056",
+        "name": "烧仙草🍥🏳️‍⚧️（糖🍥商）",
+        "pinned_tweet_id": "2021027137004896416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029278451736485888/iKkTT_aR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 457,
+          "like_count": 6063,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 105
+        },
+        "url": "https://t.co/Z6vEIn46JX",
+        "username": "shaoxiancao1314",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977957030934827008"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "1977957040141275185",
+    "created_at": "2025-10-14T04:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T05:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977957040141275185"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eNwpHWSA6a",
+          "end": 30,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1977957040141275185/photo/1",
+          "media_key": "3_1977957030934827008",
+          "start": 7,
+          "url": "https://t.co/eNwpHWSA6a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977957040141275185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不是m😡😡 https://t.co/eNwpHWSA6a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_1977957030934827008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3MdcKHbUAAXyNM.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977957030934827008"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "1977957040141275185",
+        "created_at": "2025-10-14T04:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T05:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977957040141275185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eNwpHWSA6a",
+              "end": 30,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/1977957040141275185/photo/1",
+              "media_key": "3_1977957030934827008",
+              "start": 7,
+              "url": "https://t.co/eNwpHWSA6a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977957040141275185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是m😡😡 https://t.co/eNwpHWSA6a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "唉",
+        "id": "1768935696646238208",
+        "location": "by your side",
+        "name": "😇",
+        "pinned_tweet_id": "1961333435148243196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933851668522979328/QXrBALJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 431,
+          "like_count": 464,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 441
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

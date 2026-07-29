@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "1996099565259555300",
+    "created_at": "2025-12-03T06:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T07:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996099565259555300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996099565259555300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996082862781591777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: 大家好，我是剩🥚老登🎅🏻，由于要准备的礼物🎁太多，所以，我已经提前进入中国🇨🇳，为防止在袜子中放错礼物，请女孩子们把你们袜子拍照发我看看，为了避免个别孩子作弊，请附上穿袜子的腿的照片。\n🎄ps1：最好是长袜看脚底的视角白色黑色肉色什么色都行，拍得越色礼物…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "1996099565259555300",
+        "created_at": "2025-12-03T06:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T07:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996099565259555300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996099565259555300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996082862781591777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: 大家好，我是剩🥚老登🎅🏻，由于要准备的礼物🎁太多，所以，我已经提前进入中国🇨🇳，为防止在袜子中放错礼物，请女孩子们把你们袜子拍照发我看看，为了避免个别孩子作弊，请附上穿袜子的腿的照片。\n🎄ps1：最好是长袜看脚底的视角白色黑色肉色什么色都行，拍得越色礼物…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613079089879076864",
+        "conversation_id": "1996082862781591777",
+        "created_at": "2025-12-03T05:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T06:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996082862781591777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996082862781591777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大家好，我是剩🥚老登🎅🏻，由于要准备的礼物🎁太多，所以，我已经提前进入中国🇨🇳，为防止在袜子中放错礼物，请女孩子们把你们袜子拍照发我看看，为了避免个别孩子作弊，请附上穿袜子的腿的照片。\n🎄ps1：最好是长袜看脚底的视角白色黑色肉色什么色都行，拍得越色礼物越好。\n🍎ps2：没有袜子的可以直接发腿和脚底，圣诞老人不歧视买不起袜子的小孩。\n✨ps3：小男娘也要发，圣诞老人没有性别歧视。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4322,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是剩🥚老登🎅🏻，由于要准备的礼物🎁太多，所以，我已经提前进入中国🇨🇳，为防止在袜子中放错礼物，请女孩子们把你们袜子拍照发我看看，为了避免个别孩子作弊，请附上穿袜子的腿的照片。\n🎄ps1：最好是长袜看脚底的视角白色黑色肉色什么色都行，拍得越色礼物越好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "（cos狱友ing）想认识很多很多的人儿，学到很多很多的知识，找到很多很多的快乐，经历很多很多的生活/本人长相普通别骂我参考亮点里的照片/雷点不多只有顺直黄蛆，od，反跨（不雷人只雷事不要跳脸就好我很少b人只会不理你）/这里！添加了提问箱哦！↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii",
+                "start": 0,
+                "url": "https://t.co/274M48ZKhM"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "把x当朋友圈用.jpg",
+        "name": "🐰🍥凌月月🍥🐰（🏳️‍⚧️💯互fo）",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984161803564457984/c5tzvxUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 644,
+          "like_count": 1658,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 816
+        },
+        "url": "https://t.co/274M48ZKhM",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92435,
+          "following_count": 666,
+          "like_count": 32426,
+          "listed_count": 269,
+          "media_count": 13765,
+          "tweet_count": 19831
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

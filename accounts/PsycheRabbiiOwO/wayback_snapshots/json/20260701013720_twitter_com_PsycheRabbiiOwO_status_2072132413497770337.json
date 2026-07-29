@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2071961061109158399",
+    "created_at": "2026-07-01T01:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T02:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072132413497770337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1830192135120850944",
+          "start": 0,
+          "username": "Ikenzakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072132413497770337",
+    "in_reply_to_user_id": "1830192135120850944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072070284635684983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ikenzakura 好吧其实它也说的没错，因为提问本身就比较抽象，“一个afab自称是transfeminine，跨女性气质者，是什么意思”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2071961061109158399",
+        "created_at": "2026-07-01T01:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T02:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072132413497770337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1830192135120850944",
+              "start": 0,
+              "username": "Ikenzakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072132413497770337",
+        "in_reply_to_user_id": "1830192135120850944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072070284635684983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ikenzakura 好吧其实它也说的没错，因为提问本身就比较抽象，“一个afab自称是transfeminine，跨女性气质者，是什么意思”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830192135120850944",
+        "conversation_id": "2071961061109158399",
+        "created_at": "2026-06-30T21:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T22:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072070284635684983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ],
+          "urls": [
+            {
+              "description": "首先，承认你的感受很正常，也很常见。 很多人（无论年龄）都会在某个阶段对自己的身体、外貌、性别角色或社会期望感到强烈不满、厌恶甚至痛苦。这可能是性别不安（gender dysphoria），也可能与抑郁、焦虑、创伤、自尊问题、社交媒体影响、青春期变化或其他心理因素相关。讨厌“指派性别”（assigned sex at birth，通常指基于生物性别的出生登记）并不罕见，但处理方式需要谨慎，避免冲动决定。 1. 先寻求专业心理帮助，不要急于医疗干预 找合格的心理咨询师或精神科医生：优先选择中立、不预设“肯定”或“转变”立场的专业人士。他们能帮你全面探索感受的根源（可能不止性别相关），处理共存的抑郁、焦虑、创伤或自尊问题。许多案例中，解决其他问题后，性别不安会减轻。 为什么重要？ 证据显示，单纯的“性别肯定”路径（尤其是对青少年）证据基础薄弱。英国Cass Review（2024）等独立审查指出，对儿童和青少年的青春期阻滞剂和跨性别激素治疗，高质量证据不足，风险（骨密度损失、不育、性功能影响等）明确，而长期益处不确定。许多欧洲国家（如英、瑞典、芬兰）已限制对未成年人的医疗转变，转向整体心理评估。 避免：网上“DIY”激素或匆忙手术。这些不可逆，需终身管理，且可能加剧问题。 2. 理解生物现实与主观感受 生物性别（sex）基于染色体、配子、生殖系统等，是二元的、可观测的客观事实。 性别认同（gender identity）是主观感受，可能受大脑发育、社会、文化、心理等多种因素影响。目前没有可靠证据表明“生错了身体”是纯粹生物决定性的，很多案例与发育中的大脑可塑性、环境有关。 脱敏（desistance）率：儿童期性别不安中，多数（历史研究常引60-90%）在青春期后自然缓解，尤其是未医疗干预时。青春期后起病（尤其是青春期突然大量出现）的案例，伴随自闭、创伤、LGBT社交影响等共病较多。 3. 实际可做的步骤 自我照顾：运动、规律作息、减少社交媒体（尤其是强化不满的内容）、培养兴趣爱好、建立现实人际支持。 探索根源：问自己——这种讨厌具体针对什么（身体特征、社会角色、过去经历）？是持久的，还是近期加剧？ 社会过渡：先从可逆方式开始（如服装、发型、称呼），观察感受是否持久改善。但这也可能强化认同，需在专业指导下。 支持资源：在中国，可联系当地心理卫生中心、三甲医院精神心理科。",
+              "display_url": "x.com/i/grok/share/5…",
+              "end": 45,
+              "expanded_url": "https://x.com/i/grok/share/556f0a6560b64a7391887e9bc21d0c5c",
+              "start": 22,
+              "status": 200,
+              "title": "讨厌自己的指派性别怎么办",
+              "unwound_url": "https://x.com/i/grok/share/556f0a6560b64a7391887e9bc21d0c5c",
+              "url": "https://t.co/EHFaEfnQgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072070284635684983",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071961061109158399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 你说了什么https://t.co/EHFaEfnQgQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 1610,
+          "like_count": 18434,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 2782
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-01T10:33:40.000Z",
+        "description": "喵",
+        "id": "1830192135120850944",
+        "name": "桜と彼猫と彼猫の恋🍥",
+        "pinned_tweet_id": "1864283188891406540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067169839727378432/omTfLn0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 19,
+          "like_count": 850,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "Ikenzakura",
+        "verified": false
+      }
+    ]
+  }
+}
