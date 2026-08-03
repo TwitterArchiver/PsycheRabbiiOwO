@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2083971689147416758",
+    "created_at": "2026-08-02T17:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T18:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083971689147416758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 65,
+          "id": "1720665183188922368",
+          "start": 60,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lumuyuanmadoka…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/lumuyuanmadoka2/status/2083939338904285346",
+          "start": 66,
+          "url": "https://t.co/UC28LZfGiF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083971689147416758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083939338904285346",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的思想是以下哪一个？  \n・极右  \n・右派  \n・中道右派  \n・中道  \n・中道左派  \n・左派  \n・极左  \n@grok https://t.co/UC28LZfGiF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2083971689147416758",
+        "created_at": "2026-08-02T17:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T18:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083971689147416758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 65,
+              "id": "1720665183188922368",
+              "start": 60,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lumuyuanmadoka…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/lumuyuanmadoka2/status/2083939338904285346",
+              "start": 66,
+              "url": "https://t.co/UC28LZfGiF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083971689147416758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083939338904285346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的思想是以下哪一个？  \n・极右  \n・右派  \n・中道右派  \n・中道  \n・中道左派  \n・左派  \n・极左  \n@grok https://t.co/UC28LZfGiF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825021494805581824",
+        "conversation_id": "2083939338904285346",
+        "created_at": "2026-08-02T15:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083939338904285346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 67,
+              "id": "1720665183188922368",
+              "start": 62,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ZX65535plus1/s…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/ZX65535plus1/status/2083922207722684470",
+              "start": 68,
+              "url": "https://t.co/DC2RCk1axm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083939338904285346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083922207722684470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的政治思想是以下哪一个？  \n・极右  \n・右派  \n・中道右派  \n・中道  \n・中道左派  \n・左派  \n・极左  \n@grok https://t.co/DC2RCk1axm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 1772,
+          "like_count": 21557,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 3248
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8901148,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7247,
+          "media_count": 9211357,
+          "tweet_count": 133541523
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-18T04:06:54.000Z",
+        "description": "准高二丨百合豚丨🏳️‍🌈Les(泛)，MtF~X，HRT26.4.24丨日本語勉強中丨in PRC，☭，爱华反修反cpc，通常不键政和对线。改名前为【鹿目圆○】             详细介绍请访问:\nhttps://t.co/eOvYAa6rHN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.otter.homes/@akizakura",
+                "end": 125,
+                "expanded_url": "https://m.otter.homes/@akizakura",
+                "start": 102,
+                "url": "https://t.co/eOvYAa6rHN"
+              }
+            ]
+          }
+        },
+        "id": "1825021494805581824",
+        "location": "圆环之理 ",
+        "name": "秋桜_akizakura",
+        "pinned_tweet_id": "2083526483570782680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883225741275303936/hrHUZHOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 636,
+          "like_count": 22252,
+          "listed_count": 11,
+          "media_count": 486,
+          "tweet_count": 7132
+        },
+        "url": "",
+        "username": "lumuyuanMadoka2",
+        "verified": false
+      }
+    ]
+  }
+}

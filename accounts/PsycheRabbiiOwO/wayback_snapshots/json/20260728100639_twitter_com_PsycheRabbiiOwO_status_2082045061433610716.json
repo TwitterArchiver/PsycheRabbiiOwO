@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2081984417682370709",
+    "created_at": "2026-07-28T10:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082045061433610716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2076711696920416256",
+          "start": 0,
+          "username": "hywe616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082045061433610716",
+    "in_reply_to_user_id": "2076711696920416256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082042032365953166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hywe616 正确的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2081984417682370709",
+        "created_at": "2026-07-28T10:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082045061433610716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2076711696920416256",
+              "start": 0,
+              "username": "hywe616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082045061433610716",
+        "in_reply_to_user_id": "2076711696920416256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082042032365953166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hywe616 正确的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076711696920416256",
+        "conversation_id": "2081984417682370709",
+        "created_at": "2026-07-28T09:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082042032365953166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082042032365953166",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081984417682370709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 初见若只如人生，出生见人如弱智（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 1753,
+          "like_count": 21116,
+          "listed_count": 2,
+          "media_count": 349,
+          "tweet_count": 3164
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-13T16:56:06.000Z",
+        "description": "|不想/不会/不必|介绍自己\n能不能不要闲的没事关注我啊",
+        "id": "2076711696920416256",
+        "name": "有点似了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076712710469828608/Wyx2Zh-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 15,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "hywe616",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083847016459960320"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2083638444660777282",
+    "created_at": "2026-08-02T09:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T10:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083847023493828907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cOGpUdbmIL",
+          "end": 31,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2083847023493828907/photo/1",
+          "media_key": "3_2083847016459960320",
+          "start": 8,
+          "url": "https://t.co/cOGpUdbmIL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083847023493828907",
+    "in_reply_to_user_id": "1768935696646238208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083638444660777282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭😭我被网暴了 https://t.co/cOGpUdbmIL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1761,
+        "media_key": "3_2083847016459960320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtP0h5agAABy5m.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2083638435554942976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqSHheaYAAXoHH.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083847016459960320"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2083638444660777282",
+        "created_at": "2026-08-02T09:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083847023493828907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cOGpUdbmIL",
+              "end": 31,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2083847023493828907/photo/1",
+              "media_key": "3_2083847016459960320",
+              "start": 8,
+              "url": "https://t.co/cOGpUdbmIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083847023493828907",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083638444660777282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭😭我被网暴了 https://t.co/cOGpUdbmIL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083638435554942976"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2083638444660777282",
+        "created_at": "2026-08-01T19:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083638444660777282"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "审美积累"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZDRgA0Mq6r",
+              "end": 29,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2083638444660777282/photo/1",
+              "media_key": "3_2083638435554942976",
+              "start": 6,
+              "url": "https://t.co/ZDRgA0Mq6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083638444660777282",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7327,
+          "like_count": 61,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#审美积累 https://t.co/ZDRgA0Mq6r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 1773,
+          "like_count": 21520,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 3240
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

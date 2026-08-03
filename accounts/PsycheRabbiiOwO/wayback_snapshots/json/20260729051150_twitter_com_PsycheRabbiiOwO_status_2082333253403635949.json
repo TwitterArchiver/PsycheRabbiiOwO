@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2082333253403635949",
+    "created_at": "2026-07-29T05:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T06:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082333253403635949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huantim7/statu…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/huantim7/status/2082222791148057039",
+          "start": 46,
+          "url": "https://t.co/mkfzwHPS7b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082333253403635949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082222791148057039",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以可以在极夜。。。\n我的梦想就是在比宇宙更遥远的地方待到极夜，然后脱掉保温服走向室外。。 https://t.co/mkfzwHPS7b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2082333253403635949",
+        "created_at": "2026-07-29T05:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082333253403635949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huantim7/statu…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/huantim7/status/2082222791148057039",
+              "start": 46,
+              "url": "https://t.co/mkfzwHPS7b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082333253403635949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082222791148057039",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以可以在极夜。。。\n我的梦想就是在比宇宙更遥远的地方待到极夜，然后脱掉保温服走向室外。。 https://t.co/mkfzwHPS7b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781510736000274432",
+        "conversation_id": "2082222791148057039",
+        "created_at": "2026-07-28T21:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T22:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082222791148057039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mark67358226/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/mark67358226/status/2082112865662849128",
+              "start": 36,
+              "url": "https://t.co/nDsE6xN0CQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082222791148057039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 415,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082112865662849128",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请不要在春天自杀\n请不要在夏天自杀\n请不要在秋天自杀\n请不要在冬天自杀 https://t.co/nDsE6xN0CQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 1754,
+          "like_count": 21160,
+          "listed_count": 2,
+          "media_count": 350,
+          "tweet_count": 3173
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n上海某准高二mtx喵\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyn.mom",
+                "end": 23,
+                "expanded_url": "http://xyn.mom",
+                "start": 0,
+                "url": "https://t.co/Mb8EU8fZzi"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻兮紗",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072659917027299328/L5Yl2wZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 794,
+          "like_count": 100916,
+          "listed_count": 1,
+          "media_count": 540,
+          "tweet_count": 6500
+        },
+        "url": "https://t.co/Mb8EU8fZzi",
+        "username": "huantim7",
+        "verified": false
+      }
+    ]
+  }
+}

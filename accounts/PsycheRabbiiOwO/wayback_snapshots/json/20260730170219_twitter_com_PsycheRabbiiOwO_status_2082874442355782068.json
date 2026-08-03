@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082874433946185728"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082874442355782068",
+    "created_at": "2026-07-30T17:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T18:01:41.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082874280698847254",
+      "2082874442355782068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sSVt4PeVXx",
+          "end": 56,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2082874442355782068/photo/1",
+          "media_key": "3_2082874433946185728",
+          "start": 33,
+          "url": "https://t.co/sSVt4PeVXx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082874442355782068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "「尼古喵喵」更新了。想看但没有资源的推友，在房间里安一面镜子就行 https://t.co/sSVt4PeVXx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 244,
+        "media_key": "3_2082874433946185728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfbQxsa8AAkdaW.png",
+        "width": 205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2082874280698847254",
+        "created_at": "2026-07-30T17:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:01:41.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082874280698847254",
+          "2082874442355782068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082874280698847254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「尼古喵喵」更新了。想看但没有资源的推友，在房间里安一面镜子就行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082874433946185728"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082874442355782068",
+        "created_at": "2026-07-30T17:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:01:41.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082874280698847254",
+          "2082874442355782068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sSVt4PeVXx",
+              "end": 56,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2082874442355782068/photo/1",
+              "media_key": "3_2082874433946185728",
+              "start": 33,
+              "url": "https://t.co/sSVt4PeVXx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082874442355782068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「尼古喵喵」更新了。想看但没有资源的推友，在房间里安一面镜子就行 https://t.co/sSVt4PeVXx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 1757,
+          "like_count": 21329,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 3200
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

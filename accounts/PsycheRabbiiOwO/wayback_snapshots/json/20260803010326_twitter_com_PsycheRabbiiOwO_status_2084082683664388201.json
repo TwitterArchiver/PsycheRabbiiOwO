@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2084082683664388201",
+    "created_at": "2026-08-03T01:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T02:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084082683664388201"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h20_chemistry_…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/h20_chemistry_x/status/2083948923501363446",
+          "start": 59,
+          "url": "https://t.co/fU3jSJ0XGg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084082683664388201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083948923501363446",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是这样，性别焦虑只有很小一部分来自外表或生殖器，大部分源自说话和心音差距太大\n\n也有在练，但是那种挫败感太折磨人了 https://t.co/fU3jSJ0XGg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2084082683664388201",
+        "created_at": "2026-08-03T01:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084082683664388201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h20_chemistry_…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/h20_chemistry_x/status/2083948923501363446",
+              "start": 59,
+              "url": "https://t.co/fU3jSJ0XGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084082683664388201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083948923501363446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是这样，性别焦虑只有很小一部分来自外表或生殖器，大部分源自说话和心音差距太大\n\n也有在练，但是那种挫败感太折磨人了 https://t.co/fU3jSJ0XGg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778616836214439936",
+        "conversation_id": "2083948582659645685",
+        "created_at": "2026-08-02T16:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083948923501363446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083948923501363446",
+        "in_reply_to_user_id": "1778616836214439936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083948582659645685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但其实有意思的事情，我心里的自言自语一直是一个女生来这（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 1772,
+          "like_count": 21563,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 3253
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T02:51:20.000Z",
+        "description": "No one like me,doesn't mean you won't like me./🏳‍⚧️友跨/infp/欢迎互fo交朋友喵/日本語を勉強中/防失联@h20_chemistry2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "h20_chemistry2"
+              }
+            ]
+          }
+        },
+        "id": "1778616836214439936",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "1874417607568494921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010329620286193664/P18zuZhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 2020,
+          "like_count": 44322,
+          "listed_count": 2,
+          "media_count": 1112,
+          "tweet_count": 13933
+        },
+        "url": "",
+        "username": "H20_chemistry_x",
+        "verified": false
+      }
+    ]
+  }
+}

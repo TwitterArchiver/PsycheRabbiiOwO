@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2083400958344896973",
+    "created_at": "2026-08-01T07:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083457310345863530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083457310345863530",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083400958344896973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 如果接下来三颗子弹都卡壳，那放你走"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8574,
+        "height": 544,
+        "media_key": "13_2083400884869095424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083400884869095424/img/MooJ8FlP6eadYPwZ.jpg",
+        "public_metrics": {
+          "view_count": 1852
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083400884869095424/vid/avc1/634x270/r35ZBPLNmtWV279u.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083400884869095424/vid/avc1/846x360/hgr1yztKRRVrw54u.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083400884869095424/vid/avc1/1280x544/6LAn2leL__E508Up.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083400884869095424/pl/EJ83xtq18SCusJ8Q.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2083400958344896973",
+        "created_at": "2026-08-01T07:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083457310345863530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083457310345863530",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083400958344896973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 如果接下来三颗子弹都卡壳，那放你走"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083400884869095424"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2083400958344896973",
+        "created_at": "2026-08-01T03:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083400958344896973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9HPg7QQl7i",
+              "end": 30,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2083400958344896973/video/1",
+              "media_key": "13_2083400884869095424",
+              "start": 7,
+              "url": "https://t.co/9HPg7QQl7i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083400958344896973",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4415,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "😌😌新坑预告 https://t.co/9HPg7QQl7i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 1760,
+          "like_count": 21436,
+          "listed_count": 2,
+          "media_count": 357,
+          "tweet_count": 3222
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6796,
+          "following_count": 3349,
+          "like_count": 4140,
+          "listed_count": 19,
+          "media_count": 525,
+          "tweet_count": 3640
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

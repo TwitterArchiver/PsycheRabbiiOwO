@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083471222403387392"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2079826245253058986",
+    "created_at": "2026-08-01T08:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083471292225982586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1763128096579055616",
+          "start": 0,
+          "username": "Hanslayism"
+        },
+        {
+          "end": 20,
+          "id": "1915124824126427137",
+          "start": 12,
+          "username": "Grtr_nk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E9yGlUyBbc",
+          "end": 74,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2083471292225982586/video/1",
+          "media_key": "13_2083471222403387392",
+          "start": 51,
+          "url": "https://t.co/E9yGlUyBbc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083471292225982586",
+    "in_reply_to_user_id": "1763128096579055616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079979384921067806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hanslayism @Grtr_nk 不知道人感是哪种呢？\n有首声音很柔和治愈可爱的，我超喜欢听 https://t.co/E9yGlUyBbc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16770,
+        "height": 1280,
+        "media_key": "13_2083471222403387392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083471222403387392/img/kjJ_8HQpTstZbsW0.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083471222403387392/vid/avc1/320x690/AqFKdmEFJrzVM7I6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083471222403387392/vid/avc1/480x1036/vEJvQMXUIr1C9uPI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083471222403387392/vid/avc1/592x1280/yROx3pO-1HeSoBz5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083471222403387392/pl/qOm-X-leZDylV7bk.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083471222403387392"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2079826245253058986",
+        "created_at": "2026-08-01T08:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083471292225982586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1763128096579055616",
+              "start": 0,
+              "username": "Hanslayism"
+            },
+            {
+              "end": 20,
+              "id": "1915124824126427137",
+              "start": 12,
+              "username": "Grtr_nk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E9yGlUyBbc",
+              "end": 74,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2083471292225982586/video/1",
+              "media_key": "13_2083471222403387392",
+              "start": 51,
+              "url": "https://t.co/E9yGlUyBbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083471292225982586",
+        "in_reply_to_user_id": "1763128096579055616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079979384921067806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hanslayism @Grtr_nk 不知道人感是哪种呢？\n有首声音很柔和治愈可爱的，我超喜欢听 https://t.co/E9yGlUyBbc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763128096579055616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2079826245253058986",
+        "created_at": "2026-07-22T17:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079979384921067806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1915124824126427137",
+              "start": 0,
+              "username": "Grtr_nk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079979384921067806",
+        "in_reply_to_user_id": "1915124824126427137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079826245253058986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grtr_nk 有没有那种调音调得比较有人感的Vocaloid歌曲推荐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 1767,
+          "like_count": 21440,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 3224
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-29T09:04:53.000Z",
+        "description": "🦠",
+        "id": "1763128096579055616",
+        "location": "支那利亞帝國",
+        "name": "蓝细菌",
+        "pinned_tweet_id": "2044798005573009903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049383628782948352/vGRQL8Hb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 178,
+          "like_count": 16420,
+          "listed_count": 0,
+          "media_count": 698,
+          "tweet_count": 7180
+        },
+        "url": "",
+        "username": "Hanslayism",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T19:25:21.000Z",
+        "description": "你的态度=我的态度\n翻车顺女HRT23.05.29/多意识体OSDD+cptsd/od💊ed BMI14.2😇/ pfp @LeonRui_ / 里帐 @Luminme_Vas 互关请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "LeonRui_"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "Luminme_Vas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/NR1GrU7CG8"
+              }
+            ]
+          }
+        },
+        "id": "1915124824126427137",
+        "location": "🚪68/128",
+        "name": "🐱🍥灰尾猫🍥🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998235803676463104/qPOn02np_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 672,
+          "like_count": 424,
+          "listed_count": 4,
+          "media_count": 109,
+          "tweet_count": 822
+        },
+        "url": "https://t.co/NR1GrU7CG8",
+        "username": "Grtr_nk",
+        "verified": false
+      }
+    ]
+  }
+}

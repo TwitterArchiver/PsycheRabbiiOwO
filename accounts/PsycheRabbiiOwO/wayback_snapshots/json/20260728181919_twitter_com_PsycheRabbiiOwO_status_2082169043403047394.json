@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2082028288218628371",
+    "created_at": "2026-07-28T18:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T19:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082169043403047394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "720609429721260033",
+          "start": 0,
+          "username": "o4DT4OO2zY9Oyol"
+        },
+        {
+          "end": 26,
+          "id": "1545277694325116928",
+          "start": 17,
+          "username": "YongQuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082169043403047394",
+    "in_reply_to_user_id": "720609429721260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082135147227529552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o4DT4OO2zY9Oyol @YongQuan 但事实上，目前劳动仲裁本身是普遍偏向劳动者的，只是一是坚持维权的人太少，二是盘外招太多（比如企业提出和解否则就一直拖，房租吃喝可不等人）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2082028288218628371",
+        "created_at": "2026-07-28T18:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082169043403047394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "720609429721260033",
+              "start": 0,
+              "username": "o4DT4OO2zY9Oyol"
+            },
+            {
+              "end": 26,
+              "id": "1545277694325116928",
+              "start": 17,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082169043403047394",
+        "in_reply_to_user_id": "720609429721260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082135147227529552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o4DT4OO2zY9Oyol @YongQuan 但事实上，目前劳动仲裁本身是普遍偏向劳动者的，只是一是坚持维权的人太少，二是盘外招太多（比如企业提出和解否则就一直拖，房租吃喝可不等人）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "720609429721260033",
+        "conversation_id": "2082028288218628371",
+        "created_at": "2026-07-28T16:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082135147227529552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082135147227529552",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082028288218628371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 因為企業主違法的成本極低\n再加上普遍亞洲文化的奴性\n真的遇到事情了\n又不去勞動仲裁\n願意走仲裁的人太少\n所以企業主違法所得讓他們甘願違法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 1754,
+          "like_count": 21141,
+          "listed_count": 2,
+          "media_count": 350,
+          "tweet_count": 3167
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2016-04-14T13:47:31.000Z",
+        "description": "...\n好麻煩的東西\n就看個推打打嘴砲\n麻煩那些登能兒想嘴\n我沒問題\n別搞什麼引用+封鎖\n真的很北七",
+        "id": "720609429721260033",
+        "location": "Taiwan",
+        "name": "潘以旋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046949686322544640/HDug8LAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 298,
+          "like_count": 11777,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 2496
+        },
+        "url": "",
+        "username": "o4DT4OO2zY9Oyol",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@1H4teTheWorld\n剧本草稿@RenYueAny\n\niHateTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11266,
+          "following_count": 4771,
+          "like_count": 52707,
+          "listed_count": 40,
+          "media_count": 5429,
+          "tweet_count": 16370
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}
