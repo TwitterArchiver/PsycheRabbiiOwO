@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2087948625032974786",
+    "created_at": "2026-08-14T08:18:08.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T09:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088178346387775759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1873706565552979968",
+          "start": 0,
+          "username": "v1tas0y_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088178346387775759",
+    "in_reply_to_user_id": "1873706565552979968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088165636044370002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@v1tas0y_ 早"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2087948625032974786",
+        "created_at": "2026-08-14T08:18:08.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088178346387775759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1873706565552979968",
+              "start": 0,
+              "username": "v1tas0y_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088178346387775759",
+        "in_reply_to_user_id": "1873706565552979968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088165636044370002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@v1tas0y_ 早"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873706565552979968",
+        "conversation_id": "2087948625032974786",
+        "created_at": "2026-08-14T07:27:38.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088165636044370002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088165636044370002",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087948625032974786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 早安"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2088178346387775759",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 1814,
+          "like_count": 22282,
+          "listed_count": 2,
+          "media_count": 389,
+          "tweet_count": 3393
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-30T12:24:17.000Z",
+        "description": "叫我维他奶就好了｜he/his｜🏳️‍🌈🏳️‍⚧️｜无证无糖｜喜欢女孩子喵｜intp｜音游｜同音｜TANO*C｜术力口｜东方｜ddlc｜生产日期:2013.10.22｜モリモリあつしさん大好き❤️｜@xxNAMI3｜99.9%回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "xxNAMI3"
+              }
+            ]
+          }
+        },
+        "id": "1873706565552979968",
+        "is_identity_verified": false,
+        "location": "九龍醫院H座",
+        "most_recent_tweet_id": "2088169872002011286",
+        "name": "V1tas0y🦋🥛",
+        "pinned_tweet_id": "2086693715805135278",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1873706565552979968/1782127424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087555118380302336/yYMpnBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 3027,
+          "like_count": 42607,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 10324
+        },
+        "url": "",
+        "username": "v1tas0y_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

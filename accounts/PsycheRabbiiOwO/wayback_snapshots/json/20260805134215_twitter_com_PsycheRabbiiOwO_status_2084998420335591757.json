@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2084902949063721083",
+    "created_at": "2026-08-05T13:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T14:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084998420335591757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1967217075681959936",
+          "start": 0,
+          "username": "IeO_Oe1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084998420335591757",
+    "in_reply_to_user_id": "1967217075681959936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084997458182943157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IeO_Oe1 发电了🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2084902949063721083",
+        "created_at": "2026-08-05T13:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084998420335591757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1967217075681959936",
+              "start": 0,
+              "username": "IeO_Oe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084998420335591757",
+        "in_reply_to_user_id": "1967217075681959936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084997458182943157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IeO_Oe1 发电了🙃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967217075681959936",
+        "conversation_id": "2084902949063721083",
+        "created_at": "2026-08-05T13:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084997458182943157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084997458182943157",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084957950876250306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 怎么啦宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 1790,
+          "like_count": 21758,
+          "listed_count": 2,
+          "media_count": 375,
+          "tweet_count": 3325
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-14T13:21:41.000Z",
+        "description": "|扩列私信💕|互fo💕|秒回复|psjk|BA|猎杀对决|轻小说|so on…\n尽情依赖我🥰\n如果有想ps的图片我可以帮忙💕\n和我聊什么我都能知道💕💕(大概)\n趣味の合う人と話をしたいだけです！",
+        "id": "1967217075681959936",
+        "location": "在你身边💕",
+        "name": "迟到的架子",
+        "pinned_tweet_id": "2080317892881453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075135218885816320/YnJx8xHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 76,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 469
+        },
+        "url": "",
+        "username": "IeO_Oe1",
+        "verified": false
+      }
+    ]
+  }
+}

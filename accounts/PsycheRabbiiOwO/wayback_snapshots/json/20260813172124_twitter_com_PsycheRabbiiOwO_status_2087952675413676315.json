@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2087952060553806194",
+    "created_at": "2026-08-13T17:21:24.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T18:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087952675413676315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "846396300270579712",
+          "start": 0,
+          "username": "Sa_Win_Ding"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087952675413676315",
+    "in_reply_to_user_id": "846396300270579712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087952181156839426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sa_Win_Ding 能绷住的是这个👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2087952060553806194",
+        "created_at": "2026-08-13T17:21:24.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087952675413676315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "846396300270579712",
+              "start": 0,
+              "username": "Sa_Win_Ding"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087952675413676315",
+        "in_reply_to_user_id": "846396300270579712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087952181156839426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sa_Win_Ding 能绷住的是这个👍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "846396300270579712",
+        "conversation_id": "2087952060553806194",
+        "created_at": "2026-08-13T17:19:26.000Z",
+        "display_text_range": [
+          17,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087952181156839426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087952181156839426",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087952060553806194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 现在广告确实越来越像随机刷出来的了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2087952675413676315",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 1812,
+          "like_count": 22247,
+          "listed_count": 2,
+          "media_count": 387,
+          "tweet_count": 3388
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-27T16:19:38.000Z",
+        "description": "用过这款VPN的朋友可以说说体验，还没用过的入口放下面啦👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fl1.me/2",
+                "end": 23,
+                "expanded_url": "https://fl1.me/2",
+                "start": 0,
+                "url": "https://t.co/5hb5uuUmgQ"
+              }
+            ]
+          }
+        },
+        "id": "846396300270579712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087952312849547629",
+        "name": "FoxLink银狐网络自由助手",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/846396300270579712/1669271396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084729207326932992/dL5UM0ee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 21,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/5hb5uuUmgQ",
+        "username": "Sa_Win_Ding",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

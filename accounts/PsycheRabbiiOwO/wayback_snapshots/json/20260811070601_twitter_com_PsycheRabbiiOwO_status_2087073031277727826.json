@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2086861926366339269",
+    "created_at": "2026-08-11T07:06:01.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T08:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087073031277727826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1097931431215390720",
+          "start": 0,
+          "username": "ReyReyyMeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087073031277727826",
+    "in_reply_to_user_id": "1097931431215390720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087061618324889945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReyReyyMeow 看看电唧唧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2086861926366339269",
+        "created_at": "2026-08-11T07:06:01.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087073031277727826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1097931431215390720",
+              "start": 0,
+              "username": "ReyReyyMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087073031277727826",
+        "in_reply_to_user_id": "1097931431215390720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087061618324889945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReyReyyMeow 看看电唧唧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1097931431215390720",
+        "conversation_id": "2086861926366339269",
+        "created_at": "2026-08-11T06:20:40.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087061618324889945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087061618324889945",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086861926366339269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 电唧唧🫣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2087073031277727826",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 1809,
+          "like_count": 22144,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 3372
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-02-19T18:50:26.000Z",
+        "description": "ⓘ检测到你过于可爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "reyreyy.net",
+                "end": 23,
+                "expanded_url": "https://reyreyy.net",
+                "start": 0,
+                "url": "https://t.co/hM7puXgUwg"
+              }
+            ]
+          }
+        },
+        "id": "1097931431215390720",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2087061618324889945",
+        "name": "ReyReyy",
+        "pinned_tweet_id": "1907684946699059523",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1097931431215390720/1619177281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880628596777287681/exeKJmX-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 127,
+          "like_count": 54350,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 975
+        },
+        "url": "https://t.co/hM7puXgUwg",
+        "username": "ReyReyyMeow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

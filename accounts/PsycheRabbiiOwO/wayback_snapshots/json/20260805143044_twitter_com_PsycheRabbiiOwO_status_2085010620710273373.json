@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2085004131002094036",
+    "created_at": "2026-08-05T14:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T15:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085010620710273373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1827985418438279168",
+          "start": 0,
+          "username": "kawa_chise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085010620710273373",
+    "in_reply_to_user_id": "1827985418438279168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "中学老师是这样的，掌握点权力就往比自己小几十岁的孩子身上发泄\n\n语文更是傻逼中的傻逼学科\n\n1. 举例论证（例证法、事实论证）\n•  对应主要谬误：以偏概全（草率概括、hasty generalization）、轶事证据（anecdotal evidence）、选择性举证（cherry-picking）。\n•  原因：从少数或部分事例直接推出普遍性结论。典型教材例子如《生于忧患，死于安乐》中列举舜、傅说等数人“先苦后成”，就断言“天将降大任……必先苦其心志”。反例（出身优越却成功者）同样容易找到，样本不具代表性或数量不足时，归纳无效。真正有效的归纳需要足够大、随机/有代表性的样本，并考虑反例与相关变量。 \n2. 道理论证（引证法、理论论证）\n•  对应主要谬误：诉诸权威（argumentum ad verecundiam，尤其是不当/无关权威）。\n•  原因：引用名人名言、经典语录、定理或“公认道理”来证明论点，依赖权威光环而非论证本身。权威有领域限制（爱因斯坦在物理相关，在历史或社会问题上未必）；古代智慧、过时观点或“有专家表示”更常是无关权威。引用只能提供支持性证据，不能替代独立推理；若权威本身有争议、利益冲突或观点已更新，就更易沦为谬误。 \n3. 对比论证（正反对比）\n•  对应主要谬误：不当对比/虚假对比、选择性对比，有时接近虚假二分（false dichotomy）或弱类比。\n•  原因：通过正反事物对照突出差异以证明论点。若比较对象在关键属性上不可比（条件、背景、本质差异被忽略），或只挑有利一面对比，结论就不可靠。教材常把对比与类比混谈，而类比本身只具或然性，非必然推理。真正有效的对比需要客观、全面的比较标准，并说明差异与论点的直接逻辑关联。\n4. 比喻论证（喻证法）\n•  对应主要谬误：不当类比（false analogy）、以比喻代替论证。\n•  原因：用具体事物比喻抽象道理，把修辞手段当作证明。例如告子/孟子以水的流向比喻人性善恶，两者在逻辑上几乎无关。比喻只能帮助理解或增强表达，不能建立必然推理关系；相似性从未达到100%，关键差异被忽视时即成谬误。它本质上是修辞而非严格论证方法。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085004131002094036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawa_chise 中学老师是这样的，掌握点权力就往比自己小几十岁的孩子身上发泄\n\n语文更是傻逼中的傻逼学科\n\n1. 举例论证（例证法、事实论证）\n•  对应主要谬误：以偏概全（草率概括、hasty generalization）、轶事证据（anecdotal evidence）、选择性举证（cherry-picking）。\n•"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2810,
+        "media_key": "3_2085003672015245312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9ryvnakAAvdNm.png",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2085004131002094036",
+        "created_at": "2026-08-05T14:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085010620710273373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827985418438279168",
+              "start": 0,
+              "username": "kawa_chise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085010620710273373",
+        "in_reply_to_user_id": "1827985418438279168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中学老师是这样的，掌握点权力就往比自己小几十岁的孩子身上发泄\n\n语文更是傻逼中的傻逼学科\n\n1. 举例论证（例证法、事实论证）\n•  对应主要谬误：以偏概全（草率概括、hasty generalization）、轶事证据（anecdotal evidence）、选择性举证（cherry-picking）。\n•  原因：从少数或部分事例直接推出普遍性结论。典型教材例子如《生于忧患，死于安乐》中列举舜、傅说等数人“先苦后成”，就断言“天将降大任……必先苦其心志”。反例（出身优越却成功者）同样容易找到，样本不具代表性或数量不足时，归纳无效。真正有效的归纳需要足够大、随机/有代表性的样本，并考虑反例与相关变量。 \n2. 道理论证（引证法、理论论证）\n•  对应主要谬误：诉诸权威（argumentum ad verecundiam，尤其是不当/无关权威）。\n•  原因：引用名人名言、经典语录、定理或“公认道理”来证明论点，依赖权威光环而非论证本身。权威有领域限制（爱因斯坦在物理相关，在历史或社会问题上未必）；古代智慧、过时观点或“有专家表示”更常是无关权威。引用只能提供支持性证据，不能替代独立推理；若权威本身有争议、利益冲突或观点已更新，就更易沦为谬误。 \n3. 对比论证（正反对比）\n•  对应主要谬误：不当对比/虚假对比、选择性对比，有时接近虚假二分（false dichotomy）或弱类比。\n•  原因：通过正反事物对照突出差异以证明论点。若比较对象在关键属性上不可比（条件、背景、本质差异被忽略），或只挑有利一面对比，结论就不可靠。教材常把对比与类比混谈，而类比本身只具或然性，非必然推理。真正有效的对比需要客观、全面的比较标准，并说明差异与论点的直接逻辑关联。\n4. 比喻论证（喻证法）\n•  对应主要谬误：不当类比（false analogy）、以比喻代替论证。\n•  原因：用具体事物比喻抽象道理，把修辞手段当作证明。例如告子/孟子以水的流向比喻人性善恶，两者在逻辑上几乎无关。比喻只能帮助理解或增强表达，不能建立必然推理关系；相似性从未达到100%，关键差异被忽视时即成谬误。它本质上是修辞而非严格论证方法。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085004131002094036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawa_chise 中学老师是这样的，掌握点权力就往比自己小几十岁的孩子身上发泄\n\n语文更是傻逼中的傻逼学科\n\n1. 举例论证（例证法、事实论证）\n•  对应主要谬误：以偏概全（草率概括、hasty generalization）、轶事证据（anecdotal evidence）、选择性举证（cherry-picking）。\n•"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085003672015245312"
+          ]
+        },
+        "author_id": "1827985418438279168",
+        "conversation_id": "2085004131002094036",
+        "created_at": "2026-08-05T14:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085004131002094036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i49X5N7kYg",
+              "end": 70,
+              "expanded_url": "https://x.com/kawa_chise/status/2085004131002094036/photo/1",
+              "media_key": "3_2085003672015245312",
+              "start": 47,
+              "url": "https://t.co/i49X5N7kYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085004131002094036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "语文老师以我为灵感出了这个题😡\n然后我被老师和全班批斗了一节课（）\n明天应该还要继续\n吓哭了 https://t.co/i49X5N7kYg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 1791,
+          "like_count": 21769,
+          "listed_count": 2,
+          "media_count": 375,
+          "tweet_count": 3326
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-26T08:24:30.000Z",
+        "description": "@Chise_awa 转生（）\n成分很复杂的一只可爱小千 | 总之就是音游吃 | Kobaryo真的很好听不是吗 | 想要变可爱 | 欢迎来和我聊天 | 想要QQ可以私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "Chise_awa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chise_kawaii",
+                "end": 23,
+                "expanded_url": "http://t.me/chise_kawaii",
+                "start": 0,
+                "url": "https://t.co/pTJencQS65"
+              }
+            ]
+          }
+        },
+        "id": "1827985418438279168",
+        "location": " Address",
+        "name": "千千千千千千世~ 💛🤍💜🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083843279389630464/7UwnFsgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 395,
+          "like_count": 7690,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1113
+        },
+        "url": "https://t.co/pTJencQS65",
+        "username": "kawa_chise",
+        "verified": false
+      }
+    ]
+  }
+}

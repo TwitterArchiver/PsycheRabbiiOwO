@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2084902949063721083",
+    "created_at": "2026-08-05T11:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T12:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084957888033034382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062215721275551744",
+          "start": 0,
+          "username": "jlmmb4562"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084957888033034382",
+    "in_reply_to_user_id": "2062215721275551744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084938985944777199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlmmb4562 对不起（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2084902949063721083",
+        "created_at": "2026-08-05T11:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084957888033034382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062215721275551744",
+              "start": 0,
+              "username": "jlmmb4562"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084957888033034382",
+        "in_reply_to_user_id": "2062215721275551744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084938985944777199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlmmb4562 对不起（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062215721275551744",
+        "conversation_id": "2084902949063721083",
+        "created_at": "2026-08-05T09:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084938985944777199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084938985944777199",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084902949063721083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 宝宝你不要吓我🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 1790,
+          "like_count": 21745,
+          "listed_count": 2,
+          "media_count": 375,
+          "tweet_count": 3319
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-03T16:52:55.000Z",
+        "description": "无论你是谁，为何点进我主页，我都永远希望你有一个自由的幸福的充满光明的生活与未来，并能满怀信心地为此奋斗\n02毕业打工女，想要成为所有人的朋友\n喜欢罗伯特基利曼/玛恩纳，星熊/阿塔尼斯，阿拉纳克\n明日方舟官服:砖家叫兽#7855\n(可能会沾一些敏感分区⚠️看头像可知)\n依旧\n苦等\n孤独摇滚\n更新",
+        "id": "2062215721275551744",
+        "location": "大炎–姜齐",
+        "name": "基利曼曼波",
+        "pinned_tweet_id": "2082426458300194897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082116299942141953/VWaL-Q2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 98,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 365
+        },
+        "url": "",
+        "username": "jlmmb4562",
+        "verified": false
+      }
+    ]
+  }
+}

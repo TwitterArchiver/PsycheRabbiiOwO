@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2087702286411993149",
+    "created_at": "2026-08-13T17:04:52.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T18:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087948513565122585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2082080789119016961",
+          "start": 0,
+          "username": "Realhoshinofuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087948513565122585",
+    "in_reply_to_user_id": "2082080789119016961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087702286411993149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Realhoshinofuji 萧南梁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 303,
+        "media_key": "3_2087702280040800256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPkCKZ6a4AAZfgI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2087702286411993149",
+        "created_at": "2026-08-13T17:04:52.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087948513565122585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2082080789119016961",
+              "start": 0,
+              "username": "Realhoshinofuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087948513565122585",
+        "in_reply_to_user_id": "2082080789119016961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087702286411993149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Realhoshinofuji 萧南梁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087702280040800256"
+          ]
+        },
+        "author_id": "2082080789119016961",
+        "conversation_id": "2087702286411993149",
+        "created_at": "2026-08-13T00:46:27.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T01:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087702286411993149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mz0PQAd58y",
+              "end": 44,
+              "expanded_url": "https://x.com/Realhoshinofuji/status/2087702286411993149/photo/1",
+              "media_key": "3_2087702280040800256",
+              "start": 21,
+              "url": "https://t.co/mz0PQAd58y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087702286411993149",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087702280040800256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7446,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好奇过没有？艳丽的少男长什么样子呢？ https://t.co/mz0PQAd58y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2087948513565122585",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 1812,
+          "like_count": 22244,
+          "listed_count": 2,
+          "media_count": 386,
+          "tweet_count": 3385
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-28T12:30:05.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」｜My beloved @nationalpurevf4｜Peace&Love🇺🇳｜pixiv illustrator | AIart |Partner @KokonaKokoro\n 旧友寻回中｜最爱的猫猫 @Kalin_1124｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "Kalin_1124"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/nkPOtCbKri"
+              }
+            ]
+          }
+        },
+        "id": "2082080789119016961",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087920960712413649",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2082097033486508340",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082080789119016961/1785242064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085266166722019328/qU3IaA0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 1462,
+          "like_count": 2729,
+          "listed_count": 3,
+          "media_count": 332,
+          "tweet_count": 1267
+        },
+        "url": "https://t.co/nkPOtCbKri",
+        "username": "Realhoshinofuji",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

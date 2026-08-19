@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087044552586862592"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2087044572950196262",
+    "created_at": "2026-08-11T05:12:56.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T06:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087044572950196262"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jTlVo4tslY",
+          "end": 34,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2087044572950196262/photo/1",
+          "media_key": "3_2087044552586862592",
+          "start": 11,
+          "url": "https://t.co/jTlVo4tslY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087044572950196262",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087044552586862592"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "某人说请推友吃雪糕😉 https://t.co/jTlVo4tslY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2062,
+        "media_key": "3_2087044552586862592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPar9oNaoAAAMXY.jpg",
+        "width": 3664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087044552586862592"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2087044572950196262",
+        "created_at": "2026-08-11T05:12:56.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087044572950196262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jTlVo4tslY",
+              "end": 34,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2087044572950196262/photo/1",
+              "media_key": "3_2087044552586862592",
+              "start": 11,
+              "url": "https://t.co/jTlVo4tslY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087044572950196262",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087044552586862592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某人说请推友吃雪糕😉 https://t.co/jTlVo4tslY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2087044572950196262",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 1810,
+          "like_count": 22142,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 3370
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

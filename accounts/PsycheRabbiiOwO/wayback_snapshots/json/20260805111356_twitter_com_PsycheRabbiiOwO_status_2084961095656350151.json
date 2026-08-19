@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2084959021245870413",
+    "created_at": "2026-08-05T11:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T12:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084961095656350151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2082080789119016961",
+          "start": 0,
+          "username": "Realhoshinofuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084961095656350151",
+    "in_reply_to_user_id": "2082080789119016961",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084959021245870413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Realhoshinofuji gaygame"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1524,
+        "media_key": "3_2084958965029543936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9DIdHaIAAQw6F.jpg",
+        "width": 1172
+      },
+      {
+        "height": 1400,
+        "media_key": "3_2084958965021159425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9DIdFaMAEC-Jd.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2084959021245870413",
+        "created_at": "2026-08-05T11:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084961095656350151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2082080789119016961",
+              "start": 0,
+              "username": "Realhoshinofuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084961095656350151",
+        "in_reply_to_user_id": "2082080789119016961",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084959021245870413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Realhoshinofuji gaygame"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084958965029543936",
+            "3_2084958965021159425"
+          ]
+        },
+        "author_id": "2082080789119016961",
+        "conversation_id": "2084959021245870413",
+        "created_at": "2026-08-05T11:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084959021245870413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bDMtHF5RYB",
+              "end": 36,
+              "expanded_url": "https://x.com/Realhoshinofuji/status/2084959021245870413/photo/1",
+              "media_key": "3_2084958965029543936",
+              "start": 13,
+              "url": "https://t.co/bDMtHF5RYB"
+            },
+            {
+              "display_url": "pic.x.com/bDMtHF5RYB",
+              "end": 36,
+              "expanded_url": "https://x.com/Realhoshinofuji/status/2084959021245870413/photo/1",
+              "media_key": "3_2084958965021159425",
+              "start": 13,
+              "url": "https://t.co/bDMtHF5RYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084959021245870413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一起玩galgame吗？ https://t.co/bDMtHF5RYB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 1790,
+          "like_count": 21751,
+          "listed_count": 2,
+          "media_count": 375,
+          "tweet_count": 3324
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-28T12:30:05.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」｜My beloved @nationalpurevf4｜Peace&Love🇺🇳｜pixiv illustrator | AIart |Partner @KokonaKokoro\n 旧友寻回中｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/nkPOtCbKri"
+              }
+            ]
+          }
+        },
+        "id": "2082080789119016961",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2082097033486508340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084869612378988544/oJU2JwkS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 993,
+          "like_count": 1468,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 671
+        },
+        "url": "https://t.co/nkPOtCbKri",
+        "username": "Realhoshinofuji",
+        "verified": true
+      }
+    ]
+  }
+}
