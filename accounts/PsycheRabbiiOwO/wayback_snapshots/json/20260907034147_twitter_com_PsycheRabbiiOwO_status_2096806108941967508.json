@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096806092013735936"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2096806108941967508",
+    "created_at": "2026-09-07T03:41:47.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T04:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096806108941967508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/foUHrO9FLy",
+          "end": 140,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2096806108941967508/photo/1",
+          "media_key": "3_2096806092013735936",
+          "start": 117,
+          "url": "https://t.co/foUHrO9FLy"
+        },
+        {
+          "display_url": "x.com/liulingyo/stat…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/liulingyo/status/2096436729914036731",
+          "start": 141,
+          "url": "https://t.co/zidL9uY9iq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096806108941967508",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096806092013735936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096436729914036731",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小思考：前现代和后现代在有些表象上可以很相似\n\n当⏰整体处于反LGBT的时候，未完全现代化的人并没有这个政治意识，他们不懂英文，反而给了“unisex”的生存空间\n\n相似的有：重男轻女因此支持女跨男，结婚可以收巨额彩礼因此支持男跨女 https://t.co/foUHrO9FLy https://t.co/zidL9uY9iq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2096806092013735936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlaCAVakAAvrkC.jpg",
+        "width": 2682
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2096436704152559616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgKEzUaoAAoTWc.jpg",
+        "width": 1442
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096806092013735936"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2096806108941967508",
+        "created_at": "2026-09-07T03:41:47.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096806108941967508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/foUHrO9FLy",
+              "end": 140,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2096806108941967508/photo/1",
+              "media_key": "3_2096806092013735936",
+              "start": 117,
+              "url": "https://t.co/foUHrO9FLy"
+            },
+            {
+              "display_url": "x.com/liulingyo/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/liulingyo/status/2096436729914036731",
+              "start": 141,
+              "url": "https://t.co/zidL9uY9iq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096806108941967508",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096806092013735936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096436729914036731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小思考：前现代和后现代在有些表象上可以很相似\n\n当⏰整体处于反LGBT的时候，未完全现代化的人并没有这个政治意识，他们不懂英文，反而给了“unisex”的生存空间\n\n相似的有：重男轻女因此支持女跨男，结婚可以收巨额彩礼因此支持男跨女 https://t.co/foUHrO9FLy https://t.co/zidL9uY9iq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096436704152559616"
+          ]
+        },
+        "author_id": "1845674780416208897",
+        "conversation_id": "2096436729914036731",
+        "created_at": "2026-09-06T03:14:00.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096436729914036731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bodvudre1r",
+              "end": 70,
+              "expanded_url": "https://x.com/liulingyo/status/2096436729914036731/photo/1",
+              "media_key": "3_2096436704152559616",
+              "start": 47,
+              "url": "https://t.co/bodvudre1r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096436729914036731",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096436704152559616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7012,
+          "like_count": 63,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "凭啥第三卫生间是残疾人和亲子用的啊，为什么没有跨性别用的厕所😡还好看标志了 我差点就走进去了 https://t.co/bodvudre1r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n提问箱：https://t.co/EvAZCy4et0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 52,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 29,
+                "url": "https://t.co/EvAZCy4et0"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2096806108941967508",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 1860,
+          "like_count": 23414,
+          "listed_count": 2,
+          "media_count": 419,
+          "tweet_count": 3541
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-14T03:55:43.000Z",
+        "description": "06年破壳MTF 睾丸已切⭐️\n厌学 🍥hrt：2024.10 🌟\n自宅警備員 私信回fo喵✨\n吾の傻猫：@GanYuluo💫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "GanYuluo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transnav.org/#",
+                "end": 23,
+                "expanded_url": "https://www.transnav.org/#",
+                "start": 0,
+                "url": "https://t.co/i1HGsDLtNo"
+              }
+            ]
+          }
+        },
+        "id": "1845674780416208897",
+        "is_identity_verified": true,
+        "location": "ciallo小屋",
+        "most_recent_tweet_id": "2096436729914036731",
+        "name": "悠悠不是雜魚",
+        "pinned_tweet_id": "2087805482828488843",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845674780416208897/1788365951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095184318620676097/LuN4vrWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4574,
+          "following_count": 1094,
+          "like_count": 4827,
+          "listed_count": 6,
+          "media_count": 245,
+          "tweet_count": 1482
+        },
+        "url": "https://t.co/i1HGsDLtNo",
+        "username": "liulingyo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

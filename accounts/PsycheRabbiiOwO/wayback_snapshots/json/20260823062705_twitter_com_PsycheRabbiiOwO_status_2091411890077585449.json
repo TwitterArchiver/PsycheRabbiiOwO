@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2091411890077585449",
+    "created_at": "2026-08-23T06:27:05.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T07:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091411890077585449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869639753278296064",
+          "start": 3,
+          "username": "HoneySe7en29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091411890077585449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 187
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091207587958346040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HoneySe7en29: 安全词是啥啊我他妈快被生活操死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2091411890077585449",
+        "created_at": "2026-08-23T06:27:05.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T07:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091411890077585449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869639753278296064",
+              "start": 3,
+              "username": "HoneySe7en29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091411890077585449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 187
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091207587958346040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HoneySe7en29: 安全词是啥啊我他妈快被生活操死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869639753278296064",
+        "conversation_id": "2091207587958346040",
+        "created_at": "2026-08-22T16:55:16.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091207587958346040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091207587958346040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 125590,
+          "like_count": 1868,
+          "quote_count": 15,
+          "reply_count": 160,
+          "retweet_count": 187
+        },
+        "reply_settings": "everyone",
+        "text": "安全词是啥啊我他妈快被生活操死了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n提问箱：https://t.co/TSJO9Xh4iJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 52,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 29,
+                "url": "https://t.co/TSJO9Xh4iJ"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2091411890077585449",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 1811,
+          "like_count": 22511,
+          "listed_count": 2,
+          "media_count": 402,
+          "tweet_count": 3456
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-19T07:04:00.000Z",
+        "description": "女｜泛性恋｜entp｜喜欢有礼貌的人",
+        "id": "1869639753278296064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091232049768411248",
+        "name": "se7en29",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1869639753278296064/1738002228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875257584602783744/TSWNRc0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 171,
+          "like_count": 3675,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1098
+        },
+        "url": "",
+        "username": "HoneySe7en29",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

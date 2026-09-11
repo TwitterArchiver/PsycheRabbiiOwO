@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2091230037899141321",
+    "created_at": "2026-08-22T18:24:28.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T19:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091230037899141321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2090348740250906624",
+          "start": 3,
+          "username": "Uuucvea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091230037899141321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091166091401740331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uuucvea: 洗澡前是舒服的\n洗澡中是舒服的\n洗澡后是舒服的\n去洗澡是不舒服的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2091230037899141321",
+        "created_at": "2026-08-22T18:24:28.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T19:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091230037899141321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2090348740250906624",
+              "start": 3,
+              "username": "Uuucvea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091230037899141321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091166091401740331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uuucvea: 洗澡前是舒服的\n洗澡中是舒服的\n洗澡后是舒服的\n去洗澡是不舒服的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090348740250906624",
+        "conversation_id": "2091166091401740331",
+        "created_at": "2026-08-22T14:10:22.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091166091401740331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091166091401740331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10725,
+          "like_count": 497,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "洗澡前是舒服的\n洗澡中是舒服的\n洗澡后是舒服的\n去洗澡是不舒服的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n提问箱：https://t.co/TSJO9Xh4iJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 52,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 29,
+                "url": "https://t.co/TSJO9Xh4iJ"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2091230037899141321",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 1812,
+          "like_count": 22476,
+          "listed_count": 2,
+          "media_count": 401,
+          "tweet_count": 3451
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T08:03:03.000Z",
+        "description": "礼貌你我他｜172cm｜45kg｜年龄是永远18岁｜屁话巨多的碎碎念大王\n此账号用来发抽象文字和日常碎碎念（屁话真多）每天不定时发帖 帖子内容..是想到啥发啥",
+        "id": "2090348740250906624",
+        "is_identity_verified": false,
+        "location": "🚪188 288 588",
+        "most_recent_tweet_id": "2091212523445887108",
+        "name": "Uuu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090348740250906624/1787213505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090350108348932096/B6xaOmpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 5,
+          "like_count": 248,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 373
+        },
+        "url": "",
+        "username": "Uuucvea",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

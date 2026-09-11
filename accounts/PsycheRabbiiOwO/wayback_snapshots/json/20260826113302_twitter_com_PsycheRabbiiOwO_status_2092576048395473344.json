@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2092436800589758831",
+    "created_at": "2026-08-26T11:33:02.000Z",
+    "display_text_range": [
+      16,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T12:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092576048395473344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841306675674075136",
+          "start": 0,
+          "username": "suishoucrystal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092576048395473344",
+    "in_reply_to_user_id": "1841306675674075136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092436800589758831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suishoucrystal 幹撈具有紅黑二象性，紅的看他紅，黑的看他黑。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 804,
+        "media_key": "3_2092436005479706624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnTdfXa8AAPeMX.jpg",
+        "width": 1280
+      },
+      {
+        "height": 605,
+        "media_key": "3_2092436005513220096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnTdffaUAAzyDN.jpg",
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2092436800589758831",
+        "created_at": "2026-08-26T11:33:02.000Z",
+        "display_text_range": [
+          16,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092576048395473344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841306675674075136",
+              "start": 0,
+              "username": "suishoucrystal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092576048395473344",
+        "in_reply_to_user_id": "1841306675674075136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092436800589758831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suishoucrystal 幹撈具有紅黑二象性，紅的看他紅，黑的看他黑。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092436005479706624",
+            "3_2092436005513220096"
+          ]
+        },
+        "author_id": "1841306675674075136",
+        "conversation_id": "2092436800589758831",
+        "created_at": "2026-08-26T02:19:43.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T03:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092436800589758831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ULS5fTsrXH",
+              "end": 136,
+              "expanded_url": "https://x.com/suishoucrystal/status/2092436800589758831/photo/1",
+              "media_key": "3_2092436005479706624",
+              "start": 113,
+              "url": "https://t.co/ULS5fTsrXH"
+            },
+            {
+              "display_url": "pic.x.com/ULS5fTsrXH",
+              "end": 136,
+              "expanded_url": "https://x.com/suishoucrystal/status/2092436800589758831/photo/1",
+              "media_key": "3_2092436005513220096",
+              "start": 113,
+              "url": "https://t.co/ULS5fTsrXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092436800589758831",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092436005479706624"
+          },
+          {
+            "media_key": "3_2092436005513220096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 836,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你国一个说唱综艺离谱审核一堆😅给《大展宏图》改的面目全非。“颠佬”改成“抬头”，“pussy”被删除，“妖魔革命”改成“梦想使命”，一首讽刺暴发户的歌不知道的还以为是什么新时代正能量说唱🤮难怪揽佬自己唱也一副如绷似串的表情😂 https://t.co/ULS5fTsrXH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n提问箱：https://t.co/TSJO9Xh4iJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 52,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 29,
+                "url": "https://t.co/TSJO9Xh4iJ"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2092576048395473344",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 1821,
+          "like_count": 22725,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 3499
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "（Premium plus用户）日本語学科 ，底层受剥削家庭。閩台混雜，友跨，系统政治学🌗独立时评人🌗人嫌狗厌理中客🌗百度孙笑川吧/PS吧/中国人口吧🥇黄牌",
+        "id": "1841306675674075136",
+        "is_identity_verified": false,
+        "location": "金門縣",
+        "most_recent_tweet_id": "2092523225729449990",
+        "name": "水晶クリスタル",
+        "pinned_tweet_id": "2092255705990373848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841306675674075136/1777195435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 1635,
+          "like_count": 4808,
+          "listed_count": 5,
+          "media_count": 876,
+          "tweet_count": 6492
+        },
+        "url": "",
+        "username": "suishoucrystal",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

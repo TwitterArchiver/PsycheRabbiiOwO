@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096823877590740992"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2096802889440129511",
+    "created_at": "2026-09-07T04:52:26.000Z",
+    "display_text_range": [
+      15,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T05:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096823888932159571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nppEok9E7a",
+          "end": 39,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2096823888932159571/photo/1",
+          "media_key": "3_2096823877590740992",
+          "start": 16,
+          "url": "https://t.co/nppEok9E7a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096823888932159571",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2096823877590740992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096802889440129511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen https://t.co/nppEok9E7a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1259,
+        "media_key": "3_2096823877590740992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlqNQxacAAvmXo.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096795385670868995",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlQS0GXIAMIBKO.jpg",
+        "width": 935
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096823877590740992"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2096802889440129511",
+        "created_at": "2026-09-07T04:52:26.000Z",
+        "display_text_range": [
+          15,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096823888932159571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nppEok9E7a",
+              "end": 39,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2096823888932159571/photo/1",
+              "media_key": "3_2096823877590740992",
+              "start": 16,
+              "url": "https://t.co/nppEok9E7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096823888932159571",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2096823877590740992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096802889440129511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen https://t.co/nppEok9E7a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096795385670868995"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2096802889440129511",
+        "created_at": "2026-09-07T03:29:00.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096802889440129511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BAxCkrrR2g",
+              "end": 66,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2096802889440129511/photo/1",
+              "media_key": "3_2096795385670868995",
+              "start": 43,
+              "url": "https://t.co/BAxCkrrR2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096802889440129511",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096795385670868995"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 6459,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "知乎的 AI 现在已经能够读懂暗语了。\n\n用暗语规避审查的时代 终于还是结束了吗？😔 https://t.co/BAxCkrrR2g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n提问箱：https://t.co/EvAZCy4et0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 52,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 29,
+                "url": "https://t.co/EvAZCy4et0"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2096823888932159571",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 1861,
+          "like_count": 23419,
+          "listed_count": 2,
+          "media_count": 420,
+          "tweet_count": 3542
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2096815472348160325",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19300,
+          "following_count": 889,
+          "like_count": 35364,
+          "listed_count": 32,
+          "media_count": 2979,
+          "tweet_count": 13347
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

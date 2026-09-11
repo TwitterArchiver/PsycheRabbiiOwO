@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094116192097382400"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2093611693196947908",
+    "created_at": "2026-08-30T17:33:04.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T18:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094116202377511241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1681902931564703744",
+          "start": 0,
+          "username": "aim20371231"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tF20m9tX52",
+          "end": 47,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2094116202377511241/photo/1",
+          "media_key": "3_2094116192097382400",
+          "start": 24,
+          "url": "https://t.co/tF20m9tX52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094116202377511241",
+    "in_reply_to_user_id": "1681902931564703744",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094116192097382400"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093611693196947908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aim20371231 泥↓冲↗Q↗币↓吗↑ https://t.co/tF20m9tX52"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 824,
+        "media_key": "3_2094116192097382400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ_LlORbsAAByP6.jpg",
+        "width": 1465
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094116192097382400"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2093611693196947908",
+        "created_at": "2026-08-30T17:33:04.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T18:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094116202377511241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681902931564703744",
+              "start": 0,
+              "username": "aim20371231"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tF20m9tX52",
+              "end": 47,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2094116202377511241/photo/1",
+              "media_key": "3_2094116192097382400",
+              "start": 24,
+              "url": "https://t.co/tF20m9tX52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094116202377511241",
+        "in_reply_to_user_id": "1681902931564703744",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094116192097382400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093611693196947908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aim20371231 泥↓冲↗Q↗币↓吗↑ https://t.co/tF20m9tX52"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681902931564703744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2093611693196947908",
+        "created_at": "2026-08-29T08:08:19.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T09:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093611693196947908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kusunoki_riko/…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/kusunoki_riko/status/2093479590228586626",
+              "start": 93,
+              "url": "https://t.co/rIC9j54YBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093611693196947908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 37891,
+          "like_count": 410,
+          "quote_count": 15,
+          "reply_count": 100,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093479590228586626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打造你的理想国家\n\n教育：🇦🇶\n法律：🇦🇶\n经济：🇦🇶\n安全：🇦🇶\n军队：🇦🇶\n健康：🇦🇶\nLGBT 权利：🇦🇶\n基础设施：🇦🇶\n外交政策：🇦🇶\n移民：🇦🇶\n政治制度：🇦🇶\n人民：🇦🇶 https://t.co/rIC9j54YBd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n提问箱：https://t.co/EvAZCy4et0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 52,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 29,
+                "url": "https://t.co/EvAZCy4et0"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2094116202377511241",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 1828,
+          "like_count": 22816,
+          "listed_count": 2,
+          "media_count": 412,
+          "tweet_count": 3509
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-20T05:44:55.000Z",
+        "description": "天之道其犹张弓与？高者抑之，下者举之，有余者损之，不足者补之。天之道损有余而补不足，人之道则不然，损不足以奉有余。",
+        "id": "1681902931564703744",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094039357363732512",
+        "name": "川和工团安卡🚩🇦🇶🔥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1681902931564703744/1693285763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068274115031756800/njv_e1RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2991,
+          "following_count": 2595,
+          "like_count": 182430,
+          "listed_count": 18,
+          "media_count": 2755,
+          "tweet_count": 58217
+        },
+        "url": "",
+        "username": "aim20371231",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

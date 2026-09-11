@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096099427056570368"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2096099436132990987",
+    "created_at": "2026-09-05T04:53:43.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T05:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096099436132990987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v0LGiRd2oG",
+          "end": 35,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2096099436132990987/photo/1",
+          "media_key": "3_2096099427056570368",
+          "start": 12,
+          "url": "https://t.co/v0LGiRd2oG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096099436132990987",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096099427056570368"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "乱丢垃圾给你抓起来😠😠 https://t.co/v0LGiRd2oG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1698,
+        "media_key": "3_2096099427056570368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbXUsObUAAePTY.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096099427056570368"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2096099436132990987",
+        "created_at": "2026-09-05T04:53:43.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T05:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096099436132990987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v0LGiRd2oG",
+              "end": 35,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2096099436132990987/photo/1",
+              "media_key": "3_2096099427056570368",
+              "start": 12,
+              "url": "https://t.co/v0LGiRd2oG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096099436132990987",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096099427056570368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乱丢垃圾给你抓起来😠😠 https://t.co/v0LGiRd2oG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n提问箱：https://t.co/EvAZCy4et0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 52,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 29,
+                "url": "https://t.co/EvAZCy4et0"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2096099436132990987",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 1849,
+          "like_count": 23269,
+          "listed_count": 2,
+          "media_count": 418,
+          "tweet_count": 3538
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

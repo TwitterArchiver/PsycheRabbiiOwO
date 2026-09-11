@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094190503252443136",
+        "3_2094190511896846336",
+        "3_2094190520780386304",
+        "3_2094190528334307328"
+      ],
+      "media_source_tweet_id": [
+        "2094190536622289112",
+        "2094190536622289112",
+        "2094190536622289112",
+        "2094190536622289112"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2094264388245139554",
+    "created_at": "2026-08-31T03:21:54.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T04:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094264388245139554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1309455512895807488",
+          "start": 3,
+          "username": "Cairos2002"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FLBVZi3C4u",
+          "end": 75,
+          "expanded_url": "https://x.com/Cairos2002/status/2094190536622289112/photo/1",
+          "media_key": "3_2094190503252443136",
+          "start": 52,
+          "url": "https://t.co/FLBVZi3C4u"
+        },
+        {
+          "display_url": "pic.x.com/FLBVZi3C4u",
+          "end": 75,
+          "expanded_url": "https://x.com/Cairos2002/status/2094190536622289112/photo/1",
+          "media_key": "3_2094190511896846336",
+          "start": 52,
+          "url": "https://t.co/FLBVZi3C4u"
+        },
+        {
+          "display_url": "pic.x.com/FLBVZi3C4u",
+          "end": 75,
+          "expanded_url": "https://x.com/Cairos2002/status/2094190536622289112/photo/1",
+          "media_key": "3_2094190520780386304",
+          "start": 52,
+          "url": "https://t.co/FLBVZi3C4u"
+        },
+        {
+          "display_url": "pic.x.com/FLBVZi3C4u",
+          "end": 75,
+          "expanded_url": "https://x.com/Cairos2002/status/2094190536622289112/photo/1",
+          "media_key": "3_2094190528334307328",
+          "start": 52,
+          "url": "https://t.co/FLBVZi3C4u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094264388245139554",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094190503252443136"
+      },
+      {
+        "media_key": "3_2094190511896846336"
+      },
+      {
+        "media_key": "3_2094190520780386304"
+      },
+      {
+        "media_key": "3_2094190528334307328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094190536622289112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cairos2002: 看到个细思极恐的回答。😇迎接我们的是表面繁荣内核空洞且高度同质的未来。 https://t.co/FLBVZi3C4u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1718,
+        "media_key": "3_2094190503252443136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAPKs5bwAA3FKW.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1555,
+        "media_key": "3_2094190511896846336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAPLNGa4AAaU5i.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1128,
+        "media_key": "3_2094190520780386304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAPLuMa8AALJJ8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2157,
+        "media_key": "3_2094190528334307328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAPMKVaoAANu5h.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094190503252443136",
+            "3_2094190511896846336",
+            "3_2094190520780386304",
+            "3_2094190528334307328"
+          ],
+          "media_source_tweet_id": [
+            "2094190536622289112",
+            "2094190536622289112",
+            "2094190536622289112",
+            "2094190536622289112"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2094264388245139554",
+        "created_at": "2026-08-31T03:21:54.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T04:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094264388245139554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1309455512895807488",
+              "start": 3,
+              "username": "Cairos2002"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FLBVZi3C4u",
+              "end": 75,
+              "expanded_url": "https://x.com/Cairos2002/status/2094190536622289112/photo/1",
+              "media_key": "3_2094190503252443136",
+              "start": 52,
+              "url": "https://t.co/FLBVZi3C4u"
+            },
+            {
+              "display_url": "pic.x.com/FLBVZi3C4u",
+              "end": 75,
+              "expanded_url": "https://x.com/Cairos2002/status/2094190536622289112/photo/1",
+              "media_key": "3_2094190511896846336",
+              "start": 52,
+              "url": "https://t.co/FLBVZi3C4u"
+            },
+            {
+              "display_url": "pic.x.com/FLBVZi3C4u",
+              "end": 75,
+              "expanded_url": "https://x.com/Cairos2002/status/2094190536622289112/photo/1",
+              "media_key": "3_2094190520780386304",
+              "start": 52,
+              "url": "https://t.co/FLBVZi3C4u"
+            },
+            {
+              "display_url": "pic.x.com/FLBVZi3C4u",
+              "end": 75,
+              "expanded_url": "https://x.com/Cairos2002/status/2094190536622289112/photo/1",
+              "media_key": "3_2094190528334307328",
+              "start": 52,
+              "url": "https://t.co/FLBVZi3C4u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094264388245139554",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094190503252443136"
+          },
+          {
+            "media_key": "3_2094190511896846336"
+          },
+          {
+            "media_key": "3_2094190520780386304"
+          },
+          {
+            "media_key": "3_2094190528334307328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094190536622289112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cairos2002: 看到个细思极恐的回答。😇迎接我们的是表面繁荣内核空洞且高度同质的未来。 https://t.co/FLBVZi3C4u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094190503252443136",
+            "3_2094190511896846336",
+            "3_2094190520780386304",
+            "3_2094190528334307328"
+          ]
+        },
+        "author_id": "1309455512895807488",
+        "conversation_id": "2094190536622289112",
+        "created_at": "2026-08-30T22:28:26.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T23:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094190536622289112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FLBVZi3C4u",
+              "end": 59,
+              "expanded_url": "https://x.com/Cairos2002/status/2094190536622289112/photo/1",
+              "media_key": "3_2094190503252443136",
+              "start": 36,
+              "url": "https://t.co/FLBVZi3C4u"
+            },
+            {
+              "display_url": "pic.x.com/FLBVZi3C4u",
+              "end": 59,
+              "expanded_url": "https://x.com/Cairos2002/status/2094190536622289112/photo/1",
+              "media_key": "3_2094190511896846336",
+              "start": 36,
+              "url": "https://t.co/FLBVZi3C4u"
+            },
+            {
+              "display_url": "pic.x.com/FLBVZi3C4u",
+              "end": 59,
+              "expanded_url": "https://x.com/Cairos2002/status/2094190536622289112/photo/1",
+              "media_key": "3_2094190520780386304",
+              "start": 36,
+              "url": "https://t.co/FLBVZi3C4u"
+            },
+            {
+              "display_url": "pic.x.com/FLBVZi3C4u",
+              "end": 59,
+              "expanded_url": "https://x.com/Cairos2002/status/2094190536622289112/photo/1",
+              "media_key": "3_2094190528334307328",
+              "start": 36,
+              "url": "https://t.co/FLBVZi3C4u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094190536622289112",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094190503252443136"
+          },
+          {
+            "media_key": "3_2094190511896846336"
+          },
+          {
+            "media_key": "3_2094190520780386304"
+          },
+          {
+            "media_key": "3_2094190528334307328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 368,
+          "impression_count": 55933,
+          "like_count": 797,
+          "quote_count": 7,
+          "reply_count": 14,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "看到个细思极恐的回答。😇迎接我们的是表面繁荣内核空洞且高度同质的未来。 https://t.co/FLBVZi3C4u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n提问箱：https://t.co/EvAZCy4et0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 52,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 29,
+                "url": "https://t.co/EvAZCy4et0"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2094264388245139554",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 1836,
+          "like_count": 22863,
+          "listed_count": 2,
+          "media_count": 413,
+          "tweet_count": 3511
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-25T11:31:43.000Z",
+        "description": "固知一死生为虚诞，齐彭殇为妄作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreams.plus",
+                "end": 23,
+                "expanded_url": "https://dreams.plus",
+                "start": 0,
+                "url": "https://t.co/ys8P70ZCzv"
+              }
+            ]
+          }
+        },
+        "id": "1309455512895807488",
+        "is_identity_verified": false,
+        "location": "Nebule",
+        "most_recent_tweet_id": "2094190536622289112",
+        "name": "三秋桂子🎃",
+        "pinned_tweet_id": "2063802671740633105",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309455512895807488/1785096610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092921963308257280/i0oiRqT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5111,
+          "following_count": 295,
+          "like_count": 78888,
+          "listed_count": 14,
+          "media_count": 933,
+          "tweet_count": 11754
+        },
+        "url": "https://t.co/ys8P70ZCzv",
+        "username": "Cairos2002",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

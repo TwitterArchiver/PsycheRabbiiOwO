@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2094031396931305640",
+    "created_at": "2026-09-01T03:27:39.000Z",
+    "display_text_range": [
+      14,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T04:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094628225624522975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1545801302617116672",
+          "start": 0,
+          "username": "Minecraftxfj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094628225624522975",
+    "in_reply_to_user_id": "1545801302617116672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "关于观看《开学第一课》的心得体会\n\n为深入学习贯彻习近平总书记关于青少年成长成才的重要指示精神，本人于新学期伊始认真收看了《开学第一课》专题节目，深受教育，感触良多。现结合自身实际，将观后心得报告如下：\n\n一、深刻认识新学期的重要意义，切实端正思想态度。新学期的开启，不仅是学业进程的延续，更是在新的起点上确立更高目标、以更加昂扬向上的精神风貌投入学习生活的重要契机。必须从思想深处强化责任意识与进取意识，以崭新姿态迎接各项学习任务。\n\n二、深刻领悟成长成才的客观规律，牢固树立攻坚克难的精神品格。节目中所展现的生动事例充分表明，成长之路从来不是坦途，理想目标的实现必然伴随各种困难与挑战。面对挫折与考验，关键在于坚定信念、保持定力，以百折不挠的毅力迎难而上，绝不轻言放弃。唯有立足当下，扎扎实实做好每一项具体工作，持续积累知识、锤炼本领，方能稳步接近既定目标。\n\n三、准确把握时代赋予青年一代的使命担当，全面提升综合素质。作为新时代青年，既享有优质丰富的教育资源和广阔发展平台，也承担着与时代同向同行的历史责任。既要潜心钻研学问、不断增强自身能力，又要注重培养独立思维品质，勇于投身社会实践，在知行合一中明确前进方向，在服务国家和社会中实现个人价值。\n\n四、明确新学期的行动举措，从严从实加强自我管理。针对以往存在的拖延等不良习惯，必须下定决心予以整改，切实强化时间管理和行为自律，以严谨务实、勤勉自励的标准要求自己，努力做到惜时如金、学有所获。要以不负韶华、不负奋斗的实际行动，争取在新学期取得新的进步和更大成绩。\n\n综上，本人将以此次学习为契机，进一步坚定理想信念，强化责任担当，以更加务实的作风和更加刻苦的努力，书写无愧于青春、无愧于时代的崭新篇章。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094031396931305640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minecraftxfj 关于观看《开学第一课》的心得体会\n\n为深入学习贯彻习近平总书记关于青少年成长成才的重要指示精神，本人于新学期伊始认真收看了《开学第一课》专题节目，深受教育，感触良多。现结合自身实际，将观后心得报告如下："
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2094031386474942464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9-c4tbkAA9YwC.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2094031396931305640",
+        "created_at": "2026-09-01T03:27:39.000Z",
+        "display_text_range": [
+          14,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T04:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094628225624522975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094628225624522975",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于观看《开学第一课》的心得体会\n\n为深入学习贯彻习近平总书记关于青少年成长成才的重要指示精神，本人于新学期伊始认真收看了《开学第一课》专题节目，深受教育，感触良多。现结合自身实际，将观后心得报告如下：\n\n一、深刻认识新学期的重要意义，切实端正思想态度。新学期的开启，不仅是学业进程的延续，更是在新的起点上确立更高目标、以更加昂扬向上的精神风貌投入学习生活的重要契机。必须从思想深处强化责任意识与进取意识，以崭新姿态迎接各项学习任务。\n\n二、深刻领悟成长成才的客观规律，牢固树立攻坚克难的精神品格。节目中所展现的生动事例充分表明，成长之路从来不是坦途，理想目标的实现必然伴随各种困难与挑战。面对挫折与考验，关键在于坚定信念、保持定力，以百折不挠的毅力迎难而上，绝不轻言放弃。唯有立足当下，扎扎实实做好每一项具体工作，持续积累知识、锤炼本领，方能稳步接近既定目标。\n\n三、准确把握时代赋予青年一代的使命担当，全面提升综合素质。作为新时代青年，既享有优质丰富的教育资源和广阔发展平台，也承担着与时代同向同行的历史责任。既要潜心钻研学问、不断增强自身能力，又要注重培养独立思维品质，勇于投身社会实践，在知行合一中明确前进方向，在服务国家和社会中实现个人价值。\n\n四、明确新学期的行动举措，从严从实加强自我管理。针对以往存在的拖延等不良习惯，必须下定决心予以整改，切实强化时间管理和行为自律，以严谨务实、勤勉自励的标准要求自己，努力做到惜时如金、学有所获。要以不负韶华、不负奋斗的实际行动，争取在新学期取得新的进步和更大成绩。\n\n综上，本人将以此次学习为契机，进一步坚定理想信念，强化责任担当，以更加务实的作风和更加刻苦的努力，书写无愧于青春、无愧于时代的崭新篇章。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094031396931305640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 关于观看《开学第一课》的心得体会\n\n为深入学习贯彻习近平总书记关于青少年成长成才的重要指示精神，本人于新学期伊始认真收看了《开学第一课》专题节目，深受教育，感触良多。现结合自身实际，将观后心得报告如下："
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094031386474942464"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2094031396931305640",
+        "created_at": "2026-08-30T11:56:04.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094031396931305640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GC8MRJihQs",
+              "end": 137,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2094031396931305640/photo/1",
+              "media_key": "3_2094031386474942464",
+              "start": 114,
+              "url": "https://t.co/GC8MRJihQs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094031396931305640",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094031386474942464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7834,
+          "like_count": 149,
+          "quote_count": 1,
+          "reply_count": 77,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "小朋友们好！\n　　今晚八点，由教育部、中宣部、中央电视台联合制作的《开学第一课》将于八点播出，请小朋友们在家长的陪同下准时观看。\n　　拍照发在群内，并于明天中午12点前向老师提交一份不少于三百字的观后感\n　　　感谢各位！🙏🙏🙏 https://t.co/GC8MRJihQs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n提问箱：https://t.co/EvAZCy4et0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 52,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 29,
+                "url": "https://t.co/EvAZCy4et0"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2094628225624522975",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 1840,
+          "like_count": 22917,
+          "listed_count": 2,
+          "media_count": 415,
+          "tweet_count": 3523
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2094550195484995638",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 1425,
+          "like_count": 2418,
+          "listed_count": 2,
+          "media_count": 610,
+          "tweet_count": 6346
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

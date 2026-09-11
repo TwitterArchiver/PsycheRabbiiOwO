@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2095126724514382116",
+    "created_at": "2026-09-02T12:28:31.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T13:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095126724514382116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2056547558462480384",
+          "start": 3,
+          "username": "Eliserette"
+        },
+        {
+          "end": 29,
+          "id": "2090691594127343616",
+          "start": 16,
+          "username": "lysander1359"
+        },
+        {
+          "end": 42,
+          "id": "2062190491991744512",
+          "start": 30,
+          "username": "Sypshenlipu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095126724514382116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094431269828628881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Eliserette: @lysander1359 @Sypshenlipu 我曾经也是跨性别，就是这个群体曾让我跌入深渊、陷入绝境、背负罪孽，甚至一度处于生死边缘。如今我已醒悟过来，决心为捍卫传统保守主义价值观反抗进步蛆而斗争。我很透他们了，更讨厌这些宣扬药娘文化的恶…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2095126724514382116",
+        "created_at": "2026-09-02T12:28:31.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095126724514382116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2056547558462480384",
+              "start": 3,
+              "username": "Eliserette"
+            },
+            {
+              "end": 29,
+              "id": "2090691594127343616",
+              "start": 16,
+              "username": "lysander1359"
+            },
+            {
+              "end": 42,
+              "id": "2062190491991744512",
+              "start": 30,
+              "username": "Sypshenlipu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095126724514382116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094431269828628881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Eliserette: @lysander1359 @Sypshenlipu 我曾经也是跨性别，就是这个群体曾让我跌入深渊、陷入绝境、背负罪孽，甚至一度处于生死边缘。如今我已醒悟过来，决心为捍卫传统保守主义价值观反抗进步蛆而斗争。我很透他们了，更讨厌这些宣扬药娘文化的恶…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056547558462480384",
+        "conversation_id": "2094390975238132189",
+        "created_at": "2026-08-31T14:25:02.000Z",
+        "display_text_range": [
+          27,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094431269828628881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090691594127343616",
+              "start": 0,
+              "username": "lysander1359"
+            },
+            {
+              "end": 26,
+              "id": "2062190491991744512",
+              "start": 14,
+              "username": "Sypshenlipu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094431269828628881",
+        "in_reply_to_user_id": "2090691594127343616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1232,
+          "like_count": 18,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094426918213030378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lysander1359 @Sypshenlipu 我曾经也是跨性别，就是这个群体曾让我跌入深渊、陷入绝境、背负罪孽，甚至一度处于生死边缘。如今我已醒悟过来，决心为捍卫传统保守主义价值观反抗进步蛆而斗争。我很透他们了，更讨厌这些宣扬药娘文化的恶人。去他妈的多元化，该死的LGBT，这种违背自然规律东西就不该存在这个世界上。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n提问箱：https://t.co/EvAZCy4et0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 52,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 29,
+                "url": "https://t.co/EvAZCy4et0"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2095126724514382116",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 1850,
+          "like_count": 23078,
+          "listed_count": 2,
+          "media_count": 419,
+          "tweet_count": 3534
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T01:28:57.000Z",
+        "description": "地狱的烈焰不熄，因至高的审判从未止息",
+        "id": "2056547558462480384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095022969076711820",
+        "name": "𝓐𝓵𝓲𝓮𝓼",
+        "pinned_tweet_id": "2094063202460197093",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056547558462480384/1787512800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091616501157826560/wMTCN7UW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 18,
+          "like_count": 91,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "Eliserette",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T06:48:43.000Z",
+        "description": "目前人設蛆 看心情換 我是精神病 消腫比 ftx還是ftm我不知道",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "…ut43jqqi4oeapg3oubjlrkzzm5bw5qd.onion",
+                "end": 23,
+                "expanded_url": "http://x4fcceh6bfwxr4b54i6tgufhmut43jqqi4oeapg3oubjlrkzzm5bw5qd.onion",
+                "start": 0,
+                "url": "https://t.co/B9QHYUiEPt"
+              }
+            ]
+          }
+        },
+        "id": "2090691594127343616",
+        "is_identity_verified": false,
+        "location": "level-974",
+        "most_recent_tweet_id": "2095106580647952414",
+        "name": "Lysander",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090691594127343616/1788346987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094110251150888961/NHO8ne06_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 43,
+          "like_count": 707,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 82
+        },
+        "url": "https://t.co/B9QHYUiEPt",
+        "username": "lysander1359",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-03T15:13:20.000Z",
+        "description": "照片是我家小貓，他叫玉米\n我是MTF\n照片是貓\n我不是男的\n照片裡也不是肥豬",
+        "id": "2062190491991744512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094572821242659099",
+        "name": "Li pu Shen🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062190491991744512/1785166163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081762845772201984/NPuHvnRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 371,
+          "like_count": 53335,
+          "listed_count": 5,
+          "media_count": 142,
+          "tweet_count": 1584
+        },
+        "url": "",
+        "username": "Sypshenlipu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

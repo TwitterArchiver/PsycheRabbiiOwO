@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2096945569545748865",
+    "created_at": "2026-09-07T12:55:57.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T13:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096945569545748865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1823629295756955648",
+          "start": 3,
+          "username": "syddyy04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096945569545748865",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3619
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096660500889186715",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syddyy04: what is going on over in chinese lesbian twitter it’s insane keep em coming"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2096945569545748865",
+        "created_at": "2026-09-07T12:55:57.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096945569545748865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1823629295756955648",
+              "start": 3,
+              "username": "syddyy04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096945569545748865",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3619
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096660500889186715",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syddyy04: what is going on over in chinese lesbian twitter it’s insane keep em coming"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823629295756955648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2096660500889186715",
+        "created_at": "2026-09-06T18:03:12.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T19:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096660500889186715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/brat_miao/stat…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/brat_miao/status/2096600893496189426",
+              "start": 76,
+              "url": "https://t.co/LlLkViK2Ms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096660500889186715",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11447,
+          "impression_count": 2299332,
+          "like_count": 103454,
+          "quote_count": 157,
+          "reply_count": 209,
+          "retweet_count": 3619
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096600893496189426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "what is going on over in chinese lesbian twitter it’s insane keep em coming https://t.co/LlLkViK2Ms"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n提问箱：https://t.co/EvAZCy4et0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 52,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 29,
+                "url": "https://t.co/EvAZCy4et0"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2096945569545748865",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 1867,
+          "like_count": 23469,
+          "listed_count": 2,
+          "media_count": 419,
+          "tweet_count": 3547
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-14T07:54:49.000Z",
+        "description": "22 \nfandomtwt / lesbiantwt \nbutch4all & puppybutch\npriv @syddyspriv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "syddyspriv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pipelineepunch…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/pipelineepunch?igsh=MWoyMWNzeHU3ZXJhbQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/qJ5vcGxitf"
+              }
+            ]
+          }
+        },
+        "id": "1823629295756955648",
+        "is_identity_verified": false,
+        "location": "at a concert ",
+        "most_recent_tweet_id": "2096945324480745671",
+        "name": "syd 🏴󠁧󠁢󠁳󠁣󠁴󠁿 butch 🐶",
+        "pinned_tweet_id": "2065130395927036395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823629295756955648/1785722249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093762783133216768/oTNVdmNh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 341,
+          "like_count": 42312,
+          "listed_count": 3,
+          "media_count": 775,
+          "tweet_count": 4343
+        },
+        "url": "https://t.co/qJ5vcGxitf",
+        "username": "syddyy04",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

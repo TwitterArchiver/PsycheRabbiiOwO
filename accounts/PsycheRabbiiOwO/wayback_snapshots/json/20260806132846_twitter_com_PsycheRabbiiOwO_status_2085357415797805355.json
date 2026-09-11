@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2085278229582262338",
+    "created_at": "2026-08-06T13:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085357415797805355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025476709286604800",
+          "start": 0,
+          "username": "kaoroujiang1017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085357415797805355",
+    "in_reply_to_user_id": "2025476709286604800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085278229582262338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaoroujiang1017 🥲对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2085278229582262338",
+        "created_at": "2026-08-06T13:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085357415797805355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025476709286604800",
+              "start": 0,
+              "username": "kaoroujiang1017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085357415797805355",
+        "in_reply_to_user_id": "2025476709286604800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085278229582262338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaoroujiang1017 🥲对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025476709286604800",
+        "conversation_id": "2085278229582262338",
+        "created_at": "2026-08-06T08:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085278229582262338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/psycherabbiiowo/status/2085178892596474092",
+              "start": 9,
+              "url": "https://t.co/7qTh3VUCO5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085278229582262338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085178892596474092",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刷个x 又被骂了 https://t.co/7qTh3VUCO5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 1802,
+          "like_count": 21891,
+          "listed_count": 2,
+          "media_count": 377,
+          "tweet_count": 3343
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-22T07:44:21.000Z",
+        "description": "现沉迷于文字解谜游戏的人",
+        "id": "2025476709286604800",
+        "name": "烤肉🍖",
+        "pinned_tweet_id": "2025580520005144991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078909796816953344/VCpaoN5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "kaoroujiang1017",
+        "verified": false
+      }
+    ]
+  }
+}

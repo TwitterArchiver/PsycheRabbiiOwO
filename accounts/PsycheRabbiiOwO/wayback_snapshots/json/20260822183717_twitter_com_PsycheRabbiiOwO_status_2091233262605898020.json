@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2090999581341569473",
+    "created_at": "2026-08-22T18:37:17.000Z",
+    "display_text_range": [
+      20,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T19:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091233262605898020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1785592972740087808",
+          "start": 0,
+          "username": "phgzzd"
+        },
+        {
+          "end": 19,
+          "id": "1757616332240224256",
+          "start": 8,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091233262605898020",
+    "in_reply_to_user_id": "1785592972740087808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091207379857842524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@phgzzd @B_cat38324 帮忙买首付跟帮忙签卖身契有什么区别？房子和装修花的够租房到死了，厌了还能换"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2090999581341569473",
+        "created_at": "2026-08-22T18:37:17.000Z",
+        "display_text_range": [
+          20,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T19:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091233262605898020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1785592972740087808",
+              "start": 0,
+              "username": "phgzzd"
+            },
+            {
+              "end": 19,
+              "id": "1757616332240224256",
+              "start": 8,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091233262605898020",
+        "in_reply_to_user_id": "1785592972740087808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091207379857842524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@phgzzd @B_cat38324 帮忙买首付跟帮忙签卖身契有什么区别？房子和装修花的够租房到死了，厌了还能换"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785592972740087808",
+        "conversation_id": "2090999581341569473",
+        "created_at": "2026-08-22T16:54:26.000Z",
+        "display_text_range": [
+          12,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091207379857842524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091207379857842524",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090999581341569473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 爹妈钱是爹妈的吧，都给你也是养老了之后，遗产的话你也六十多了，给个首付或者是给买车是额外扶持，但是你想全吞了这不就是窝囊废吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n提问箱：https://t.co/TSJO9Xh4iJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 52,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 29,
+                "url": "https://t.co/TSJO9Xh4iJ"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2091233262605898020",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 1812,
+          "like_count": 22483,
+          "listed_count": 2,
+          "media_count": 401,
+          "tweet_count": 3452
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-01T08:53:19.000Z",
+        "description": "🏳️‍🌈",
+        "id": "1785592972740087808",
+        "is_identity_verified": false,
+        "location": "San Francisco, CA",
+        "most_recent_tweet_id": "2091210970622550423",
+        "name": "我真求你了财快来",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817613847169323009/0J7OFulo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 113,
+          "like_count": 2933,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1682
+        },
+        "url": "",
+        "username": "phgzzd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091082265971642509",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757616332240224256/1718634286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23462,
+          "following_count": 202,
+          "like_count": 757,
+          "listed_count": 72,
+          "media_count": 112,
+          "tweet_count": 24261
+        },
+        "url": "",
+        "username": "B_cat38324",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

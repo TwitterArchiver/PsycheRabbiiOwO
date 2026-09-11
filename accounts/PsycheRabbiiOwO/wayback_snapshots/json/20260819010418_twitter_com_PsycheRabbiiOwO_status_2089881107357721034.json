@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089881073157308416"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2089881107357721034",
+    "created_at": "2026-08-19T01:04:18.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T02:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089881107357721034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/npygastJ00",
+          "end": 71,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2089881107357721034/photo/1",
+          "media_key": "3_2089881073157308416",
+          "start": 48,
+          "url": "https://t.co/npygastJ00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089881107357721034",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089881073157308416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "珍爱生命，远离不良习惯😡😡😡\n\n看黄！意淫！手淫！嫖唱！婚外情！\n等不良行为的后果：\n😡😡😡😡 https://t.co/npygastJ00"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2089881073157308416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQC_w2xagAArr4r.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089881073157308416"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2089881107357721034",
+        "created_at": "2026-08-19T01:04:18.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T02:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089881107357721034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/npygastJ00",
+              "end": 71,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2089881107357721034/photo/1",
+              "media_key": "3_2089881073157308416",
+              "start": 48,
+              "url": "https://t.co/npygastJ00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089881107357721034",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089881073157308416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "珍爱生命，远离不良习惯😡😡😡\n\n看黄！意淫！手淫！嫖唱！婚外情！\n等不良行为的后果：\n😡😡😡😡 https://t.co/npygastJ00"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4et0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4et0"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2089881107357721034",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 1809,
+          "like_count": 22332,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 3417
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
