@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2102797307217609087",
+    "created_at": "2026-09-23T16:47:27.000Z",
+    "display_text_range": [
+      16,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T17:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102802033300644192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2079399533856079872",
+          "start": 0,
+          "username": "princess_01011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102802033300644192",
+    "in_reply_to_user_id": "2079399533856079872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102799195229028546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@princess_01011 说实话我有点不太懂“自恨”这个词\n\n也有朋友说我其实就是“自恨跨”。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2102797307217609087",
+        "created_at": "2026-09-23T16:47:27.000Z",
+        "display_text_range": [
+          16,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T17:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102802033300644192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2079399533856079872",
+              "start": 0,
+              "username": "princess_01011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102802033300644192",
+        "in_reply_to_user_id": "2079399533856079872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102799195229028546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@princess_01011 说实话我有点不太懂“自恨”这个词\n\n也有朋友说我其实就是“自恨跨”。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079399533856079872",
+        "conversation_id": "2102797307217609087",
+        "created_at": "2026-09-23T16:36:10.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T17:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102799195229028546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102799195229028546",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102797307217609087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 我感觉很多四爱男是自恨的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥推推空间/经常发疯/碎碎念就是疯了/你喜欢我=我喜欢你/断糖中…\n提问箱：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 61,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 38,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2102802033300644192",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 1871,
+          "like_count": 23591,
+          "listed_count": 2,
+          "media_count": 426,
+          "tweet_count": 3690
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-21T03:03:57.000Z",
+        "description": "她/她们/囡囡   🏳️‍🌈女同 友跨顺女  希望可以捂热你…",
+        "id": "2079399533856079872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102799195229028546",
+        "name": "公主病",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079876512510304256/HnQnVay-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 452,
+          "like_count": 4609,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 437
+        },
+        "url": "",
+        "username": "princess_01011",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

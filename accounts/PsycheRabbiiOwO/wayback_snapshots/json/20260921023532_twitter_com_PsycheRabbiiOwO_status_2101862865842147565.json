@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2101862865842147565",
+    "created_at": "2026-09-21T02:35:32.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T03:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101862865842147565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1700935161301655552",
+          "start": 3,
+          "username": "qingshixiang258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101862865842147565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101704481713127864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qingshixiang258: 我最讨厌推特的一点就是，如果遭到了不顺心的事情，无论这件事你有没有做错，只要不是太离谱评论区认识的人基本上都会安慰，但是我认为，感情不应该凌驾于对错之上。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2101862865842147565",
+        "created_at": "2026-09-21T02:35:32.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T03:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101862865842147565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1700935161301655552",
+              "start": 3,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101862865842147565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101704481713127864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qingshixiang258: 我最讨厌推特的一点就是，如果遭到了不顺心的事情，无论这件事你有没有做错，只要不是太离谱评论区认识的人基本上都会安慰，但是我认为，感情不应该凌驾于对错之上。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2101704481713127864",
+        "created_at": "2026-09-20T16:06:10.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T17:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101704481713127864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101704481713127864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1097,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最讨厌推特的一点就是，如果遭到了不顺心的事情，无论这件事你有没有做错，只要不是太离谱评论区认识的人基本上都会安慰，但是我认为，感情不应该凌驾于对错之上。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔经常发疯/你喜欢我我喜欢你/断糖中…\n提问箱：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 59,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 36,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2101862865842147565",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 1867,
+          "like_count": 23544,
+          "listed_count": 2,
+          "media_count": 422,
+          "tweet_count": 3639
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "is_identity_verified": false,
+        "location": "风起地",
+        "most_recent_tweet_id": "2101715720250007679",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700935161301655552/1785071301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098859467203035136/6PesI1Th_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2019,
+          "following_count": 1672,
+          "like_count": 46423,
+          "listed_count": 8,
+          "media_count": 1432,
+          "tweet_count": 22014
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

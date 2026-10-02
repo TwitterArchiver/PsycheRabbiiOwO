@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2098841701364515236",
+    "created_at": "2026-09-12T18:54:56.000Z",
+    "display_text_range": [
+      11,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T19:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098847850058912029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2092667492531605504",
+          "start": 0,
+          "username": "aginlab64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098847850058912029",
+    "in_reply_to_user_id": "2092667492531605504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098847319995404654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aginlab64 在安全的地方，暂时，等明天才能完全稳定下来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2098841701364515236",
+        "created_at": "2026-09-12T18:54:56.000Z",
+        "display_text_range": [
+          11,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T19:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098847850058912029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2092667492531605504",
+              "start": 0,
+              "username": "aginlab64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098847850058912029",
+        "in_reply_to_user_id": "2092667492531605504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098847319995404654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aginlab64 在安全的地方，暂时，等明天才能完全稳定下来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092667492531605504",
+        "conversation_id": "2098841701364515236",
+        "created_at": "2026-09-12T18:52:50.000Z",
+        "display_text_range": [
+          17,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T19:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098847319995404654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098847319995404654",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098841701364515236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 安全了吗？要不要联系下庇护的或是反扭转什么的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n提问箱：https://t.co/EvAZCy4et0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 52,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 29,
+                "url": "https://t.co/EvAZCy4et0"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2098847850058912029",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 1864,
+          "like_count": 23441,
+          "listed_count": 2,
+          "media_count": 420,
+          "tweet_count": 3564
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T17:37:45.000Z",
+        "description": "自由左｜MtX·non-binary🍥｜取向未知｜民社｜卢森堡｜粉蛆劳保右逼你们的🐎怎么死掉了｜有限接纳毛左｜LGBTQIA➕｜容貌焦虑中😭｜民国99年出厂\n暂时无证hrt｜人称代词偏向she/her\n不发表大量政治言论",
+        "id": "2092667492531605504",
+        "is_identity_verified": false,
+        "location": "康米天国",
+        "most_recent_tweet_id": "2098847319995404654",
+        "name": "兰比密西西🏳️‍⚧️☭🏳️‍🌈（寻回）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092667492531605504/1788786684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093031878249127936/gvgyEpBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 743,
+          "like_count": 4049,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "aginlab64",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

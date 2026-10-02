@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2104588498267443201",
+        "13_2104588498317803521"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2104588576147304486",
+    "created_at": "2026-09-28T15:06:32.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T16:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104588576147304486"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XIMYX8sdIn",
+          "end": 43,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2104588576147304486/video/1",
+          "media_key": "13_2104588498267443201",
+          "start": 20,
+          "url": "https://t.co/XIMYX8sdIn"
+        },
+        {
+          "display_url": "pic.x.com/XIMYX8sdIn",
+          "end": 43,
+          "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2104588576147304486/video/1",
+          "media_key": "13_2104588498317803521",
+          "start": 20,
+          "url": "https://t.co/XIMYX8sdIn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104588576147304486",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2104588498267443201"
+      },
+      {
+        "media_key": "13_2104588498317803521"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "几乎废弃的写字楼\n\n我们隔了一层脏玻璃 https://t.co/XIMYX8sdIn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22401,
+        "height": 1280,
+        "media_key": "13_2104588498267443201",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104588498267443201/img/JGhjgVQ6X8RG0WLX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104588498267443201/vid/avc1/320x568/a2nndbk1eR3k1XfD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104588498267443201/vid/avc1/480x852/uFibYBW4SZUdV5NK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104588498267443201/vid/avc1/720x1280/5bEczRAARSzxuq8i.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104588498267443201/pl/dSv37ahYmD2zjsO7.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 23935,
+        "height": 1280,
+        "media_key": "13_2104588498317803521",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104588498317803521/img/R9WC8a4mhE03LLTA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104588498317803521/vid/avc1/320x568/N8MmXjfbZKZ3l7Sf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104588498317803521/vid/avc1/480x852/cj0z5oJaz_I5LCVX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104588498317803521/vid/avc1/720x1280/c7C8eP7ONiu1G_-d.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104588498317803521/pl/zWOd5Px75z5kfMm_.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104588498267443201",
+            "13_2104588498317803521"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2104588576147304486",
+        "created_at": "2026-09-28T15:06:32.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T16:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104588576147304486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XIMYX8sdIn",
+              "end": 43,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2104588576147304486/video/1",
+              "media_key": "13_2104588498267443201",
+              "start": 20,
+              "url": "https://t.co/XIMYX8sdIn"
+            },
+            {
+              "display_url": "pic.x.com/XIMYX8sdIn",
+              "end": 43,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2104588576147304486/video/1",
+              "media_key": "13_2104588498317803521",
+              "start": 20,
+              "url": "https://t.co/XIMYX8sdIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104588576147304486",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2104588498267443201"
+          },
+          {
+            "media_key": "13_2104588498317803521"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "几乎废弃的写字楼\n\n我们隔了一层脏玻璃 https://t.co/XIMYX8sdIn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥推推空间/经常发疯/碎碎念就是疯了/你喜欢我=我喜欢你/断糖中…\n提问箱：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 61,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 38,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2104588576147304486",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 1867,
+          "like_count": 23615,
+          "listed_count": 1,
+          "media_count": 426,
+          "tweet_count": 3702
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2101620366305358060",
+    "created_at": "2026-09-20T15:45:20.000Z",
+    "display_text_range": [
+      26,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T16:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101699238191411596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955666389785866240",
+          "start": 0,
+          "username": "L3L34614"
+        },
+        {
+          "end": 25,
+          "id": "2079399533856079872",
+          "start": 10,
+          "username": "princess_01011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101699238191411596",
+    "in_reply_to_user_id": "1955666389785866240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101695908220137876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L3L34614 @princess_01011 现在感觉鸵鸟也挺好，学文大部分也是找个办公室文员或者直接全职考公考编，考进去了也是基层办事员过一辈子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2101620366305358060",
+        "created_at": "2026-09-20T15:45:20.000Z",
+        "display_text_range": [
+          26,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T16:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101699238191411596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955666389785866240",
+              "start": 0,
+              "username": "L3L34614"
+            },
+            {
+              "end": 25,
+              "id": "2079399533856079872",
+              "start": 10,
+              "username": "princess_01011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101699238191411596",
+        "in_reply_to_user_id": "1955666389785866240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101695908220137876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L3L34614 @princess_01011 现在感觉鸵鸟也挺好，学文大部分也是找个办公室文员或者直接全职考公考编，考进去了也是基层办事员过一辈子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955666389785866240",
+        "conversation_id": "2101620366305358060",
+        "created_at": "2026-09-20T15:32:06.000Z",
+        "display_text_range": [
+          33,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T16:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101695908220137876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            },
+            {
+              "end": 32,
+              "id": "2079399533856079872",
+              "start": 17,
+              "username": "princess_01011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101695908220137876",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101695509291503915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO @princess_01011 那不纯鸵鸟，不面对不代表不存在啊，而且学文一旦涉及到往上爬，歧视比理工科还要重，理工科起码还给你个用客观能力让别人闭上那个逼嘴的机会"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔经常发疯/你喜欢我我喜欢你/断糖中…\n提问箱：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 59,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 36,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2101699238191411596",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 1868,
+          "like_count": 23544,
+          "listed_count": 2,
+          "media_count": 422,
+          "tweet_count": 3635
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-13T16:23:36.000Z",
+        "description": "",
+        "id": "1955666389785866240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101695908220137876",
+        "name": "L3WIS",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955666735874629633/Z7oOHq47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 254,
+          "like_count": 43809,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 4252
+        },
+        "url": "",
+        "username": "L3L34614",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-21T03:03:57.000Z",
+        "description": "她/她们/囡囡   🏳️‍🌈女同 友跨顺女  希望可以捂热你…",
+        "id": "2079399533856079872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101684064784957747",
+        "name": "公主病",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079876512510304256/HnQnVay-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 428,
+          "like_count": 4225,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 367
+        },
+        "url": "",
+        "username": "princess_01011",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

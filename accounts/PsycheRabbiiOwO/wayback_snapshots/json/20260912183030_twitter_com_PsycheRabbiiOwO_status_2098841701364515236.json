@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2098841701364515236",
+    "created_at": "2026-09-12T18:30:30.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T19:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098841701364515236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/psycherabbiiow…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/psycherabbiiowo/status/2098778801966833989",
+          "start": 31,
+          "url": "https://t.co/PHtnZeA6ep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098841701364515236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098778801966833989",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "事情是这样的：\n\n我爸妈打算送我去矫正学校\n我逃到别的城市了 https://t.co/PHtnZeA6ep"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2098841701364515236",
+        "created_at": "2026-09-12T18:30:30.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T19:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098841701364515236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/psycherabbiiowo/status/2098778801966833989",
+              "start": 31,
+              "url": "https://t.co/PHtnZeA6ep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098841701364515236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098778801966833989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事情是这样的：\n\n我爸妈打算送我去矫正学校\n我逃到别的城市了 https://t.co/PHtnZeA6ep"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2098778801966833989",
+        "created_at": "2026-09-12T14:20:34.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098778801966833989"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098778801966833989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "缓过来了。。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n提问箱：https://t.co/EvAZCy4et0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 52,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 29,
+                "url": "https://t.co/EvAZCy4et0"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2098841701364515236",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 1864,
+          "like_count": 23440,
+          "listed_count": 2,
+          "media_count": 420,
+          "tweet_count": 3557
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

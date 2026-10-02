@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2102675101158416416",
+    "created_at": "2026-09-23T08:23:04.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T09:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102675101158416416"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiafeimao3591/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/jiafeimao3591/status/2102623649425670328",
+          "start": 14,
+          "url": "https://t.co/damnvpZVEy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102675101158416416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102623649425670328",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我打算去雌二醇星球找点工作 https://t.co/damnvpZVEy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2102675101158416416",
+        "created_at": "2026-09-23T08:23:04.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T09:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102675101158416416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiafeimao3591/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/jiafeimao3591/status/2102623649425670328",
+              "start": 14,
+              "url": "https://t.co/damnvpZVEy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102675101158416416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102623649425670328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我打算去雌二醇星球找点工作 https://t.co/damnvpZVEy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236685274907906049",
+        "conversation_id": "2102623649425670328",
+        "created_at": "2026-09-23T04:58:37.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T05:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102623649425670328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102623649425670328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实我感觉，对于国内的没什么技能的小药娘来说，出来找工作上班并不是一个好的选择。应该优先选择啃老（家里支持且条件允许的话），啃对象（有对象的话），干自由职业个体户（网上接点乱七八糟的单或者做点灰色小生意之类的），干色情服务业（自身条件允许的话）。这些长期来看肯定都比上班打工要好。别听谁谁谁告诉你要自力更生做个正常人之类的，你在国内上班打工只会精神状态恶化的更快死的更早。在国外另当别论"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 689,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "其实我感觉，对于国内的没什么技能的小药娘来说，出来找工作上班并不是一个好的选择。应该优先选择啃老（家里支持且条件允许的话），啃对象（有对象的话），干自由职业个体户（网上接点乱七八糟的单或者做点灰色小生意之类的），干色情服务业（自身条件允许的话）。这些长期来看肯定都比上班打工要好。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/经常发疯/你喜欢我我喜欢你/断糖中…\n提问箱：https://t.co/EvAZCy4et0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 57,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 34,
+                "url": "https://t.co/EvAZCy4et0"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2102675101158416416",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 1870,
+          "like_count": 23575,
+          "listed_count": 2,
+          "media_count": 425,
+          "tweet_count": 3676
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-08T16:09:47.000Z",
+        "description": "🏳️‍🌈mtf/药娘/跨性别女🏳️‍⚧️/transles/只喜欢同类，男性勿扰/同类可面基/无证hrt中/荷兰生活6年，现居长春/曾经的化竞党/吉林省省一/JLU化学本科/语言爱好者/法语学习ing/旅游，音乐/已打卡30+国家/声乐学习3年+/美剧爱好者/精神状态不稳定，疯批一个",
+        "id": "1236685274907906049",
+        "is_identity_verified": false,
+        "location": "The Netherlands",
+        "most_recent_tweet_id": "2102668793184956859",
+        "name": "🏳️‍⚧️坏猪宝宝🐷🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236685274907906049/1787525732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091658982029160448/38I_e0Vq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 734,
+          "like_count": 2717,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 3270
+        },
+        "url": "",
+        "username": "jiafeimao3591",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

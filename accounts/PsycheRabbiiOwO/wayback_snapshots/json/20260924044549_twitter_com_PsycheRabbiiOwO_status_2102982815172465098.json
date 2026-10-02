@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2102910536044462433",
+    "created_at": "2026-09-24T04:45:49.000Z",
+    "display_text_range": [
+      12,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T05:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102982815172465098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851254945984741376",
+          "start": 0,
+          "username": "LastExeX01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102982815172465098",
+    "in_reply_to_user_id": "1851254945984741376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102910536044462433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LastExeX01 跟农比比起来，ccp真是先锋队"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2102910536044462433",
+        "created_at": "2026-09-24T04:45:49.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T05:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102982815172465098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851254945984741376",
+              "start": 0,
+              "username": "LastExeX01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102982815172465098",
+        "in_reply_to_user_id": "1851254945984741376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102910536044462433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastExeX01 跟农比比起来，ccp真是先锋队"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851254945984741376",
+        "conversation_id": "2102910536044462433",
+        "created_at": "2026-09-23T23:58:36.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T00:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102910536044462433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/princess_01011…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/princess_01011/status/2102785207313314233",
+              "start": 140,
+              "url": "https://t.co/lpu121wcWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102910536044462433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1565,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102785207313314233",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国有苏联那种廉价、优质且已经普及的公立学校和托儿所、公共食堂乃至养老服务体系吗？没有。\n但是中国有一些苏联没有的东西：宗族、香火教、各种和性绑定的潜规则、旧婚姻制度……文革时期尚且能压制，改开后那可真是遍地开花。\n小保拿文革和苏联来吹反女权狗哨，疑似是欠外科手术和铜头皮带了。 https://t.co/lpu121wcWp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥推推空间/经常发疯/碎碎念就是疯了/你喜欢我=我喜欢你/断糖中…\n提问箱：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 61,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 38,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2102982815172465098",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 1873,
+          "like_count": 23599,
+          "listed_count": 2,
+          "media_count": 426,
+          "tweet_count": 3691
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T13:29:13.000Z",
+        "description": "│🏳️‍🌈🏳️‍⚧️MtX│🇺🇳🇪🇺🇨🇳🇹🇼🇺🇦🇵🇸🇲🇽🇰🇷🇰🇿│穆斯塔法凯末尔帕夏万岁万万岁│",
+        "id": "1851254945984741376",
+        "is_identity_verified": false,
+        "location": "在伊兹密尔的山岗上",
+        "most_recent_tweet_id": "2102971814104482073",
+        "name": "我早就不是建制派了",
+        "pinned_tweet_id": "2097887526480646492",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851254945984741376/1780829822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063881024455741440/McWFMVcw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 525,
+          "like_count": 24401,
+          "listed_count": 6,
+          "media_count": 1202,
+          "tweet_count": 10482
+        },
+        "url": "",
+        "username": "LastExeX01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

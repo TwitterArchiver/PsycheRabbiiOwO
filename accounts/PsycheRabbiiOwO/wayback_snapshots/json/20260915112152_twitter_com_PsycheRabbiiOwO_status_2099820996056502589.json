@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2099820996056502589",
+    "created_at": "2026-09-15T11:21:52.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T12:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099820996056502589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2078361904922411008",
+          "start": 3,
+          "username": "Lucempeto0713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099820996056502589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099808794498957420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lucempeto0713: 其实我个人不喜欢pass这个表述，在社会化程度这个话题上。\n\n因为，这个有提过的，我用了快二十年的时间去寻求与“存在即合理”的主流规则相互容纳，结果呢？\n\n我做得再“像”，主流规则仍然有一套坚不可摧的评判体系，找到我不一样的地方把我往外踢。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2099820996056502589",
+        "created_at": "2026-09-15T11:21:52.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099820996056502589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2078361904922411008",
+              "start": 3,
+              "username": "Lucempeto0713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099820996056502589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099808794498957420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lucempeto0713: 其实我个人不喜欢pass这个表述，在社会化程度这个话题上。\n\n因为，这个有提过的，我用了快二十年的时间去寻求与“存在即合理”的主流规则相互容纳，结果呢？\n\n我做得再“像”，主流规则仍然有一套坚不可摧的评判体系，找到我不一样的地方把我往外踢。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078361904922411008",
+        "conversation_id": "2099808794498957420",
+        "created_at": "2026-09-15T10:33:23.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099808794498957420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099808794498957420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实我个人不喜欢pass这个表述，在社会化程度这个话题上。\n\n因为，这个有提过的，我用了快二十年的时间去寻求与“存在即合理”的主流规则相互容纳，结果呢？\n\n我做得再“像”，主流规则仍然有一套坚不可摧的评判体系，找到我不一样的地方把我往外踢。\n\n所以在跨性别问题上同理。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n提问箱：https://t.co/EvAZCy4et0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 52,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 29,
+                "url": "https://t.co/EvAZCy4et0"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2099820996056502589",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 1860,
+          "like_count": 23449,
+          "listed_count": 2,
+          "media_count": 419,
+          "tweet_count": 3578
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T06:14:13.000Z",
+        "description": "橘 Juliana/Lucia/Adarsaprabha镜辉\n💗🩶🤍🩵Trans-demigirl  \nea/she Tomboy but P😜\n历史/语言/人文 古罗马史学者养成中",
+        "id": "2078361904922411008",
+        "is_identity_verified": false,
+        "location": "希望有天在日耳曼黑森林醒来",
+        "most_recent_tweet_id": "2099813895649259754",
+        "name": "L. JC. Juliana🍊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078361904922411008/1784362965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093574289694117888/Hia4XtYd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 143,
+          "like_count": 887,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 1355
+        },
+        "url": "",
+        "username": "Lucempeto0713",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

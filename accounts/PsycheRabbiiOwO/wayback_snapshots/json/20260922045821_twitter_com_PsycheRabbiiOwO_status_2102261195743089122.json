@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2102065593944097108",
+    "created_at": "2026-09-22T04:58:21.000Z",
+    "display_text_range": [
+      14,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T05:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102261195743089122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1628734437998608386",
+          "start": 0,
+          "username": "launchpad001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102261195743089122",
+    "in_reply_to_user_id": "1628734437998608386",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102225688858358076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@launchpad001 ⌯&gt;ᴗo⌯ .ᐟ.ᐟ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2102065593944097108",
+        "created_at": "2026-09-22T04:58:21.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T05:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102261195743089122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1628734437998608386",
+              "start": 0,
+              "username": "launchpad001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102261195743089122",
+        "in_reply_to_user_id": "1628734437998608386",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102225688858358076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@launchpad001 ⌯&gt;ᴗo⌯ .ᐟ.ᐟ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628734437998608386",
+        "conversation_id": "2102065593944097108",
+        "created_at": "2026-09-22T02:37:16.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T03:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102225688858358076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102225688858358076",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102065593944097108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 生日快乐喵！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔经常发疯/你喜欢我我喜欢你/断糖中…\n提问箱：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 59,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 36,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2102261195743089122",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 1868,
+          "like_count": 23568,
+          "listed_count": 2,
+          "media_count": 423,
+          "tweet_count": 3662
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-23T12:32:12.000Z",
+        "description": "全栈开发 | BGP Player | she/her | 欢迎互 fo 喵 | @candyrect",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "candyrect"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "launchpadx.top",
+                "end": 23,
+                "expanded_url": "https://launchpadx.top",
+                "start": 0,
+                "url": "https://t.co/HJpn4ZVxIG"
+              }
+            ]
+          }
+        },
+        "id": "1628734437998608386",
+        "is_identity_verified": true,
+        "location": "Shanghai, China",
+        "most_recent_tweet_id": "2102225688858358076",
+        "name": "启动台LaunchPad",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628734437998608386/1785397357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018496241861361664/-l33uApi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 1602,
+          "like_count": 13896,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/HJpn4ZVxIG",
+        "username": "launchpad001",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

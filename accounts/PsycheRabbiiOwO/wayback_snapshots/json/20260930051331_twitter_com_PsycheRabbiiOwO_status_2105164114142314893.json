@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2104986424235938073",
+    "created_at": "2026-09-30T05:13:31.000Z",
+    "display_text_range": [
+      32,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T06:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105164114142314893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2018605332692451328",
+          "start": 0,
+          "username": "hongsexiguamao"
+        },
+        {
+          "end": 31,
+          "id": "1940706558599708673",
+          "start": 16,
+          "username": "plzhauntmedie0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105164114142314893",
+    "in_reply_to_user_id": "2018605332692451328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105133747699904919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongsexiguamao @plzhauntmedie0 借下警务通"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2104986424235938073",
+        "created_at": "2026-09-30T05:13:31.000Z",
+        "display_text_range": [
+          32,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T06:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105164114142314893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2018605332692451328",
+              "start": 0,
+              "username": "hongsexiguamao"
+            },
+            {
+              "end": 31,
+              "id": "1940706558599708673",
+              "start": 16,
+              "username": "plzhauntmedie0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105164114142314893",
+        "in_reply_to_user_id": "2018605332692451328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105133747699904919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongsexiguamao @plzhauntmedie0 借下警务通"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018605332692451328",
+        "conversation_id": "2104986424235938073",
+        "created_at": "2026-09-30T03:12:51.000Z",
+        "display_text_range": [
+          16,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T04:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105133747699904919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1940706558599708673",
+              "start": 0,
+              "username": "plzhauntmedie0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105133747699904919",
+        "in_reply_to_user_id": "1940706558599708673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 502,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104986424235938073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plzhauntmedie0 谁懂我爸是警察的爽感🤡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥推推空间/经常发疯/碎碎念就是疯了/你喜欢我=我喜欢你/断糖中…\n提问箱：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 61,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 38,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2105164114142314893",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 1867,
+          "like_count": 23616,
+          "listed_count": 1,
+          "media_count": 427,
+          "tweet_count": 3711
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-03T08:40:05.000Z",
+        "description": "",
+        "id": "2018605332692451328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105138731283873996",
+        "name": "女巫酱料",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018605332692451328/1770257764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058075302673420288/cpxtmhY4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 31,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "hongsexiguamao",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-03T09:38:04.000Z",
+        "description": "20歲 165cm 41kg｜繁中/簡中｜台灣獨立｜OD ED 性癮｜重症精神病｜臨床醫學在讀｜有對象性壓抑勿擾\n\n歡迎病友找我互fo呀",
+        "id": "1940706558599708673",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105162128051388530",
+        "name": "网警",
+        "pinned_tweet_id": "1940707977415348521",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1940706558599708673/1751536967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102795025008721920/Wx--34J8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 112,
+          "like_count": 668,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 282
+        },
+        "url": "",
+        "username": "plzhauntmedie0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2099897079078543782",
+    "created_at": "2026-09-15T16:24:12.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T17:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099897079078543782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2008740712121335808",
+          "start": 3,
+          "username": "jutingstar9999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099897079078543782",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9292
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099532395548647533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jutingstar9999: 일본 정신과 의사 왈 뇌에 가장 큰 피해를 주는 습관은\n.\n과거의 후회+일어나지 않은 미래에 대한 불안 되새김질\n이건 자해행위라고 함\n.\n속편하게 다 잊고 살라네 마치 바보처럼\n근데 그게 최고래 https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 758,
+        "media_key": "3_2099532293430030336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSMJf0BbsAACV7v.jpg",
+        "width": 900
+      },
+      {
+        "height": 747,
+        "media_key": "3_2099532293396422656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSMJfz5a4AAcy3R.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2099897079078543782",
+        "created_at": "2026-09-15T16:24:12.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099897079078543782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2008740712121335808",
+              "start": 3,
+              "username": "jutingstar9999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099897079078543782",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9292
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099532395548647533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jutingstar9999: 일본 정신과 의사 왈 뇌에 가장 큰 피해를 주는 습관은\n.\n과거의 후회+일어나지 않은 미래에 대한 불안 되새김질\n이건 자해행위라고 함\n.\n속편하게 다 잊고 살라네 마치 바보처럼\n근데 그게 최고래 https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099532293430030336",
+            "3_2099532293396422656"
+          ]
+        },
+        "author_id": "2008740712121335808",
+        "conversation_id": "2099532395548647533",
+        "created_at": "2026-09-14T16:15:05.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T17:14:42.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099532299910131816",
+          "2099532395548647533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wFtkpgXzMD",
+              "end": 132,
+              "expanded_url": "https://x.com/jutingstar9999/status/2099532395548647533/photo/1",
+              "media_key": "3_2099532293430030336",
+              "start": 109,
+              "url": "https://t.co/wFtkpgXzMD"
+            },
+            {
+              "display_url": "pic.x.com/wFtkpgXzMD",
+              "end": 132,
+              "expanded_url": "https://x.com/jutingstar9999/status/2099532395548647533/photo/1",
+              "media_key": "3_2099532293396422656",
+              "start": 109,
+              "url": "https://t.co/wFtkpgXzMD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099532395548647533",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2099532293430030336"
+          },
+          {
+            "media_key": "3_2099532293396422656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "일본 정신과 의사 왈 뇌에 가장 큰 피해를 주는 습관은\n.\n과거의 후회+일어나지 않은 미래에 대한 불안 되새김질\n이건 자해행위라고 함\n.\n속편하게 다 잊고 살라네 마치 바보처럼\n근데 그게 최고래"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9281,
+          "impression_count": 1120140,
+          "like_count": 27942,
+          "quote_count": 1640,
+          "reply_count": 128,
+          "retweet_count": 9292
+        },
+        "reply_settings": "everyone",
+        "text": "일본 정신과 의사 왈 뇌에 가장 큰 피해를 주는 습관은\n.\n과거의 후회+일어나지 않은 미래에 대한 불안 되새김질\n이건 자해행위라고 함\n.\n속편하게 다 잊고 살라네 마치 바보처럼\n근데 그게 최고래 https://t.co/wFtkpgXzMD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔经常发疯/你喜欢我我喜欢你\n提问箱：https://t.co/EvAZCy4et0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 54,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 31,
+                "url": "https://t.co/EvAZCy4et0"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2099897079078543782",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 1861,
+          "like_count": 23465,
+          "listed_count": 2,
+          "media_count": 421,
+          "tweet_count": 3586
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T03:21:34.000Z",
+        "description": "EVERYTHING | 매일 굴러감\nBusiness Inquiries : DM",
+        "id": "2008740712121335808",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2099889996832571618",
+        "name": "주팅스타",
+        "pinned_tweet_id": "2099532395548647533",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008740712121335808/1788628874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090842360364290048/MY-ZFAHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5740,
+          "following_count": 2986,
+          "like_count": 98602,
+          "listed_count": 12,
+          "media_count": 1772,
+          "tweet_count": 134337
+        },
+        "url": "",
+        "username": "jutingstar9999",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

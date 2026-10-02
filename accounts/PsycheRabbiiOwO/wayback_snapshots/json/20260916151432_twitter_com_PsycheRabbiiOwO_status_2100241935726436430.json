@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100199382750752768"
+      ],
+      "media_source_tweet_id": [
+        "2100199414157689315"
+      ]
+    },
+    "author_id": "1768935696646238208",
+    "conversation_id": "2100241935726436430",
+    "created_at": "2026-09-16T15:14:32.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T16:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100241935726436430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1596190117273763842",
+          "start": 3,
+          "username": "Chongchong31029"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cJXfIuaDeb",
+          "end": 46,
+          "expanded_url": "https://x.com/Chongchong31029/status/2100199414157689315/video/1",
+          "media_key": "13_2100199382750752768",
+          "start": 23,
+          "url": "https://t.co/cJXfIuaDeb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100241935726436430",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "13_2100199382750752768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100199414157689315",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chongchong31029: 🤔 https://t.co/cJXfIuaDeb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5410,
+        "height": 1280,
+        "media_key": "13_2100199382750752768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100199382750752768/img/rC1SJFbyZD18O05k.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100199382750752768/vid/avc1/320x568/xb9sgB2d2Dn-rFXq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100199382750752768/vid/avc1/480x852/mNrjBsHQY1OJvin3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100199382750752768/vid/avc1/720x1280/zAktNQXuwLzXnXRf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100199382750752768/pl/-_6-HUBLNvYGGR_m.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100199382750752768"
+          ],
+          "media_source_tweet_id": [
+            "2100199414157689315"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2100241935726436430",
+        "created_at": "2026-09-16T15:14:32.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100241935726436430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1596190117273763842",
+              "start": 3,
+              "username": "Chongchong31029"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJXfIuaDeb",
+              "end": 46,
+              "expanded_url": "https://x.com/Chongchong31029/status/2100199414157689315/video/1",
+              "media_key": "13_2100199382750752768",
+              "start": 23,
+              "url": "https://t.co/cJXfIuaDeb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100241935726436430",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2100199382750752768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100199414157689315",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chongchong31029: 🤔 https://t.co/cJXfIuaDeb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100199382750752768"
+          ]
+        },
+        "author_id": "1596190117273763842",
+        "conversation_id": "2100199414157689315",
+        "created_at": "2026-09-16T12:25:34.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T13:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100199414157689315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJXfIuaDeb",
+              "end": 25,
+              "expanded_url": "https://x.com/Chongchong31029/status/2100199414157689315/video/1",
+              "media_key": "13_2100199382750752768",
+              "start": 2,
+              "url": "https://t.co/cJXfIuaDeb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100199414157689315",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2100199382750752768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🤔 https://t.co/cJXfIuaDeb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔经常发疯/你喜欢我我喜欢你/\n提问箱：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 55,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 32,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2100241935726436430",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 1856,
+          "like_count": 23487,
+          "listed_count": 2,
+          "media_count": 421,
+          "tweet_count": 3595
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-25T17:12:43.000Z",
+        "description": "160 50kg 无证含糖2025.11 hrt 不鉴证，重度焦虑症依赖，泪失禁，对不起...正在努力改变负能量，可以尽情骚扰我，同类互fo，下面是匿名信欢迎给我写哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chongchong31029",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chongchong31029",
+                "start": 0,
+                "url": "https://t.co/LO85kwergb"
+              }
+            ]
+          }
+        },
+        "id": "1596190117273763842",
+        "is_identity_verified": false,
+        "location": "叶叶身边",
+        "most_recent_tweet_id": "2100199414157689315",
+        "name": "花汀酒🍥",
+        "pinned_tweet_id": "2025439889060495656",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596190117273763842/1778080613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050904595006889984/JDRrTnpO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 387,
+          "like_count": 1479,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 375
+        },
+        "url": "https://t.co/LO85kwergb",
+        "username": "Chongchong31029",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

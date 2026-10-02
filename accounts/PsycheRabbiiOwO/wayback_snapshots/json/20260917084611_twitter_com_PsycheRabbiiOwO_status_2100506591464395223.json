@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768935696646238208",
+    "conversation_id": "2100499466923196634",
+    "created_at": "2026-09-17T08:46:11.000Z",
+    "display_text_range": [
+      15,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T09:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100506591464395223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759598042704207872",
+          "start": 0,
+          "username": "Oyama_Tsuimei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100506591464395223",
+    "in_reply_to_user_id": "1759598042704207872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100499466923196634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Oyama_Tsuimei 也许是没招了，整活总比整死了强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2100499466923196634",
+        "created_at": "2026-09-17T08:46:11.000Z",
+        "display_text_range": [
+          15,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T09:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100506591464395223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759598042704207872",
+              "start": 0,
+              "username": "Oyama_Tsuimei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100506591464395223",
+        "in_reply_to_user_id": "1759598042704207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100499466923196634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Oyama_Tsuimei 也许是没招了，整活总比整死了强"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759598042704207872",
+        "conversation_id": "2100499466923196634",
+        "created_at": "2026-09-17T08:17:52.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T09:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100499466923196634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/bghtnya/status/2100495285306925473",
+              "start": 144,
+              "url": "https://t.co/Il22KjDQ6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100499466923196634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100495285306925473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我说这个n55家里真是恶搞之家有懂的吗\n无奖竞猜一下\n（多选题）作为家长，你会防止你的孩子……\nA：od\nB：mygo\nC：闯进以前的学校耍起\nD：滥交\nE：在ABCD作为任务清单被完成之后禁止结算界面分享\n\n哦对了，别说什么她妈已经努力防止n55整活了\n防止不完全等于完全不防止啊我看 https://t.co/Il22KjDQ6Z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔经常发疯/你喜欢我我喜欢你/\n提问箱：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 55,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 32,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "is_identity_verified": false,
+        "location": "People's Dictatorship of China",
+        "most_recent_tweet_id": "2100506591464395223",
+        "name": "🤯凌月月🤯🙂🙂🙂",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768935696646238208/1771968133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 1857,
+          "like_count": 23501,
+          "listed_count": 2,
+          "media_count": 422,
+          "tweet_count": 3603
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-19T15:17:38.000Z",
+        "description": "我是坠明｜挚友：@ceptyphe｜没有牺牲大到不能接受，没有背叛小到可以忍受｜成分复杂，交友随意，回关看成分，欢迎私信互动",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "ceptyphe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsu1me1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsu1me1",
+                "start": 0,
+                "url": "https://t.co/AghfCSrk4K"
+              }
+            ]
+          }
+        },
+        "id": "1759598042704207872",
+        "is_identity_verified": false,
+        "location": "距你头顶514米的热熔跳帮舱中",
+        "most_recent_tweet_id": "2100503773273805180",
+        "name": "Tsu1me1,the Leviathan",
+        "pinned_tweet_id": "2037089987309818231",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759598042704207872/1782399268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096159110349873152/AMK7Tfxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 1059,
+          "like_count": 1327,
+          "listed_count": 3,
+          "media_count": 475,
+          "tweet_count": 5166
+        },
+        "url": "https://t.co/AghfCSrk4K",
+        "username": "Oyama_Tsuimei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
